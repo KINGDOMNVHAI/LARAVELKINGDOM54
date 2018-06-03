@@ -56,7 +56,7 @@ class DetailpostTableSeeder extends Seeder
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 1,
             'updatePost'         => 0,
         ]);
@@ -103,7 +103,7 @@ class DetailpostTableSeeder extends Seeder
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -143,7 +143,7 @@ class DetailpostTableSeeder extends Seeder
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -199,7 +199,7 @@ class DetailpostTableSeeder extends Seeder
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -261,7 +261,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/w2pajFKN4jo" frameborder="0" allowfullscreen></iframe></center>
 
-<p>Baka to Test to Shoukanjuu là một bộ phim học đường rất hay, xứng đáng để cho các bạn đón xem. Một thông tin khác là trên trang animenewsnetwork vào ngày 1/7/2015, <a href=" http://www.animenewsnetwork.com/interest/2015-06-30/popular-light-novel-list-speculates-which-could-get-anime-next/.89833">Baka to Test có thể là light novel sẽ được chuyển thể thành anime trong thời gian tới </a>. Chúng ta có thể hy vọng vào phần 3 của bộ phim sẽ được ra mắt. Còn bây giờ, hãy cùng tham gia những buổi học của những tên ngốc và làm bài kiểm tra nào!</p>
+<p>Baka to Test to Shoukanjuu là một bộ phim học đường rất hay, xứng đáng để cho các bạn đón xem. Một thông tin khác là trên trang Anime News Network vào ngày 1/7/2015, <a href=" http://www.animenewsnetwork.com/interest/2015-06-30/popular-light-novel-list-speculates-which-could-get-anime-next/.89833">Baka to Test có thể là light novel sẽ được chuyển thể thành anime trong thời gian tới </a>. Chúng ta có thể hy vọng vào phần 3 của bộ phim sẽ được ra mắt. Còn bây giờ, hãy cùng tham gia những buổi học của những tên ngốc và làm bài kiểm tra nào!</p>
 
 <hr>
 
@@ -276,7 +276,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -325,7 +325,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -382,7 +382,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -422,7 +422,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -479,7 +479,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -514,7 +514,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -539,7 +539,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -585,7 +585,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <p>Thời buổi này, thật dễ dàng khi tìm hiểu thị trường và sở thích của độc giả light novel để thử và chuyển thể thành anime mới. Nhưng điều gì cũng có thể xảy ra sau khi ra mắt anime. Ít nhất, những con số bình chọn có thể trở thành một chỉ số tuyệt vời để quyết định cuốn light novel được chuyển thể.</p>
 
-<p>Nguồn: <a href="http://www.animenewsnetwork.com/interest/2015-06-30/popular-light-novel-list-speculates-which-could-get-anime-next/.89833"> animenewsnetwork</a></p>',
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/interest/2015-06-30/popular-light-novel-list-speculates-which-could-get-anime-next/.89833"> Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-10',
             'imgDetailPost'      => 'Baka-To-Test-To-Shoukanjuu-thumbnail.jpg',
@@ -593,7 +593,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -624,7 +624,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <p>Hy vọng Infinite Stratos 2: Love and Purge sẽ kéo doanh thu của hãng đi lên, giúp cho phiên bản anime của series này sớm được ra mắt sau một thời gian dài vắng bóng.</p>
 
-<p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-08/infinite-stratos-2-love-and-purge-game-promo-features-cecilia/.90205">animenewsnetwork</a></p>',
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-08/infinite-stratos-2-love-and-purge-game-promo-features-cecilia/.90205">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-11',
             'imgDetailPost'      => 'Infinite-Stratos-2-Love-and-Purge-thumbnail.jpg',
@@ -632,7 +632,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -655,7 +655,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <p>Dự đoán trong tương lai sắp tới, có thể Kadokawa sẽ cho ra mắt phiên bản anime của series này trong tương lai. Dự đoán này dựa vào việc Kadokawa đầu tư một trang web riêng cho series này thì nhiều khả năng, series này sẽ có anime. Hy vọng rằng Re: Zero Kara Hajimeru Isekai Seikatsu sẽ có được nhiều fan hâm mộ</p>
 
-<p>Nguồn: <a href="http://www.animenewsnetwork.com/daily-briefs/2015-07-13/kadokawa-registers-re-zero-anime.jp-domain-name/.90391">animenewsnetwork</a></p>',
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/daily-briefs/2015-07-13/kadokawa-registers-re-zero-anime.jp-domain-name/.90391">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-12',
             'imgDetailPost'      => 'Re-Zero-Kara-Hajimeru-Isekai-Seikatsu-thumbnail.jpg',
@@ -663,7 +663,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -701,7 +701,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <p>Yugioh là series anime, manga nổi tiếng đã được ra mắt cách đây 20 năm. Series đã từng có the movie Yugioh! Beyond Time kỷ niệm 10 năm ra mắt Yugioh!. Hãng 4K Media vừa tung trailer phiên bản tiếng Anh vào ngày 18/7/2015.</p>
 
-<p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-17/yu-gi-oh-the-dark-side-of-dimensions-film-teaser-video-previews-kaiba-vs-yugi-duel/.90607">animenewsnetwork</a>, nội dung bình luận của <a href="https://ravegrl.wordpress.com/2015/07/11/sdcc-2015-new-movie-yugioh-the-dark-side-of-dimensions-coming-in-2016/">tác giả Kazuki Takahashi.</a></p>',
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-17/yu-gi-oh-the-dark-side-of-dimensions-film-teaser-video-previews-kaiba-vs-yugi-duel/.90607">Anime News Network</a>, nội dung bình luận của <a href="https://ravegrl.wordpress.com/2015/07/11/sdcc-2015-new-movie-yugioh-the-dark-side-of-dimensions-coming-in-2016/">tác giả Kazuki Takahashi.</a></p>',
 
             'dateDetailPost'     => '2015-07-13',
             'imgDetailPost'      => 'yu-gi-oh-2016-tung-trailer-the-movie-thumbnail.jpg',
@@ -709,7 +709,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -744,7 +744,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -761,7 +761,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -778,7 +778,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -821,7 +821,7 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -879,7 +879,7 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -938,7 +938,7 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1003,7 +1003,7 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1047,7 +1047,7 @@ Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1103,7 +1103,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1147,7 +1147,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1183,7 +1183,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1200,7 +1200,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1232,7 +1232,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/3V7AQVg3Gt0" frameborder="0" allowfullscreen></iframe>
 <p>Trailer cách đây 1 năm của game.</p></center>
 
-<p>Nguồn: <a href="http://www.animenewsnetwork.com/daily-briefs/2015-07-18/nitroplus-blasters-heroines-infinite-duel-game-ships-for-ps3-ps4-on-december-10/.90555">animenewsnetwork.</a></p>',
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/daily-briefs/2015-07-18/nitroplus-blasters-heroines-infinite-duel-game-ships-for-ps3-ps4-on-december-10/.90555">Anime News Network.</a></p>',
 
             'dateDetailPost'     => '2015-07-26',
             'imgDetailPost'      => '',
@@ -1240,7 +1240,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1262,7 +1262,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             
             <p>Bộ phim nhượng quyền thương mại trước đó là Doraemon: Nobita no Space Heroes (Doraemon: Nobita và những hiệp sĩ không gian 2015) đã ra mắt vào ngày 7/3/2015 tại Nhật Bản và ngày 26/6/2015 tại Việt Nam. Bộ phim 3D nhượng quyền thương mại đầu tiên là bộ phim Stand By Me Doraemon đã ra mắt tại Nhật Bản vào tháng 8/2014 trước khi ra mắt tại 21 quốc gia.</p>
             
-            <p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-26/36th-doraemon-the-movie-nobita-and-the-birth-of-japan-2016-film-1st-trailer-previews-story/.90890">animenewsnetwork</a></p>',
+            <p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-26/36th-doraemon-the-movie-nobita-and-the-birth-of-japan-2016-film-1st-trailer-previews-story/.90890">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-27',
             'imgDetailPost'      => '',
@@ -1270,7 +1270,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1295,7 +1295,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1319,7 +1319,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1351,7 +1351,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1370,7 +1370,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
 <p>Những người đăng nhập vào trò chơi vào ngày 23/8 sẽ nhận Yui miễn phí.</p></center>
 
-<p>Nguồn: <a href="http://www.animenewsnetwork.com/interest/2014-08-08/mabinogi-mmorpg-brings-sword-art-online-event-to-n-america/.77421?utm_source=crowdignite.com&utm_medium=referral&utm_campaign=crowdignite.com">animenewsnetwork</a></p> ',
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/interest/2014-08-08/mabinogi-mmorpg-brings-sword-art-online-event-to-n-america/.77421?utm_source=crowdignite.com&utm_medium=referral&utm_campaign=crowdignite.com">Anime News Network</a></p> ',
 
             'dateDetailPost'     => '2015-08-01',
             'imgDetailPost'      => 'Mabinogi-mang-su-kien-Sword-Art-Online-cho-Bac-My-thumbnail.jpg',
@@ -1378,7 +1378,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1397,7 +1397,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1526,7 +1526,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1566,7 +1566,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1624,7 +1624,7 @@ các viên bi nằm gần các mũi tên cùng màu</p>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1688,7 +1688,7 @@ Thể loại: Hành động bí mật<br>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1749,7 +1749,7 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1925,7 +1925,7 @@ không cần làm việc gì khác nữa.</p></center>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -1984,7 +1984,7 @@ không cần làm việc gì khác nữa.</p></center>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2018,7 +2018,7 @@ không cần làm việc gì khác nữa.</p></center>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2061,7 +2061,7 @@ không cần làm việc gì khác nữa.</p></center>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2147,7 +2147,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2203,7 +2203,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2243,7 +2243,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2282,7 +2282,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2332,7 +2332,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2397,7 +2397,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2471,7 +2471,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2509,7 +2509,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2587,7 +2587,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 1,
             'updatePost'         => 0,
         ]);
@@ -2642,7 +2642,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2659,7 +2659,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2703,7 +2703,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2736,7 +2736,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2797,7 +2797,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2851,7 +2851,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -2868,7 +2868,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 1,
         ]);
@@ -2938,7 +2938,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3014,7 +3014,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3082,7 +3082,7 @@ Thông điệp của bộ phim rất sâu sắc: Nhìn thấy những người m
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3138,7 +3138,7 @@ bạn sẽ thấy cảnh này rất quen thuộc.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3197,7 +3197,7 @@ $post->create([
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3246,7 +3246,7 @@ $post->create([
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3299,7 +3299,7 @@ $post->create([
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3341,7 +3341,7 @@ $post->create([
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3390,7 +3390,7 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3412,7 +3412,7 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             
             <p>Ngày 23/7/2015, một bản beta đã được ra mắt nhưng CAPCOM đã đóng cửa với lý do máy chủ, khiến trò chơi chưa tiếp cận được với nhiều người. Ban đầu, trò chơi chỉ được phát hành qua đĩa. CAPCOM sẽ tạo hệ thống tự động cập nhật miễn phí.</p>
             
-            <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-11-16/street-fighter-v-video-previews-game-tutorial-mode/.95443">animenewsnetwork</a></p>',
+            <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-11-16/street-fighter-v-video-previews-game-tutorial-mode/.95443">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-11-17',
             'imgDetailPost'      => 'Street-Fighter-5-ra-mat-trailer-thumbnail.jpg',
@@ -3420,7 +3420,7 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3466,7 +3466,7 @@ _ Nhà đại bác: bắn những quả đại bác lớn với tốc độ ch�
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3534,7 +3534,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3578,7 +3578,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3648,7 +3648,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3691,7 +3691,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3708,7 +3708,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3912,7 +3912,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3959,7 +3959,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3976,7 +3976,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -3993,7 +3993,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4010,7 +4010,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'             => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4027,7 +4027,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'        	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4072,12 +4072,449 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'updatePost'         => 0,
         ]);
 
+		$post->create([
+            'nameDetailPost'     => 'Rokujouma no shinryakusha - Anh hùng và những kẻ xâm lược',
+            'urlDetailPost'      => 'rokujouma-no-shinryakusha-',
+            'presentDetailPost'  => 'Satomi Koutarou tưởng thuê được căn phòng 106 cực rẻ. Ai ngờ đó lại là nơi tập hợp của những kẻ xâm lược Trái Đất vì nhiều mục đích.',
+            'contentDetailPost'  => 'Một đoạn ngắn trong anime https://www.youtube.com/watch?v=c33xmwVx-Ig
+			<br>
+			https://www.youtube.com/watch?v=Z1byqYasXr0',
 
+            'dateDetailPost'     => '2016-01-23',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
+		$post->create([
+            'nameDetailPost'     => 'Taimadou Gakuen 35 Shiken Shoutai - Tiểu đội 35',
+            'urlDetailPost'      => 'taimadou-gakuen-35-shiken-shoutai-tieu-doi-35',
+            'presentDetailPost'  => 'Tiểu đội 35 đứng bét vừa nhận thêm Kusanagi Takeru chuyên xài kiếm và con gái hiệu trưởng Ootori Ouka tài năng. Cả 2 đều có điểm chung là khế ước với Relic Eater',
+            'contentDetailPost'  => '',
 
+            'dateDetailPost'     => '2016-01-25',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Absolute Duo - Cộng sự tuyệt đối',
+            'urlDetailPost'      => 'absolute-duo-cong-su-tuyet-doi',
+            'presentDetailPost'  => 'Một dạng phim khế ước khác. Kononoe Toruu tham gia học viện Kouryou, phát hiện ra vũ khí của mình là một tấm khiên và bắt cặp với cô bé Julie Sigtuna',
+            'contentDetailPost'  => '',
 
+            'dateDetailPost'     => '2016-01-29',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Avabel Online – MMORPG 3D cho di động',
+            'urlDetailPost'      => 'Avabel-Online–MMORPG-3D-cho-di-dong',
+            'presentDetailPost'  => 'Avabel Online là game MMORPG 3D dành cho di động m...',
+            'contentDetailPost'  => '<p>Đây là game thuộc thể loại MMORPG 3D đồ họa chất lượng cao xuất hiện trên thiết bị di động. Avabel Online hội tụ đầy đủ tính năng điều khiển không thua kém gì một game online trên PC như PvP , GvG ( War Guild ), Dungeon, săn boss , chế đồ… Avabel Online được xem là một game bom tấn dành cho iOS/Android. Bạn có thể tải game trên <a href="https://play.google.com/store/apps/details?id=com.asobimo.avabel_gp_b3">Google Play.</a></p>
+
+<center><img src="upload/images/game/Avabel_Online.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MiIVSS0iBkU" frameborder="0" allowfullscreen></iframe>
+
+<p>Trailer Avabel Online</p></center>
+
+<p>AVABEL Online đưa người chơi tới một tòa tháp với nhiều căn phòng khác nhau. Mỗi phòng đưa người chơi đến một thế giới riêng có boss cũng như cấp độ khác nhau. Càng lên cao, cấp độ càng khó. Như các game MMORPG khác, game cũng dẫn dắt người chơi với các chuỗi  nhiệm vụ để người chơi làm quen với game, lấy vũ khí và kinh nghiệm.</p>
+
+<center><img src="upload/images/game/Avabel_Online_1.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động"" />
+</center>
+
+<p>Avabel Online có 6 nhân vật: Warrior, Rogue, Ranger, Creator, Acolyte, Magician. Hệ thống vũ khí có thể khảm ngọc, chế tạo như mọi game MMORPG khác. Xét về mặt số lượng game thủ, Avabel cũng hoàn toàn áp đảo sản phẩm cùng loại cho dù tuổi đời của game cũng được 2 năm tuổi. Cấu hình nhẹ cũng là ưu điểm lớn của game.</p>
+
+<center><img src="upload/images/game/Avabel_Online_2.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
+</center>
+
+<p>Một tin bên lề là ngày 29/1/2016, trên trang Twitter của bộ phim Anime Date a live có nói đến việc Kadokawa hợp tác với Avabel Online để cho các nhân vật Date a live xuất hiện trong game. Trang chủ <a href="http://avabel.jp/landing/date-a-live">Avabel x Date a live</a></p>
+
+<center><img src="upload/images/game/Avabel_Online_Date_a_live.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
+
+<img src="upload/images/game/Avabel_Online_Date_a_live_1.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
+</center>
+
+<p>Nhìn chung, Avabel Online khá ấn tượng về phần đồ họa hình ảnh và âm thanh. Nếu bạn là người yêu thích thể loại game cày cuốc level, khám phá thế giới mới thì hãy nhanh tay bước vào thế giới Avabel Online.</p>',
+
+            'dateDetailPost'     => '2016-02-04',
+            'imgDetailPost'      => '',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Gate: Jieitai Kanochi nite, Kaku Tatakaeri',
+            'urlDetailPost'      => 'gate-jieitai-kanochi-nite-kaku-tatakaeri-canh-cong-den-the-gioi-khac',
+            'presentDetailPost'  => 'Thế giới tình cờ phát hiện ra một cánh cổng thông với thế giới khác tại Nhật Bản. Một cuộc xâm lược, giao lưu văn hóa giữa 2 thế giới được hình thành.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-01-29',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Hundred',
+            'urlDetailPost'      => 'Hundred',
+            'presentDetailPost'  => 'Hayato Kisarai được đào tạo tại Little Garden để trở thành một Slayer chiến đấu bảo vệ Trái Đất và có trận chiến mở màn với nữ hoàng Claire Harvey',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-02-01',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Musaigen no Phantom World - Thế giới Phantom',
+            'urlDetailPost'      => 'musaigen-no-phantom-world-the-gioi-phantom',
+            'presentDetailPost'  => 'Haruhiko cùng nhóm bạn (harem) chiến đấu chống Phantom hình thành từ não bộ con người.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-02-05',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Tawawa on Monday - Thứ 2 nặng nề',
+            'urlDetailPost'      => 'Tawawa-on-monday-thu-2-nang-ne',
+            'presentDetailPost'  => 'Tawawa on Monday nói về cô gái ngực siêu khủng và chàng trai không rõ tên. Họ gặp nhau mỗi sáng thứ 2, kèm theo nhiều chuyện hài hước.',
+            'contentDetailPost'  => 'Tên gọi khác là getsuyoubi-no-tawawa',
+
+            'dateDetailPost'     => '2016-02-09',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!',
+            'urlDetailPost'      => 'Trailer-game-RPG-Kono-Subarashii-Sekai-ni-Shukufuku-wo',
+            'presentDetailPost'  => 'Game RPG dựa trên Light Novel cùng tên đã được Kadokawa giới thiệu.',
+            'contentDetailPost'  => '<p>Kadokawa đã ra mắt trailer game RPG dựa theo bộ phim Kono Subarashii Sekai ni Shukufuku wo! hiện đang được trình chiếu. Game sẽ ra mắt vào ngày 25/3/2016.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Or8maZAZ_k8" frameborder="0" allowfullscreen></iframe>
+
+<p>Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!</p></center>
+
+<p>Kono Subarashii Sekai ni Shukufuku wo! là Light Novel của tác giả Akatsuki Natsume và minh họa bởi Mishima Kurone. Nội dung nói về anh chàng Satou Kazuma sau khi chết vì lý do hết sức ngớ ngẩn, cậu đã được đưa đến thế giới khác cùng với nữ thần Aqua. Thế giới đó giống như trong những game RPG mà cậu đã chơi nên cậu hiểu khá rõ mình cần phải làm gì. Tuy nhiên, Aqua và 2 đồng đội mới tuyển là Megumin và Darkness thì đều có những suy nghĩ khác người, khiến cậu luôn trong tình trạng gặp rắc rối và túng quẫn vì nợ nần.</p>
+
+<center><img src="upload/images/anime/Kono-Subarashii-Sekai-ni-Shukufuku-wo-character.jpg" width="70%" alt="Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!" /></center>
+
+<p>Series Light Novel hiện đã có 7 Volume. Phiên bản Anime đã ra mắt vào ngày 13/1/2016. 31/3/2016 sẽ bắt đầu bán đĩa Bluray.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5-mB_SVhE2c" frameborder="0" allowfullscreen></iframe></center>',
+
+            'dateDetailPost'     => '2016-02-13',
+            'imgDetailPost'      => '',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Neilyo vô địch giải Golden Monkey Invitational',
+            'urlDetailPost'      => 'Neilyo-vo-dich-Golden-Monkey-Invitational',
+            'presentDetailPost'  => 'Ngày 13/2/2016, giải Golden Monkey Invitational đã diễn ra suốt 9 giờ đồng hồ. Chức vô địch đã thuộc về Neilyo của Việt Nam.',
+            'contentDetailPost'  => '<p>Ngày 13/2/2016, vào lúc 3 giờ theo giờ Việt Nam, giải đấu Golden Monkey Invitational dành cho các tuyển thủ Đông Nam Á đã diễn ra. Việt Nam có 3 đại diện tham gia là Neilyo, zGGLeoz và Ikki. Neilyo – tên thật là Trần Hưng Lân - là đại diện của Việt Nam đã được tham gia giải Chung Kết Thế Giới 2015. Ikki là admin của <a href="https://www.facebook.com/hearthstone.vn/?fref=ts">fanpage Hearthstone Vietnam.</a></p>
+
+            <center><img src="upload/images/game/Golden-Monkey-Invitational-1.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
+            </center>
+            
+            <p>Luật thi đấu:</p>
+            <ul>
+            <li>Mỗi người chơi chuẩn bị 3 deck của 3 class khác nhau.
+            <li>Thi đấu theo thể lệ Conquest; bo3-cấm 1 class từ đầu đến Tứ kết, Bán kết và Chung kết thi đấu bo5 sử dụng cả 3 deck đã được chuẩn bị.
+            <li>Tất cả các deck phải sử dụng: Elise Starseeker, 1 trong những lá bài Rồng Legendary 9 mana: Alexstraza, Nefarian, Onyxia, Ysera, Malygos, Nozdormu, ít nhất 1 Bomb Lobber, và ít nhất 2 Mad Bomber/2 Madder Bomber hoặc cả 4.
+            <li>Người chơi có thể có những lá Rồng Legendary khác ngoài những lá liệt kê ở trên trong deck, nhưng những lá rồng đã được liệt kê sẽ không được sử dụng lặp lại ở những deck khác nhau. Ví dụ, 1 deck sử dụng Ysera, 1 deck khác có Alexstraza, 1 deck khác có Nefarian, nhưng cả 3 deck thì đều có thể có Chromagus hay Deathwing,..
+            <li>Không được sử dụng những lá bài 2 mana và 7 mana trừ những ngoại lệ sau: Flare, Mad Bomber, Lorewalker Cho.</ul>
+            
+            <center><img src="upload/images/game/Golden-Monkey-Invitational-2.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
+            
+            <img src="upload/images/game/Golden-Monkey-Invitational-3.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
+            </center>
+            
+            <p>Nếu như Neilyo có 3 trận thắng khá thuyết phục, thậm chí thắng cả đối thủ Chalk đã từng đấu với anh trong trận chung kết chọn đại diện tham dự Chung Kết Thế Giới thì 2 tuyển thủ zGGLeoz và Ikki lại thua mặc dù họ đã đánh rất tốt và rất cố gắng.</p>
+            
+            
+            <p>Cả giải đấu đã diễn ra suốt 9 giờ. Trong trận chung kết diễn ra vào khoảng 10 giờ tối theo giờ Việt Nam, Neilyo đã chiến thắng một cách khá may mắn vào những thời khắc khó khăn nhất trước đối thủ Heisnotaxel người Singapore. Trận đầu tiên, Heisnotaxel đã chiến thắng với Shaman trước Warlock của Neilyo. 3 trận sau đó, Hunter của Heisnotaxel đã thất bại trước Priest, Warlock và Warrior của Neilyo. Neilyo đã rất may mắn trong trận thứ 3 khi Warlock rút bài may mắn để hồi máu trước những đòn tấn công thẳng mặt của Hunter.</p>
+            
+            <center><img src="upload/images/game/Golden-Monkey-Invitational-4.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
+            
+            <img src="upload/images/game/Golden-Monkey-Invitational-5.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
+            </center>
+            
+            <center><iframe src="http://player.twitch.tv/?video=v44405329" frameborder="0" scrolling="no" height="378" width="620"></iframe>
+            
+            <p>Toàn bộ trận đấu của giải.</p></center>
+            
+            <p>Xin chúc mừng Neilyo đã có thêm thành tích mở đầu năm 2016. Chúng ta hãy cổ vũ cho Neilyo sẽ tiếp tục chiến thắng và góp mặt vào Chung Kết Thế Giới 2016.</p>',
+
+            'dateDetailPost'     => '2016-02-14',
+            'imgDetailPost'      => '',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Okusama ga Seitokaichou - Bạn gái tôi là hội trưởng',
+            'urlDetailPost'      => 'okusama-ga-seitokaichou-ban-gai-toi-la-hoi-truong',
+            'presentDetailPost'  => 'Hội Trưởng Wakana Ui lên sân khấu, ném bao cao su ra và tuyên bố tự do yêu đương trong trường. Sau đó cô dọn đến ở chung với Phó Hội Trưởng Izumi Hayato',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-02-17',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Terra Formars phiên bản Live-Action',
+            'urlDetailPost'      => 'Terra-Formars-phien-ban-Live-Action',
+            'presentDetailPost'  => 'Terra Formars phiên bản Live-Action sẽ được ra mắt vào ngày 29/4/2016.',
+            'contentDetailPost'  => '<p>Đoạn clip ngắn giới thiệu bộ phim Terra Formars phiên bản Live-Action đã được ra mắt vào ngày 19/2/2016.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MJlU2YYQ0y8" frameborder="0" allowfullscreen></iframe></center>
+
+<p>Bộ phim sẽ được công chiếu tại Nhật Bản vào ngày 29/4/2016, đúng vào Tuần Lễ Vàng của người Nhật. Takashi Miike là đạo diễn của phim. Ông là đạo diễn của những bộ phim live-action như Ichi the Killer, Phoenix Wright: Ace Attorney, Yatterman, As the Gods Will, Crows Zero, Mogura no Uta.</p>
+
+<center><img src="upload/images/anime/Terra_Formars_manga.jpg" width="70%" alt="Terra Formars phiên bản Live-Action" />
+
+<img src="upload/images/anime/Terra_Formars_anime.jpg" width="70%" alt="Terra Formars phiên bản Live-Action" />
+</center>
+
+<p>Terra Formars là bộ phim chuyển thể từ Manga và Anime. Phiên bản Anime được ra mắt vào năm 2014. Bối cảnh viễn tưởng vào năm 2577, con tàu có người lái đầu tiên đã đáp xuống Sao Hỏa với 6 phi hành gia. Nhưng tất cả những gì họ thấy là những sinh vật đột biến hình người với sức mạnh phi thường. Họ đã bị giết nhưng vẫn gửi được tín hiệu về Trái Đất. Giờ đây, con người đã đưa các chiến binh ưu tú nhất để tiêu diệt sinh vật đột biến và giành lại Sao Hỏa.</p>
+
+Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-action-terraformars-film-clip-with-incomplete-cg-streamed/.98869">Anime News Network</a>',
+
+            'dateDetailPost'     => '2016-02-20',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Masou Gakuen HxH - Học viện Ecchi',
+            'urlDetailPost'      => 'masou-gakuen-hxh-hoc-vien-ecchi',
+            'presentDetailPost'  => 'Hida Kizuna sở hữu khả năng giúp các cô gái lên đỉnh để phát huy tối đa sức mạnh của bộ đồ chiến đấu họ đang mặc',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-02-22',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Saijaku Muhai no Bahamut - Kỵ Sĩ Rồng Bất Bại',
+            'urlDetailPost'      => 'saijaku-muhai-no-bahamut-ky-si-rong-bat-bai',
+            'presentDetailPost'  => 'Lux, một hoàng tử tình cờ rơi xuống nhà tắm và nhìn thấy công chúa Lisesharte khỏa thân. Harem của cậu tại học viện nữ sinh bắt đầu.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-02-23',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Owari no Seraph - Truy lùng ma cà rồng',
+            'urlDetailPost'      => 'owari-no-seraph-truy-lung-ma-ca-rong',
+            'presentDetailPost'  => 'Bối cảnh hậu tận thế. Cuộc chiến liên miên giữa ma cà rồng và con người, thần thánh và quỷ dữ. Nhóm bạn Hyakuya Yuuichirou tìm cách sống sót trước cả 2 phe',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-02-23',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Outbreak Company - Giao lưu văn hóa anime',
+            'urlDetailPost'      => 'outbreak-company-giao-luu-van-hoa-anime',
+            'presentDetailPost'  => 'Thế giới hiện tại được liên kết với thế giới thần thoại với rồng, tiên, người lùn... Shinichi Kano, một otaku trở thành đại sứ giao lưu văn hóa anime với thế giới đó',
+            'contentDetailPost'  => 'https://www.youtube.com/watch?v=8D5_c-s2BLk',
+
+            'dateDetailPost'     => '2016-02-28',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ])
+
+        $post->create([
+            'nameDetailPost'     => 'CLAMP xuất bản Manga Cardcaptor Sakura mới',
+            'urlDetailPost'      => 'CLAMP-xuat-ban-Manga-Cardcaptor-Sakura-moi',
+            'presentDetailPost'  => 'Một truyện ngắn của nhóm tác giả CLAMP sẽ được phát hành nhân kỷ niệm 20 năm ra mắt series Cardcaptor Sakura nổi tiếng.',
+            'contentDetailPost'  => '<p>Để kỷ niệm 20 năm ngày ra mắt series Cardcaptor Sakura nổi tiếng, nhóm tác giả CLAMP quyết định xuất bản bộ Manga Cardcaptor Sakura mới vào tháng 4/2016.</p>
+
+            <center><img src="upload/images/anime/Cardcaptor_Sakura_Manga.jpg" width="70%" alt="CLAMP xuất bản Manga Cardcaptor Sakura mới" />
+            </center>
+            
+            <p>Nhóm tác giả CLAMP không liệt kê bất kỳ thông tin chi tiết về công việc mới, và các tạp chí cho biết trong tương lai sẽ bán bộ manga mới sau khi được quyết định. Các tạp chí của Nhật Bản cũng cho biết rằng manga mới không phải là một series đầy đủ mà chỉ là một truyện ngắn.</p>
+            
+            <center><img src="upload/images/anime/Cardcaptor_Sakura_Manga_2.jpg" width="70%" alt="Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!" />
+            </center>
+            
+            <p>Cardcaptor Sakura kể về một cô bé 10 tuổi, học lớp 4 tên là Kinomoto Sakura tình cờ phát hiện ra một bộ thẻ bài ma thuật gọi là thẻ bài Clow (Clow Card) trong quyển sách Clow, chúng được tạo ra và đặt tên nửa tiếng Anh-nửa tiếng Trung bởi pháp sư Clow Reed. Sau khi mở phong ấn quyển sách, các thẻ bài bắt đầu bay khắp nước Nhật trừ thẻ bài Windy mà Sakura cầm trên tay. Và cô bé cùng linh thú Kero bắt đầu thu thập lại tất cả thẻ bài, không cho chúng gây tai họa.</p>
+            
+            <img src="upload/images/anime/Cardcaptor_Sakura_Manga_1.jpg" width="50%" />
+            
+            <p>Bộ truyện đã được xuất bản vào tháng 5/1996 và đã trở thành một trong số những series dành cho thiếu nhi ăn khách nhất. Phiên bản Anime đã được lồng tiếng Anh và cả tiếng Việt. Series có 2 phần Anime, 3 phiên bản The Movie, 10 phiên bản game và nhiều CD nhạc khác. Tất nhiên không thể thiếu phiên bản thẻ bài Clow, tâm điểm chính của cả loạt phim.</p>
+            
+            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VDBSV8DL1lU" frameborder="0" allowfullscreen></iframe>
+            
+            <p>Bài hát mở đầu Catch You Catch Me nổi tiếng của phim.</p></center>
+            
+            <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-03-02/clamp-to-publish-new-cardcaptor-sakura-manga/.99295">Anime News Network</a></p>',
+
+            'dateDetailPost'     => '2016-03-02',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'        	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+		
+		$post->create([
+            'nameDetailPost'     => 'Các trào lưu anime qua từng giai đoạn',
+            'urlDetailPost'      => 'cac-trao-luu-anime-qua-tung-giai-doan',
+            'presentDetailPost'  => 'Hãy cùng xem lại và cập nhật các trào lưu anime từ trước đến nay.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2016-03-04',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 1,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Hataraku Maou-sama - Ma vương đi làm',
+            'urlDetailPost'      => 'Hataraku-maou-sama-ma-vuong-di-lam',
+            'presentDetailPost'  => 'Ma vương và anh hùng đến Nhật Bản hiện đại trong tình trạng mất sức mạnh và phải kiếm kế sinh nhai ở đó.',
+            'contentDetailPost'  => 'https://www.youtube.com/watch?v=X55cjjQNEJg',
+
+            'dateDetailPost'     => '2016-03-08',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Hataraku Maou-sama - Ma vương đi làm',
+            'urlDetailPost'      => 'Hataraku-maou-sama-ma-vuong-di-lam',
+            'presentDetailPost'  => 'Ma vương và anh hùng đến Nhật Bản hiện đại trong tình trạng mất sức mạnh và phải kiếm kế sinh nhai ở đó.',
+            'contentDetailPost'  => 'https://www.youtube.com/watch?v=X55cjjQNEJg',
+
+            'dateDetailPost'     => '2016-03-08',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
 
 
@@ -4186,191 +4623,21 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
 
         // ----------------------------------- Bài viết cần xem thời gian ---------------------------------
 
-
-
         $post->create([
-            'nameDetailPost'     => 'Avabel Online – MMORPG 3D cho di động',
-            'urlDetailPost'      => 'Avabel-Online–MMORPG-3D-cho-di-dong',
-            'presentDetailPost'  => 'Avabel Online là game MMORPG 3D dành cho di động m...',
-            'contentDetailPost'  => '<p>Đây là game thuộc thể loại MMORPG 3D đồ họa chất lượng cao xuất hiện trên thiết bị di động. Avabel Online hội tụ đầy đủ tính năng điều khiển không thua kém gì một game online trên PC như PvP , GvG ( War Guild ), Dungeon, săn boss , chế đồ… Avabel Online được xem là một game bom tấn dành cho iOS/Android. Bạn có thể tải game trên <a href="https://play.google.com/store/apps/details?id=com.asobimo.avabel_gp_b3">Google Play.</a></p>
+            'nameDetailPost'     => 'Overwatch tiếp tục là chủ đề khiêu dâm',
+            'urlDetailPost'      => 'Overwatch-tiep-tuc-la-chu-de-khieu-dam',
+            'presentDetailPost'  => 'Overwatch nổi tiếng đến nỗi một loạt game và phim khiêu dâm đã ngập tràn Internet.',
+            'contentDetailPost'  => '
+                    http://www.vietgiaitri.com/game/game-online/201608/overwatch-tiep-tuc-tro-thanh-nan-nhan-cua-tin-dogame-khieu-dam-2584731/
+                    http://game8.vn/tin-moi/blizzard-quyet-kho-mau-tieu-diet-phim-khieu-dam-lay-tu-hinh-anh-nhan-vat-game-overwatch-40771',
 
-<center><img src="upload/images/game/Avabel_Online.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MiIVSS0iBkU" frameborder="0" allowfullscreen></iframe>
-
-<p>Trailer Avabel Online</p></center>
-
-<p>AVABEL Online đưa người chơi tới một tòa tháp với nhiều căn phòng khác nhau. Mỗi phòng đưa người chơi đến một thế giới riêng có boss cũng như cấp độ khác nhau. Càng lên cao, cấp độ càng khó. Như các game MMORPG khác, game cũng dẫn dắt người chơi với các chuỗi  nhiệm vụ để người chơi làm quen với game, lấy vũ khí và kinh nghiệm.</p>
-
-<center><img src="upload/images/game/Avabel_Online_1.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động"" />
-</center>
-
-<p>Avabel Online có 6 nhân vật: Warrior, Rogue, Ranger, Creator, Acolyte, Magician. Hệ thống vũ khí có thể khảm ngọc, chế tạo như mọi game MMORPG khác. Xét về mặt số lượng game thủ, Avabel cũng hoàn toàn áp đảo sản phẩm cùng loại cho dù tuổi đời của game cũng được 2 năm tuổi. Cấu hình nhẹ cũng là ưu điểm lớn của game.</p>
-
-<center><img src="upload/images/game/Avabel_Online_2.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
-</center>
-
-<p>Một tin bên lề là ngày 29/1/2016, trên trang Twitter của bộ phim Anime Date a live có nói đến việc Kadokawa hợp tác với Avabel Online để cho các nhân vật Date a live xuất hiện trong game. Trang chủ <a href="http://avabel.jp/landing/date-a-live">Avabel x Date a live</a></p>
-
-<center><img src="upload/images/game/Avabel_Online_Date_a_live.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
-
-<img src="upload/images/game/Avabel_Online_Date_a_live_1.jpg" width="70%" alt="Avabel Online – MMORPG 3D cho di động" />
-</center>
-
-<p>Nhìn chung, Avabel Online khá ấn tượng về phần đồ họa hình ảnh và âm thanh. Nếu bạn là người yêu thích thể loại game cày cuốc level, khám phá thế giới mới thì hãy nhanh tay bước vào thế giới Avabel Online.</p>',
-
-            'dateDetailPost'     => '2016-02-04',
+            'dateDetailPost'     => '2016-04-01',
             'imgDetailPost'      => '',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
-        ]);
-
-        $post->create([
-            'nameDetailPost'     => 'Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!',
-            'urlDetailPost'      => 'Trailer-game-RPG-Kono-Subarashii-Sekai-ni-Shukufuku-wo',
-            'presentDetailPost'  => 'Game RPG dựa trên Light Novel cùng tên đã được Kadokawa giới thiệu.',
-            'contentDetailPost'  => '<p>Kadokawa đã ra mắt trailer game RPG dựa theo bộ phim Kono Subarashii Sekai ni Shukufuku wo! hiện đang được trình chiếu. Game sẽ ra mắt vào ngày 25/3/2016.</p>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Or8maZAZ_k8" frameborder="0" allowfullscreen></iframe>
-
-<p>Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!</p></center>
-
-<p>Kono Subarashii Sekai ni Shukufuku wo! là Light Novel của tác giả Akatsuki Natsume và minh họa bởi Mishima Kurone. Nội dung nói về anh chàng Satou Kazuma sau khi chết vì lý do hết sức ngớ ngẩn, cậu đã được đưa đến thế giới khác cùng với nữ thần Aqua. Thế giới đó giống như trong những game RPG mà cậu đã chơi nên cậu hiểu khá rõ mình cần phải làm gì. Tuy nhiên, Aqua và 2 đồng đội mới tuyển là Megumin và Darkness thì đều có những suy nghĩ khác người, khiến cậu luôn trong tình trạng gặp rắc rối và túng quẫn vì nợ nần.</p>
-
-<center><img src="upload/images/anime/Kono-Subarashii-Sekai-ni-Shukufuku-wo-character.jpg" width="70%" alt="Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!" /></center>
-
-<p>Series Light Novel hiện đã có 7 Volume. Phiên bản Anime đã ra mắt vào ngày 13/1/2016. 31/3/2016 sẽ bắt đầu bán đĩa Bluray.</p>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5-mB_SVhE2c" frameborder="0" allowfullscreen></iframe></center>',
-
-            'dateDetailPost'     => '2016-02-13',
-            'imgDetailPost'      => '',
-            'idCat'              => ANIME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
-        ]);
-
-        $post->create([
-            'nameDetailPost'     => 'Neilyo vô địch giải Golden Monkey Invitational',
-            'urlDetailPost'      => 'Neilyo-vo-dich-Golden-Monkey-Invitational',
-            'presentDetailPost'  => 'Ngày 13/2/2016, giải Golden Monkey Invitational đã diễn ra suốt 9 giờ đồng hồ. Chức vô địch đã thuộc về Neilyo của Việt Nam.',
-            'contentDetailPost'  => '<p>Ngày 13/2/2016, vào lúc 3 giờ theo giờ Việt Nam, giải đấu Golden Monkey Invitational dành cho các tuyển thủ Đông Nam Á đã diễn ra. Việt Nam có 3 đại diện tham gia là Neilyo, zGGLeoz và Ikki. Neilyo – tên thật là Trần Hưng Lân - là đại diện của Việt Nam đã được tham gia giải Chung Kết Thế Giới 2015. Ikki là admin của <a href="https://www.facebook.com/hearthstone.vn/?fref=ts">fanpage Hearthstone Vietnam.</a></p>
-
-            <center><img src="upload/images/game/Golden-Monkey-Invitational-1.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            </center>
-            
-            <p>Luật thi đấu:</p>
-            <ul>
-            <li>Mỗi người chơi chuẩn bị 3 deck của 3 class khác nhau.
-            <li>Thi đấu theo thể lệ Conquest; bo3-cấm 1 class từ đầu đến Tứ kết, Bán kết và Chung kết thi đấu bo5 sử dụng cả 3 deck đã được chuẩn bị.
-            <li>Tất cả các deck phải sử dụng: Elise Starseeker, 1 trong những lá bài Rồng Legendary 9 mana: Alexstraza, Nefarian, Onyxia, Ysera, Malygos, Nozdormu, ít nhất 1 Bomb Lobber, và ít nhất 2 Mad Bomber/2 Madder Bomber hoặc cả 4.
-            <li>Người chơi có thể có những lá Rồng Legendary khác ngoài những lá liệt kê ở trên trong deck, nhưng những lá rồng đã được liệt kê sẽ không được sử dụng lặp lại ở những deck khác nhau. Ví dụ, 1 deck sử dụng Ysera, 1 deck khác có Alexstraza, 1 deck khác có Nefarian, nhưng cả 3 deck thì đều có thể có Chromagus hay Deathwing,..
-            <li>Không được sử dụng những lá bài 2 mana và 7 mana trừ những ngoại lệ sau: Flare, Mad Bomber, Lorewalker Cho.</ul>
-            
-            <center><img src="upload/images/game/Golden-Monkey-Invitational-2.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            
-            <img src="upload/images/game/Golden-Monkey-Invitational-3.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            </center>
-            
-            <p>Nếu như Neilyo có 3 trận thắng khá thuyết phục, thậm chí thắng cả đối thủ Chalk đã từng đấu với anh trong trận chung kết chọn đại diện tham dự Chung Kết Thế Giới thì 2 tuyển thủ zGGLeoz và Ikki lại thua mặc dù họ đã đánh rất tốt và rất cố gắng.</p>
-            
-            
-            <p>Cả giải đấu đã diễn ra suốt 9 giờ. Trong trận chung kết diễn ra vào khoảng 10 giờ tối theo giờ Việt Nam, Neilyo đã chiến thắng một cách khá may mắn vào những thời khắc khó khăn nhất trước đối thủ Heisnotaxel người Singapore. Trận đầu tiên, Heisnotaxel đã chiến thắng với Shaman trước Warlock của Neilyo. 3 trận sau đó, Hunter của Heisnotaxel đã thất bại trước Priest, Warlock và Warrior của Neilyo. Neilyo đã rất may mắn trong trận thứ 3 khi Warlock rút bài may mắn để hồi máu trước những đòn tấn công thẳng mặt của Hunter.</p>
-            
-            <center><img src="upload/images/game/Golden-Monkey-Invitational-4.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            
-            <img src="upload/images/game/Golden-Monkey-Invitational-5.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            </center>
-            
-            <center><iframe src="http://player.twitch.tv/?video=v44405329" frameborder="0" scrolling="no" height="378" width="620"></iframe>
-            
-            <p>Toàn bộ trận đấu của giải.</p></center>
-            
-            <p>Xin chúc mừng Neilyo đã có thêm thành tích mở đầu năm 2016. Chúng ta hãy cổ vũ cho Neilyo sẽ tiếp tục chiến thắng và góp mặt vào Chung Kết Thế Giới 2016.</p>',
-
-            'dateDetailPost'     => '2016-02-14',
-            'imgDetailPost'      => '',
-            'idCat'              => GAME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
-        ]);
-
-        $post->create([
-            'nameDetailPost'     => 'Terra Formars phiên bản Live-Action',
-            'urlDetailPost'      => 'Terra-Formars-phien-ban-Live-Action',
-            'presentDetailPost'  => 'Terra Formars phiên bản Live-Action sẽ được ra mắt vào ngày 29/4/2016.',
-            'contentDetailPost'  => '<p>Đoạn clip ngắn giới thiệu bộ phim Terra Formars phiên bản Live-Action đã được ra mắt vào ngày 19/2/2016.</p>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MJlU2YYQ0y8" frameborder="0" allowfullscreen></iframe></center>
-
-<p>Bộ phim sẽ được công chiếu tại Nhật Bản vào ngày 29/4/2016, đúng vào Tuần Lễ Vàng của người Nhật. Takashi Miike là đạo diễn của phim. Ông là đạo diễn của những bộ phim live-action như Ichi the Killer, Phoenix Wright: Ace Attorney, Yatterman, As the Gods Will, Crows Zero, Mogura no Uta.</p>
-
-<center><img src="upload/images/anime/Terra_Formars_manga.jpg" width="70%" alt="Terra Formars phiên bản Live-Action" />
-
-<img src="upload/images/anime/Terra_Formars_anime.jpg" width="70%" alt="Terra Formars phiên bản Live-Action" />
-</center>
-
-<p>Terra Formars là bộ phim chuyển thể từ Manga và Anime. Phiên bản Anime được ra mắt vào năm 2014. Bối cảnh viễn tưởng vào năm 2577, con tàu có người lái đầu tiên đã đáp xuống Sao Hỏa với 6 phi hành gia. Nhưng tất cả những gì họ thấy là những sinh vật đột biến hình người với sức mạnh phi thường. Họ đã bị giết nhưng vẫn gửi được tín hiệu về Trái Đất. Giờ đây, con người đã đưa các chiến binh ưu tú nhất để tiêu diệt sinh vật đột biến và giành lại Sao Hỏa.</p>
-
-Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-action-terraformars-film-clip-with-incomplete-cg-streamed/.98869">Anime News Network</a>',
-
-            'dateDetailPost'     => '2016-02-20',
-            'imgDetailPost'      => '',
-            'idCat'              => GAME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
-        ]);
-
-        $post->create([
-            'nameDetailPost'     => 'CLAMP xuất bản Manga Cardcaptor Sakura mới',
-            'urlDetailPost'      => 'CLAMP-xuat-ban-Manga-Cardcaptor-Sakura-moi',
-            'presentDetailPost'  => 'Một truyện ngắn của nhóm tác giả CLAMP sẽ được phát hành nhân kỷ niệm 20 năm ra mắt series Cardcaptor Sakura nổi tiếng.',
-            'contentDetailPost'  => '<p>Để kỷ niệm 20 năm ngày ra mắt series Cardcaptor Sakura nổi tiếng, nhóm tác giả CLAMP quyết định xuất bản bộ Manga Cardcaptor Sakura mới vào tháng 4/2016.</p>
-
-            <center><img src="upload/images/anime/Cardcaptor_Sakura_Manga.jpg" width="70%" alt="CLAMP xuất bản Manga Cardcaptor Sakura mới" />
-            </center>
-            
-            <p>Nhóm tác giả CLAMP không liệt kê bất kỳ thông tin chi tiết về công việc mới, và các tạp chí cho biết trong tương lai sẽ bán bộ manga mới sau khi được quyết định. Các tạp chí của Nhật Bản cũng cho biết rằng manga mới không phải là một series đầy đủ mà chỉ là một truyện ngắn.</p>
-            
-            <center><img src="upload/images/anime/Cardcaptor_Sakura_Manga_2.jpg" width="70%" alt="Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!" />
-            </center>
-            
-            <p>Cardcaptor Sakura kể về một cô bé 10 tuổi, học lớp 4 tên là Kinomoto Sakura tình cờ phát hiện ra một bộ thẻ bài ma thuật gọi là thẻ bài Clow (Clow Card) trong quyển sách Clow, chúng được tạo ra và đặt tên nửa tiếng Anh-nửa tiếng Trung bởi pháp sư Clow Reed. Sau khi mở phong ấn quyển sách, các thẻ bài bắt đầu bay khắp nước Nhật trừ thẻ bài Windy mà Sakura cầm trên tay. Và cô bé cùng linh thú Kero bắt đầu thu thập lại tất cả thẻ bài, không cho chúng gây tai họa.</p>
-            
-            <img src="upload/images/anime/Cardcaptor_Sakura_Manga_1.jpg" width="50%" />
-            
-            <p>Bộ truyện đã được xuất bản vào tháng 5/1996 và đã trở thành một trong số những series dành cho thiếu nhi ăn khách nhất. Phiên bản Anime đã được lồng tiếng Anh và cả tiếng Việt. Series có 2 phần Anime, 3 phiên bản The Movie, 10 phiên bản game và nhiều CD nhạc khác. Tất nhiên không thể thiếu phiên bản thẻ bài Clow, tâm điểm chính của cả loạt phim.</p>
-            
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VDBSV8DL1lU" frameborder="0" allowfullscreen></iframe>
-            
-            <p>Bài hát mở đầu Catch You Catch Me nổi tiếng của phim.</p></center>
-            
-            <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-03-02/clamp-to-publish-new-cardcaptor-sakura-manga/.99295">Anime News Network </a></p>',
-
-            'dateDetailPost'     => '2016-03-02',
-            'imgDetailPost'      => '',
-            'idCat'              => ANIME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'         	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4472,7 +4739,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'        	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4543,7 +4810,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'        	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4620,7 +4887,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'        	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -4651,7 +4918,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'        	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
@@ -5511,8 +5778,23 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
-        
-        
+
+        $post->create([
+            'nameDetailPost'     => 'Rewrite - Viết lại số phận',
+            'urlDetailPost'      => 'rewrite-viet-lai-so-phan',
+            'presentDetailPost'  => 'Thế giới có nhiều kết cục. Tất cả đều dẫn đến suy tàn. Vậy đâu là con đường giữ lại sự sống cho thế giới?',
+            'contentDetailPost'  => 'Một đoạn hài trong anime https://www.youtube.com/watch?v=zq9TOmI_IYs',
+
+            'dateDetailPost'     => '2017-03-25',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
 
 
@@ -5531,6 +5813,40 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'dateDetailPost'     => '2016-10-14',
             'imgDetailPost'      => '',
             'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+		
+		$post->create([
+            'nameDetailPost'     => 'Real Account - Mạng xã hội chết chóc',
+            'urlDetailPost'      => 'real-account-mang-xa-hoi-chet-choc',
+            'presentDetailPost'  => 'Thuộc thể loại death game, Real Account phản ánh tất cả mặt xấu của mạng xã hội.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2017-06-01',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+		$post->create([
+            'nameDetailPost'     => 'Cupid Chocolate season 2',
+            'urlDetailPost'      => 'cupids-chocolates-season-2',
+            'presentDetailPost'  => 'Nối tiếp thành công của season 1, Socola của thần tình yêu đã ra mắt season 2.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2017-12-09',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
@@ -5626,14 +5942,54 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
 
             'dateDetailPost'     => '2018-05-26',
             'imgDetailPost'      => 'Archie-lieu-da-gia-thumbnail.jpg',
-            'idCat'              => WEBSITE_POST,
+            'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
+            'enable'         	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
+		
+		$post->create([
+            'nameDetailPost'     => "CoMix Wave tung ra PV mới của anime Shikioriori",
+            'urlDetailPost'      => 'comix-wave-tung-ra-PV-moi-cua-anime-shikioriori',
+            'presentDetailPost'  => 'Liệu có tạo nên cơn sốt như tác phẩm "Your Name" năm 2016 không?',
+            'contentDetailPost'  => 'https://pixel.facebook.com/otakulab.org/videos/1029270887228936/
+			<br>
+
+Anime dự kiến sẽ lên sóng vào ngày 4 tháng 8 sắp tới ~
+
+Website : https://shikioriori.jp/',
+
+            'dateDetailPost'     => '2018-05-29',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+		
+		$post->create([
+            'nameDetailPost'     => 'Pumpkin Night - Bí ngô sát thủ',
+            'urlDetailPost'      => 'pumpkin-night-bi-ngo-sat-thu',
+            'presentDetailPost'  => 'Sát nhân báo oán nhóm học sinh vì tội đã thiêu cháy khuôn mặt dễ thương của cô trong lễ hội Halloween',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2018-06-01',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
 		
 
     }    
