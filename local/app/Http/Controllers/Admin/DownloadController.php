@@ -9,7 +9,8 @@ use App\Model\download;
 use App\Services\Admin\Categories\ListCategoryService;
 use App\Services\Admin\Download\InsertDownloadService;
 use App\Services\Admin\Download\ListDownloadService;
-use App\Services\Admin\Post\UpdatePostService;
+use App\Services\Admin\Download\UpdateDownloadService;
+use App\Services\Admin\Download\SearchDownloadService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -62,7 +63,6 @@ class DownloadController extends Controller
     {
         if (Auth::check())
         {
-            // Connect table detailpost to show information of post
             $download = download::where('idDown', '=', $idDown)->first();
 
             return view('admin.download.downloadupdate', [
@@ -77,8 +77,8 @@ class DownloadController extends Controller
 
     public function update(Request $request)
     {
-        $updatePost = new UpdatePostService;
-        $viewData   = $updatePost->run($request);
+        $updateDownload = new UpdateDownloadService;
+        $viewData   = $updateDownload->run($request);
 
         return redirect()->route('download');
     }
@@ -94,9 +94,12 @@ class DownloadController extends Controller
     {
         if (Auth::check())
         {
+            $searchDownload = new SearchDownloadService;
+            $viewSearch = $searchDownload->run($request);
 
-            return view('admin.post.posts', [
+            return view('admin.download.download', [
                 'title'      => TITLE_ADMIN_POST,
+                'downloads'  => $viewSearch,
 
             ]);
         }

@@ -1,15 +1,23 @@
 <?php
 // Rule: function/variable_website_page
 
-// ========== LANGUAGE ==========
+// ========== ONE FOR ALL ==========
+
+// === LANGUAGE ===
 
 define('DEFAULT_LANGUAGE', 'en');
+
+// === Enable ===
+
+define('UNENABLE', false);
+define('ENABLE', true);
 
 // ========== ERROR ==========
 
 // === Auth ===
 define('WRONG_USERNAME', 'Tên đăng nhập sai');
 define('WRONG_PASSWORD', 'Mật khẩu sau');
+
 
 
 
@@ -35,10 +43,6 @@ define('GAME_POST', 3);
 define('ANIME_POST', 4);
 define('THU_THUAT_IT_POST', 5);
 
-// === Category Enable ===
-
-define('UNENABLE_CATEGORY', false);
-define('ENABLE_CATEGORY', true);
 
 // === Hidden Post ===
 

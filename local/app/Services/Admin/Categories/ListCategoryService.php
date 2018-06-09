@@ -37,7 +37,7 @@ class ListCategoryService extends ServiceProvider
 
     public function listEnable()
     {
-        $query = category::where('enable', ENABLE_CATEGORY);
+        $query = category::where('enable', ENABLE);
 
         return $query;
     }

@@ -59,8 +59,8 @@ Author URL: http://www.free-css.com/template-categories/news
                         <ul class="top_nav">
                             <li><a href="{{ url('/') }}">KINGDOM NVHAI</a></li>
                             <li><a href="pages/page.html">About Us</a></li>
-                            <li><a href="pages/contact.html">Youtube Channel</a></li>
-                            <li><a href="pages/404.html">Kawaii Code</a></li>
+                            <li><a href="{{ url('https://www.youtube.com/channel/UCxUL0zS-XiU36bkUsr5dWbg') }}">Youtube Channel</a></li>
+                            <li><a href="{{ url('http://localhost/KAWAIICODE/') }}">Kawaii Code</a></li>
                             <li><a href="http://datealive.kingdomnvhai.info/">Date a live Fan Club</a></li>
                         </ul>
                     </div>
@@ -89,7 +89,7 @@ Author URL: http://www.free-css.com/template-categories/news
                         <li class="dropdown"> <a href="#" class="" data-toggle="dropdown" role="button" aria-expanded="false">Categories</a>
                             <ul class="dropdown-menu" role="menu">
                                 <?php
-                                $enable = ENABLE_CATEGORY;
+                                $enable = ENABLE;
                                 $con = new mysqli("localhost", "root", "", "nvhai");
                                 mysqli_set_charset($con,"utf8");
                                 $query = "SELECT * FROM category WHERE enable = $enable";
@@ -245,7 +245,7 @@ Author URL: http://www.free-css.com/template-categories/news
                                 <select name="category" style="margin-bottom:5px">
                                     <option value="all">Tất cả</option>
                                     <?php
-                                    $enable = ENABLE_CATEGORY;
+                                    $enable = ENABLE;
                                     $con = new mysqli("localhost", "root", "", "nvhai");
                                     mysqli_set_charset($con,"utf8");
                                     $query = "SELECT * FROM category WHERE enable = $enable";

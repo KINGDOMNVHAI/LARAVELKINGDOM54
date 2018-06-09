@@ -70,13 +70,15 @@ Route::post('/sites-delete/{idSite}', 'Admin\SiteController@delete')->name('site
 
 Route::get('/download', 'Admin\DownloadController@indexList')->name('download');
 
+Route::post('/download-search', 'Admin\DownloadController@search')->name('download-search');
+
 Route::get('/download-insert', 'Admin\DownloadController@indexInsert')->name('download-insert');
 
 Route::post('/download-insert', 'Admin\DownloadController@insert')->name('download-insert');
 
 Route::get('/download-update/{idDown}', 'Admin\DownloadController@indexUpdate')->name('download-list-update');
 
-Route::post('/download-update', 'Admin\DownloadController@indexUpdate')->name('download-update');
+Route::post('/download-update/', 'Admin\DownloadController@update')->name('download-update');
 
 Route::post('/download-delete/{idDown}', 'Admin\DownloadController@delete')->name('download-delete');
 

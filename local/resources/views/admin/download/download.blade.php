@@ -39,20 +39,10 @@
 
                             <div class="col-md-12">
                                 <div class="col-md-10" style="padding-top: 5px">
-                                    <form action="{{ route('posts-search') }}" method="post">
+                                    <form action="{{ route('download-search') }}" method="post">
                                         <input type="hidden" name="_token" value="{{ csrf_token() }}">
                                         <input type="submit" name="search" value="Search">
                                         <input type="text" name="keyword" placeholder="Keyword" value="{{ $keyword or '' }}">
-                                        <select name="category">
-                                            <option value="all">All Categories</option>
-                                            @foreach ($categories as $category)
-                                                <option value="{{ $category->idCat }}">{{ $category->nameCat }}</option>
-                                            @endforeach
-                                        </select>
-                                        <select name="date">
-                                            <option value="desc">Mới nhất</option>
-                                            <option value="asc">Cũ nhất</option>
-                                        </select>
                                     </form>
                                 </div>
                                 <div class="col-md-2">
@@ -78,16 +68,30 @@
                                         <tr>
                                             <td>{{ $download->idDown }}</td>
                                             <td>{{ str_limit($download->nameDown,30) }}</td>
-                                            <td>{{ str_limit($download->linkDown,50) }}</td>
+                                            <td><a href="{{ $download->linkDown }}" target="_blank">{{ str_limit($download->linkDown,50) }}</a></td>
                                             <td><img src="upload/images/download/{{ $download->imgDown }}" width="100%"></td>
-                                            <td>{{ str_limit($download->idDetailPost,30) }}</td>
+
+                                            <?php
+                                                $id = $download->idDetailPost;
+                                                $con = mysqli_connect('localhost', 'root', '', 'nvhai');
+                                                mysqli_set_charset($con,"utf8");
+
+                                                $query = mysqli_query($con,"SELECT nameDetailPost FROM detailpost WHERE idDetailPost = $id");
+                                                $row = mysqli_fetch_array($query,MYSQLI_NUM);
+
+                                            ?>
+
+                                            <td><a href="{{ route('posts-list-update',$download->idDetailPost) }}">{{ str_limit($row[0],30) }}</a></td>
+
+                                            <?php mysqli_close($con); ?>
+
                                             <td>{{ $download->enable }}</td>
                                             <td>
                                                 <a href="{{ route('download-list-update',$download->idDown) }}" style="font-size:18px">
                                                     <i class="fa fa-edit"></i>
                                                 </a><!--  Update -->
 
-                                                <i class="fa fa-times" onclick="myFunction({{ $download->idDetailPost }})" style="color:#1DC7EA; font-size:18px"></i>
+                                                <i class="fa fa-times" onclick="myFunction({{ $download->idDown }})" style="color:#1DC7EA; font-size:18px"></i>
 
                                                 <script>
                                                     function myFunction(a) {

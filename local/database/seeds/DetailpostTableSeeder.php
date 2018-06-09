@@ -4499,23 +4499,6 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'updatePost'         => 0,
         ]);
 
-        $post->create([
-            'nameDetailPost'     => 'Hataraku Maou-sama - Ma vương đi làm',
-            'urlDetailPost'      => 'Hataraku-maou-sama-ma-vuong-di-lam',
-            'presentDetailPost'  => 'Ma vương và anh hùng đến Nhật Bản hiện đại trong tình trạng mất sức mạnh và phải kiếm kế sinh nhai ở đó.',
-            'contentDetailPost'  => 'https://www.youtube.com/watch?v=X55cjjQNEJg',
-
-            'dateDetailPost'     => '2016-03-08',
-            'imgDetailPost'      => '',
-            'idCat'              => ANIME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
-        ]);
-
 
 
 
@@ -5932,6 +5915,40 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
         ]);
 
         $post->create([
+            'nameDetailPost'     => 'Diễn viên lồng tiếc cho Aqua, Amamiya Sora bị chẩn đoán chấn thương cổ họng',
+            'urlDetailPost'      => 'dien-vien-long-tieng-cho-aqua-amamiya-sora-bi-chan-doan-chan-thuong-co-hong',
+            'presentDetailPost'  => 'Diễn viên lồng tiếng 24 tuổi đã gặp chấn thương cổ họng, không quá nguy hiểm',
+            'contentDetailPost'  => 'http://goboiano.com/aquas-voice-actress-sora-amamiya-diagnosed-with-a-throat-injury/',
+
+            'dateDetailPost'     => '2018-05-14',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Kishuku Gakkou no Juliet sẽ được ra mắt vào mùa thu 2018',
+            'urlDetailPost'      => 'kishuku-gakkou-no-juliet-se-ra-mat-vao-mua-thu-2018',
+            'presentDetailPost'  => 'Khán giả sắp được xem câu chuyện hài hước của Romeo và Juliet phiên bản Anime vào mua thu 2018',
+            'contentDetailPost'  => 'http://goboiano.com/romeo-juliet-inspired-boarding-school-juliet-airs-this-fall/',
+
+            'dateDetailPost'     => '2018-05-25',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+        $post->create([
             'nameDetailPost'     => 'Archie liệu đã già?',
             'urlDetailPost'      => 'Archie-lieu-da-gia',
             'presentDetailPost'  => '',
@@ -5990,7 +6007,51 @@ Website : https://shikioriori.jp/',
             'updatePost'         => 0,
         ]);
 
-		
+		$post->create([
+            'nameDetailPost'     => 'Đụng chạm lịch sử - Nidome Jinsei bị hủy hoàn toàn',
+            'urlDetailPost'      => 'dung-cham-lich-su-nidome-jinsei-bi-huy-hoan-toan',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => 'https://www.facebook.com/CabFansub/photos/a.227534107457546.1073741829.152304798313811/845776248966659/?type=3
+            <br>
+            https://www.facebook.com/TTASLusa/photos/a.2072616199731397.1073741946.1722596828066671/2081818528811164/?type=3
+            <br>
+            https://www.manganetworks.co/du-an-anime-nidoume-no-jinsei-wo-isekai-de-chinh-thuc-da-bi-huy-bo/
+            <br>
+            https://www.manganetworks.co/du-an-anime-ve-cu-ong-94-tuoi-chuyen-sinh-nidoume-no-jinsei-wo-isekai-de-da-bi-huy/
+            <br>
+            http://goboiano.com/young-again-in-another-world-has-been-cancelled-following-backlash/
+            <br>
+            http://goboiano.com/young-again-in-another-world-anime-at-risk-due-to-creators-bigoted-tweets/',
+
+            'dateDetailPost'     => '2018-06-01',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+		$post->create([
+            'nameDetailPost'     => 'Studio Production IMS phá sản',
+            'urlDetailPost'      => 'studio-production-ims-pha-san',
+            'presentDetailPost'  => 'Anime studio Production IMS tuyên bố phá sản vào tháng 12/2017',
+            'contentDetailPost'  => 'http://goboiano.com/anime-studio-production-ims-has-gone-bankrupt/
+<br>
+https://twitter.com/saikickmouseao/status/1005167610483232769/photo/1',
+
+            'dateDetailPost'     => '2018-06-09',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
     }    
 }

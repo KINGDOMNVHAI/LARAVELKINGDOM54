@@ -1,11 +1,11 @@
 <?php
-namespace App\Services\Admin\Post;
+namespace App\Services\Admin\Download;
 
-use App\Model\detailpost;
+use App\Model\download;
 use DB;
 use Illuminate\Support\ServiceProvider;
 
-class SearchPostService extends ServiceProvider
+class SearchDownloadService extends ServiceProvider
 {
     /**
      * Store all input data.
@@ -35,22 +35,7 @@ class SearchPostService extends ServiceProvider
 
         // Create query
         // ilike only for Postgre, not support for phpmyadmin
-        $query = detailpost::where('nameDetailPost', 'like', $keyword);
-
-        if ($request->category != 'all')
-        {
-            $query = $query->where('idCat', $request->category);
-        }
-
-        if ($request->date == 'asc')
-        {
-            $query = $query->orderBy('dateDetailPost', 'asc');
-        }
-
-        if ($request->date == 'desc')
-        {
-            $query = $query->orderBy('dateDetailPost', 'desc');
-        }
+        $query = download::where('nameDown', 'like', $keyword);
 
         // Get response
         $response = $query->paginate(ITEM_PER_PAGE);

@@ -37,7 +37,7 @@
                             <?php
                             $con = new mysqli("localhost", "root", "", "nvhai");
                             mysqli_set_charset($con,"utf8");
-                            $query = "SELECT * FROM category WHERE enable = ENABLE_CATEGORY";
+                            $query = "SELECT * FROM category WHERE enable = ENABLE";
 
                             if ($result = $con->query($query)) {
 

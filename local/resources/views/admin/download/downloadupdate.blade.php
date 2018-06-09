@@ -25,7 +25,7 @@
                     <div class="col-md-12">
                         <div class="card card-plain">
                             <div class="header">
-                                <h4 class="title">Insert</h4>
+                                <h4 class="title">Update</h4>
                                 <p class="category">
                                     <!-- Update Successful: show message -->
                                     @if (session() -> has('message'))
@@ -40,23 +40,35 @@
                                     <form action="{{ route('download-update') }}" method="post" enctype="multipart/form-data">
                                         {{ csrf_field() }}
                                         <tr>
+                                            <td width="15%">ID</td>
+                                            <td>{{ $download->idDown }} <input type="hidden" name="id" id="id" style="width: 100%;" value="{{ $download->idDown }}"></td>
+                                        </tr>
+                                        <tr>
                                             <td>NAME</td>
-                                            <td><input type="text" name="name" id="name" style="width: 100%;" value="{{ $download->nameCat }}"></td>
+                                            <td><input type="text" name="name" id="name" style="width: 100%;" value="{{ $download->nameDown }}"></td>
                                         </tr>
                                         <tr>
                                             <td>LINK DOWNLOAD<br>(If have many links, give BR )</td>
-                                            <td><textarea name="link" id="link" rows="10" cols="50"></textarea></td>
+                                            <td><textarea name="link" id="link" rows="10" cols="50">{{ $download->linkDown }}</textarea></td>
                                         </tr>
                                         <tr>
                                             <td>ID POST</td>
-                                            <td><input type="text" name="post" id="post" style="width: 100%;"></td>
+                                            <td><input type="text" name="post" id="post" style="width: 100%;" value="{{ $download->idDetailPost }}"></td>
                                         </tr>
                                         <tr>
                                             <td>THUMBNAIL (300x200)</td>
-                                            <td><input type="file" name="thumbnail" id="thumbnail"></td>
+                                            <td>
+                                                <img src="../upload/images/download/{{ $download->imgDown }}" width="20%"><br><br>
+                                                <input type="file" name="thumbnail" id="thumbnail">
+                                                <input type="hidden" name="img" id="img" value="{{ $download->imgDown }}">
+                                            </td>
                                         </tr>
                                         <tr>
-                                            <td><input type="checkbox" name="enable" value="1"> HIDDEN </td>
+                                            @if($download->enable == UNENABLE)
+                                                <td><input type="checkbox" name="enable" value="1"> HIDDEN </td>
+                                            @elseif ($download->enable == ENABLE)
+                                                <td><input type="checkbox" name="enable" value="1" checked> HIDDEN </td>
+                                            @endif
                                         </tr>
                                         <tr>
                                             <td colspan="2"><input type="submit" name="submit"></td>
