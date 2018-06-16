@@ -69,8 +69,8 @@
                                         <tr>
                                             <td>HIDDEN</td>
                                             <td>
-                                                <input type="radio" name="hidden" checked value="1"> YES
-                                                <input type="radio" name="hidden" value="0"> NO
+                                                <input type="radio" name="enable" checked value="1"> YES
+                                                <input type="radio" name="enable" value="0"> NO
                                             </td>
                                         </tr>
                                         <tr>

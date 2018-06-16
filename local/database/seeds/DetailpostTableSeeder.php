@@ -4426,7 +4426,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'enable'         	 => 0,
             'popularPost'        => 0,
             'updatePost'         => 0,
-        ])
+        ]);
 
         $post->create([
             'nameDetailPost'     => 'CLAMP xuất bản Manga Cardcaptor Sakura mới',

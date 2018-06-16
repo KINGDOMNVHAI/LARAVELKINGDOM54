@@ -45,7 +45,7 @@ class InsertSiteService extends ServiceProvider
             'urlSite'     => $request->url,
             'presentSite' => $request->present,
             'imgSite'     => $fileName, // Lấy tên file
-            'hiddenSite'  => $request->hidden,
+            'enable'      => $request->enable,
         ]);
 
         return $query;

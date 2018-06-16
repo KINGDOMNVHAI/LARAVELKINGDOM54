@@ -18,8 +18,8 @@ class DatabaseSeeder extends Seeder
         //$this->call(CategoryPostTableSeeder::class);  Dành cho 1 bài viết nhiều chuyên mục
         $this->call(DetailpostTableSeeder::class);
         $this->call(DownloadTableSeeder::class);
+        $this->call(SiteTableSeeder::class);
         $this->call(UsersTableSeeder::class);
-
 
         Model::reguard();
     }

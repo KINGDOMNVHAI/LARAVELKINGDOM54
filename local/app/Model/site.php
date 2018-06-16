@@ -11,7 +11,7 @@ class site extends Model
     public $timestamps = false;
 
     protected $fillable = [
-        'idSite','nameSite', 'urlSite', 'presentSite', 'imgSite', 'hiddenSite',
+        'idSite','nameSite', 'urlSite', 'presentSite', 'imgSite', 'enable',
     ];
 
 }
