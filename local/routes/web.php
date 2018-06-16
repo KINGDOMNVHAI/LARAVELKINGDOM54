@@ -30,6 +30,10 @@ Route::get('logout', 'Admin\DashboardController@logout')->name('logout');
 
 Route::get('/categories', 'Admin\CategoryController@indexList')->name('categories');
 
+Route::get('/categories-update', 'Admin\CategoryController@indexList')->name('categories-list-update');
+
+Route::get('/categories-delete/{idCat}', 'Admin\CategoryController@delete')->name('categories-delete');
+
 // ======================= Posts =======================
 
 Route::get('/posts', 'Admin\PostController@indexList')->name('posts');
@@ -64,7 +68,7 @@ Route::get('/sites-update/{idSite}', 'Admin\SiteController@indexUpdate')->name('
 
 Route::post('/sites-update/', 'Admin\SiteController@update')->name('sites-update');
 
-Route::post('/sites-delete/{idSite}', 'Admin\SiteController@delete')->name('sites-delete');
+Route::get('/sites-delete/{idSite}', 'Admin\SiteController@delete')->name('sites-delete');
 
 // ======================= Download =======================
 
@@ -80,7 +84,7 @@ Route::get('/download-update/{idDown}', 'Admin\DownloadController@indexUpdate')-
 
 Route::post('/download-update/', 'Admin\DownloadController@update')->name('download-update');
 
-Route::post('/download-delete/{idDown}', 'Admin\DownloadController@delete')->name('download-delete');
+Route::get('/download-delete/{idDown}', 'Admin\DownloadController@delete')->name('download-delete');
 
 
 

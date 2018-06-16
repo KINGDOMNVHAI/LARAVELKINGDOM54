@@ -85,7 +85,21 @@
                                             <td>{{ $post->dateDetailPost }}</td>
                                             <td>{{ str_limit($post->urlDetailPost,30) }}</td>
                                             <td><img src="upload/images/thumbnail/{{ $post->imgDetailPost }}" width="100%"></td>
-                                            <td><center>{{ $post->idCat }}</center></td>
+
+                                            <?php
+                                            $id = $post->idCat;
+                                            $con = mysqli_connect('localhost', 'root', '', 'nvhai');
+                                            mysqli_set_charset($con,"utf8");
+
+                                            $query = mysqli_query($con,"SELECT nameCat FROM category WHERE idCat = $id");
+                                            $row = mysqli_fetch_array($query,MYSQLI_NUM);
+
+                                            ?>
+
+                                            <td><a href="{{ route('categories-list-update',$post->idCat) }}">{{ $row[0] }}</a></td>
+
+                                            <?php mysqli_close($con); ?>
+
                                             <td>{{ $post->enable }}</td>
                                             <td>{{ $post->author }}</td>
                                             <td>{{ $post->viewDetailPost }}</td>
@@ -129,4 +143,3 @@
 
         <!-- Footer -->
         @include('admin.footer')
-        

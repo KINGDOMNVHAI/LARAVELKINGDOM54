@@ -85,7 +85,7 @@
                                                 <script>
                                                     function myFunction(a) {
                                                         var base_url = window.location.origin;
-                                                        var c = base_url + "/LARAVELKINGDOM/posts-delete/" + a;
+                                                        var c = base_url + "/LARAVELKINGDOM/categories-delete/" + a;
                                                         if (confirm("Bạn muốn xóa bài viết?")) {
                                                             window.location.replace(c);
                                                         }

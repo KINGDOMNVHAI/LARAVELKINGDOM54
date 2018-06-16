@@ -4499,7 +4499,22 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'updatePost'         => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Murenase! Shiiton Gakuen - Học viện sở thú',
+            'urlDetailPost'      => 'murenase-shiiton-gakuen-hoc-vien-so-thu',
+            'presentDetailPost'  => 'Học viện Seton, nơi con người và các loài vật khác cùng nhau chung sống và học tập. Sói loli bắt đầu sự nghiệp xây một bầy đàn đa chủng loài với nam chính Mazama Jin',
+            'contentDetailPost'  => 'http://www.nettruyen.com/truyen-tranh/murenase-shiiton-gakuen/chap-13/384508',
 
+            'dateDetailPost'     => '2016-03-10',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'         	 => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
 
 
 
@@ -6040,7 +6055,8 @@ Website : https://shikioriori.jp/',
             'presentDetailPost'  => 'Anime studio Production IMS tuyên bố phá sản vào tháng 12/2017',
             'contentDetailPost'  => 'http://goboiano.com/anime-studio-production-ims-has-gone-bankrupt/
 <br>
-https://twitter.com/saikickmouseao/status/1005167610483232769/photo/1',
+https://twitter.com/saikickmouseao/status/1005167610483232769/photo/1 <br>
+https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-debt-considers-filing-for-bankruptcy/.132781',
 
             'dateDetailPost'     => '2018-06-09',
             'imgDetailPost'      => '',
@@ -6052,6 +6068,75 @@ https://twitter.com/saikickmouseao/status/1005167610483232769/photo/1',
             'popularPost'        => 0,
             'updatePost'         => 0,
         ]);
+		
+		$post->create([
+            'nameDetailPost'     => 'Dự luật an ninh mạng Việt Nam chính thức được thông qua',
+            'urlDetailPost'      => 'du-luat-an-ninh-mang-chinh-thuc-duoc-thong-qua',
+            'presentDetailPost'  => 'Sau rất nhiều tranh luận, cuối cùng dự luật an ninh mạng đã được thông qua. Bắt đầu từ 1/1/2019, sẽ có rất nhiều thay đổi về cách sử dụng mạng xã hội, công cụ tìm kiếm của người dân Việt Nam',
+            'contentDetailPost'  => '',
 
+            'dateDetailPost'     => '2018-06-12',
+            'imgDetailPost'      => '',
+            'idCat'              => WEBSITE_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+		
+		$post->create([
+            'nameDetailPost'     => 'Light Novel Date a live chính thức ra mắt tại Việt Nam',
+            'urlDetailPost'      => 'light-novel-date-a-live-chinh-thuc-ra mat-tai-viet-nam',
+            'presentDetailPost'  => 'Sau rất nhiều cố gắng của cộng đồng, cuối cùng Amak cũng đã mang Light Novel Date a live về Việt Nam.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2018-06-13',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+		
+		$post->create([
+            'nameDetailPost'     => 'Dragon ball FighterZ dời lịch ra mắt trong năm nay',
+            'urlDetailPost'      => 'dragon-ball-fighterz-doi-lich-ra-mat-trong-nam-nay',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => 'https://www.animenewsnetwork.com/news/2018-06-12/dragon-ball-fighterz-gets-switch-release-this-year/.132817',
+
+            'dateDetailPost'     => '2018-06-14',
+            'imgDetailPost'      => '',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+
+		$post->create([
+            'nameDetailPost'     => 'Tuổi trung bình của Hikimori tại Nhật gia tăng',
+            'urlDetailPost'      => 'tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => 'https://www.animenewsnetwork.com/interest/2018-06-11/average-age-of-hikikomori-on-the-rise-in-japan/.132715',
+
+            'dateDetailPost'     => '2018-06-13',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'viewDetailPost'     => random_int(0,100),
+            'enable'             => 0,
+            'popularPost'        => 0,
+            'updatePost'         => 0,
+        ]);
+		
+		
     }    
 }

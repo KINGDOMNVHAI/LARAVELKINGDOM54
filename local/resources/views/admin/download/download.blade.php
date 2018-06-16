@@ -5,9 +5,6 @@
 <!-- kế thừa template bằng include -->
 @include('admin.header')
 
-<script type="text/javascript" language="javascript" src='{{asset("ckeditor/ckeditor.js")}}' ></script>
-<script type="text/javascript" language="javascript" src='{{asset("ckfinder/ckfinder.js")}}' ></script>
-
 </head>
 <body>
 

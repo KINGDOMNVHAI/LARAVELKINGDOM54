@@ -43,7 +43,7 @@
     <div class="login-form row">
 
         <img src="auth/images/chara_r_19.png" width="960" height="962"  alt="" id="lefting"/>
-		<img src="auth/images/chara_r_33.png" width="960" height="962"  alt="" id="righting"/>
+		<img src="auth/images/chara_r_52.png" width="960" height="962"  alt="" id="righting"/>
 
         <div id="content" class="container">
 

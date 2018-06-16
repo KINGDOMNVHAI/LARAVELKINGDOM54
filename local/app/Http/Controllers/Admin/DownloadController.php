@@ -83,7 +83,7 @@ class DownloadController extends Controller
         return redirect()->route('download');
     }
 
-    public function deletePost($idDown)
+    public function delete($idDown)
     {
         download::where('idDown', $idDown)->delete();
 

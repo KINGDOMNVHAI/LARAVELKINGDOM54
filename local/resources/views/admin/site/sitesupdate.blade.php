@@ -27,8 +27,8 @@
                     <div class="col-md-12">
                         <div class="card card-plain">
                             <div class="header">
-                                <h4 class="title">Edit Site</h4>
-                                <p class="category">Tên bài viết</p>
+                                <h4 class="title">Update</h4>
+                                <p class="category">Edit Site</p>
                             </div>
                             <div class="content table-responsive table-full-width">
                                 <table class="table table-hover">
@@ -37,15 +37,15 @@
 
                                         <tr>
                                             <td>ID</td>
-                                            <td>{{ $tin->idSite }} <input type="hidden" name="id" id="id" style="width: 100%;" value="{{ $tin->idSite }}"></td>
+                                            <td>{{ $site->idSite }} <input type="hidden" name="id" id="id" style="width: 100%;" value="{{ $site->idSite }}"></td>
                                         </tr>
                                         <tr>
                                             <td>Name</td>
-                                            <td><input type="text" name="name" id="name" style="width: 100%;" value="{{ $tin->nameSite }}" ></td>
+                                            <td><input type="text" name="name" id="name" style="width: 100%;" value="{{ $site->nameSite }}" ></td>
                                         </tr>
                                         <tr>
                                             <td>Present</td>
-                                            <td><textarea name="present" id="present" rows="10" cols="50">{{ $tin->presentSite }}</textarea></td>
+                                            <td><textarea name="present" id="present" rows="10" cols="50">{{ $site->presentSite }}</textarea></td>
                                             <script>CKEDITOR.replace('ippresent',{
                                                 filebrowserBrowseUrl: '{{ asset('ckfinder/ckfinder.html') }}',
                                                     filebrowserImageBrowseUrl: '{{ asset('ckfinder/ckfinder.html?type=Images') }}',
@@ -57,14 +57,14 @@
                                         </tr>
                                         <tr>
                                             <td>URL</td>
-                                            <td><input type="text" name="url" id="url" style="width: 100%;" value="{{ $tin->urlSite }}"></td>
+                                            <td><input type="text" name="url" id="url" style="width: 100%;" value="{{ $site->urlSite }}"></td>
                                         </tr>
                                         <tr>
                                             <td>THUMBNAIL (300x200)</td>
                                             <td>
-                                                <img src="../upload/images/thumbnail/{{ $tin->imgSite }}" width="20%"><br><br>
+                                                <img src="../upload/images/thumbnail/{{ $site->imgSite }}" width="20%"><br><br>
                                                 <input type="file" name="thumbnail" id="thumbnail">
-                                                <input type="hidden" name="img" id="img" value="{{ $tin->imgSite }}">
+                                                <input type="hidden" name="img" id="img" value="{{ $site->imgSite }}">
                                             </td>
                                         </tr>
                                         <tr>

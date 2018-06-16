@@ -59,12 +59,18 @@ class SiteController extends Controller
 
     public function indexUpdate($idSite)
     {
-        $tin = site::where('idSite', $idSite)->first();
+        if (Auth::check())
+        {
+            $site = site::where('idSite', $idSite)->first();
 
-        return view('admin.site.sitesupdate', [
-            'title' => TITLE_ADMIN_SITE,
-            'tin' => $tin
-        ]);
+            return view('admin.site.sitesupdate', [
+                'title'      => TITLE_ADMIN_POST,
+                'site'      => $site,
+            ]);
+        }
+        else {
+            return redirect()->route('kd-login');
+        }
     }
 
     public function update(Request $request)
@@ -72,14 +78,14 @@ class SiteController extends Controller
         $updateSite = new UpdateSiteService;
         $viewData = $updateSite->run($request);
 
-        return redirect('/sites')->with('result','Update Successfully');
+        return redirect()->route('sites')->with('result','Update Successfully');
     }
 
     public function delete($idSite)
     {
         site::where('idSite', $idSite)->delete();
 
-        return redirect('/sites');
+        return redirect()->route('sites');
     }
 
     public function search(Request $request)

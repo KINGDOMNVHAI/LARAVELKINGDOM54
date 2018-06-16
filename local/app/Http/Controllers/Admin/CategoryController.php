@@ -89,41 +89,11 @@ class CategoryController extends Controller
         return redirect()->route('posts');
     }
 
-    public function indexDelete()
+    public function delete($idCat)
     {
-        $viewData = detailpost::paginate(PAGINATE_POST_DELETE);
+        category::where('idCat', $idCat)->delete();
 
-        return view('admin.post.postsdelete', [
-            'title' => 'Posts - list of posts in KINGDOM NVHAI',
-            'posts' => $viewData
-        ]);
-    }
-
-    public function deletePost($idDetailPost)
-    {
-        detailpost::where('idDetailPost', $idDetailPost)->delete();
-
-        return redirect()->route('posts');
-    }
-
-    public function deleteManyPost(Request $request)
-    {
-        // Tạo mảng chứa các id từ checkbox
-        $mang = array();
-
-        // Đếm số lượng checkbox
-        $sumarray =  count($request->checkbox);
-
-        for ($i = 0; $i<$sumarray; $i++){
-
-            // Gán giá trị từ checkbox vào mảng
-            array_push($mang, $request->checkbox[$i]);
-
-            // Xóa mảng đó
-            DB::table('detailpost')->whereIn('idDetailPost', $mang)->delete();
-        }
-
-        return redirect()->route('posts');
+        return redirect()->route('categories');
     }
 
     public function search(Request $request)
