@@ -13,7 +13,7 @@ class detailpost extends Model
 
     protected $fillable = [
         'idDetailPost', 'nameDetailPost', 'urlDetailPost', 'presentDetailPost', 'contentDetailPost', 'dateDetailPost', 'imgDetailPost',
-        'idCat', 'signature', 'author', 'viewDetailPost', 'enable', 'popularPost', 'updatePost',
+        'idCat', 'signature', 'author', 'views', 'enable', 'popular', 'head_position', 'update',
     ];
 
 }

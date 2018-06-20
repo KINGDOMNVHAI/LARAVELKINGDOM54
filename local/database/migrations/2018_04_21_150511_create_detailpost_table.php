@@ -25,10 +25,11 @@ class CreateDetailpostTable extends Migration
             $table->integer('idCat');
             $table->string('signature');
             $table->string('author');
-            $table->string('viewDetailPost');
+            $table->string('views');
             $table->string('enable');
-            $table->string('popularPost');
-            $table->string('updatePost');
+            $table->string('popular');
+            $table->string('head_position')->nullable();
+            $table->string('update');
 
             $table->timestamp('created_at')->default(DB::raw('CURRENT_TIMESTAMP'));
             $table->timestamp('updated_at')->default(DB::raw('CURRENT_TIMESTAMP'));

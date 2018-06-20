@@ -22,7 +22,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="col-md-3">
+                        <div class="col-md-6">
                             {!! $posts->links() !!}
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                 </div> <!-- Row -->
 
                 <div class="col-md-12">
-                    <div class="col-md-3">
+                    <div class="col-md-6">
                         {!! $posts->links() !!}
                     </div>
                 </div>

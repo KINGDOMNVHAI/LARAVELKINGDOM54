@@ -70,7 +70,7 @@ define('PAGINATE_POST_DELETE', '30');
 define('PAGINATE_SITE_INDEX', '15');
 
 
-// ========== POST ==========
+// ========== NEWS ==========
 
 // === all ===
 
@@ -79,6 +79,13 @@ define('MOST_VIEW_HOME_POSTS', '4');
 define('UPDATE_HOME_POSTS', '4');
 define('RECENT_HOME_POSTS', '4');
 define('NEWEST_HOME_POSTS', '4');
+
+// === header ===
+
+define('HEADER_TOP_LEFT', '1');
+define('HEADER_BOTTOM_LEFT', '2');
+define('HEADER_TOP_RIGHT', '3');
+define('HEADER_BOTTOM_LEFT', '4');
 
 // === list post ===
 

@@ -110,7 +110,30 @@ Author URL: http://www.free-css.com/template-categories/news
 
                             </ul>
                         </li>
-                        <li><a href="pages/single.html">Download</a></li>
+                        <li class="dropdown"> <a href="#" class="" data-toggle="dropdown" role="button" aria-expanded="false">Download</a>
+                            <ul class="dropdown-menu" role="menu">
+                                <?php
+                                $enable = ENABLE;
+                                $con = new mysqli("localhost", "root", "", "nvhai");
+                                mysqli_set_charset($con,"utf8");
+                                $query = "SELECT * FROM category WHERE enable = $enable";
+
+                                if ($result = $con->query($query)) {
+
+                                /* fetch object array */
+                                while ($obj = $result->fetch_object()) {
+                                ?>
+
+                                <li><a href="{{ route('download-page', $obj->urlCat ) }}">{{ $obj->nameCat }}</a></li>
+
+                                <?php
+                                }
+                                /* free result set */
+                                $result->close();
+                                } ?>
+
+                            </ul>
+                        </li>
                         <li><a href="pages/contact.html">Contact</a></li>
                         <li><a href="pages/404.html">404 page</a></li>
                     </ul>

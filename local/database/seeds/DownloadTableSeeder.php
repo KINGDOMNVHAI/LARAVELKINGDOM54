@@ -18,6 +18,7 @@ class DownloadTableSeeder extends Seeder
             'linkDown' => 'xfvxfcv xcsertfg',
             'imgDown'  => 'Infinite-Stratos.jpg',
             'enable'  => 1,
+            'idDetailPost'  => 6,
         ]);
 
         $user->create([
@@ -25,6 +26,7 @@ class DownloadTableSeeder extends Seeder
             'linkDown' => 'adfvsgewrtgewt534',
             'imgDown'  => 'Madan.jpg',
             'enable'  => 0,
+            'idDetailPost'  => 4,
         ]);
     }
 }

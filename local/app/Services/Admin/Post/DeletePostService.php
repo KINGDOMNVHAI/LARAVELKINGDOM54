@@ -31,7 +31,7 @@ class DeletePostService extends ServiceProvider
                 'category.nameCat AS name_category',
                 'category.urlCat AS url_category' ,
                 DB::raw('count(detailpost.idCat) as count_post'),
-                DB::raw('sum(detailpost.viewDetailPost) as view_post')
+                DB::raw('sum(detailpost.views) as view_post')
             )
             ->leftJoin('category','detailpost.idCat','category.idCat')
             ->groupBy('category.nameCat', 'category.urlCat')

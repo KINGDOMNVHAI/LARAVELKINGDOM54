@@ -14,7 +14,7 @@ class DetailpostTableSeeder extends Seeder
     {
         $post = new detailpost();
         $post->create([
-            'nameDetailPost'     => 'Highschool DxD - Trường học ác quỷ',
+            'nameDetailPost'     => '[Review] Highschool DxD - Trường học ác quỷ',
             'urlDetailPost'      => 'Highschool-DxD-truong-hoc-ac-quy',
             'presentDetailPost'  => 'Một cô gái xinh đẹp đột nhiên muốn hẹn hò với nam chính. Sau một ngày hẹn hò vui vẻ, cô ấy nói mong muốn của mình "Cậu có thể chết đi được không?".',
             'contentDetailPost'  => '<p>Thể loại: Hành động, Hài hước, Ecchi, Học đường, Harem, Lãng mạn, Fantasy, Siêu nhiên.</p>
@@ -55,14 +55,14 @@ class DetailpostTableSeeder extends Seeder
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 1,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 1,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Amagi Brilliant Park – Công viên giải trí kỳ lạ',
+            'nameDetailPost'     => '[Review] Amagi Brilliant Park – Công viên giải trí kỳ lạ',
             'urlDetailPost'      => 'Amagi-Brilliant-Park-Cong-vien-giai-tri-ky-la',
             'presentDetailPost'  => 'Một cô gái xinh đẹp chĩa súng và mời đi hẹn hò với bạn. Địa điểm là một công viên xuống cấp trầm trọng có nguy cơ bị đóng cửa. Công chúa ở đó muốn bạn làm quản lý để vực dậy công viên.',
             'contentDetailPost'  => '<p>Thể loại: hài hước, lãng mạn. Phụ: hành động, Ecchi.</p>
@@ -102,14 +102,14 @@ class DetailpostTableSeeder extends Seeder
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ',
+            'nameDetailPost'     => '[Review] Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ',
             'urlDetailPost'      => 'Seirei-Tsukai-no-Blade-Dance-Kiem-Vu-Tinh-Linh-Su',
             'presentDetailPost'  => 'Nam chính có khả năng triệu hồi Tinh Linh mà chỉ có con gái mới làm được. Và nam sinh này phải học trong trường nữ sinh, lập đội tham dự Đại Hội Kiếm Vũ Tinh Linh Sứ.',
             'contentDetailPost'  => '<p>Thể loại: Hành động, Hài hước, Ecchi, Học đường, Harem, Lãng mạn, Fantasy, Siêu nhiên.</p>
@@ -142,14 +142,14 @@ class DetailpostTableSeeder extends Seeder
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Madan No Ou To Vanadis - Thần tiễn và Chiến cơ',
+            'nameDetailPost'     => '[Review] Madan No Ou To Vanadis - Thần tiễn và Chiến cơ',
             'urlDetailPost'      => 'Madan-No-Ou-To-Vanadis-Than-Tien-va-Chien-Co',
             'presentDetailPost'  => 'Một xạ thủ thiên tài là bá tước của một vùng đất nhỏ. 7 nữ Chiến Cơ dũng mãnh được 7 món Long Cụ lựa chọn.',
             'contentDetailPost'  => '<p>Thể loại: Ecchi, Phiêu Lưu, Harem, Romance, Fantasy.</p>
@@ -198,14 +198,14 @@ class DetailpostTableSeeder extends Seeder
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Baka to Test to Shoukanjuu - Lũ ngốc, bài kiểm tra và linh thú triệu hồi',
+            'nameDetailPost'     => '[Review] Baka to Test to Shoukanjuu - Lũ ngốc, bài kiểm tra và linh thú triệu hồi',
             'urlDetailPost'      => 'Baka-to-Test-to-Shoukanjuu-lu-ngoc-bai-kiem-tra-va-Linh-Thu-trieu-hoi',
             'presentDetailPost'  => 'Trong lớp học dành cho những học sinh có điểm số kém nhất, một cậu bé "học sinh cá biệt thần thánh" cùng những người bạn cố gắng chứng minh "điểm số không phải là tất cả".',
             'contentDetailPost'  => '<p>Thể loại: Hài Hước, Tâm Lý - Lãng Mạn, Khoa Học - Viễn Tưởng, Hành Động, Ecchi, Harem.</p>
@@ -275,14 +275,14 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Infinite Stratos',
+            'nameDetailPost'     => '[Review] Infinite Stratos',
             'urlDetailPost'      => 'Infinite-Stratos',
             'presentDetailPost'  => 'Một cậu nam sinh học trong trường nữ sinh, nơi đào tạo ra những phi công lái Infinite Stratos - thiết bị bay có khả năng chiến đấu. Và cậu đã nổi tiếng khắp trường vì là nam giới duy nhất lái được IS.',
             'contentDetailPost'  => '<p>Thể loại: Hành Động, Hài Hước, Mecha, Shounen, Harem, Viễn Tưởng, Ecchi</p>
@@ -324,14 +324,14 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Walkure Romanze - Hiệp sĩ đấu thương',
+            'nameDetailPost'     => '[Review] Walkure Romanze - Hiệp sĩ đấu thương',
             'urlDetailPost'      => 'Walkure-Romanze-Hiep-si-dau-thuong',
             'presentDetailPost'  => 'Mang phong cách Châu Âu cổ kính, bộ phim nói về chàng trai và các cô gái yêu thích bộ môn cưỡi ngựa đấu thương. ',
             'contentDetailPost'  => '<p>Thể loại: Hoạt Hình, Hài Hước, Tâm Lý - Lãng Mạn, Cổ Điển, Harem, Thể Thao.
@@ -381,14 +381,14 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Isuca',
+            'nameDetailPost'     => '[Review] Isuca',
             'urlDetailPost'      => 'Isuca',
             'presentDetailPost'  => 'Một nam sinh vô tình thả một miêu nữ. Thế là cậu phải hợp tác với một cô gái có tài xạ tiễn để bắt lại. Cuối cùng, cậu xin tha mạng cho miêu nữ và harem của cậu bắt đầu từ đây.',
             'contentDetailPost'  => '<p>Thể loại: hài hước, ecchi, hành động, harem, lãng mạn, siêu nhiên.</p>
@@ -421,10 +421,10 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -478,10 +478,10 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -513,10 +513,10 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -538,10 +538,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -592,10 +592,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -631,10 +631,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -662,10 +662,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -708,10 +708,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -743,10 +743,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -760,10 +760,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -777,10 +777,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -820,10 +820,10 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -878,10 +878,10 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -937,10 +937,10 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1002,10 +1002,10 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1046,10 +1046,10 @@ Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1102,10 +1102,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1146,10 +1146,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1182,10 +1182,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1199,10 +1199,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1239,10 +1239,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1269,10 +1269,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1294,10 +1294,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1318,10 +1318,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1350,10 +1350,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1377,10 +1377,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         
@@ -1396,10 +1396,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1525,10 +1525,10 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1565,14 +1565,14 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Safecracker – Chuyên gia phá két',
+            'nameDetailPost'     => '[Review] Safecracker – Chuyên gia phá két',
             'urlDetailPost'      => 'Safecracker-chuyen-gia-pha-ket',
             'presentDetailPost'  => 'Hãy thể hiện đầu óc, tư duy logic của bạn khi đối mặt với những chiếc két sắt chứa đựng những câu đố khó chịu nhất.',
             'contentDetailPost'  => '<p>Tên game: Safecracker<br>
@@ -1623,10 +1623,10 @@ các viên bi nằm gần các mũi tên cùng màu</p>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1687,10 +1687,10 @@ Thể loại: Hành động bí mật<br>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1748,10 +1748,10 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1924,10 +1924,10 @@ không cần làm việc gì khác nữa.</p></center>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -1983,10 +1983,10 @@ không cần làm việc gì khác nữa.</p></center>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2017,14 +2017,14 @@ không cần làm việc gì khác nữa.</p></center>
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Shinmai Maou no Tesutamento – Cô em gái Quỷ Vương',
+            'nameDetailPost'     => '[Review] Shinmai Maou no Tesutamento – Cô em gái Quỷ Vương',
             'urlDetailPost'      => 'Shinmai-Maou-no-Tesutamento-Co-em-gai-Quy-Vuong',
             'presentDetailPost'  => 'Anh Hùng đột nhiên có hai cô em gái. Một người là con của Quỷ Vương, một người là Succubus. Anh Hùng sẽ phải cùng bạn thuở nhỏ của mình chiến đấu chống lại mọi kẻ thù để bảo vệ họ.',
             'contentDetailPost'  => '<p>Shinmai Maou no Tesutamento là series Light Novel của tác giả Tetsuto Uesu, minh họa bởi Ookuma Nekosuke. Series đã có Manga và Anime. Anime do hang Kadokawa sản xuất đã được ra mắt vào đầu năm 2015 và đã nhận được sự ủng hộ nhiệt tình của các khán giả do Manga đã được ra mắt trước đó.</p>
@@ -2060,10 +2060,10 @@ không cần làm việc gì khác nữa.</p></center>
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 
@@ -2146,14 +2146,14 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không',
+            'nameDetailPost'     => '[Review] Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không',
             'urlDetailPost'      => 'Kuusen-Madoushi-Kouhosei-No-Kyoukan',
             'presentDetailPost'  => '3 cô gái có thành tích tệ hại nhất trường phép thuật được anh chàng vai chính hướng dẫn để trở thành đội mạnh nhất.',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hành Động, Tình Cảm, Viễn Tưởng, Học Đường.</p>
@@ -2202,10 +2202,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2242,10 +2242,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2281,14 +2281,14 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Unbreakable Machine-Doll – Búp bê chiến đấu',
+            'nameDetailPost'     => '[Review] Unbreakable Machine-Doll – Búp bê chiến đấu',
             'urlDetailPost'      => 'Unbreakable-Machine-Doll-Bup-Be-Chien-Dau',
             'presentDetailPost'  => 'Một học sinh chuyển trường đến Vương quốc Anh để trở thành người điều khiển rối giỏi nhất và trả thù cho gia đình.',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hành Động, Hài Hước, Siêu Nhiên, School life.</p>
@@ -2331,14 +2331,14 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Seikoku no Dragonar - Trường học kỵ sĩ rồng',
+            'nameDetailPost'     => '[Review] Seikoku no Dragonar - Trường học kỵ sĩ rồng',
             'urlDetailPost'      => 'Seikoku-no-Dragonar-Truong-hoc-ky-si-rong',
             'presentDetailPost'  => 'Với phong cách tương tự như Unbreakable Machine-Doll nhưng vẫn có sức hút riêng, bộ phim rất đáng để khán giả thích harem quan tâm.',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hành Động, Hài Hước, Siêu Nhiên, School life.</p>
@@ -2396,10 +2396,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2470,10 +2470,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2508,10 +2508,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2586,10 +2586,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 1,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'        => 1,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2641,10 +2641,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2658,10 +2658,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2702,10 +2702,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2735,10 +2735,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2796,10 +2796,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2850,10 +2850,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -2867,10 +2867,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 1,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'         => 1,
         ]);
 
         $post->create([
@@ -2937,10 +2937,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3013,10 +3013,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3081,10 +3081,10 @@ Thông điệp của bộ phim rất sâu sắc: Nhìn thấy những người m
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
    
         $post->create([
@@ -3137,10 +3137,10 @@ bạn sẽ thấy cảnh này rất quen thuộc.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 $post->create([
@@ -3196,10 +3196,10 @@ $post->create([
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 $post->create([
@@ -3245,10 +3245,10 @@ $post->create([
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 $post->create([
@@ -3298,10 +3298,10 @@ $post->create([
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3340,10 +3340,10 @@ $post->create([
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3389,10 +3389,10 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3419,10 +3419,10 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3465,10 +3465,10 @@ _ Nhà đại bác: bắn những quả đại bác lớn với tốc độ ch�
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3533,10 +3533,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3577,10 +3577,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3630,10 +3630,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -3647,10 +3647,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3690,10 +3690,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3707,10 +3707,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3795,10 +3795,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 1,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 1,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3812,14 +3812,14 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Dead Tube - chết thật để sống ảo',
+            'nameDetailPost'     => '[Review] Dead Tube - chết thật để sống ảo',
             'urlDetailPost'      => 'Dead-tube-chet-that-de-song-ao',
             'presentDetailPost'  => 'Một bộ manga kinh dị, ecchi nặng nói về thực trạng sống ảo, thích quay video độc để câu view.',
             'contentDetailPost'  => 'Viết lại',
@@ -3829,10 +3829,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3846,10 +3846,10 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3911,10 +3911,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3958,10 +3958,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3975,10 +3975,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3992,10 +3992,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4009,10 +4009,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4026,10 +4026,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'        	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4066,10 +4066,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -4085,10 +4085,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -4102,10 +4102,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4119,10 +4119,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4161,10 +4161,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4178,10 +4178,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4195,10 +4195,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4212,10 +4212,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4229,10 +4229,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4258,10 +4258,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4307,10 +4307,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4324,10 +4324,10 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4354,10 +4354,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4371,10 +4371,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4388,10 +4388,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4405,10 +4405,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4422,10 +4422,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4459,10 +4459,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'        	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -4476,10 +4476,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 1,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'         => 1,
         ]);
 
         $post->create([
@@ -4493,10 +4493,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4510,10 +4510,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 
@@ -4634,10 +4634,10 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -4736,10 +4736,10 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'        	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -4807,10 +4807,10 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'        	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -4884,10 +4884,10 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'        	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -4915,10 +4915,10 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'        	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -4978,10 +4978,10 @@ cải thiện tình trạng này?
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5058,10 +5058,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5085,10 +5085,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5136,10 +5136,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5153,10 +5153,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5170,10 +5170,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5197,10 +5197,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         
@@ -5256,10 +5256,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5273,10 +5273,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5290,10 +5290,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5328,10 +5328,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5353,10 +5353,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5378,10 +5378,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
         
@@ -5397,10 +5397,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5414,10 +5414,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5486,10 +5486,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5548,10 +5548,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5565,10 +5565,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
         
         $post->create([
@@ -5634,10 +5634,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
         $post->create([
@@ -5724,10 +5724,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5754,10 +5754,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5771,10 +5771,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5788,10 +5788,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 
@@ -5813,10 +5813,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5828,12 +5828,12 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'dateDetailPost'     => '2017-06-01',
             'imgDetailPost'      => '',
             'idCat'              => ANIME_POST,
-            'signature'          => 0,
+            'signature'          => UNENABLE,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -5847,10 +5847,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5868,10 +5868,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5887,10 +5887,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5906,10 +5906,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5923,10 +5923,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5940,10 +5940,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5957,10 +5957,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -5977,10 +5977,10 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -5999,10 +5999,10 @@ Website : https://shikioriori.jp/',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'         	 => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'         	 => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -6016,10 +6016,10 @@ Website : https://shikioriori.jp/',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -6043,10 +6043,11 @@ Website : https://shikioriori.jp/',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_BOTTOM_LEFT,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -6063,10 +6064,11 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_TOP_LEFT,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -6080,10 +6082,10 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -6097,10 +6099,10 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		$post->create([
@@ -6114,10 +6116,10 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 
 		$post->create([
@@ -6131,10 +6133,10 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
-            'viewDetailPost'     => random_int(0,100),
-            'enable'             => 0,
-            'popularPost'        => 0,
-            'updatePost'         => 0,
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'update'             => 0,
         ]);
 		
 		

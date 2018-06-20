@@ -14,9 +14,23 @@ class SiteTableSeeder extends Seeder
     {
         $site = new site();
         $site->create([
-            'nameSite'      => 'Website - Mạng xã hội',
-            'urlSite'       => 'website-mang-xa-hoi',
-            'presentSite'   => 'Website - Mạng xã hội',
+            'nameSite'      => 'Youtube Channel',
+            'urlSite'       => 'https://www.youtube.com/channel/UCxUL0zS-XiU36bkUsr5dWbg',
+            'presentSite'   => 'Kênh Youtube của KINGDOM NVHAI',
+            'imgSite'       => '',
+            'enable'        => 1,
+        ]);
+        $site->create([
+            'nameSite'      => 'Facebook Fanpage',
+            'urlSite'       => 'https://www.facebook.com/NVHAI-306458502862792/',
+            'presentSite'   => 'Fanpage của KINGDOM NVHAI',
+            'imgSite'       => '',
+            'enable'        => 1,
+        ]);
+        $site->create([
+            'nameSite'      => 'Kawaii Code',
+            'urlSite'       => 'advuybhdszlcjn',
+            'presentSite'   => 'Blog lập trình',
             'imgSite'       => '',
             'enable'        => 1,
         ]);

@@ -31,7 +31,7 @@ class ListUpdatePost extends ServiceProvider
             $new = $new->where('idCat', '=', $idCat);
         }
 
-        $new = $new->where('updatePost', '=', UPDATE_POST)
+        $new = $new->where('update', '=', UPDATE_POST)
             ->orderBy('dateDetailPost', 'desc')
             ->take($num)
             ->get();

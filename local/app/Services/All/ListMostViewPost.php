@@ -31,7 +31,7 @@ class ListMostViewPost extends ServiceProvider
             $view = $view->where('idCat', '=', $idCat);
         }
 
-        $view = $view->orderBy('viewDetailPost', 'desc')
+        $view = $view->orderBy('views', 'desc')
             ->latest('dateDetailPost')
             ->take($num)
             ->get();

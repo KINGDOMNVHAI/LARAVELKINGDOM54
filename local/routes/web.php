@@ -128,6 +128,10 @@ Route::get('/category/{urlCat}', 'News\PostController@listPostCategory')->name('
 
 Route::get('/post/{urlDetailPost}', 'News\PostController@contentPost')->name('post-content');
 
+// ======================= Download Page =======================
+
+Route::get('/download/{urlCat}', 'News\DownloadController@listDownload')->name('download-page');
+
 // ======================= Search Page =======================
 
 Route::post('/list-search-post', 'News\PostController@listSearch')->name('list-search-post');

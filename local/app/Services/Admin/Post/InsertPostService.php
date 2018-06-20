@@ -70,9 +70,9 @@ class InsertPostService extends ServiceProvider
             'signature'         => Auth::user()->signature,
             'author'            => Auth::user()->username,
             'enable'            => $enable,
-            'popularPost'       => $popular,
-            'updatePost'        => $update,
-            'viewDetailPost'    => 0,
+            'popular'           => $popular,
+            'update'            => $update,
+            'views'             => 0,
         ]);
 
         return $query;
