@@ -58,6 +58,7 @@ class DetailpostTableSeeder extends Seeder
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 1,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -105,6 +106,7 @@ class DetailpostTableSeeder extends Seeder
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -145,6 +147,7 @@ class DetailpostTableSeeder extends Seeder
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -201,6 +204,7 @@ class DetailpostTableSeeder extends Seeder
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -278,6 +282,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -327,6 +332,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -384,6 +390,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -424,6 +431,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -481,6 +489,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -516,6 +525,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -541,6 +551,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -595,6 +606,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -634,6 +646,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -665,6 +678,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -711,6 +725,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -746,6 +761,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -763,6 +779,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -780,6 +797,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -823,6 +841,7 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -881,6 +900,7 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -940,6 +960,7 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1005,6 +1026,7 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1049,6 +1071,7 @@ Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1105,6 +1128,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1149,6 +1173,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1185,6 +1210,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1202,6 +1228,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1242,6 +1269,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1272,6 +1300,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1297,6 +1326,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1321,6 +1351,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1353,6 +1384,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1380,6 +1412,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1399,6 +1432,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1528,6 +1562,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1568,6 +1603,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1626,6 +1662,7 @@ các viên bi nằm gần các mũi tên cùng màu</p>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1690,6 +1727,7 @@ Thể loại: Hành động bí mật<br>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1751,6 +1789,7 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1927,6 +1966,7 @@ không cần làm việc gì khác nữa.</p></center>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -1986,6 +2026,7 @@ không cần làm việc gì khác nữa.</p></center>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2020,6 +2061,7 @@ không cần làm việc gì khác nữa.</p></center>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2063,6 +2105,7 @@ không cần làm việc gì khác nữa.</p></center>
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2149,6 +2192,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2205,6 +2249,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2245,6 +2290,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2284,6 +2330,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2334,6 +2381,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2399,6 +2447,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2473,6 +2522,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2511,6 +2561,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2588,7 +2639,8 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
-            'popular'        => 1,
+            'popular'            => 1,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2644,6 +2696,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2661,6 +2714,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2705,6 +2759,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2738,6 +2793,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2799,6 +2855,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2853,6 +2910,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -2870,7 +2928,8 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
-            'update'         => 1,
+            'head_position'      => HEADER_NONE,
+            'update'             => 1,
         ]);
 
         $post->create([
@@ -2940,6 +2999,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3016,6 +3076,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3084,6 +3145,7 @@ Thông điệp của bộ phim rất sâu sắc: Nhìn thấy những người m
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
    
@@ -3140,6 +3202,7 @@ bạn sẽ thấy cảnh này rất quen thuộc.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3199,6 +3262,7 @@ $post->create([
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3248,6 +3312,7 @@ $post->create([
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3301,6 +3366,7 @@ $post->create([
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3343,6 +3409,7 @@ $post->create([
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3392,6 +3459,7 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3422,6 +3490,7 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3468,6 +3537,7 @@ _ Nhà đại bác: bắn những quả đại bác lớn với tốc độ ch�
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3536,6 +3606,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3580,6 +3651,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3633,6 +3705,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3650,6 +3723,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3693,6 +3767,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3710,6 +3785,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3798,6 +3874,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 1,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3815,6 +3892,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -3832,11 +3910,12 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Grand Blue - CLB lặn hài hước',
+            'nameDetailPost'     => '[Review] Grand Blue - CLB lặn hài hước',
             'urlDetailPost'      => 'grand-blue-CLB-lan-hai-huoc',
             'presentDetailPost'  => 'Manga cực kỳ hài hước về CLB lặn bẩn bựa',
             'contentDetailPost'  => 'Viết lại',
@@ -3849,11 +3928,12 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Black Lagoon - Cuộc sống tội phạm',
+            'nameDetailPost'     => '[Review] Black Lagoon - Cuộc sống tội phạm',
             'urlDetailPost'      => 'Black-Lagoon-cuoc-song-toi-pham',
             'presentDetailPost'  => 'Bộ phim nói về thế giới ngầm, nơi đầy rẫy tội phạm, rượu bia, súng đạn, bắn giết của những kẻ xuất thân từ mọi thành phần, từ mọi nơi trên thế giới.',
             'contentDetailPost'  => '<p>Thể loại: hàng động, tâm lý.</p>
@@ -3914,11 +3994,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Cupid Chocolate - Socola của thần tình yêu',
+            'nameDetailPost'     => '[Review] Cupid Chocolate - Socola của thần tình yêu',
             'urlDetailPost'      => 'Cupid-Chocolate-Socola-cua-than-tinh-yeu',
             'presentDetailPost'  => 'Một chàng trai bình thường, học giỏi đột nhiên có một dàn harem đầy chất lượng bám theo. Họ đã ăn phải socola của thần tình yêu.',
             'contentDetailPost'  => '<p>Aishen qiaokeli-ing, tên gọi tiếng Anh là Cupid Chocolate, là anime do Trung Quốc sản xuất, được phát hành vào năm 2015 với 15 tập phim. Cupid Chocolate còn có bộ manga cùng tên.</p>
@@ -3961,11 +4042,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Yuusha-sama yukagen wa ikaga desu ka - Anh hùng làm việc tại suối nước nóng',
+            'nameDetailPost'     => '[Review] Yuusha-sama yukagen wa ikaga desu ka - Anh hùng làm việc tại suối nước nóng',
             'urlDetailPost'      => 'yuusha-sama-yukagen-wa-ikaga-desu-ka-anh-hung-lam-viec-tai-suoi-nuoc-nong',
             'presentDetailPost'  => 'Manga về anh hùng Loki làm việc tại suối nước nóng, phục vụ các loại sinh vật khác nhau.',
             'contentDetailPost'  => '',
@@ -3978,11 +4060,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Nidome no jinsei wo isekai de - Ông già và 2 cô gái',
+            'nameDetailPost'     => '[Review] Nidome no jinsei wo isekai de - Ông già và 2 cô gái',
             'urlDetailPost'      => 'nidome-no-jinsei-wo-isekai-de-ong-gia-va-2-co-gai',
             'presentDetailPost'  => 'Cựu chiến binh 94 tuổi đầu thai sang kiếp khác và du hành với 2 cô gái.',
             'contentDetailPost'  => '',
@@ -3995,11 +4078,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Tensei shitara kendeshita - Tái sinh làm kiếm',
+            'nameDetailPost'     => '[Review] Tensei shitara kendeshita - Tái sinh làm kiếm',
             'urlDetailPost'      => 'tensei-shitara-kendeshita-tai-sinh-lam-kiem',
             'presentDetailPost'  => 'Chết vì tai nạn giao thông, nam chính tái sinh làm kiếm bị phong ấn được cô bé nô lệ rút ra. Anh chọn cô bé làm chủ nhân.',
             'contentDetailPost'  => '',
@@ -4012,11 +4096,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Kumo desu ga nani ka - Nữ yêu nhền nhện',
+            'nameDetailPost'     => '[Review] Kumo desu ga nani ka - Nữ yêu nhền nhện',
             'urlDetailPost'      => 'kumo-desu-ga-nani-ka-nu-yeu-nhen-nhen',
             'presentDetailPost'  => 'Nữ sinh sống NEET tái sinh làm nhện trong một mê cung hang động. Cô phải đấu tranh sinh tồn để lên level',
             'contentDetailPost'  => '',
@@ -4029,6 +4114,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'        	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4069,11 +4155,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
 		$post->create([
-            'nameDetailPost'     => 'Rokujouma no shinryakusha - Anh hùng và những kẻ xâm lược',
+            'nameDetailPost'     => '[Review] Rokujouma no shinryakusha - Anh hùng và những kẻ xâm lược',
             'urlDetailPost'      => 'rokujouma-no-shinryakusha-',
             'presentDetailPost'  => 'Satomi Koutarou tưởng thuê được căn phòng 106 cực rẻ. Ai ngờ đó lại là nơi tập hợp của những kẻ xâm lược Trái Đất vì nhiều mục đích.',
             'contentDetailPost'  => 'Một đoạn ngắn trong anime https://www.youtube.com/watch?v=c33xmwVx-Ig
@@ -4088,11 +4175,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
 		$post->create([
-            'nameDetailPost'     => 'Taimadou Gakuen 35 Shiken Shoutai - Tiểu đội 35',
+            'nameDetailPost'     => '[Review] Taimadou Gakuen 35 Shiken Shoutai - Tiểu đội 35',
             'urlDetailPost'      => 'taimadou-gakuen-35-shiken-shoutai-tieu-doi-35',
             'presentDetailPost'  => 'Tiểu đội 35 đứng bét vừa nhận thêm Kusanagi Takeru chuyên xài kiếm và con gái hiệu trưởng Ootori Ouka tài năng. Cả 2 đều có điểm chung là khế ước với Relic Eater',
             'contentDetailPost'  => '',
@@ -4105,11 +4193,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Absolute Duo - Cộng sự tuyệt đối',
+            'nameDetailPost'     => '[Review] Absolute Duo - Cộng sự tuyệt đối',
             'urlDetailPost'      => 'absolute-duo-cong-su-tuyet-doi',
             'presentDetailPost'  => 'Một dạng phim khế ước khác. Kononoe Toruu tham gia học viện Kouryou, phát hiện ra vũ khí của mình là một tấm khiên và bắt cặp với cô bé Julie Sigtuna',
             'contentDetailPost'  => '',
@@ -4122,6 +4211,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4164,11 +4254,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Gate: Jieitai Kanochi nite, Kaku Tatakaeri',
+            'nameDetailPost'     => '[Review] Gate: Jieitai Kanochi nite, Kaku Tatakaeri',
             'urlDetailPost'      => 'gate-jieitai-kanochi-nite-kaku-tatakaeri-canh-cong-den-the-gioi-khac',
             'presentDetailPost'  => 'Thế giới tình cờ phát hiện ra một cánh cổng thông với thế giới khác tại Nhật Bản. Một cuộc xâm lược, giao lưu văn hóa giữa 2 thế giới được hình thành.',
             'contentDetailPost'  => '',
@@ -4181,11 +4272,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Hundred',
+            'nameDetailPost'     => '[Review] Hundred',
             'urlDetailPost'      => 'Hundred',
             'presentDetailPost'  => 'Hayato Kisarai được đào tạo tại Little Garden để trở thành một Slayer chiến đấu bảo vệ Trái Đất và có trận chiến mở màn với nữ hoàng Claire Harvey',
             'contentDetailPost'  => '',
@@ -4198,11 +4290,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Musaigen no Phantom World - Thế giới Phantom',
+            'nameDetailPost'     => '[Review] Musaigen no Phantom World - Thế giới Phantom',
             'urlDetailPost'      => 'musaigen-no-phantom-world-the-gioi-phantom',
             'presentDetailPost'  => 'Haruhiko cùng nhóm bạn (harem) chiến đấu chống Phantom hình thành từ não bộ con người.',
             'contentDetailPost'  => '',
@@ -4215,11 +4308,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Tawawa on Monday - Thứ 2 nặng nề',
+            'nameDetailPost'     => '[Review] Tawawa on Monday - Thứ 2 nặng nề',
             'urlDetailPost'      => 'Tawawa-on-monday-thu-2-nang-ne',
             'presentDetailPost'  => 'Tawawa on Monday nói về cô gái ngực siêu khủng và chàng trai không rõ tên. Họ gặp nhau mỗi sáng thứ 2, kèm theo nhiều chuyện hài hước.',
             'contentDetailPost'  => 'Tên gọi khác là getsuyoubi-no-tawawa',
@@ -4232,6 +4326,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4261,6 +4356,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4310,11 +4406,12 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Okusama ga Seitokaichou - Bạn gái tôi là hội trưởng',
+            'nameDetailPost'     => '[Review] Okusama ga Seitokaichou - Bạn gái tôi là hội trưởng',
             'urlDetailPost'      => 'okusama-ga-seitokaichou-ban-gai-toi-la-hoi-truong',
             'presentDetailPost'  => 'Hội Trưởng Wakana Ui lên sân khấu, ném bao cao su ra và tuyên bố tự do yêu đương trong trường. Sau đó cô dọn đến ở chung với Phó Hội Trưởng Izumi Hayato',
             'contentDetailPost'  => '',
@@ -4327,6 +4424,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4357,6 +4455,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4374,6 +4473,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4391,6 +4491,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4408,6 +4509,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4425,6 +4527,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4462,6 +4565,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'        	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -4479,7 +4583,8 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
-            'update'         => 1,
+            'head_position'      => HEADER_NONE,
+            'update'             => 1,
         ]);
 
         $post->create([
@@ -4496,6 +4601,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4513,6 +4619,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -4637,6 +4744,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'views'              => random_int(0,100),
             'enable'         	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -4739,6 +4847,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'views'              => random_int(0,100),
             'enable'        	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -4810,6 +4919,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'views'              => random_int(0,100),
             'enable'        	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -4887,6 +4997,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'views'              => random_int(0,100),
             'enable'        	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -4918,6 +5029,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'views'              => random_int(0,100),
             'enable'        	 => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -4981,6 +5093,7 @@ cải thiện tình trạng này?
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5061,6 +5174,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5088,6 +5202,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5139,6 +5254,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5156,6 +5272,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5173,6 +5290,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5200,6 +5318,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5259,6 +5378,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5276,6 +5396,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5293,6 +5414,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5331,6 +5453,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5356,6 +5479,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5381,6 +5505,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5400,6 +5525,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5417,6 +5543,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5489,6 +5616,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5551,6 +5679,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5568,6 +5697,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
         
@@ -5637,6 +5767,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5727,6 +5858,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5757,6 +5889,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5774,6 +5907,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5791,6 +5925,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5816,6 +5951,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5833,6 +5969,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5850,6 +5987,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5871,6 +6009,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -5890,6 +6029,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5909,6 +6049,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5926,6 +6067,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5943,6 +6085,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5960,6 +6103,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -5980,6 +6124,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'views'              => random_int(0,100),
             'enable'         	 => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -6002,6 +6147,7 @@ Website : https://shikioriori.jp/',
             'views'              => random_int(0,100),
             'enable'         	 => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -6019,6 +6165,7 @@ Website : https://shikioriori.jp/',
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -6060,7 +6207,7 @@ https://twitter.com/saikickmouseao/status/1005167610483232769/photo/1 <br>
 https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-debt-considers-filing-for-bankruptcy/.132781',
 
             'dateDetailPost'     => '2018-06-09',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'studio-production-ims-pha-san-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -6078,13 +6225,14 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2018-06-12',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'du-luat-an-ninh-mang-chinh-thuc-duoc-thong-qua-thumbnail.jpg',
             'idCat'              => WEBSITE_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -6095,13 +6243,14 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2018-06-13',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'light-novel-date-a-live-chinh-thuc-ra-mat-tai-viet-nam-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 		
@@ -6112,13 +6261,14 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'contentDetailPost'  => 'https://www.animenewsnetwork.com/news/2018-06-12/dragon-ball-fighterz-gets-switch-release-this-year/.132817',
 
             'dateDetailPost'     => '2018-06-14',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'dragon-ball-fighterz-doi-lich-ra-mat-trong-nam-nay-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_TOP_RIGHT,
             'update'             => 0,
         ]);
 
@@ -6129,13 +6279,14 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'contentDetailPost'  => 'https://www.animenewsnetwork.com/interest/2018-06-11/average-age-of-hikikomori-on-the-rise-in-japan/.132715',
 
             'dateDetailPost'     => '2018-06-13',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
+            'head_position'      => HEADER_BOTTOM_RIGHT,
             'update'             => 0,
         ]);
 		

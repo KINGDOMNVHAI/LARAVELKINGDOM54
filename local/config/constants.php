@@ -82,10 +82,11 @@ define('NEWEST_HOME_POSTS', '4');
 
 // === header ===
 
+define('HEADER_NONE', '0');
 define('HEADER_TOP_LEFT', '1');
 define('HEADER_BOTTOM_LEFT', '2');
 define('HEADER_TOP_RIGHT', '3');
-define('HEADER_BOTTOM_LEFT', '4');
+define('HEADER_BOTTOM_RIGHT', '4');
 
 // === list post ===
 

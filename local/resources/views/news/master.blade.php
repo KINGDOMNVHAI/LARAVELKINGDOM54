@@ -154,14 +154,15 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="single_category wow fadeInDown">
                         <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">category1</a> </h2>
                         <ul class="catg1_nav">
+                            <?php
+                                for ($i=0; $i<=1; $i++){
+                            ?>
                             <li>
-                                <div class="catgimg_container"> <a href="pages/single.html" class="catg1_img"><img alt="" src="images/292x150x1.jpg"></a></div>
-                                <h3 class="post_titile"><a href="pages/single.html">Vestibulum ut est augue, in varius</a></h3>
+                                <div class="catgimg_container"> <a href="{{ $heads[$i]->urlDetailPost }}" class="catg1_img"><img alt="" src="upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
+                                <h3 class="post_titile"><a href="{{ $heads[$i]->urlDetailPost }}">{{ $heads[$i]->nameDetailPost }}</a></h3>
                             </li>
-                            <li>
-                                <div class="catgimg_container"> <a href="pages/single.html" class="catg1_img"><img alt="" src="images/292x150x2.jpg"></a></div>
-                                <h3 class="post_titile"><a href="pages/single.html">Vestibulum ut est augue, in varius</a></h3>
-                            </li>
+                            <?php } ?>
+
                         </ul>
                     </div>
                 </div>
@@ -185,14 +186,14 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="single_category wow fadeInDown">
                         <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">category2</a> </h2>
                         <ul class="catg1_nav">
+                            <?php
+                            for ($j=2; $j<=3; $j++){
+                            ?>
                             <li>
-                                <div class="catgimg_container"> <a href="pages/single.html" class="catg1_img"><img alt="" src="images/292x150x1.jpg"></a></div>
-                                <h3 class="post_titile"><a href="pages/single.html">Vestibulum ut est augue, in varius</a></h3>
+                                <div class="catgimg_container"> <a href="pages/single.html" class="catg1_img"><img alt="" src="upload/images/thumbnail/{{ $heads[$j]->imgDetailPost }}"></a></div>
+                                <h3 class="post_titile"><a href="{{ $heads[$j]->urlDetailPost }}">{{ $heads[$j]->nameDetailPost }}</a></h3>
                             </li>
-                            <li>
-                                <div class="catgimg_container"> <a href="pages/single.html" class="catg1_img"><img alt="" src="images/292x150x2.jpg"></a></div>
-                                <h3 class="post_titile"><a href="pages/single.html">Vestibulum ut est augue, in varius</a></h3>
-                            </li>
+                            <?php } ?>
                         </ul>
                     </div>
                 </div>

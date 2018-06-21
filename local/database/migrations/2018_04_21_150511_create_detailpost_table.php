@@ -28,7 +28,7 @@ class CreateDetailpostTable extends Migration
             $table->string('views');
             $table->string('enable');
             $table->string('popular');
-            $table->string('head_position')->nullable();
+            $table->string('head_position');
             $table->string('update');
 
             $table->timestamp('created_at')->default(DB::raw('CURRENT_TIMESTAMP'));

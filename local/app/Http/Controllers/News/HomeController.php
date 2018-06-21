@@ -33,6 +33,7 @@ class HomeController extends Controller
         $posts          = new HomePagePostService();
         $viewData       = $posts->run();
         $viewCategories = $posts->showAllCategories();
+        $viewHead       = $posts->headPosition();
 
         return view('news.pages.home', [
             'title'     => TITLE_NEWS_INDEX,
@@ -47,6 +48,7 @@ class HomeController extends Controller
             'newest'     => $viewNewest,
             'categories' => $viewCategories,
             'posts'      => $viewData,
+            'heads'      => $viewHead,
         ]);
     }
 

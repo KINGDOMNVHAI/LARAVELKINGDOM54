@@ -71,4 +71,11 @@ class HomePagePostService extends ServiceProvider
 
         return $query;
     }
+
+    public function headPosition()
+    {
+        $query = detailpost::where('head_position', '!=', HEADER_NONE)->get();
+
+        return $query;
+    }
 }
