@@ -27,7 +27,10 @@ class CategoryPostService extends ServiceProvider
         $idCat = category::where('urlCat', 'like', $urlCat)->first();
 
         $post = detailpost::join('category', 'category.idCat', 'detailpost.idCat')
-            ->where('detailpost.idCat', '=', $idCat->idCat)
+            ->select(
+                'category.nameCat',
+                'detailpost.*'
+            )
             ->where('detailpost.enable', '=', ENABLE)
             ->orderBy('detailpost.dateDetailPost', 'DESC')
             ->paginate(POST_PER_CATEGORY);

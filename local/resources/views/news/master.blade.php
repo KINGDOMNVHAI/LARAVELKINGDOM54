@@ -59,7 +59,7 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="header_top_left">
                         <ul class="top_nav">
                             <li><a href="{{ url('/') }}">KINGDOM NVHAI</a></li>
-                            <li><a href="pages/page.html">About Us</a></li>
+                            <!-- <li><a href="pages/page.html">About Us</a></li> -->
                             <li><a href="{{ url('https://www.youtube.com/channel/UCxUL0zS-XiU36bkUsr5dWbg') }}">Youtube Channel</a></li>
                             <li><a href="{{ url('http://localhost/KAWAIICODE/') }}">Kawaii Code</a></li>
                             <li><a href="http://datealive.kingdomnvhai.info/">Date a live Fan Club</a></li>
@@ -87,7 +87,7 @@ Author URL: http://www.free-css.com/template-categories/news
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav custom_nav">
-                        <li class="dropdown"> <a href="#" class="" data-toggle="dropdown" role="button" aria-expanded="false">Categories</a>
+                        <li class="dropdown"> <a href="#" class="" data-toggle="dropdown" role="button" aria-expanded="false">Chuyên mục</a>
                             <ul class="dropdown-menu" role="menu">
                                 <?php
                                 $enable = ENABLE;
@@ -135,8 +135,8 @@ Author URL: http://www.free-css.com/template-categories/news
 
                             </ul>
                         </li>
-                        <li><a href="pages/contact.html">Contact</a></li>
-                        <li><a href="pages/404.html">404 page</a></li>
+                        <!--  <li><a href="pages/contact.html">Contact</a></li>
+                        <li><a href="pages/404.html">404 page</a></li> -->
                     </ul>
                 </div>
             </div>
@@ -153,7 +153,7 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="content_middle_leftbar">
                     <div class="single_category wow fadeInDown">
-                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">category1</a> </h2>
+                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">Mới nhất</a> </h2>
                         <ul class="catg1_nav">
                             <?php
                                 for ($i=0; $i<=1; $i++){
@@ -185,7 +185,7 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="content_middle_rightbar">
                     <div class="single_category wow fadeInDown">
-                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">category2</a> </h2>
+                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">Mới nhất</a> </h2>
                         <ul class="catg1_nav">
                             <?php
                             for ($j=2; $j<=3; $j++){
@@ -343,12 +343,12 @@ Author URL: http://www.free-css.com/template-categories/news
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-4">
+                <!-- <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="single_footer_top wow fadeInRight">
                         <h2>About Us</h2>
                         <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec laoreet orci, eget ullamcorper quam. Phasellus lorem neque, </p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
