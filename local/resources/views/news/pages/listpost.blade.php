@@ -11,7 +11,11 @@
                     <div class="business_category_left wow fadeInDown" style="min-height:500px">
                         <ul class="fashion_catgnav">
                             <li>
-                                <div class="catgimg2_container"> <a href="{{ route('post-content', $post->urlDetailPost ) }}"><img alt="" src="{{ $post->imgDetailPost }}"></a> </div>
+                                <div class="catgimg2_container">
+                                    <a href="{{ route('post-content', $post->urlDetailPost ) }}">
+                                        <img alt="{{ $post->nameDetailPost }}" src="{{ url('/') }}/upload/images/thumbnail/{{ $post->imgDetailPost }}">
+                                    </a>
+                                </div>
                                 <h2 class="catg_titile" style="width:100%">
                                     <a href="{{ route('post-content', $post->urlDetailPost ) }}">{{ $post->nameDetailPost }}</a>
                                 </h2>

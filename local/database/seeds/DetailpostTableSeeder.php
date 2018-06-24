@@ -494,7 +494,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Hidan no Aria',
+            'nameDetailPost'     => '[Review] Hidan no Aria',
             'urlDetailPost'      => 'Hidan-no-Aria',
             'presentDetailPost'  => 'Một nam sinh đa nhân cách có khả năng bắn súng, chiến đấu bất đắc dĩ bắt cặp với một cô gái với kỹ năng chiến đấu được xếp hạng cao nhất.',
             'contentDetailPost'  => '<p>Thể loại: harem, ecchi, hành động, siêu nhiên, giả tưởng, lãng mạn, thần thoại. Phụ: học đường.</p>
@@ -965,7 +965,7 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Heroes of Might and Magic V',
+            'nameDetailPost'     => '[Review] Heroes of Might and Magic V',
             'urlDetailPost'      => 'Heroes-of-Might-and-Magic-V',
             'presentDetailPost'  => 'Heroes of Might and Magic sau khi thuộc về Ubisoft, liệu hãng này có thể hồi sinh lại ánh hào quang của một trong số tựa game dàn trận có tuổi đời lão làng này không?',
             'contentDetailPost'  => '<p>Sau thất bại của Heroes of Might and Magic IV, hãng 3DO tuyên bố phá sản. Heroes of Might and Magic tưởng chừng sẽ bị chôn vùi theo chủ. Nhưng sau này, hãng Ubisoft đã hồi sinh series game này với phần thứ 5 và thêm 2 phần mở rộng là Heroes of Might and Magic V Hammers of Fate và Heroes of Might and Magic V Tribes of the East. </p>
@@ -1031,7 +1031,7 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'King’s Bounty The Legend',
+            'nameDetailPost'     => '[Review] King’s Bounty The Legend',
             'urlDetailPost'      => 'King-Bounty-The-Legend',
             'presentDetailPost'  => 'Kết hợp giữa thể loại nhập vai và dàn trận theo lượt, King’s Bounty The Legend dù có phong cách giống với Heroes of Might and Magic nhưng vẫn tạo được sức hút riêng.',
             'contentDetailPost'  => '<p>Tên game: King\'s Bounty The Legend<br>
@@ -1732,7 +1732,7 @@ Thể loại: Hành động bí mật<br>
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Hektor - Ký ức xáo trộn',
+            'nameDetailPost'     => '[Review] Hektor - Ký ức xáo trộn',
             'urlDetailPost'      => 'Hektor',
             'presentDetailPost'  => 'Mò mẫm trong bóng tối với ngọn lửa nhỏ bé, đi lang thang trong một khu vực dành cho thí nghiệm với những sinh vật quái dị lang thang đâu đó. Nguyên nhân là gì? Đây là đâu? Tại sao bạn lại ở đây?',
             'contentDetailPost'  => '<p>Tên game: Hektor<br>
@@ -1971,7 +1971,7 @@ không cần làm việc gì khác nữa.</p></center>
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Hitman: Blood Money - Đồng tiền tội lỗi',
+            'nameDetailPost'     => '[Review] Hitman: Blood Money - Đồng tiền tội lỗi',
             'urlDetailPost'      => 'Hitman-Blood-Money-Dong-tien-toi-loi',
             'presentDetailPost'  => 'Tiếp tục với những nhiệm vụ ám sát của sát thủ đầu trọc 47. Lần này, tên sát thủ đã có nhiều kỹ năng đặc biệt hơn để thích hợp với những nhiệm vụ khó khăn hơn.',
             'contentDetailPost'  => '<p><ul>
@@ -2452,7 +2452,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Attack On Pearl Harbor – Trân Châu Cảng',
+            'nameDetailPost'     => '[Review] Attack On Pearl Harbor – Trân Châu Cảng',
             'urlDetailPost'      => 'Attack-On-Pearl-Harbor-Tran-Chau-Cang',
             'presentDetailPost'  => 'Một tựa game mô phỏng lái máy bay cấu hình nhẹ, dễ chơi và rất hấp dẫn nói về thế chiến thứ 2.',
             'contentDetailPost'  => '<p>Tên game: Attack on Pearl Harbor<br>
@@ -3402,7 +3402,7 @@ $post->create([
             <p>Trailer mới nhất của Hearthstone</p></center>',
 
             'dateDetailPost'     => '2015-11-10',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'World-of-Warcralf-Legion-ra-mat-trailer-moi-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -3530,7 +3530,7 @@ _ Nhà đại bác: bắn những quả đại bác lớn với tốc độ ch�
 <p>Đồ họa trong game khá đẹp, phong phú với các nhà lính, đơn vị quân, bản đồ, vùng đất và cả boss đều được thể hiện khá tốt. Âm thanh cũng rất chân thực với những tiếng kêu la của binh lính, tiếng đại bác, cung tên bay vèo vèo, nổ ầm ầm. Kingdom Rush Frontiers chắc chắn sẽ là một game hay mà bạn không nên bỏ qua.</p>',
 
             'dateDetailPost'     => '2015-11-20',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Kingdom-Rush-Frontiers-Chien-tuyen-phong-ve-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -3644,7 +3644,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
 <p>Mặc dù lối chơi có một chút mở. Ví dụ bạn có thể rảnh rỗi đi tìm những tên tội phạm vượt ngục ẩn nấp đâu đó hay đu bay khắp thành phố New York ngắm cảnh. Nhưng bạn vẫn phải làm theo cốt truyện, nhiệm vụ chính. Giá như nhà phát triển bổ sung thêm sự đa dạng trong khi thiết kế các nhiệm vụ, Spider Man 2 sẽ rất tuyệt. Rất tiếc khi phải nói rằng, Spider Man 2 chỉ là game giải trí nhẹ nhàng lúc rảnh rỗi hoặc dành cho thiếu nhi chứ không phải tựa game lớn như mong đợi.</p>',
 
             'dateDetailPost'     => '2015-12-01',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Spider-Man-2-The-Game-Quyet-chien-Tien-si-bach-tuoc-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -3886,7 +3886,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
 
             'dateDetailPost'     => '2015-12-20',
             'imgDetailPost'      => 'league-of-maidens-thumbnail.jpg',
-            'idCat'              => WEBSITE_POST,
+            'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
@@ -6096,7 +6096,7 @@ center><img src="upload/images/game/Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-
             'contentDetailPost'  => 'http://goboiano.com/romeo-juliet-inspired-boarding-school-juliet-airs-this-fall/',
 
             'dateDetailPost'     => '2018-05-25',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'kishuku-gakkou-no-juliet-se-ra-mat-vao-mua-thu-2018-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -6158,7 +6158,7 @@ Website : https://shikioriori.jp/',
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2018-06-01',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'pumpkin-night-bi-ngo-sat-thu-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -6171,8 +6171,9 @@ Website : https://shikioriori.jp/',
 
 		$post->create([
             'nameDetailPost'     => 'Đụng chạm lịch sử - Nidome Jinsei bị hủy hoàn toàn',
+            'nameDetailPost'     => 'Đụng chạm lịch sử - Nidome Jinsei bị hủy hoàn toàn',
             'urlDetailPost'      => 'dung-cham-lich-su-nidome-jinsei-bi-huy-hoan-toan',
-            'presentDetailPost'  => '',
+            'presentDetailPost'  => 'Young again in another world sắp ra mắt Anime đã bị hủy bỏ hoàn toàn do đụng chạm đến Trung Quốc',
             'contentDetailPost'  => 'https://www.facebook.com/CabFansub/photos/a.227534107457546.1073741829.152304798313811/845776248966659/?type=3
             <br>
             https://www.facebook.com/TTASLusa/photos/a.2072616199731397.1073741946.1722596828066671/2081818528811164/?type=3

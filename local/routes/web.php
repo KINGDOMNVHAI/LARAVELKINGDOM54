@@ -130,7 +130,7 @@ Route::get('/post/{urlDetailPost}', 'News\PostController@contentPost')->name('po
 
 // ======================= Download Page =======================
 
-Route::get('/download/{urlCat}', 'News\DownloadController@listDownload')->name('download-page');
+Route::get('/download/{urlCat}', 'News\DownloadController@listPostDownload')->name('download-page');
 
 // ======================= Search Page =======================
 

@@ -9,6 +9,7 @@ use App\Services\All\ListRecentPost;
 use App\Services\All\ListUpdatePost;
 use App\Services\News\CategoryPostService;
 use App\Services\News\ContentPostService;
+use App\Services\News\HomePagePostService;
 use App\Services\News\ListSearchPostService;
 use Illuminate\Http\Request;
 
@@ -32,6 +33,9 @@ class PostController extends Controller
         $random     = new ListRecentPost;
         $viewRandom = $random->run(RECENT_HOME_POSTS, null);
 
+        $posts      = new HomePagePostService();
+        $viewHead   = $posts->headPosition();
+
         // Private Services
         $postCategory = new CategoryPostService();
         $viewPost = $postCategory->run($urlCat);
@@ -45,6 +49,7 @@ class PostController extends Controller
             'mostViews'      => $viewMostView,
             'updates'        => $viewUpdate,
             'random'         => $viewRandom,
+            'heads'          => $viewHead,
 
             // Private Services
             'posts'          => $viewPost,
@@ -69,6 +74,9 @@ class PostController extends Controller
         $random     = new ListRecentPost;
         $viewRandom = $random->run(RECENT_HOME_POSTS, null);
 
+        $posts      = new HomePagePostService();
+        $viewHead   = $posts->headPosition();
+
         // Private Services
         $single     = new ContentPostService;
         $viewContent = $single->content($urlDetailPost);
@@ -83,10 +91,11 @@ class PostController extends Controller
             'mostViews'      => $viewMostView,
             'updates'        => $viewUpdate,
             'random'         => $viewRandom,
+            'heads'          => $viewHead,
 
             // Private Services
-            'content'   => $viewContent,
-            'involves' => $viewInvolve,
+            'content'        => $viewContent,
+            'involves'       => $viewInvolve,
         ]);
     }
 

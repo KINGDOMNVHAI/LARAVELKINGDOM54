@@ -8,9 +8,8 @@ use App\Services\All\ListMostViewPost;
 use App\Services\All\ListNewestPost;
 use App\Services\All\ListRecentPost;
 use App\Services\All\ListUpdatePost;
-use App\Services\News\CategoryPostService;
-use App\Services\News\ContentPostService;
 use App\Services\News\ListSearchPostService;
+use App\Services\News\HomePagePostService;
 use Illuminate\Http\Request;
 
 class DownloadController extends Controller
@@ -18,11 +17,11 @@ class DownloadController extends Controller
 
     // Làm 1 trang download có danh sách được phân loại dựa theo URL
 
-    public function listDownload($urlCat)
+    public function listPostDownload($urlCat)
     {
         // Public Services
         $menuCategories = new ListDownloadService();
-        $viewCategories = $menuCategories->listEnable();
+        $viewCategories = $menuCategories->listJoinDownloadPostPaginate();
 
         $newest     = new ListNewestPost;
         $viewNewest = $newest->run(NEWEST_HOME_POSTS, null);
@@ -36,11 +35,14 @@ class DownloadController extends Controller
         $random     = new ListRecentPost;
         $viewRandom = $random->run(RECENT_HOME_POSTS, null);
 
-        // Private Services
-        $postCategory = new CategoryPostService();
-        $viewPost = $postCategory->run($urlCat);
+        $posts      = new HomePagePostService();
+        $viewHead   = $posts->headPosition();
 
-        return view('news.pages.listpost', [
+        // Private Services
+        $postDownload = new ListDownloadService();
+        $viewPost = $postDownload->listDownloadPostCategory($urlCat);
+
+        return view('news.pages.listdownload', [
             'title'          => TITLE_NEWS_INDEX,
 
             // Public Services
@@ -49,6 +51,7 @@ class DownloadController extends Controller
             'mostViews'      => $viewMostView,
             'updates'        => $viewUpdate,
             'random'         => $viewRandom,
+            'heads'          => $viewHead,
 
             // Private Services
             'posts'          => $viewPost,

@@ -21,7 +21,7 @@ class DownloadController extends Controller
         if (Auth::check())
         {
             $listDownload = new ListDownloadService;
-            $viewDownload = $listDownload->listPaginate();
+            $viewDownload = $listDownload->listJoinDownloadDetailpostPaginate();
 
             $listCategory = new ListCategoryService;
             $viewCategory = $listCategory->list();

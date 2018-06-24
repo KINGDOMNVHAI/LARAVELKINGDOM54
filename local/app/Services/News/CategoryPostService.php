@@ -28,6 +28,8 @@ class CategoryPostService extends ServiceProvider
 
         $post = detailpost::join('category', 'category.idCat', 'detailpost.idCat')
             ->where('detailpost.idCat', '=', $idCat->idCat)
+            ->where('detailpost.enable', '=', ENABLE)
+            ->orderBy('detailpost.dateDetailPost', 'DESC')
             ->paginate(POST_PER_CATEGORY);
 
         return $post;
