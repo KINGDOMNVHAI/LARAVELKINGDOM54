@@ -19,7 +19,7 @@ class UsersTableSeeder extends Seeder
             'lastname'  => 'Nguyễn Việt',
             'firstname' => 'Hải',
             'username'  => 'NVHAI',
-            'password'  => bcrypt('12345678'),
+            'password'  => bcrypt('ThienNu0107'),
             'email'     => 'kingdomnvhai@gmail.com',
             'type'      => TYPE_ADMIN,
 

@@ -51,17 +51,11 @@ class LoginController extends Controller
     public function index()
     {
         return view($this->mainView);
-        // return LoginResponse::instance()->getResponse();
     }
 
 
     public function login(Request $request)
     {
-//        $loginService = new LoginService($request);
-//        $result = $loginService->run();
-
-//        return LoginResponse::instance($result)->getResponse();
-
         $username = $request->input('username');
         $password = $request->input('password');
 

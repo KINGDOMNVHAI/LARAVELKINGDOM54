@@ -70,7 +70,7 @@
 
                                             <?php
                                                 $id = $download->idDetailPost;
-                                                $con = mysqli_connect('localhost', 'root', '', 'nvhai');
+                                                $con = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
                                                 mysqli_set_charset($con,"utf8");
 
                                                 $query = mysqli_query($con,"SELECT nameDetailPost FROM detailpost WHERE idDetailPost = $id");

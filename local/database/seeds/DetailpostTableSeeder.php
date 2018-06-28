@@ -1262,7 +1262,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 <p>Nguồn: <a href="http://www.animenewsnetwork.com/daily-briefs/2015-07-18/nitroplus-blasters-heroines-infinite-duel-game-ships-for-ps3-ps4-on-december-10/.90555">Anime News Network.</a></p>',
 
             'dateDetailPost'     => '2015-07-26',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Nitroplus-Blasterz-Heroines-Infinite-Duel-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1293,7 +1293,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             <p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-26/36th-doraemon-the-movie-nobita-and-the-birth-of-japan-2016-film-1st-trailer-previews-story/.90890">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-27',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Doraemon-ra-mat-trailer-the-movie_thu-36-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1319,7 +1319,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 <p>EA công bố trò chơi trong tháng 11, và nói với Gamespot rằng mục đích là để "xác định lại" thể loại đua xe trên nền tảng điện thoại di động.</p>',
 
             'dateDetailPost'     => '2015-07-28',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'EA-trailer-need-for-speed-no-limits-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1344,7 +1344,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 <p>Trang chủ <a href="https://www.evevalkyrie.com/">EVE: VALKYRIE</a></p>',
 
             'dateDetailPost'     => '2015-07-29',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Eve-Valkyrie-trailer-gameplay-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1425,7 +1425,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'contentDetailPost'  => 'Viết lại',
 
             'dateDetailPost'     => '2015-08-02',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener-thumbnail.jpg',
             'idCat'              => THU_THUAT_IT_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1555,7 +1555,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 <p>Với hình ảnh ở mức khá, âm thanh tốt, tạo sức hút và cốt truyện hay, Agatha Christie: And then there were none là một tựa game cũ mà hay xứng đáng để các game thủ thích trinh thám có cơ hội thử sức phá án. Nếu có ai cảm thấy game quá khó chơi, hãy xem hướng dẫn tại <a href=" http://diendan.vtcgame.vn/showthread.php?511870-Huong-Dan-Choi-Agatha-Christie-And-Then-There-Were-None">đây.</a></p>',
 
             'dateDetailPost'     => '2015-08-03',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Agatha-Christie-and-then-there-were-none-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1596,7 +1596,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 <p>Nguồn: <a href="http://www.crunchyroll.com/anime-news/2015/08/06-1/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta-light-novel-gets-tv-anime-adaptation">crunchyroll</a> </p>',
 
             'dateDetailPost'     => '2015-08-04',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-chuyen-the-thanh-anime-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -1655,7 +1655,7 @@ các viên bi nằm gần các mũi tên cùng màu</p>
 <p>Nhìn chung, safecracker là game giải đố nên khá kén người chơi. Trò chơi này bây giờ rất khó tìm kiếm trên Google vì đã quá cũ. Nếu bạn đã đọc bài viết này, sao bạn không thử sức mình với những câu đố hóc búa? Phần thưởng cuối trò chơi là bạn có liên quan đến di chúc của ông tỷ phú. Hãy thử tìm hiểu xem sao.</p>',
 
             'dateDetailPost'     => '2015-08-05',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Safecracker-chuyen-gia-pha-ket-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2283,7 +2283,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Dựa trên các bình luận trên Youtube, có nhiều ý kiến trái chiều nhau về dạng game này. Có những người thích game thuần đấu bài như Hearthstone nhưng có nhiều ý kiến thích thú về phong cách chơi mới này. Chắc chắn game Chronicle: RuneScape Legends sẽ tiêu hao khá nhiều chất xám của những ai muốn khám phá nó.</p>',
 
             'dateDetailPost'     => '2015-08-25',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Chronicle-RuneScape-Legends-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2323,7 +2323,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Hiện mọi người đã có thể đăng ký để chơi ELOA. Nếu ai thích thú với Anime Nhật Bản hay đã từng chơi Aura Kingdom, hãy thử ghé qua ELOA xem sao.</p>',
 
             'dateDetailPost'     => '2015-08-28',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'ELOA-Game-3D-Anime-moi-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2374,7 +2374,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Bộ phim đã gặt hái được thành công, được nhiều người hâm mộ và rất có triển vọng trở thành một series lớn. Yaya đã trở thành một trong số các cô gái có lượng fan hâm mộ ở mức khá. Light Novel hiện đang có 13 volume nên nhiều khả năng sẽ có phần 2 trong tương lai gần.</p>',
 
             'dateDetailPost'     => '2015-09-01',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Unbreakable-Machine-Doll_Bup-Be-Chien-Dau-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2440,7 +2440,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             </center>',
 
             'dateDetailPost'     => '2015-09-05',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Seikoku-no-Dragonar-Truong-hoc-ky-si-rong-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2633,7 +2633,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
 </center>',
 
             'dateDetailPost'     => '2015-09-13',
-            'imgDetailPost'      => 'Nhung_dang_nhan_vat_nu_trong_harem_thumbnail.jpg',
+            'imgDetailPost'      => 'Nhung-dang-nhan-vat-nu-trong-harem-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2689,7 +2689,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Hy vọng với những thông tin giới thiệu vừa rồi, các game thủ Việt Nam sẽ tham gia ELOA để trải nghiệm những điều mới mẻ.</p>',
 
             'dateDetailPost'     => '2015-09-17',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'ELOA-Gioi-thieu-so-luoc-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2704,7 +2704,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'nameDetailPost'     => 'Mệnh yểu của các anime thi đấu đại hội',
             'urlDetailPost'      => 'Menh-yeu-cua-cac-anime-thi-dau-dai-hoi',
             'presentDetailPost'  => 'Với những thất bại hay bặt âm vô tín của các Anime thi đấu đại hội, có vẻ vận mệnh của những Anime này khá khó dự đoán.',
-            'contentDetailPost'  => '',
+            'contentDetailPost'  => 'Menh-yeu-cua-cac-Anime-thi-dau-dai-hoi-thumbnail.jpg',
 
             'dateDetailPost'     => '2015-09-22',
             'imgDetailPost'      => '',
@@ -2752,7 +2752,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-09-09/to-love-ru-darkness-true-princess-game-posts-deviluke-promo/.92714">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-09-27',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'To-Love-Ru-Trouble-Darkness-True-Princess-duoc-phat-hang-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2786,7 +2786,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Prison School là bộ manga nổi tiếng do Hiramoto Akira viết kịch bản và vẽ minh họa. Bản chuyển thể anime được công chiếu vào tháng 7/2015. Nội dung nói về học viện tư thục Hachimitsu từ trường nữ sinh chuyển thành trường nam nữ học chung. Và 5 nam sinh đầu tiên đã bắt đầu năm học bằng việc nếm mùi nhà tù của trường sau một lần vi phạm vì tội nhìn trộm nữ sinh.</p>',
 
             'dateDetailPost'     => '2015-09-30',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Trailer-gioi-thieu-Prison-School-Original-Anime-DVD-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2848,7 +2848,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             (づ｡◕_◕｡)づ NEILYO TAKES OUR ENERGY (づ｡◕_◕｡)づ	</p>',
 
             'dateDetailPost'     => '2015-10-04',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Blizzard-vinh-danh-game-thu-hearthstone-Viet-Nam-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2903,7 +2903,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <p>Thông tin bên lề: diễn viên lồng tiếng cho Fighter chính là Houki trong Infinite Stratos và Rias Gremory trong Highschool DxD.</p>',
 
             'dateDetailPost'     => '2015-10-05',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Bikini-Warriors-Nhung-chien-binh-goi-cam-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2921,7 +2921,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2015-10-09',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Nhung-trailer-game-phong-cach-dien-anh-khong-the-bo-qua-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -2992,7 +2992,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             </center>',
 
             'dateDetailPost'     => '2015-10-13',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Winged-Sakura-Mindy-Arc-Phap-su-Tinh-Linh-Mindy-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -3069,7 +3069,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <center><img src="upload/images/game/Legendary-8.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" /></center>',
 
             'dateDetailPost'     => '2015-10-17',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Legendary-game-Sinh-vat-huyen-thoai-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -3138,7 +3138,7 @@ Thông điệp của bộ phim rất sâu sắc: Nhìn thấy những người m
 <center><img src="upload/images/anime/Gokukoku-no-Brynhildr-10.jpg" width="70%" alt="Gokukoku no Brynhildr – Số phận nghiệt ngã" /></center>',
 
             'dateDetailPost'     => '2015-10-20',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Gokukoku-no-Brynhildr-So-phan-nghiet-nga-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -3359,7 +3359,7 @@ $post->create([
             <p>Trailer The League of Explorers</p></center>',
 
             'dateDetailPost'     => '2015-11-08',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Ostkaka-vo-dich-chung-ket-the-gioi-hearthstone-2015-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4168,7 +4168,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
 			https://www.youtube.com/watch?v=Z1byqYasXr0',
 
             'dateDetailPost'     => '2016-01-23',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'rokujouma-shinryakusha-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',

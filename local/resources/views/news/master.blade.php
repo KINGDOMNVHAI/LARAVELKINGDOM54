@@ -91,7 +91,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             <ul class="dropdown-menu" role="menu">
                                 <?php
                                 $enable = ENABLE;
-                                $con = new mysqli("localhost", "root", "", "nvhai");
+                                $con = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
                                 mysqli_set_charset($con,"utf8");
                                 $query = "SELECT * FROM category WHERE enable = $enable";
 
@@ -115,7 +115,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             <ul class="dropdown-menu" role="menu">
                                 <?php
                                 $enable = ENABLE;
-                                $con = new mysqli("localhost", "root", "", "nvhai");
+                                $con = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
                                 mysqli_set_charset($con,"utf8");
                                 $query = "SELECT * FROM category WHERE enable = $enable";
 
@@ -271,7 +271,7 @@ Author URL: http://www.free-css.com/template-categories/news
                                     <option value="all">Tất cả</option>
                                     <?php
                                     $enable = ENABLE;
-                                    $con = new mysqli("localhost", "root", "", "nvhai");
+                                    $con = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
                                     mysqli_set_charset($con,"utf8");
                                     $query = "SELECT * FROM category WHERE enable = $enable";
 

@@ -26,8 +26,6 @@ class UpdatePostService extends ServiceProvider
     {
         $checkbox = detailpost::where('idDetailPost', $request->id)->first();
 
-        var_dump($checkbox->enable);die;
-
         // File name mặc định không có tên
         $fileName = '';
 
