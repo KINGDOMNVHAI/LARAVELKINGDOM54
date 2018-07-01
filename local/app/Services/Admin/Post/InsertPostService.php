@@ -36,7 +36,7 @@ class InsertPostService extends ServiceProvider
         if (Input::hasFile('thumbnail'))
         {
             // Thư mục upload
-            $uploadPath = public_path('../../upload/images/thumbnail');
+            $uploadPath = public_path('upload/images/thumbnail');
             $file = Input::file('thumbnail');
 
             // File name được gắn tên

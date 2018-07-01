@@ -66,7 +66,7 @@
                                             <td>{{ $download->idDown }}</td>
                                             <td>{{ str_limit($download->nameDown,30) }}</td>
                                             <td><a href="{{ $download->linkDown }}" target="_blank">{{ str_limit($download->linkDown,50) }}</a></td>
-                                            <td><img src="upload/images/download/{{ $download->imgDown }}" width="100%"></td>
+                                            <td><img src="local/public/upload/images/download/{{ $download->imgDown }}" width="100%"></td>
 
                                             <?php
                                                 $id = $download->idDetailPost;

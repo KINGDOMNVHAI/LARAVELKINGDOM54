@@ -31,7 +31,7 @@ class UpdateDownloadService extends ServiceProvider
         if ($request->hasFile('thumbnail'))
         {
             // Thư mục upload
-            $uploadPath = public_path('../../upload/images/download');
+            $uploadPath = public_path('upload/images/download');
             $file = $request->file('thumbnail');
 
             // File name được gắn tên

@@ -134,7 +134,7 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                                                     {{ $new->dateDetailPost }}
                                                 </td>
                                                 <td>
-													<img src="upload/images/thumbnail/{{ $new->imgDetailPost }}" width="100px">&nbsp&nbsp
+													<img src="local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}" width="100px">&nbsp&nbsp
 													{{ $new->nameDetailPost }}
 												</td>
 

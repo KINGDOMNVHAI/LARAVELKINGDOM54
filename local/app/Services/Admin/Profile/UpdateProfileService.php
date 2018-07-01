@@ -32,7 +32,7 @@ class UpdateProfileService extends ServiceProvider
         if ($request->hasFile('avatar'))
         {
             // Thư mục upload
-            $uploadPath = public_path('../../upload/images/avatar');
+            $uploadPath = public_path('upload/images/avatar');
             $file = $request->file('avatar');
 
             // File name được gắn tên
@@ -48,7 +48,7 @@ class UpdateProfileService extends ServiceProvider
         if ($request->hasFile('banner'))
         {
             // Thư mục upload
-            $uploadPath = public_path('../../upload/images/banner');
+            $uploadPath = public_path('upload/images/banner');
             $file = $request->file('banner');
 
             // File name được gắn tên

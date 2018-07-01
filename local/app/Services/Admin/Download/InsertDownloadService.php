@@ -33,7 +33,7 @@ class InsertDownloadService extends ServiceProvider
         if (Input::hasFile('thumbnail'))
         {
             // Thư mục upload
-            $uploadPath = public_path('../../upload/images/download');
+            $uploadPath = public_path('upload/images/download');
             $file = Input::file('thumbnail');
 
             // File name được gắn tên

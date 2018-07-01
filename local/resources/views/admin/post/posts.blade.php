@@ -84,7 +84,7 @@
                                             <td>{{ str_limit($post->contentDetailPost,120) }}</td>
                                             <td>{{ $post->dateDetailPost }}</td>
                                             <td>{{ str_limit($post->urlDetailPost,30) }}</td>
-                                            <td><img src="upload/images/thumbnail/{{ $post->imgDetailPost }}" width="100%"></td>
+                                            <td><img src="local/public/upload/images/thumbnail/{{ $post->imgDetailPost }}" width="100%"></td>
 
                                             <?php
                                             $id = $post->idCat;
@@ -100,7 +100,11 @@
 
                                             <?php mysqli_close($con); ?>
 
-                                            <td>{{ $post->enable }}</td>
+                                            <td>
+                                                @if ($post->enable == ENABLE)
+                                                    <i class="fa fa-check"></i>
+                                                @endif
+                                            </td>
                                             <td>{{ $post->author }}</td>
                                             <td>{{ $post->viewDetailPost }}</td>
                                             <td>

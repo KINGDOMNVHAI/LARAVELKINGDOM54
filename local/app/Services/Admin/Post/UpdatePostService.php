@@ -33,7 +33,7 @@ class UpdatePostService extends ServiceProvider
         if ($request->hasFile('thumbnail'))
         {
             // Thư mục upload
-            $uploadPath = public_path('../../upload/images/thumbnail');
+            $uploadPath = public_path('upload/images/thumbnail');
             $file = $request->file('thumbnail');
 
             // File name được gắn tên

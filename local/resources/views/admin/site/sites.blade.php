@@ -65,7 +65,7 @@
                                             <td>{{ $site->nameSite }}</td>
                                             <td>{{ str_limit($site->presentSite,100) }}</td>
                                             <td>{{ str_limit($site->urlSite,30) }}</td>
-                                            <td><img src="upload/images/thumbnail/{{ $site->imgSite }}" width="100%"></td>
+                                            <td><img src="local/public/upload/images/thumbnail/{{ $site->imgSite }}" width="100%"></td>
                                             <td>
                                                 <a href="{{ route('sites-list-update',$site->idSite) }}" style="font-size:18px">
                                                     <i class="fa fa-edit"></i>

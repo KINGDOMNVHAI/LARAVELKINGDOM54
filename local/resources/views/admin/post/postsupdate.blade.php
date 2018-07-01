@@ -65,7 +65,7 @@
                                         <tr>
                                             <td>THUMBNAIL (300x200)</td>
                                             <td>
-                                                <img src="../upload/images/thumbnail/{{ $post->imgDetailPost }}" width="20%"><br><br>
+                                                <img src="../local/public/upload/images/thumbnail/{{ $post->imgDetailPost }}" width="20%"><br><br>
                                                 <input type="file" name="thumbnail" id="thumbnail">
                                                 <input type="hidden" name="img" id="img" value="{{ $post->imgDetailPost }}">
                                             </td>
