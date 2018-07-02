@@ -2867,7 +2867,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
 
             <p>Bikini Warriors là một bộ phim khá đặc biệt, chỉ có 12 tập với độ dài mỗi tập vỏn vẹn 4 phút nhưng cảm xúc nó mang lại rất khó tả. Những ai xem bộ phim này khi mới ra mắt đều cảm thấy chán nản vì nó quá ngắn và vì mục đích chính của nó: mô tả những điểm nhấn đẹp đẽ nhất mà tạo hóa ban cho phụ nữ. Nhưng nếu xem hết, chúng ta có thể thấy bộ phim còn nói về nhiều điều ý nghĩa khác.</p>
             
-            <center><img src="../local/public/upload/images/anime/Bikini_Warriors_1.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
+            <center><img src="../local/public/upload/images/anime/Bikini-Warriors-1.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
             
             <p>Nội dung bộ phim khá đơn giản: một nhóm Nữ Anh Hùng (Yuusha) không rõ tên, chỉ biết họ gồm Fighter (Đấu Sĩ), Paladin (Hiệp Sĩ), Mage (Pháp Sư) và Dark Elf (Hắc Tiên) đi khắp nơi, từ thành thị đến nông thôn để kiếm kế sinh nhai và thực hiện nhiệm vụ cao cả của Nữ Anh Hùng là tiêu diệt Quỷ Vương, bảo vệ nhân loại. Mỗi tập phim xoay quanh cuộc sống thiếu thốn tiền bạc, vũ khí, đối đầu với quái vật, bị những kẻ xấu lừa gạt nhưng không bao giờ từ bỏ làm Anh Hùng của mình.</p>
@@ -2878,26 +2878,26 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             
             <p>Phong cách của phim rất giống với những tựa game cày level RPG như Diablo, Skyrim. Nếu ai đã từng say mê với những tựa game trên, cảm giác khi xem phim này rất thân thuộc. Giống như bạn đang chơi game, đi đến các làng mạc mua bán vũ khí, nhận nhiệm vụ từ trưởng làng, vào các hang động săn quái, mở rương đồ nhặt vũ khí, bình máu, bình năng lượng… Một phong cách có thể khiến giới game thủ cảm thấy rất thích thú</p>
             
-            <center><img src="../local/public/upload/images/anime/Bikini_Warriors_2.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
+            <center><img src="../local/public/upload/images/anime/Bikini-Warriors-2.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
             
             <p>Chắc chắn, khi nghe tên bộ phim, ai cũng có thể đoán được phim này chỉ dành cho độ tuổi trên 16. Những bộ giáp bikini nhìn tưởng chừng chẳng thể bảo vệ được gì lại có sức chống chịu khá tốt, kháng hỏa, kháng băng như có phép thuật. Những cảnh chiến đấu đầy chất gợi cảm.  Những tiếng rên không thể chất hơn. Tất cả khiến ai cũng nghĩ phim chỉ có cảnh nóng, ngoài ra không còn gì khác.</p>
             
-            <center><img src="../local/public/upload/images/anime/Bikini_Warriors_3.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
+            <center><img src="../local/public/upload/images/anime/Bikini-Warriors-3.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
             
             <p>Tuy nhiên, nếu xem và hiểu kỹ hơn, phim cũng có những nội dung nhân văn sâu sắc. Đầu tiên là việc họ vượt qua khó khăn để chiến đấu với quái vật, bảo vệ người dân. Dù cả người dân lẫn vua chúa đều lừa họ, đều đối xử không tốt với họ, họ vẫn tìm cách bảo vệ người dân bất chấp thiếu thốn tiền bạc, vũ khí. Đó là điểm khiến người viết thích nhất ở bộ phim.</p>
             
             <p>Thứ 2 là về tình đồng đội. Những Nữ Anh Hùng luôn bảo vệ nhau, giúp đỡ nhau và không phản bội. Có vui cùng hưởng, có họa cùng chịu. Người viết thích nhất là tập 11, khi Paladin chấp nhận đề nghị của lão trưởng làng là phải cưới ông ta thì cả nhóm mới được đi tiếp. Cả nhóm quyết định giải cứu Paladin khỏi tay lão trưởng làng háo sắc.</p>
             
-            <center><img src="../local/public/upload/images/anime/Bikini_Warriors_4.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
+            <center><img src="../local/public/upload/images/anime/Bikini-Warriors-4.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
             
             <p>Ngoài ra, trong phim còn xuất hiện thêm 2 nhân vật phụ là Valkyrie (Nữ Thần) và Hunter (Thợ Săn). Cá nhân người viết thích nhất Mage, cô bé có lẽ là trong sáng nhất trong phim. Trên kênh Twitter của Bikini Warriors đã có rất nhiều cosplayer nữ hóa trang thành các nhân vật này. Rõ ràng một bộ phim nhẹ nhàng, mang tính giải trí cao, ngắn gọn cũng có thể tạo nên sức hút lớn và những câu chuyện ý nghĩa.</p>
             
-            <center><img src="upload/images/anime/Bikini_Warriors_5.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
+            <center><img src="upload/images/anime/Bikini-Warriors-5.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             
-            <img src="../local/public/upload/images/anime/Bikini_Warriors_6.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
+            <img src="../local/public/upload/images/anime/Bikini-Warriors-6.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
             
             <p>Thông tin bên lề: diễn viên lồng tiếng cho Fighter chính là Houki trong Infinite Stratos và Rias Gremory trong Highschool DxD.</p>',
@@ -4186,7 +4186,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-01-25',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'taimadou-gakuen-35-shiken-shoutai-tieu-doi-35-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4484,7 +4484,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-02-23',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'saijaku-muhai-no-bahamut-ky-si-rong-bat-bai-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4502,7 +4502,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-02-23',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'owari-no-seraph-truy-lung-ma-ca-rong-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4576,7 +4576,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-03-04',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'cac-trao-luu-anime-qua-tung-giai-doan-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4623,7 +4623,23 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => '[Review] One Punch Man - Đấm phát chết luôn',
+            'urlDetailPost'      => 'one-punch-man-dam-phat-chet-luon',
+            'presentDetailPost'  => 'Bộ Manga cố gắng phá vỡ khái niệm anh hùng vất vả đánh thắng kẻ xấu đã được chuyển thể thành Anime.',
+            'contentDetailPost'  => '',
 
+            'dateDetailPost'     => '2016-03-13',
+            'imgDetailPost'      => 'one-punch-man-dam-phat-chet-luon-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 

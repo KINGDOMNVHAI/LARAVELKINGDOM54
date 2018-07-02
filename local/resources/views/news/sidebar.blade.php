@@ -6,7 +6,7 @@
             <ul class="small_catg popular_catg wow fadeInDown">
                 @foreach($updates as $update)
                 <li>
-                    <div class="media wow fadeInDown"> <a href="#" class="media-left"><img alt="" src="upload/images/thumbnail/{{ $update->imgDetailPost }}"> </a>
+                    <div class="media wow fadeInDown"> <a href="#" class="media-left"><img alt="" src="local/public/upload/images/thumbnail/{{ $update->imgDetailPost }}"> </a>
                         <div class="media-body">
                             <h4 class="media-heading"><a href="#">{{ $update->nameDetailPost }}</a></h4>
                             <p>{{ $update->presentDetailPost }}</p>
@@ -27,7 +27,7 @@
 
                         @foreach ($mostViews as $view)
                         <li>
-                            <div class="media wow fadeInDown"> <a class="media-left" href="#"><img src="upload/images/thumbnail/{{ $view->imgDetailPost }}"alt=""></a>
+                            <div class="media wow fadeInDown"> <a class="media-left" href="#"><img src="local/public/upload/images/thumbnail/{{ $view->imgDetailPost }}"alt=""></a>
                                 <div class="media-body">
                                     <h4 class="media-heading"><a href="#">{{ $view->nameDetailPost }}</a></h4>
                                     <p>{{ $view->presentDetailPost }}</p>
@@ -42,7 +42,7 @@
                     <ul class="small_catg popular_catg">
                         @foreach($random as $rand)
                         <li>
-                            <div class="media wow fadeInDown"> <a class="media-left" href="#"><img src="upload/images/thumbnail/{{ $rand->imgDetailPost }}" alt=""></a>
+                            <div class="media wow fadeInDown"> <a class="media-left" href="#"><img src="local/public/upload/images/thumbnail/{{ $rand->imgDetailPost }}" alt=""></a>
                                 <div class="media-body">
                                     <h4 class="media-heading"><a href="#">{{ $rand->nameDetailPost }}</a></h4>
                                     <p>{{ $rand->presentDetailPost }}</p>

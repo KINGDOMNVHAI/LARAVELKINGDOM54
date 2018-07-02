@@ -74,7 +74,11 @@
                                             <td>{{ $category->idCat }}</td>
                                             <td>{{ str_limit($category->nameCat,30) }}</td>
                                             <td>{{ str_limit($category->urlCat,30) }}</td>
-                                            <td>{{ $category->enable }}</td>
+                                            <td>
+                                                @if ($category->enable == ENABLE)
+                                                    <i class="fa fa-check"></i>
+                                                @endif
+                                            </td>
                                             <td>
                                                 <a href="{{ route('posts-list-update',$category->idCat) }}" style="font-size:18px">
                                                     <i class="fa fa-edit"></i>

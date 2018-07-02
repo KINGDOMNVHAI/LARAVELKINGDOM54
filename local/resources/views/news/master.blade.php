@@ -9,7 +9,7 @@ Author URL: http://www.free-css.com/template-categories/news
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="news/images/favicon.ico" type="image/gif" sizes="16x16">
+    <link rel="icon" href="../news/images/favicon.ico" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/font-awesome.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/animate.css')}}">
@@ -159,7 +159,7 @@ Author URL: http://www.free-css.com/template-categories/news
                                 for ($i=0; $i<=1; $i++){
                             ?>
                             <li>
-                                <div class="catgimg_container"> <a href="{{ $heads[$i]->urlDetailPost }}" class="catg1_img"><img alt="" src="{{ url('/') }}/upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
+                                <div class="catgimg_container"> <a href="{{ $heads[$i]->urlDetailPost }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
                                 <h3 class="post_titile"><a href="{{ $heads[$i]->urlDetailPost }}">{{ $heads[$i]->nameDetailPost }}</a></h3>
                             </li>
                             <?php } ?>
@@ -173,7 +173,7 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="slick_slider2">
 
                         @foreach($newest as $new)
-                            <div class="single_featured_slide"> <a href="#"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
+                            <div class="single_featured_slide"> <a href="#"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
                                 <h2><a href="{{ route('post-content', $new->urlDetailPost ) }}">{{ $new->nameDetailPost }}</a></h2>
                                 <p>{{ $new->presentDetailPost }}</p>
                             </div>
@@ -191,7 +191,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             for ($j=2; $j<=3; $j++){
                             ?>
                             <li>
-                                <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/upload/images/thumbnail/{{ $heads[$j]->imgDetailPost }}"></a></div>
+                                <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$j]->imgDetailPost }}"></a></div>
                                 <h3 class="post_titile"><a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}">{{ $heads[$j]->nameDetailPost }}</a></h3>
                             </li>
                             <?php } ?>
@@ -214,7 +214,7 @@ Author URL: http://www.free-css.com/template-categories/news
                         <ul class="small_catg popular_catg wow fadeInDown">
                             @foreach($updates as $update)
                                 <li>
-                                    <div class="media wow fadeInDown"> <a href="{{ route('post-content', $update->urlDetailPost ) }}" class="media-left"><img alt="" src="{{ url('/') }}/upload/images/thumbnail/{{ $update->imgDetailPost }}"> </a>
+                                    <div class="media wow fadeInDown"> <a href="{{ route('post-content', $update->urlDetailPost ) }}" class="media-left"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $update->imgDetailPost }}"> </a>
                                         <div class="media-body">
                                             <h4 class="media-heading"><a href="{{ route('post-content', $update->urlDetailPost ) }}">{{ $update->nameDetailPost }}</a></h4>
                                             <p>{{ $update->presentDetailPost }}</p>
@@ -235,7 +235,7 @@ Author URL: http://www.free-css.com/template-categories/news
 
                                     @foreach ($mostViews as $view)
                                         <li>
-                                            <div class="media wow fadeInDown"> <a class="media-left" href="{{ route('post-content', $view->urlDetailPost ) }}"><img src="{{ url('/') }}/upload/images/thumbnail/{{ $view->imgDetailPost }}"alt=""></a>
+                                            <div class="media wow fadeInDown"> <a class="media-left" href="{{ route('post-content', $view->urlDetailPost ) }}"><img src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $view->imgDetailPost }}"alt=""></a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading"><a href="{{ route('post-content', $view->urlDetailPost ) }}">{{ $view->nameDetailPost }}</a></h4>
                                                     <p>{{ $view->presentDetailPost }}</p>
@@ -250,7 +250,7 @@ Author URL: http://www.free-css.com/template-categories/news
                                 <ul class="small_catg popular_catg">
                                     @foreach($random as $rand)
                                         <li>
-                                            <div class="media wow fadeInDown"> <a class="media-left" href="{{ route('post-content', $rand->urlDetailPost ) }}"><img src="{{ url('/') }}/upload/images/thumbnail/{{ $rand->imgDetailPost }}" alt=""></a>
+                                            <div class="media wow fadeInDown"> <a class="media-left" href="{{ route('post-content', $rand->urlDetailPost ) }}"><img src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $rand->imgDetailPost }}" alt=""></a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading"><a href="{{ route('post-content', $rand->urlDetailPost ) }}">{{ $rand->nameDetailPost }}</a></h4>
                                                     <p>{{ $rand->presentDetailPost }}</p>

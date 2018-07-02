@@ -82,7 +82,11 @@
 
                                             <?php mysqli_close($con); ?>
 
-                                            <td>{{ $download->enable }}</td>
+                                            <td>
+                                                @if ($download->enable == ENABLE)
+                                                    <i class="fa fa-check"></i>
+                                                @endif
+                                            </td>
                                             <td>
                                                 <a href="{{ route('download-list-update',$download->idDown) }}" style="font-size:18px">
                                                     <i class="fa fa-edit"></i>

@@ -13,7 +13,7 @@
                             <li>
                                 <div class="catgimg2_container">
                                     <a href="{{ route('post-content', $post->urlDetailPost ) }}">
-                                        <img alt="{{ $post->nameDetailPost }}" src="{{ url('/') }}/upload/images/thumbnail/{{ $post->imgDetailPost }}">
+                                        <img alt="{{ $post->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $post->imgDetailPost }}">
                                     </a>
                                 </div>
                                 <h2 class="catg_titile" style="width:100%">

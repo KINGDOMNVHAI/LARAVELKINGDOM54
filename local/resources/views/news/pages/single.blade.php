@@ -29,7 +29,7 @@
                 @foreach($involves as $involve)
                     <div class="col-xs-6 col-md-3 related-grids">
                         <a href="{{url('/post/'. $involve->urlDetailPost)}}" class="thumbnail">
-                            <img src="{{asset("upload/images/thumbnail/$involve->imgDetailPost")}}" alt="{{ $involve->nameDetailPost }}" />
+                            <img src="{{asset("local/public/upload/images/thumbnail/$involve->imgDetailPost")}}" alt="{{ $involve->nameDetailPost }}" />
                         </a>
                         <h5><a href="{{url('/post/'. $involve->urlDetailPost)}}">{{ $involve->nameDetailPost }}</a></h5>
                     </div>
