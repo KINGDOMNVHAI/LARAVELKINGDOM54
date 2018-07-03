@@ -11,15 +11,9 @@
         </ol>
         <h2 class="post_titile">{{ $content->nameDetailPost }}</h2>
         <div class="last-article">
-            <p class="artext">{!! $content->contentDetailPost !!}</p>
 
-            <!-- <ul class="categories">
-                <li><a href="#">Markets</a></li>
-                <li><a href="#">Business</a></li>
-                <li><a href="#">Sport</a></li>
-                <li><a href="#">Special reports</a></li>
-                <li><a href="#">Culture</a></li>
-            </ul> -->
+            {!! $content->contentDetailPost !!}
+            <p class="signature">{!! $content->author !!}</p>
 
             <div class="clearfix"></div>
             <!--related-posts-->

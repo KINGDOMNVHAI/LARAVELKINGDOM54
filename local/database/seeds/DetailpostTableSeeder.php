@@ -29,29 +29,31 @@ class DetailpostTableSeeder extends Seeder
 
 <p>Bộ phim hấp dẫn ngay từ những tập đầu tiên với những pha khoe hàng của các nhân vật nữ và tình tiết hấp dẫn, lôi cuốn người xem. Người xem sẽ được nhìn thấy một Issei hài hước, biến thái khi luôn liên tưởng đến những hình ảnh đen tối gần như ở bất kỳ đâu, thậm chí là cả trên chiến trường. Nhưng những cảnh chiến đấu, khoe hàng đó không thể sánh bằng yếu tố tình cảm, điểm cộng sáng nhất của bộ phim. Khán giả sẽ không thể cầm nước mắt khi Issei khóc vì Asia đã chết, không thể cảm thấy tiếc nuối khi Issei dù chiến đấu đến hơi thở cuối cùng, vẫn không thể bảo vệ được hội trưởng Rias khỏi Raiser.</p>
 
-<center><img src="../local/public/upload/images/anime/Issei-Asia.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /></center>
+<center><img src="../local/public/upload/images/anime/Highschool-DxD-Issei-Asia.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" />
+<p>Cảnh xúc động nhất của bộ phim</p></center>
 
 <p>Điểm nhấn thứ 2 là những pha chiến đấu. Sau khi xem phim này, Issei đã được phong làm “thánh lột” với chiêu Dress Break có thể xé tan mọi bộ quần áo nào của các cô gái. Cùng với những pha chiến đấu hoành tráng như Issei tung Dragon Shot phá tan quả núi hay mặc bộ giáp Balance Breaker chiến đấu với Raiser.</p>
 
-<center><img src="../local/public/upload/images/anime/Issei-vs-Raiser.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /><p>Issei chiến đấu với Raiser</p></center>
+<center><img src="../local/public/upload/images/anime/Highschool-DxD-Issei-vs-Raiser.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" />
+<p>Issei chiến đấu với Raiser</p></center>
  
+<p>Nói về chiều sâu, bộ phim cũng rất đầu tư nghiên cứu cốt truyện về cuộc chiến giữa Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ. Phần 1 mới chỉ có Ác Quỷ và Thiên Thần Sa Ngã xuất hiện. Bộ phim còn đầu tư thêm cả những sinh vật thần thoại như rồng, Slime… những cấp quỷ, tộc quỷ khác nhau, công việc của quỷ khi đi tìm những giao ước với con người, khiến khán giả cảm thấy thế giới của Highschool DxD rất rộng lớn.</p>
 
-<p>Nói về chiều sâu, bộ phim cũng rất đầu tư nghiên cứu cốt truyện về cuộc chiến giữa Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ. Tuy nhiên, phần 1 mới chỉ có Ác Quỷ và Thiên Thần Sa Ngã xuất hiện. Bộ phim còn đầu tư thêm cả những sinh vật thần thoại như rồng, slime… những cấp quỷ, tộc quỷ khác nhau, công việc của quỷ khi đi tìm những giao ước với con người, khiến khán giả cảm thấy thế giới của Highschool DxD rất rộng lớn.</p>
+<center><img src="../local/public/upload/images/anime/Highschool-DxD-Angel-vs-Fallen-Angel-vs-Devil.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /><p>Bức tranh mô tả cuộc chiến giữa<br>Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ</p>
 
-<center><img src="../local/public/upload/images/anime/Angel-vs-Fallen-Angel-vs-Devil.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /><p>Bức tranh mô tả cuộc chiến giữa<br>Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ</p>
-
-<img src="../local/public/upload/images/anime/Raynare_Light_Spear.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /></center>
+<img src="../local/public/upload/images/anime/Highschool-DxD-Raynare-Light-Spear.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" />
+<p>Thiên Thần Sa Ngã Raynare</p></center>
 
 <p>Cuối cùng, phần hình ảnh và âm thanh cũng rất tốt. Người viết thích cả bài hát mở đầu và kết thúc của phim. Bản nhạc hùng tráng khi cả đội Gremory ra trận trong Rating Game hay bản nhạc buồn khi Issei khóc vì Asia đều khiến khán giả cảm thấy xúc động và hưng phấn. Những hiệu ứng hình ảnh chiến đấu được đầu tư rất tốt. </p>
 
-<center><img src="../local/public/upload/images/anime/Rias-Gremory.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /></center>
+<center><img src="../local/public/upload/images/anime/Highschool-DxD-Rias-Gremory.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /></center>
 
 <p>Highschool DxD xứng đáng là bộ phim tuyệt vời mà mọi người phải xem qua. Một bộ phim đầy đủ mọi yếu tố hay nhất, hấp dẫn nhất, hài hước nhất, xúc động nhất và được đầu tư công phu nhất. Khán giả rất mong chờ phần 2 của bộ phim này với sự xuất hiện của Vanishing Dragon, đối thủ ngang tầm truyền kiếp của Welsh Dragon của Issei.</p>
 
 <p>Trang chủ: <a href="http://www.haremking.tv/">Haremking</a></p>',
 
             'dateDetailPost'     => '2015-07-10',
-            'imgDetailPost'      => 'highschool_dxd_thumbnail.jpg',
+            'imgDetailPost'      => 'highschool-dxd-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -72,27 +74,29 @@ class DetailpostTableSeeder extends Seeder
 
 <center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-Magazine.jpg" width="50%" /></center>
 
-<p>Một ngày nọ, cậu học sinh Kanie Seiya bị một cô gái xinh đẹp tên là Sento Isuzu mới chuyển đến lớp chĩa súng và bắt cậu phải hẹn hò với cô ở công viên Amagi Brilliant Park. Sau buổi “hẹn hò”, Seiya được mời đến gặp Latifa Fleuranza – công chúa của xứ thần tiên Maple Land. Latifa tiết lộ mong muốn của mình là muốn Seiya làm quản lý cho công viên Amagi Brilliant Park để vực dậy công viên đang xuống cấp nghiêm trọng và có nguy cơ đóng cửa này. Nhiệm vụ của cậu là phải đưa 250.000 khách đến công viên trong 3 tháng. Chỉ có cách đó mới có thể giữ được công viên, cũng là ngôi nhà của các giống loài thần tiên. Để chứng minh, Latifa đã hôn Seiya và truyền cho cậu khả năng đọc suy nghĩ của người khác.</p>
+<p>Một ngày nọ, cậu học sinh Kanie Seiya bị một cô gái xinh đẹp tên là Sento Isuzu mới chuyển đến lớp chĩa súng vào đầu và bắt cậu phải hẹn hò với cô ở công viên Amagi Brilliant Park. Sau buổi hẹn hò, Seiya được mời đến gặp Latifa Fleuranza – công chúa của xứ thần tiên Maple Land. Latifa tiết lộ nguyện vọng là muốn Seiya làm quản lý cho công viên Amagi Brilliant Park để vực dậy công viên đang xuống cấp nghiêm trọng và có nguy cơ đóng cửa này. Nhiệm vụ của cậu là phải đưa 250.000 khách đến công viên trong 3 tháng. Chỉ có cách đó mới có thể giữ được công viên, cũng là ngôi nhà của các giống loài thần tiên. Để chứng minh, Latifa đã hôn Seiya và truyền cho cậu khả năng đọc suy nghĩ của người khác một lần duy nhất.</p>
 
-<p>Mặc dù nội dung phim có vẻ khá đơn giản, nhưng khi xem những tập đầu tiên, khán giả sẽ cảm thấy ngay sự thú vị của bộ phim. Bộ phim dẫn dắt khán giả qua từng tập, xem cách mà cậu học sinh Seiya tài năng vực dậy công viên như thế nào. Từ vấn đề quảng cáo, tu sửa lại công viên đến giải quyết tài chính, nhân lực. Và các tình huống hài hước trong lúc giải quyết xung đột với các nhân viên rất thú vị. Khán giả sẽ rất thích thú 3 Linh Thú của công viên có khuôn mặt rất biểu cảm. Hay Isuzu có thể rút 2 khẩu súng dài từ… trong váy. </p>
+<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-pirates-ship.jpg" width="70%" /></center>
 
-<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-Magazine-pirates-ship.jpg" width="70%" /></center>
+<p>Mặc dù nội dung phim có vẻ khá đơn giản, nhưng khi xem những tập đầu tiên, khán giả sẽ thấy ngay sự thú vị của bộ phim. Bộ phim dẫn dắt khán giả qua từng tập, xem cách mà cậu học sinh Seiya tài năng vực dậy công viên như thế nào. Từ vấn đề quảng cáo, tu sửa lại công viên đến giải quyết tài chính, nhân lực. Và các tình huống hài hước trong lúc giải quyết xung đột với các nhân viên rất thú vị. Khán giả sẽ rất thích thú 3 Linh Thú của công viên có khuôn mặt rất biểu cảm. Hay Isuzu có thể rút 2 khẩu súng dài từ… trong váy. </p>
 
-<p>Phim còn có thêm một chút cảnh nóng và hành động để thêm phần thú vị. Dĩ nhiên chỉ dừng lại ở mức độ giải trí và tạo thêm một chút kịch tính. Theo đánh giá của người viết, tập 7 là tập hấp dẫn nhất khi có đầy đủ những yếu tố hấp dẫn nhất của bộ phim. Một con tàu hải tặc từ xứ thần tiên Maple Land xuất hiện trong hồ bơi của công viên và bắt cóc công chúa Latifa. Seiya, Isuzu cùng các nhân viên chiến đấu với hải tặc để cứu công chúa. Những cảnh nóng, các pha hành động nhẹ nhàng nhưng vẫn khá gay cấn cùng yếu tố hài hước chính là yếu tố tạo nên sự hấp dẫn của bộ phim.</p>
+<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-Shark.jpg" width="70%" /></center>
 
-<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-Magazine-2.jpg" width="70%" /></center>
+<p>Phim còn có thêm một chút cảnh nóng và hành động để thêm phần thú vị. Dĩ nhiên chỉ dừng lại ở mức độ giải trí và tạo thêm một chút kịch tính. Theo đánh giá của người viết, tập 7 là tập hấp dẫn nhất khi có đầy đủ những yếu tố hấp dẫn, hành động, hài hước. Một con tàu hải tặc từ xứ thần tiên Maple Land xuất hiện trong hồ bơi của công viên và bắt cóc công chúa Latifa. Seiya, Isuzu cùng các nhân viên chiến đấu với hải tặc để cứu công chúa. Những cảnh nóng, các pha hành động nhẹ nhàng nhưng vẫn khá gay cấn cùng yếu tố hài hước chính là yếu tố tạo nên sự hấp dẫn của bộ phim.</p>
 
-<p>Không chỉ vậy, phần đồ họa và âm nhạc cũng được thể hiện khá tốt. Đồ họa đơn giản, tươi sáng, đầy màu sắc và dễ thương tạo nên một công viên đầy màu sắc, là địa điểm lỷ tưởng cho chuyến đi nghỉ cuối tuần của trẻ em. Âm nhạc cũng được thể hiện khá tốt. Bài hát Extra Magic Hours khá hay. Các bạn có thể xem trailer và bài hát Extra Magic Hours đầy đủ phiên bản piano ở dưới.</p>
+<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-2.jpg" width="70%" /></center>
+
+<p>Không chỉ vậy, phần đồ họa và âm nhạc cũng được thể hiện khá tốt. Đồ họa đơn giản, tươi sáng và dễ thương tạo nên một công viên đầy màu sắc, là địa điểm lỷ tưởng cho chuyến đi nghỉ cuối tuần của trẻ em. Âm nhạc cũng được thể hiện khá tốt với bài hát mở đầu Extra Magic Hours khá hay. Các bạn có thể nghe bài Extra Magic Hours đầy đủ phiên bản piano ở dưới.</p>
 
 <center><iframe width="560" height="315" src="//www.youtube.com/embed/WGMLDSTkvDo" frameborder="0" allowfullscreen></iframe>
-<br /><br />
+<br><br>
 <iframe width="560" height="315" src="//www.youtube.com/embed/P4Weq5rsiJw" frameborder="0" allowfullscreen></iframe></center>
 
 <p>Bộ phim nhìn sơ qua có vẻ khá đơn giản nhưng vẫn có chiều sâu. Những bí ẩn xung quanh mối quan hệ của Seiya và công chúa Latifa không chỉ đơn thuần là công việc mà còn có liên quan đến mối quan hệ nào đó từ nhỏ của 2 người. Khi Latifa hôn và truyền sức mạnh cho Seiya, Seiya đã nhìn thấy hình ảnh 2 người còn nhỏ. Nhưng hiện tại, họ lại không nhớ trước kia họ có quen nhau hay không. Điều đó khiến khán giả tò mò muốn xem hết bộ phim.</p>
 
 <p>Mỗi tập phim còn có một ý nghĩa riêng. Ví dụ như tập 4, khán giả rất thích thú khi xem Sento Isuzu chỉ huy nhân viên chống lụt lội trong trận mưa lớn, và phần thưởng là tràng pháo tay nể phục và chúc mừng cô. Hay như tập 9 là tinh thần đồng đội của 4 vũ công trong nỗ lực vượt qua thử thách. Mỗi người có ưu khuyết điểm riêng, chỉ có tinh thần đồng đội mới bù đắp cho nhau và cùng nhau chiến thắng.</p>
 
-<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-Magazine-1.jpg" width="70%"/></center>
+<center><img src="../local/public/upload/images/anime/Amagi-Brilliant-Park-1.jpg" width="70%"/></center>
 
 <p>Amagi Brilliant Park là một bộ phim hài hước, lãng mạn, có tính giải trí cao. Những ai mong muốn có một bộ phim đơn giản nhưng vẫn có chiều sâu thì đây là một bộ phim đáng xem. Hãy cùng nhau tham quan công viên Amagi Brilliant Park và cười sảng khoái với những tình huống cực kỳ hài hước của các nhân vật dễ thương và không kém phần gợi cảm.</p>
 
@@ -118,20 +122,23 @@ class DetailpostTableSeeder extends Seeder
 
 	<p>Seirei Tsukai no Blade Dance là bộ phim Anime của công ty Kadokawa sản xuất, dựa theo bộ tiểu thuyết Light Novel cùng tên của nhà văn Shimizu Yuu và minh họa bởi Sakura Hanpen. Phim Anime được công chiếu vào ngày 14/7/2014. </p>
 
-<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Wallpaper1.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
+<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
+<br><br>
+<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Wallpaper.jpg" width="50%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 
-	<p>Bộ phim nói về những cô gái được gọi là Tinh Linh Sứ, những người có thể triệu hồi Tinh Linh, biến Tinh Linh trở thành vũ khí chiến đấu của mình. Nhưng Kazehaya Kamito là một ngoại lệ. Cậu ta là nam Tinh Linh Sứ duy nhất trên thế giới. Vì vậy, Kamito phải học trong  trường Areishia dành cho Tinh Linh Sứ. Dĩ nhiên toàn là những cô gái Tinh Linh Sứ của những gia đình quý tộc. Kamito lập một đội tên là đội Hỏa Miêu gồm Claire, Rinslet, Ellis và Fianna để tham gia Đại Hội Kiếm Vũ. Đội thắng cuộc sẽ có một điều ước cho mỗi người. Mỗi người trong đội đều có mục đích riêng nhưng đều nhắm đến việc làm sáng tỏ bí mật của Đại Hội Kiếm Vũ 3 năm trước. </p>
+<p>Bộ phim nói về những cô gái được gọi là Tinh Linh Sứ, những người có thể triệu hồi Tinh Linh, biến Tinh Linh trở thành vũ khí chiến đấu của mình. Nhưng Kazehaya Kamito là một ngoại lệ. Cậu ta là nam Tinh Linh Sứ duy nhất trên thế giới. Vì vậy, Kamito phải học trong  trường Areishia dành cho Tinh Linh Sứ. Dĩ nhiên toàn là những cô gái Tinh Linh Sứ của những gia đình quý tộc. Kamito lập một đội tên là đội Hỏa Miêu gồm Claire, Rinslet, Ellis và Fianna để tham gia Đại Hội Kiếm Vũ. Đội thắng cuộc sẽ có một điều ước cho mỗi người. Mỗi người trong đội đều có mục đích riêng nhưng đều nhắm đến việc làm sáng tỏ bí mật của Đại Hội Kiếm Vũ 3 năm trước. </p>
 
-<center><img src="../local/public/upload/images/anime/Kamito-and-Restia.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
+<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Kamito-and-Restia.jpg" width="50%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 
 <p>Tinh Linh là một dạng sinh vật có 2 hình dạng: Tinh linh vũ khí và sinh vật sống. Ví dụ như Est và Restia là 2 cô gái Tinh Linh có thể biến thành thanh kiếm của Kamito. Hay Scarlet của Claire là một con mèo có thể biến thành roi lửa làm vũ khí.</p>
 
 <p>Bộ phim theo phong cách phương Tây ngày xưa. Từ những bản nhạc violin, ngôi trường mang kiến trúc Châu Âu đến những vũ khí, quần áo và ngựa cưỡi. Tuy nhiên, bộ phim vẫn mang dáng vẻ hiện đại với Tinh Linh là một người máy khổng lồ với những vũ khí tối tân, hay tập cuối có sự xuất hiện của một phi thuyền đưa 3 đội mạnh nhất đến với Đại Hội Kiếm Vũ.</p>
  
+<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-1.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 
 <p>Có vẻ như công ty Kadokawa luôn biết khai thác thế mạnh của mình về hình ảnh và âm thanh như các bộ phim như Date a Live hay Amagi Brilliant Park. Cũng như 2 phim trên, hình ảnh của Seirei Tsukai no Blade Dance theo phong cách tươi sáng, màu sắc và có phần trẻ con. Các nhân vật trong Seirei Tsukai no Blade Dance dù 16 tuổi nhưng khá giống những cô bé dễ thương. Phần âm nhạc cũng khá tốt với 2 bài hát mở đầu và kết thúc theo 2 phong cách khác nhau. Ngay từ tập đầu tiên, người viết đã ấn tượng với bản nhạc nền chiến đấu khá hùng tráng khi Claire quất roi tấn công Kamito. Hay như tập cuối cùng, đội Hỏa Miêu chiến đấu với Velsaria, âm nhạc cũng được thể hiện rất tốt.</p>
 
-<center><img src="../local/public/upload/images/anime/Team-Scalet-vs-Velsaria.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
+<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Team-Scalet-vs-Velsaria.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 
 <p>Seirei Tsukai no Blade Dance là một bộ phim rất đáng xem và đáng chờ đợi. Với những pha hành động hấp dẫn, những cảnh nóng hài hước, hình ảnh và âm thanh rất tốt và trên hết, phiên bản light novel hiện đã đến volume 13. Season mới chỉ chiếu đến volume 3, tức là Seirei Tsukai no Blade Dance sẽ còn rất nhiều season sẽ ra mắt trong các năm tới. Các fan hâm mộ thoải mái đón chờ season mới. </p>
 
@@ -194,7 +201,7 @@ class DetailpostTableSeeder extends Seeder
 
 <p>Khi xem xong bộ phim, chắc chắn khán giả đều đoán được Madan No Ou To Vanadis sẽ có phần 2. Hy vọng phần 2 sẽ sớm ra mắt và tiếp nối thành công của phần 1 để khan giả chiêm ngưỡng nhan sắc và sức mạnh của 7 nữ chiến cơ lừng danh.</p>
 
-<center><img src="../local/public/upload/images/anime/Madan_No_Ou_To_Vanadis.jpg" width="70%" /></center>',
+<center><img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis.jpg" width="70%" /></center>',
 
             'dateDetailPost'     => '2015-07-02',
             'imgDetailPost'      => 'Madan-No-Ou-To-Vanadis-Than-Tien-va-Chien-Co-thumbnail.jpg',
@@ -297,24 +304,24 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <p>Infinite Stratos là bộ phim dựa theo loạt truyện light novel của Nhật bản được viết bởi Izuru Yumizuru và được minh họa bởi hãng Okiura. Tới 4/2011, 7 volumes đã được công bố bởi Media Factory dưới nhãn MF Bunko J của họ. Một manga đăng bởi Kenji Akahoshi bắt đầu tuần tự trong seinen manga magazine Monthly Comic Alive từ ngày 27/5/2010. Anime đã được chiếu ở Nhật Bản từ ngày 1/6 đến ngày 31/3/2011.</p>
 
-<center><img src="../local/public/upload/images/anime/Houki.jpg" width="70%" alt="Infinite Stratos" /></center>
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-Houki.jpg" width="70%" alt="Infinite Stratos" /></center>
 
 <p>Nội dung mang bối cảnh khoa học viễn tưởng. Trong tương lai, một nhà khoa học Nhật Bản đã phát minh ra 1 bộ giáp hỗ trợ gọi là "Infinite Stratos" (IS). Và những người sử dụng được IS đều là con gái. Cho đến một ngày, một sự kiện lạ được phát hiện khi Orimura Ichika có thể sử dụng được IS. Thế là Ichika đã phải vào ngôi trường đào tạo phi công IS toàn nữ sinh. Tại đây, cậu đã gặp Orimura Chifuyu, chị gái cậu hiện đang làm giáo viên chủ nhiệm của lớp cậu.</p> 
 
-<center><img src="../local/public/upload/images/anime/Cecilia.jpg" width="70%" alt="Infinite Stratos" />
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-Cecilia.jpg" width="70%" alt="Infinite Stratos" />
 </center>
 
 <p>Ichika còn gặp những cô gái khác là Shinonono Houki - bạn thuở nhỏ đệ nhất, Cencilia Alcott - học sinh đại diện cho vương quốc Anh, Fan Rinin – học sinh đại diện cho Trung Quốc và là bạn thuở nhỏ đệ nhị, Charlotte Dunoa – học sinh đại diện cho nước Pháp, Laura Bodewig – học sinh đại diện cho nước Đức. Sau những trận chiến quyết liệt, họ đã trở thành bạn của nhau trên chiến trường và là đối thủ của nhau trên tình trường.</p>
 
-<center><img src="../local/public/upload/images/anime/Rin.jpg" width="70%" alt="Infinite Stratos" /></center>
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-Rin.jpg" width="70%" alt="Infinite Stratos" /></center>
 
 <p>Bộ phim lấy đề tài về khoa học viễn tưởng. Vì vậy, sẽ không có gì ngạc nhiên khi hình ảnh là yếu tố then chốt, được nhà sản xuất đầu tư nhiều nhất. Những bộ giáp IS với đủ các loại vũ khí, từ kiếm, đao cận chiến đến súng ngắm, súng máy đánh xa đều được thể hiện rất chi tiết và rõ nét. Những trận chiến được thể hiện khá tốt và kịch tính. Tuy nhiên, sự kịch tính đó bị ngắt quãng vì những lý do khiến người xem dễ cụt hứng như cảnh Ichika lao vào, chuẩn bị đánh Cencilia thì đột nhiên Shield Energy cạn hết, trận đấu kết thúc.</p>
 
-<center><img src="../local/public/upload/images/anime/Charlotte.jpg" width="70%" alt="Infinite Stratos" /></center>
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-Charlotte.jpg" width="70%" alt="Infinite Stratos" /></center>
 
 <p>Âm thanh trong trận chiến được đầu tư rất kỹ lưỡng với nhạc nền đậm chất hành động, tiếng cháy nổ, súng máy khá tốt. Tuy nhiên, những bản nhạc mở đầu và kết thúc phim chưa thật sự ấn tượng. Phần nhạc nền trong trận chiến cuối cùng, theo người viết là bản nhạc hay nhất của bộ phim. Nhà sản xuất nên đầu tư thêm cho bộ phim về âm nhạc nhiều hơn.</p>
 
-<center><img src="../local/public/upload/images/anime/Laura.jpg" width="70%" alt="Infinite Stratos" /></center>
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-Laura.jpg" width="70%" alt="Infinite Stratos" /></center>
 
 <p>Bộ phim có khá nhiều tình tiết hài hước, dở khóc dở cười khi Ichika phải sống trong một học viện nữ sinh. Từ việc sinh hoạt, chỗ ở phải chung với cô bạn cùng phòng Houki, Charlotte và tình cờ nhìn thấy đồ lót của họ cho đến việc trở thành “động vật quý hiếm” trong trường nữ sinh khiến cậu trở thành thần tượng bất đắc dĩ. Và khi các cô gái phải lòng cậu, họ dùng đủ các cách thức khác nhau để lấy tình cảm của cậu, tất nhiên có cả việc đấu đá lẫn nhau, cuối cùng người lãnh đủ hậu quả vẫn là anh chàng tội nghiệp.</p>
 
@@ -5978,7 +5985,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2017-06-01',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'real-account-mang-xa-hoi-chet-choc-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => UNENABLE,
             'author'             => 'NVHAI',
@@ -6297,6 +6304,27 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
 
             'dateDetailPost'     => '2018-06-13',
             'imgDetailPost'      => 'tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_BOTTOM_RIGHT,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Trinity Seven sẽ có The Movie thứ 2',
+            'urlDetailPost'      => 'trinity-seven-se-co-the-movie-thu-2',
+            'presentDetailPost'  => 'Hình ecchi của Lilith trên trang chủ Trinity Seven thông báo ra The Movie thứ 2',
+            'contentDetailPost'  => '<p>Trang chủ <a href="http://movie.trinity-7.com/">Trinity Seven</a> vào ngày 7/3/2018 vừa thông báo sẽ có The Movie thứ 2, kèm theo hình ecchi của Lilith</p>
+
+            <p>Moive đầu tiên của Trinity Seven là The Eternal Library And The Alchemist Girl</p>
+            
+            ',
+            'dateDetailPost'     => '2018-03-07',
+            'imgDetailPost'      => 'trinity-seven-se-co-the-movie-thu-2-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',

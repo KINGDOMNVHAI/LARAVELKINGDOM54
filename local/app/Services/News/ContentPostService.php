@@ -25,7 +25,9 @@ class ContentPostService extends ServiceProvider
      */
     public function content($urlDetailPost)
     {
-        $post = detailpost::where('urlDetailPost', 'like', $urlDetailPost)->first();
+        $post = detailpost::join('category', 'category.idCat', 'detailpost.idCat')
+                        ->where('urlDetailPost', 'like', $urlDetailPost)
+                        ->first();
 
         return $post;
     }

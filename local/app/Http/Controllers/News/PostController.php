@@ -117,6 +117,9 @@ class PostController extends Controller
         $random     = new ListRecentPost;
         $viewRandom = $random->run(RECENT_HOME_POSTS, null);
 
+        $posts      = new HomePagePostService();
+        $viewHead   = $posts->headPosition();
+
         // Private Services
         $listPost = new ListSearchPostService();
         $viewListPost = $listPost->run($request);
@@ -130,6 +133,7 @@ class PostController extends Controller
             'mostViews'      => $viewMostView,
             'updates'        => $viewUpdate,
             'random'         => $viewRandom,
+            'heads'          => $viewHead,
 
             // Private Services
             'posts'          => $viewListPost,

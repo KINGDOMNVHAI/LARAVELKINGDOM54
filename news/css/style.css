@@ -180,6 +180,7 @@ span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal
 .single_page_content ul li{margin-bottom:3px; padding-left:30px}
 .single_page_content ul li:hover{opacity:0.75}
 .single_page_content ul li:before{ border-radius:0; color:#ffa500; content:""; height:10px; margin-left:-15px; margin-top:5px; position:absolute; width:10px}
+.signature{color:blue;font-size:25px;font-weight:bold;text-align:right;}
 .related-posts h4{padding-left:10px;}
 .btn:hover{border-radius:0px; -webkit-transition:0.5s; -o-transition:0.5s; transition:0.5s}
 .post_pagination{ display:inline; float:left; height:92px; margin-top:40px; overflow:hidden; width:100%; margin-bottom:10px}
