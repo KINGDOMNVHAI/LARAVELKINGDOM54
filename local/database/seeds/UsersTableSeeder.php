@@ -1,6 +1,6 @@
 <?php
 
-use App\Model\user;
+use App\Model\users;
 use Illuminate\Database\Seeder;
 
 class UsersTableSeeder extends Seeder
@@ -14,7 +14,7 @@ class UsersTableSeeder extends Seeder
     {
         // TYPE_MEMBER  TYPE_EDITOR  TYPE_ADMIN
 
-        $user = new user();
+        $user = new users();
         $user->create([
             'lastname'  => 'Nguyễn Việt',
             'firstname' => 'Hải',

@@ -1,4 +1,4 @@
-@include('admin.header')
+@include('auth/header')
 
 <body>
 <div id="fb-root"></div>
@@ -16,7 +16,7 @@
             <div class="header-container_inner">
                 <div class="site-branding col-md-2">
                     <h1 class="site-logo">
-                    <a href="http://kingdomnvhai.info/"><img src="assets/login/images/logo_name_NVHAI_small_blue.png" width="90%" alt=""/></a>
+                        <a href="http://kingdomnvhai.info/"><img src="auth/images/logo_name_NVHAI_small_blue.png" width="90%" alt=""/></a>
                     </h1>
                 </div>
 
@@ -42,42 +42,46 @@
 
     <div class="login-form row">
 
-        <img src="assets/login/images/chara_r_19.png" width="960" height="962"  alt="" id="lefting"/>
-		<img src="assets/login/images/chara_r_18.png" width="960" height="962"  alt="" id="righting"/>
+        <img src="auth/images/chara_r_19.png" width="960" height="962"  alt="" id="lefting"/>
+        <img src="auth/images/chara_r_33.png" width="960" height="962"  alt="" id="righting"/>
 
         <div id="content" class="container">
             <div class="box-top-blue col-md-offset-3 col-md-6 login-present">
-                <div class="col-md-offset-1 col-md-10">
-					<p class="header-msg">Register</p>
-
-                    <form action="{{ url('register-insert') }}" method="post">
+                <div class="login-register-form col-md-offset-3 col-md-6">
+                    <p class="header-msg">Register</p>
+                    <form action="{{ route('register') }}" method="post">
                         {{ csrf_field() }}
-                        <div class="register-input col-md-6">
-                            <input type="text" class="fullname" name="iplastname" placeholder="Last name">
-                            <input type="text" class="fullname" name="ipfirstname" placeholder="Full name">
-                            <input type="text" class="username" name="ipusername" placeholder="Username">
-                            <input type="text" class="password" name="ippassword" placeholder="Password">
-                            @if($errors->has('password'))
-                                <p style="color:red">{{$errors->first('password')}}</p>
-                            @endif
-                            <input type="text" class="username" name="ipemail" placeholder="Email">
-                            @if($errors->has('email'))
-                                <p style="color:red">{{$errors->first('email')}}</p>
-                            @endif
-                        </div>
-                        <div class="col-md-6">
-                            <h4>Other</h4>
-                            <input type="text" class="address" name="ipaddress" placeholder="Address">
-                            <input type="text" class="city" name="ipcity" placeholder="City">
-                        </div>
-                        <input type="submit" class="submit-signup" value="Đăng ký">
-                        <p>Bạn đã nhập thiếu</p>
-                    </form>
+                        <input type="hidden" name="_token" value="{{csrf_token()}}">
 
+                        <h3>Request</h3>
+
+                        <input type="text" class="login-register-input" name="firstname" placeholder="First name"><br>
+                        <input type="text" class="login-register-input" name="lastname" placeholder="Last name"><br>
+                        <input type="text" class="login-register-input" name="username" placeholder="Username"><br>
+                        <input type="password" class="login-register-input" name="password" placeholder="Password"><br>
+                        <input type="text" class="login-register-input" name="email" placeholder="Email"><br>
+
+                        <h3>Other</h3>
+
+                        <input type="text" class="login-register-input" name="city" placeholder="City"><br>
+                        <input type="text" class="login-register-input" name="address" placeholder="Address"><br>
+                        <input type="text" class="login-register-input" name="company" placeholder="Company"><br>
+                        <input type="text" class="login-register-input" name="facebook" placeholder="Facebook"><br>
+                        <input type="text" class="login-register-input" name="twitter" placeholder="Twitter"><br>
+
+                        <center><a href="{{ route('kd-login') }}">Đã có tài khoản</a>  |  <a href="{{ route('forgot-password') }}">Quên mật khẩu?</a></center><br>
+
+                        <input type="submit" class="submit-signup" value="Register">
+
+                        @if (session('message'))
+                            <div class="alert alert-success">
+                                {{ session('message') }}
+                            </div>
+                        @endif
+                    </form>
                 </div>
             </div>
         </div>
-
     </div>
 
 </div>

@@ -68,7 +68,7 @@ class DetailpostTableSeeder extends Seeder
             'nameDetailPost'     => '[Review] Amagi Brilliant Park – Công viên giải trí kỳ lạ',
             'urlDetailPost'      => 'Amagi-Brilliant-Park-Cong-vien-giai-tri-ky-la',
             'presentDetailPost'  => 'Một cô gái xinh đẹp chĩa súng và mời đi hẹn hò với bạn. Địa điểm là một công viên xuống cấp trầm trọng có nguy cơ bị đóng cửa. Công chúa ở đó muốn bạn làm quản lý để vực dậy công viên.',
-            'contentDetailPost'  => '<p>Thể loại: hài hước, lãng mạn. Phụ: hành động, Ecchi.</p>
+            'contentDetailPost'  => '<p>Thể loại: hài hước, lãng mạn. <br>Phụ: hành động, Ecchi.</p>
 
 <p>Amagi Brilliant Park là bộ phim Anime do công ty Kadokawa sản xuất, được lên sóng vào ngày 3/10/2014. Bộ phim dựa trên cuối tiểu thuyết Light Novel cùng tên do Shoji Gatoh sáng tác và minh họa bởi Yuka Nakajima. Light Novel đã được phát hành vào ngày 20/2/2013.</p>
 
@@ -173,7 +173,7 @@ class DetailpostTableSeeder extends Seeder
 <p>Bộ phim lấy bối cảnh Châu Âu thời Trung Cổ, kể về cuộc chiến sinh tồn, tranh giành quyền lực giữa các lãnh chúa, chư hầu 4 phương và sự quật khởi của chàng bá tước nghèo Tigrevurmud Vorn có tài bắn tên bách phát bách trúng. Tigrevurmud Vorn là bá tước của vùng đất nhỏ Alsace thuộc vương quốc Brune. Sau khi bị bắt bởi Chiến Cơ Eleonora Viltaria – nữ hoàng của Zhctec - cậu đã thuộc về Eleonora thu nạp và sau này là cả Alsace. Đổi lại, Eleonora đảm bảo sự an nguy của cả Alsace. Và 2 người bắt đầu cuộc chiến bảo vệ quê hương khỏi mọi kẻ thù, đặc biệt là gia tộc Thenardier.
 /p>
 
-<center><img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-Alsace.png" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ"/>
+<center><img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-Alsace.jpg" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ"/>
 
 <p>Vùng Alsace</p></center>
 
@@ -190,16 +190,18 @@ class DetailpostTableSeeder extends Seeder
 <p>Và không chỉ có các đội quân theo phong cách Châu Âu thời Trung Cổ, bộ phim còn có những đội quân theo phong cách Ba Tư như trận chiến Ormea hay trận chiến Orange. Đặc biệt hơn, tính thần thoại của bộ phim còn được đẩy lên cao với sự xuất hiện của các Chiến Cơ – những người được 7 Long Cụ chọn, Rồng, người bình thường có trong tay thần kiếm… khiến cho các trận chiến kịch tính hơn mà không mất đi sự cân bằng giữa 2 phe.</p>
 
 <center><img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-Elen-vs-Dragon.jpg" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
-
+<br><br>
 <img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-Ludmila.jpg" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
-
-<img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-V9-cl06-07.jpg" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
-
-<img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-vol13-244.jpg" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
+<br><br>
+<img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-vol13-244.jpg" width="50%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
+<br><br>
+<img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-vol04-174.jpg" width="50%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
+<br><br>
+<img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis-vol11-088.jpg" width="70%" alt="Madan No Ou To Vanadis - Thần tiễn và Chiến cơ" />
 
 <p>Những hình ành trong Light Novel</p></center>
 
-<p>Khi xem xong bộ phim, chắc chắn khán giả đều đoán được Madan No Ou To Vanadis sẽ có phần 2. Hy vọng phần 2 sẽ sớm ra mắt và tiếp nối thành công của phần 1 để khan giả chiêm ngưỡng nhan sắc và sức mạnh của 7 nữ chiến cơ lừng danh.</p>
+<p>Khi xem xong bộ phim, chắc chắn khán giả đều đoán được Madan No Ou To Vanadis sẽ có phần 2. Hy vọng phần 2 sẽ sớm ra mắt và tiếp nối thành công của phần 1 để khán giả chiêm ngưỡng nhan sắc và sức mạnh của 7 nữ chiến cơ lừng danh.</p>
 
 <center><img src="../local/public/upload/images/anime/Madan-No-Ou-To-Vanadis.jpg" width="70%" /></center>',
 
@@ -278,7 +280,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <h3>Tin liên quan</h3>
 
-<p><a href=" http://kingdomnvhai.info/NoiDung-Nhung-light-novel-noi-tieng-co-the-duoc-chuyen-the-thanh-anime.html">Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime</a>
+<p><a href="http://news.kingdomnvhai.info/post/Nhung-light-novel-noi-tieng-co-the-duoc-chuyen-the-thanh-anime">Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime</a>
 </p>',
 
             'dateDetailPost'     => '2015-07-03',
@@ -299,7 +301,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'presentDetailPost'  => 'Một cậu nam sinh học trong trường nữ sinh, nơi đào tạo ra những phi công lái Infinite Stratos - thiết bị bay có khả năng chiến đấu. Và cậu đã nổi tiếng khắp trường vì là nam giới duy nhất lái được IS.',
             'contentDetailPost'  => '<p>Thể loại: Hành Động, Hài Hước, Mecha, Shounen, Harem, Viễn Tưởng, Ecchi</p>
 
-<center><img src="../local/public/upload/images/anime/Infinite-Stratos-Girls.jpg" width="70%" alt="Infinite Stratos" />
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-wallpaper.jpg" width="70%" alt="Infinite Stratos" />
 </center>
 
 <p>Infinite Stratos là bộ phim dựa theo loạt truyện light novel của Nhật bản được viết bởi Izuru Yumizuru và được minh họa bởi hãng Okiura. Tới 4/2011, 7 volumes đã được công bố bởi Media Factory dưới nhãn MF Bunko J của họ. Một manga đăng bởi Kenji Akahoshi bắt đầu tuần tự trong seinen manga magazine Monthly Comic Alive từ ngày 27/5/2010. Anime đã được chiếu ở Nhật Bản từ ngày 1/6 đến ngày 31/3/2011.</p>
@@ -347,10 +349,9 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'nameDetailPost'     => '[Review] Walkure Romanze - Hiệp sĩ đấu thương',
             'urlDetailPost'      => 'Walkure-Romanze-Hiep-si-dau-thuong',
             'presentDetailPost'  => 'Mang phong cách Châu Âu cổ kính, bộ phim nói về chàng trai và các cô gái yêu thích bộ môn cưỡi ngựa đấu thương. ',
-            'contentDetailPost'  => '<p>Thể loại: Hoạt Hình, Hài Hước, Tâm Lý - Lãng Mạn, Cổ Điển, Harem, Thể Thao.
-Phụ: Hành Động.</p>
+            'contentDetailPost'  => '<p>Thể loại: Hoạt Hình, Hài Hước, Tâm Lý - Lãng Mạn, Cổ Điển, Harem, Thể Thao.<br>Phụ: Hành Động.</p>
 
-<p>Walkure Romanze là bộ phim Anime được ra mắt vào ngày 28/10/2011, được chuyển thể từ Visual Novel cùng tên, do hãng phim Ricotta sản xuất.  </p>
+<p>Walkure Romanze là bộ phim anime được ra mắt vào ngày 28/10/2011, được chuyển thể từ visual novel cùng tên, do hãng phim Ricotta sản xuất.</p>
 
 <center><img src="../local/public/upload/images/anime/Walkure-Romanze-6.jpg" width="70%" alt="Walkure Romanze - Hiệp sĩ đấu thương" /></center>
 
@@ -358,8 +359,9 @@ Phụ: Hành Động.</p>
 
 <center><img src="../local/public/upload/images/anime/Walkure-Romanze-3.jpg" width="70%" alt="Walkure Romanze - Hiệp sĩ đấu thương" /></center>
 
-<p>Các nhân vật trong phim gồm có:
-Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp chấn thương ở chân. Sau này, khi anh làm Begleiter cho anh trai của Celia, anh ta đã thua. Từ đó, Mizuno tự trách bản thân mình.</p>
+<p>Các nhân vật trong phim gồm có:</p>
+
+<p>Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp chấn thương ở chân. Sau này, khi anh làm Begleiter cho anh trai của Celia, anh ta đã thua. Từ đó, Mizuno tự trách bản thân mình.</p>
 
 <p>Kisaki Mio: một hiệp sĩ non trẻ nhưng rất có năng khiếu và có ánh mắt quan sát rất tốt. Cô có thể nhìn thấy đường thương của đối thủ và né rất nhanh.</p>
 
@@ -367,13 +369,16 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
 
 <p>Noel Marres Ascot: cha cô đã từng là hiệp sĩ đấu thương nhưng đã từ bỏ vì ông nghĩ đó là nguyên nhân khiến em gái Noel bị thương, phải ngồi xe lăn. Noel quyết tâm thi đấu để làm ông và em gái mình tự hào.</p>
 
-<p>Ryuuzouji Akane: bạn thân của Mio và là fan hâm mộ Celia. Cô luôn ngây người mỗi khi nghĩ đến Celia. Cuối cùng, cô cũng đã có cơ hội được đấu với Celia tại giải đấu. Bộ giáp cô mặc là một bộ giáp mang phong cách Nhật Bản.</p>
+<p>Ryuuzouji Akane: bạn thân của Mio và là fan hâm mộ Celia. Cô luôn ngây người mỗi khi nghĩ đến Celia. Cuối cùng, cô cũng đã có cơ hội được đấu với Celia tại giải đấu. Bộ giáp cô mặc mang phong cách Nhật Bản.</p>
 
-<p>Lisa Eostre: học sinh chuyển trường năm nhất và là một thần đồng. Chỉ có điều cô trầm cảm và ít nói do nỗi đau của quá khứ.</p>
+<p>Lisa Eostre: học sinh chuyển trường năm nhất và là một thần đồng. Cô trầm cảm và ít nói do nỗi đau quá khứ.</p>
 
 <center><img src="../local/public/upload/images/anime/Walkure-Romanze-5.jpg" width="70%" alt="Walkure Romanze - Hiệp sĩ đấu thương" /></center>
+<br><br>
+<center><img src="../local/public/upload/images/anime/Walkure-Romanze-7.jpg" width="70%" alt="Walkure Romanze - Hiệp sĩ đấu thương" />
+<p>Cảnh trong anime và visual novel</p></center>
 
-<p>Bộ phim mang tính chất hành động nhưng cũng rất nhẹ nhàng vì đây chỉ là hành động mang tính chất thể thao. Nhưng sự kịch tính của bộ phim cũng được đẩy lên khá cao với những màn trình diễn bất ngờ và những trận đấu gay cấn. Nhất là khi khán giả nhìn thấy Mizuno dùng 1 cây thương đã gãy để đâm gãy 2 cây thương cùng một lúc. Những pha hành động hài hước cũng góp phần tạo nên kịch tính hài hước như cảnh con ngựa rượt đuổi và kéo váy các nhân vật nữ.</p>
+<p>Bộ phim mang tính chất hành động nhưng cũng rất nhẹ nhàng vì đây là anime chủ đề thể thao. Nhưng sự kịch tính của bộ phim cũng được đẩy lên khá cao với những màn trình diễn bất ngờ và những trận đấu gay cấn. Nhất là khi Mizuno dùng 1 cây thương đã gãy để đâm gãy 2 cây thương cùng một lúc. Những pha hành động hài hước cũng góp phần tạo nên sự kịch tính hài hước như cảnh con ngựa rượt đuổi và kéo váy các nhân vật nữ.</p>
 
 <center><img src="../local/public/upload/images/anime/Walkure-Romanze-4.jpg" width="70%" alt="Walkure Romanze - Hiệp sĩ đấu thương" /></center>
 
@@ -385,7 +390,7 @@ Takahiro Mizuno: một hiệp sĩ đấu thương xuất sắc nhưng đã gặp
 
 <p>Cảnh đẹp nhất của bộ phim.</p></center>
 
-<p>Bộ phim đã lột tả hết những gì đẹp nhất của châu Âu, mang đến cho người xem sự hồi hộp của những trận đấu thương và sự giao thoa văn hóa Đông – Tây khi nhìn thấy cánh hoa anh đào, bộ giáp và kiếm Nhật giữa đấu trường châu Âu. Khán giả chắc chắn sẽ rất mãn nhãn khi xem bộ phim này.</p>
+<p>Những cảnh phim đã lột tả hết những gì đẹp nhất của châu Âu, mang đến cho người xem sự hồi hộp của những trận đấu thương và sự giao thoa văn hóa Đông – Tây khi nhìn thấy cánh hoa anh đào, bộ giáp và kiếm Nhật giữa đấu trường châu Âu. Khán giả chắc chắn sẽ rất mãn nhãn khi xem bộ phim này. </p>
 
 <center><img src="../local/public/upload/images/anime/Walkure-Romanze.jpg" width="70%" alt="Walkure Romanze - Hiệp sĩ đấu thương" /><br></center>',
 
@@ -4078,7 +4083,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-01-10',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'nidome-no-jinsei-wo-isekai-de-ong-gia-va-2-co-gai-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4424,7 +4429,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-02-17',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'okusama-ga-seitokaichou-ban-gai-toi-la-hoi-truong-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4631,10 +4636,23 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => '[Review] One Punch Man - Đấm phát chết luôn',
-            'urlDetailPost'      => 'one-punch-man-dam-phat-chet-luon',
+            'nameDetailPost'     => '[Review] One Punch Man – Một đấm kết liễu',
+            'urlDetailPost'      => 'one-punch-man-mot-dam-ket-lieu',
             'presentDetailPost'  => 'Bộ Manga cố gắng phá vỡ khái niệm anh hùng vất vả đánh thắng kẻ xấu đã được chuyển thể thành Anime.',
-            'contentDetailPost'  => '',
+            'contentDetailPost'  => '<p>One Punch Man khởi đầu là webcomic của tác giả có bút danh là One, bắt đầu công bố trên trang cá nhân vào ngày 3/6/2009. Phiên bản manga của tác giả Yuusuke Murata được công bố trên trang web của Young Jump WebComics Shueisha  ngày 14/6/2012. Ý tưởng cho bộ truyện làm lại bắt đầu khi Mutara gặp One trên Twitter để thảo luận. Theo đó Murata sẽ tiến hành remake lại bộ truyện.</p> 
+
+            <p>Tại một Trái Đất hư cấu có các thành phố từ A đến Z. Trái Đất này tồn tại rất nhiều quái vật, thiên tai, người đột biến… liên tục phá hoại với đủ mọi mức độ. 2 tổ chức Hiệp Hội Anh Hùng và Hiệp Hội Quái Vật được lập ra để quản lý các anh hùng và quái vật trong thế giới hỗn loạn này. Saitama, một thanh niên thất nghiệp có cơ duyên làm anh hùng sau khi cứu một cậu bé. Anh đã luyện tập bằng cách nào đó mà vài năm sau, anh đã có sức mạnh đến mức kết liễu những con quái rất mạnh chỉ bằng một đấm duy nhất. Anh cùng cậu học trò Genos tham gia Hiệp Hội Anh Hùng và nhìn thấy nhiều mặt của những anh hùng được mọi người kính nể.</p>
+	
+            <center><img src="../local/public/upload/images/anime/one-punch-man-mot-dam-ket-lieu-1.jpg" width="50%" alt="One Punch Man – Một đấm kết liễu"/></center>
+	
+            <h3>Cố gắng thoát khỏi lối mòn…</h3>
+	
+            <p>Khi nhắc đến chủ đề anh hùng nói riêng và chiến đấu nói chung, ai cũng sẽ nghĩ đến viễn cảnh: anh hùng, chính diện sẽ chật vật chống lại những con boss phản diện mạnh hơn. Và cuối cùng phe chính diện sẽ thắng bằng niềm tin, kết hợp hay tuyệt kỹ bí mật. Lối mòn “Anh hùng vất vả chống kẻ xấu” xuất hiện rất nhiều, từ phim qua truyện, từ Tây sang Á.</p>
+
+            <p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
+
+	
+	',
 
             'dateDetailPost'     => '2016-03-13',
             'imgDetailPost'      => 'one-punch-man-dam-phat-chet-luon-thumbnail.jpg',
@@ -5952,7 +5970,38 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện',
+            'urlDetailPost'      => 'no-luc-thoat-khoi-loi-mon-vai-chinh-dien-yeu-hon-phan-dien',
+            'presentDetailPost'  => 'Anh hùng vất vả chống kẻ xấu và kết liễu bằng bí kỹ, sự đoàn kết, niếm tin. Một mô-típ quá quen thuộc.',
+            'contentDetailPost'  => '<p>Khi nhắc đến những trận chiến chính diện và phản diện, ai cũng sẽ nghĩ đến những trận chiến dưới kèo hoặc ngang kèo của vai chính diện khi đối đầu với những tên trùm. Cảnh chính diện ra đòn nhưng trùm vẫn trơ trơ, cảnh con trùm cực mạnh đè bẹp chính diện, cảnh anh hùng tung chiêu bí thuật kết liễu trùm cuối rồi thở dốc vì kiệt sức. Những hình ảnh quá quen thuộc trong mọi bộ phim, truyện tranh cả tây lẫn ta, cả Âu lẫn Á.</p>
+            
+            <center><img src="../local/public/upload/images/anime/goku-full-ultra-instinct-vs-jiren.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" /></center>
+            <br><br>
+            <center><img src="../local/public/upload/images/anime/superman-vs-doomsday.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" />
+            <p>Anh hùng thất thế trước kẻ xấu là hình ảnh quá quen thuộc.</p></center>
+            
+            <p>Vậy nên nhiều tác giả đã muốn phá bỏ khuôn khổ, không đi theo lối mòn cũ. Nhất là sau thành công của One Punch Man và sự nổi lên của thể loại Isekai, các tác giả đã hòa trộn hai yếu này làm một. Isekai wa smartphone to tomo ni là cái tên nổi bật. Isekai Maou to Shoukan Shoujo no Dorei Majutsu cũng khá triển vọng với anime sắp ra mắt.</p>
+            
+            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NlhUse6IMEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+            <p>PV của Isekai Maou to Shoukan Shoujo no Dorei Majutsu</p></center>
+            
+            
+            
+            ',
+
+            'dateDetailPost'     => '2018-07-05',
+            'imgDetailPost'      => 'no-luc-thoat-khoi-loi-mon-vai-chinh-dien-yeu-hon-phan-dien-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 
@@ -6113,39 +6162,40 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Kishuku Gakkou no Juliet sẽ được ra mắt vào mùa thu 2018',
-            'urlDetailPost'      => 'kishuku-gakkou-no-juliet-se-ra-mat-vao-mua-thu-2018',
-            'presentDetailPost'  => 'Khán giả sắp được xem câu chuyện hài hước của Romeo và Juliet phiên bản Anime vào mua thu 2018',
-            'contentDetailPost'  => 'http://goboiano.com/romeo-juliet-inspired-boarding-school-juliet-airs-this-fall/',
+            'nameDetailPost'     => 'Những điểm yếu của EVOS tại MSI 2018',
+            'urlDetailPost'      => 'nhung-diem-yeu-cua-evos-tai-msi-2018',
+            'presentDetailPost'  => 'MSI 2018 đã kết thúc với EVOS khi họ chỉ có 2 trận thắng. Hãy cùng phân tích điểm yếu của EVOS.',
+            'contentDetailPost'  => '
+            
+            
+            
+            ',
 
-            'dateDetailPost'     => '2018-05-25',
-            'imgDetailPost'      => 'kishuku-gakkou-no-juliet-se-ra-mat-vao-mua-thu-2018-thumbnail.jpg',
-            'idCat'              => ANIME_POST,
+            'dateDetailPost'     => '2018-05-17',
+            'imgDetailPost'      => 'nhung-diem-yeu-cua-evos-tai-msi-2018-thumbnail.jpg',
+            'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
-            'enable'             => UNENABLE,
+            'enable'         	 => ENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Archie liệu đã già?',
-            'urlDetailPost'      => 'Archie-lieu-da-gia',
-            'presentDetailPost'  => '',
-            'contentDetailPost'  => 'https://www.facebook.com/marinesesport/photos/pcb.2091507881105818/2091507734439166/?type=3
-            
-            <br>
-            https://www.facebook.com/lolesports/videos/793079427531583/',
+            'nameDetailPost'     => 'Kishuku Gakkou no Juliet sẽ được ra mắt vào tháng 10/2018',
+            'urlDetailPost'      => 'kishuku-gakkou-no-juliet-se-ra-mat-vao-mua-thu-2018',
+            'presentDetailPost'  => 'Khán giả sắp được xem câu chuyện hài hước của Romeo và Juliet phiên bản Anime vào tháng 10/2018',
+            'contentDetailPost'  => 'http://goboiano.com/romeo-juliet-inspired-boarding-school-juliet-airs-this-fall/',
 
-            'dateDetailPost'     => '2018-05-26',
-            'imgDetailPost'      => 'Archie-lieu-da-gia-thumbnail.jpg',
-            'idCat'              => GAME_POST,
+            'dateDetailPost'     => '2018-05-25',
+            'imgDetailPost'      => 'Kishuku-Gakkou-no-Juliet-se-ra-anime-vao-thang-10-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
-            'enable'         	 => UNENABLE,
+            'enable'             => UNENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
@@ -6162,7 +6212,7 @@ Anime dự kiến sẽ lên sóng vào ngày 4 tháng 8 sắp tới ~
 
 Website : https://shikioriori.jp/',
 
-            'dateDetailPost'     => '2018-05-29',
+            'dateDetailPost'     => '2018-05-28',
             'imgDetailPost'      => '',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
@@ -6334,7 +6384,56 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'head_position'      => HEADER_BOTTOM_RIGHT,
             'update'             => 0,
         ]);
-		
+
+        $post->create([
+            'nameDetailPost'     => 'Archie liệu đã già?',
+            'urlDetailPost'      => 'Archie-lieu-da-gia',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p>Archie, 1 trong 5 người đầu tiên tham gia Chung Kết Thế Giới 2012 khi còn trong đội Saigon Joker. Hiện giờ anh là người duy nhất trong đội còn thi đấu. Những cái tên khác là QTV, Nixwater, Junie và Violet đều đã lui vào hậu trường, làm những công việc khác liên quan đến thể thao điện tử. Việc anh thi đấu khiến nhiều người thắc về độ tuổi của anh có còn phù hợp với việc thi đấu hay không. Hãy cùng xem lại các thông số, thông tin cũng như những pha xử lý của Archie trong những năm qua.</p>
+            
+            <h3>Độ tuổi của một số tuyển thủ thế giới</h3>
+            
+            <p>Archie sinh ngày 26/07/1992. Vậy hãy điểm qua một số tuyển thủ thế giới sinh năm 1993 trở về trước.</p>
+            
+            <center><img src="../local/public/upload/images/game/lieu-archie-da-gia-tuoi-cua-cac-tuyen-thu.jpg" width="70%" alt="Archie liệu đã già"/></center>
+            
+            <p>Chúng ta có thể thấy đội tuyển Gambit Esports của Nga có các tuyển thủ sinh năm 1992, 1993. Và họ vừa thắng Việt Nam tại giải Rift Rivals 2018. Khu vực LCL của Nga đã thua khu vực TCL của Thổ Nhĩ Kỳ và TCL vô địch Rift Rivals 2018.</p>
+            
+            <p>Xạ thủ Doublelift là cái tên được nhắc đến rất nhiều trong năm 2017 khi đánh chung với Bjergsen trong team Solomid tại Chung Kết Thế Giới 2017 (CKTG 2017). Hiện anh đã qua Team Liquid với Xmithie và cả 2 là những người lớn tuổi nhất nhì trong đội. Thành tích gần đây của Team Liquid là 4 trận thắng ở MSI 2018 và chỉ thua Tie-break với Fnatic. Trong khi đội tuyển EVOS của Việt Nam chỉ có 2 trận thắng.</p>
+            
+            <p>Rõ ràng độ tuổi không phải vấn đề. Một đội cần có những người trẻ tuổi với kỹ năng tốt và những đàn anh dày dạn kinh nghiệm cũng như tâm lý. Trong Rift Rivals 2018, GAM và EVOS của Việt Nam toàn những người trẻ tuổi, thậm chí 3 người của GAM còn chưa hề có kinh nghiệm thi đấu quốc tế nên thua là điều khó tránh khỏi. </p>
+            
+            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/WkywXhb7rp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <p>1:30 BLV Hoàng Luân nói đây là giải đấu quốc tế đầu tiên của Kiaya, Spot, Blazes</p></center>
+            
+            <h3>Những pha xử lý của Archie</h3>
+            
+            <p>Tất nhiên, chúng ta sẽ không nói những thời điểm quá xa. Hãy cùng xem lại những pha xử lý của Archie trong CKTG 2017 và một pha cướp Baron năm 2016.</p>
+            
+            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bVtlbuFSnU8?start=3098" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            
+            <p>Pha cướp Baron năm 2016 của Archie</p>
+            
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/0ceEupJt4kY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/wSfYAsqECOg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <p>Archie xuất hiện trong The Penta: CKTG 2017 Tuần 2</p></center>
+            
+            https://www.facebook.com/lolesports/videos/793079427531583/',
+
+            'dateDetailPost'     => '2018-08-07',
+            'imgDetailPost'      => 'Archie-lieu-da-gia-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 		
     }    
 }

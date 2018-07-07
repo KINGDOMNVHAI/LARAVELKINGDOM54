@@ -29,7 +29,7 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                         <div class="card card-user">
                             <div class="image">
                                 @if(Auth::user()->banner != null)
-                                    <img src="upload/images/banner/{{Auth::user()->banner}}" />
+                                    <img src="local/public/upload/images/banner/{{Auth::user()->banner}}" />
                                 @else
                                     <img src="https://ununsplash.imgix.net/photo-1431578500526-4d9613015464?fit=crop&fm=jpg&h=300&q=75&w=400" alt="..."/>
                                 @endif
@@ -38,7 +38,7 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                                 <div class="author">
                                     <a href="#">
                                         @if(Auth::user()->avatar != null)
-                                            <img class="avatar border-gray" src="upload/images/avatar/{{Auth::user()->avatar}}" />
+                                            <img class="avatar border-gray" src="local/public/upload/images/avatar/{{Auth::user()->avatar}}" />
                                         @else
                                             <img class="avatar border-gray" src="admin/imgs/faces/face-1.jpg" />
                                         @endif

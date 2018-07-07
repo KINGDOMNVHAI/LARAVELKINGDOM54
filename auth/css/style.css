@@ -654,9 +654,9 @@ margin:auto;
 	text-align:center;
 }
 
-.login-input{margin-top:100px;}
+.login-register-form{margin-top:100px;margin-bottom: 100px;}
 
-.login-input .username, .password{    
+.login-register-form .login-register-input{
 	width: 100%;
     height: 47px;
     padding: 5px 20px;

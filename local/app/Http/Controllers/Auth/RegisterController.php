@@ -2,8 +2,7 @@
 
 namespace App\Http\Controllers\Auth;
 
-use DB;
-use App\User;
+use App\Model\users;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
@@ -50,15 +49,15 @@ class RegisterController extends Controller
 
     public function index()
     {
-        return view('auth.register');
+        return view('auth.register.register');
     }
 
     protected function validator(array $data)
     {
         return Validator::make($data, [
-            'name' => 'required|string|max:255',
-            'email' => 'required|string|email|max:255|unique:users',
-            'password' => 'required|string|min:6|confirmed',
+            'name'      => 'required|string|max:255',
+            'email'     => 'required|string|email|max:255|unique:users',
+            'password'  => 'required|string|min:6|confirmed',
         ]);
     }
 
@@ -70,47 +69,35 @@ class RegisterController extends Controller
      */
     public $timestamps = true;
 
-    protected function create(Request $request)
+    public function create(Request $request)
     {
-
-//        $rules = [
-//            'ipemail' =>'required|email',
-//            'ippassword' => 'required|min:8'
-//        ];
-//        $messages = [
-//            'email.required' => 'Email là trường bắt buộc',
-//            'email.email' => 'Email không đúng định dạng',
-//            'password.required' => 'Mật khẩu là trường bắt buộc',
-//            'password.min' => 'Mật khẩu phải chứa ít nhất 8 ký tự',
-//        ];
-//        $validator = Validator::make($request->all(), $rules, $messages);
-//
-//        if ($validator->fails()) {
-//            return redirect()->back()->withErrors($validator)->withInput();
-//        }
-//        else{
-//
-//        }
-
         // Values for variables
-        $firstname = $request->ipfirstname;
-        $lastname = $request->iplastname;
-        $username = $request->ipusername;
-        $email = $request->ipemail;
-        $password = $request->ippassword;
+        $firstname = $request->firstname;
+        $lastname = $request->lastname;
+        $username = $request->username;
+        $password = $request->password;
+        $email = $request->email;
+        $city = $request->city;
+        $address = $request->address;
+        $company = $request->company;
+        $facebook = $request->facebook;
+        $twitter = $request->twitter;
 
-        DB::table('users');
-        User::insert([
+        users::insert([
             'firstname' => $firstname,
-            'lastname' => $lastname,
-            'username' => $username,
-            'email' => $email,
-            'password' => bcrypt($password),
-            'type' => 'member'
+            'lastname'  => $lastname,
+            'username'  => $username,
+            'password'  => bcrypt($password),
+            'email'     => $email,
+            'type'      => 'member',
+            'city'      => $city,
+            'address'   => $address,
+            'company'   => $company,
+            'facebook'  => $facebook,
+            'twitter'   => $twitter,
         ]);
 
         // After insert, back to previous page
-        return redirect('/kd-login')->with('result', 'Đăng ký thành công');
-
+        return redirect('/kd-login')->with('message', 'Đăng ký thành công');
     }
 }

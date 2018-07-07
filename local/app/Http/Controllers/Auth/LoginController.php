@@ -53,7 +53,6 @@ class LoginController extends Controller
         return view($this->mainView);
     }
 
-
     public function login(Request $request)
     {
         $username = $request->input('username');
@@ -69,5 +68,4 @@ class LoginController extends Controller
         }
 
     }
-
 }

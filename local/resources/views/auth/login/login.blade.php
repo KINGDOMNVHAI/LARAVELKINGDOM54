@@ -46,9 +46,8 @@
 		<img src="auth/images/chara_r_33.png" width="960" height="962"  alt="" id="righting"/>
 
         <div id="content" class="container">
-
             <div class="box-top-blue col-md-offset-3 col-md-6 login-present">
-                <div class="login-input col-md-offset-3 col-md-6">
+                <div class="login-register-form col-md-offset-3 col-md-6">
 					<p class="header-msg">Login</p>
                     <form action="{{ route('check-login') }}" method="post">
                         {{ csrf_field() }}
@@ -65,13 +64,13 @@
                         {{--  @if($errors->has('arletemail'))
                         <p style="color:red">{{$errors->first('email')}}</p>
                         @endif  --}}
-                        <input type="text" class="username" name="username" placeholder="Tên tài khoản"><br>
+                        <input type="text" class="login-register-input" name="username" placeholder="Tên tài khoản"><br>
                         
                         {{--  @if($errors->has('password'))
 							<p style="color:red">{{$errors->first('password')}}</p>
 						@endif  --}}
-                        <input type="password" class="password" name="password" placeholder="Mật khẩu"><br>
-                        <center><a href="{{ url('/kd-register') }}">Chưa có tài khoản?</a>  |  <a href="{{ url('/forgot-password') }}">Quên mật khẩu?</a></center><br>
+                        <input type="password" class="login-register-input" name="password" placeholder="Mật khẩu"><br>
+                        <center><a href="{{ route('kd-register') }}">Chưa có tài khoản?</a>  |  <a href="{{ route('forgot-password') }}">Quên mật khẩu?</a></center><br>
                         <input type="submit" class="submit-signup" value="Đăng nhập">
 
                         @if (session('message'))
@@ -82,7 +81,6 @@
                     </form>
                 </div>
             </div>
-
         </div>
     </div>
 

@@ -16,7 +16,7 @@ Route::get('/kd-login','Auth\LoginController@index')->name('kd-login');
 
 Route::post('/check-login','Auth\LoginController@login')->name('check-login');
 
-Route::get('/kd-register', 'Auth\RegisterController@index')->name('register-form');
+Route::get('/kd-register', 'Auth\RegisterController@index')->name('kd-register');
 
 Route::post('/register-insert', 'Auth\RegisterController@create')->name('register');
 
