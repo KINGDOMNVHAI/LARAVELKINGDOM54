@@ -19,6 +19,8 @@ class DetailpostTableSeeder extends Seeder
             'presentDetailPost'  => 'Một cô gái xinh đẹp đột nhiên muốn hẹn hò với nam chính. Sau một ngày hẹn hò vui vẻ, cô ấy nói mong muốn của mình "Cậu có thể chết đi được không?".',
             'contentDetailPost'  => '<p>Thể loại: Hành động, Hài hước, Ecchi, Học đường, Harem, Lãng mạn, Fantasy, Siêu nhiên.</p>
 
+<p>Trang chủ: <a href="http://www.haremking.tv/">Haremking</a></p>
+
 <p>Highschool DxD là một trong số các series anime, manga, lightnovel hay nhất trong thời điểm hiện tại. Bộ phim được chuyển thể từ light novel cùng tên của tác giả Ishibumi Ichiei, minh họa bởi Miyama-Zero.</p>
 
 <center><img src="../local/public/upload/images/anime/Highschool-DxD-theme.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /></center>
@@ -50,7 +52,7 @@ class DetailpostTableSeeder extends Seeder
 
 <p>Highschool DxD xứng đáng là bộ phim tuyệt vời mà mọi người phải xem qua. Một bộ phim đầy đủ mọi yếu tố hay nhất, hấp dẫn nhất, hài hước nhất, xúc động nhất và được đầu tư công phu nhất. Khán giả rất mong chờ phần 2 của bộ phim này với sự xuất hiện của Vanishing Dragon, đối thủ ngang tầm truyền kiếp của Welsh Dragon của Issei.</p>
 
-<p>Trang chủ: <a href="http://www.haremking.tv/">Haremking</a></p>',
+',
 
             'dateDetailPost'     => '2015-07-10',
             'imgDetailPost'      => 'highschool-dxd-thumbnail.jpg',
@@ -69,6 +71,8 @@ class DetailpostTableSeeder extends Seeder
             'urlDetailPost'      => 'Amagi-Brilliant-Park-Cong-vien-giai-tri-ky-la',
             'presentDetailPost'  => 'Một cô gái xinh đẹp chĩa súng và mời đi hẹn hò với bạn. Địa điểm là một công viên xuống cấp trầm trọng có nguy cơ bị đóng cửa. Công chúa ở đó muốn bạn làm quản lý để vực dậy công viên.',
             'contentDetailPost'  => '<p>Thể loại: hài hước, lãng mạn. <br>Phụ: hành động, Ecchi.</p>
+
+<p>Trang chủ: <a href="http://amaburi.jp/">http://amaburi.jp/</a></p>
 
 <p>Amagi Brilliant Park là bộ phim Anime do công ty Kadokawa sản xuất, được lên sóng vào ngày 3/10/2014. Bộ phim dựa trên cuối tiểu thuyết Light Novel cùng tên do Shoji Gatoh sáng tác và minh họa bởi Yuka Nakajima. Light Novel đã được phát hành vào ngày 20/2/2013.</p>
 
@@ -100,7 +104,7 @@ class DetailpostTableSeeder extends Seeder
 
 <p>Amagi Brilliant Park là một bộ phim hài hước, lãng mạn, có tính giải trí cao. Những ai mong muốn có một bộ phim đơn giản nhưng vẫn có chiều sâu thì đây là một bộ phim đáng xem. Hãy cùng nhau tham quan công viên Amagi Brilliant Park và cười sảng khoái với những tình huống cực kỳ hài hước của các nhân vật dễ thương và không kém phần gợi cảm.</p>
 
-<p>Trang chủ: <a href="http://amaburi.jp/">http://amaburi.jp/</a></p>',
+',
 
             'dateDetailPost'     => '2015-06-30',
             'imgDetailPost'      => 'Amagi-Brilliant-Park-thumbnail.jpg',
@@ -120,7 +124,9 @@ class DetailpostTableSeeder extends Seeder
             'presentDetailPost'  => 'Nam chính có khả năng triệu hồi Tinh Linh mà chỉ có con gái mới làm được. Và nam sinh này phải học trong trường nữ sinh, lập đội tham dự Đại Hội Kiếm Vũ Tinh Linh Sứ.',
             'contentDetailPost'  => '<p>Thể loại: Hành động, Hài hước, Ecchi, Học đường, Harem, Lãng mạn, Fantasy, Siêu nhiên.</p>
 
-	<p>Seirei Tsukai no Blade Dance là bộ phim Anime của công ty Kadokawa sản xuất, dựa theo bộ tiểu thuyết Light Novel cùng tên của nhà văn Shimizu Yuu và minh họa bởi Sakura Hanpen. Phim Anime được công chiếu vào ngày 14/7/2014. </p>
+<p>Trang chủ: <a href="http://bladedance.tv/">http://bladedance.tv/</a></p>
+
+<p>Seirei Tsukai no Blade Dance là bộ phim Anime của công ty Kadokawa sản xuất, dựa theo bộ tiểu thuyết Light Novel cùng tên của nhà văn Shimizu Yuu và minh họa bởi Sakura Hanpen. Phim Anime được công chiếu vào ngày 14/7/2014. </p>
 
 <center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 <br><br>
@@ -144,7 +150,7 @@ class DetailpostTableSeeder extends Seeder
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/fT_ru_wU2D8" frameborder="0" allowfullscreen></iframe></center>
 
-<p>Trang chủ: <a href="http://bladedance.tv/">http://bladedance.tv/</a></p>',
+',
 
             'dateDetailPost'     => '2015-07-01',
             'imgDetailPost'      => 'Seirei-Tsukai-no-Blade-Dance-thumbnail.jpg',
@@ -412,6 +418,8 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
             'presentDetailPost'  => 'Một nam sinh vô tình thả một miêu nữ. Thế là cậu phải hợp tác với một cô gái có tài xạ tiễn để bắt lại. Cuối cùng, cậu xin tha mạng cho miêu nữ và harem của cậu bắt đầu từ đây.',
             'contentDetailPost'  => '<p>Thể loại: hài hước, ecchi, hành động, harem, lãng mạn, siêu nhiên.</p>
 
+<p>Trang chủ <a href="http://isuca.net/">Isuca</a></p>
+
 <p>Isuca là bộ phim anime được chuyển thể từ manga cùng tên. Bộ phim do hãng Kadokawa sản xuất và đã được phát hành vào năm 2015.</p> 
 
 <center><img src="../local/public/upload/images/anime/Isuca-2.jpg" width="70%" alt="Isuca" /></center>
@@ -419,21 +427,24 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <p>Bộ phim nói về cậu học sinh Asano Shinichirou tình cờ gặp một miêu nữ bị một mũi tên bắn trúng. Cậu thả ra và bị Sakuya Shimazu – con gái của gia đình có truyền thống săn quỷ - bắt phải hợp tác để bắt miêu nữ lại. Cuối cùng, cậu lại thu phục được miêu nữ vì cậu đã nói đúng tên miêu nữ là Tama. Và từ đó, dàn harem của cậu bắt đầu cùng với công việc giúp việc cho gia đình của cô thợ săn quỷ.</p>
 
-<p>Về nội dung, bộ phim chỉ dừng lại ở mức trung bình. Lỗi đầu tiên khi xem phim mà ai cũng nhận thấy là nam chính trong phim giống như các anime như Omamori Himari hay Freezing, chỉ dừng lại với vai trò hỗ trợ với khả năng hôn các cô gái để gia tăng sức mạnh. Còn trực tiếp tham gia vào trận chiến đều là do các nhân vật nữ thực hiện nên nhiều khán giả không thích. Khán giả thường thích những phim nam chính phải có một chút sức mạnh để chiến đấu hơn.</p>
+<p>Về nội dung, bộ phim chỉ dừng lại ở mức trung bình. Lỗi đầu tiên khi xem phim mà ai cũng nhận thấy là nam chính trong phim giống như các anime như Omamori Himari hay Freezing, chỉ dừng lại với vai trò hỗ trợ với khả năng hôn các cô gái để gia tăng sức mạnh. Còn trực tiếp tham gia vào trận chiến đều là các nhân vật nữ. Những cảnh chiến đấu được thực hiện khá tốt nhưng có lẽ hơi ngắn và đơn giản, cần có thêm nhiều pha hành động nảy lửa hơn. Động tác bắn cung của Sakuya khá bình thường nếu so với nhiều phim khác như Inuyasha.</p>
 
-<center><img src="../local/public/upload/images/anime/Isuca-3.jpg" width="70%" alt="Isuca" /></center>
+<center><img src="../local/public/upload/images/anime/Isuca-4.jpg" width="70%" alt="Isuca" /></center>
 
-<p>Thất vọng kế tiếp là bộ phim chỉ có 10 tập. Điều này làm giảm hứng thú của khán giả khi bình thường, một bộ phim thường có 12 tập. Khán giả xem xong không đoán được phim có phần 2 hay không. </p>
+<p>Thất vọng kế tiếp là bộ phim chỉ có 10 tập. Thường trong các bộ anime, phần 1 có 12 tập vì đây là phần gây ấn tượng mạnh với khán giả. Phần 1 phải là phẩn làm công phu, chu đáo nhất. 
+Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh chiến đấu. Cảnh nóng ở mức vừa đủ. Isuca sử dụng kỹ năng ngã của Rito trong To-Love Ru nhưng chưa ấn tượng bằng Rito.
+</p>
 	
-<p>Nhưng về mặt hình ảnh, bộ phim đã làm tốt với những hình ảnh chiến đấu và những cảnh nóng. Cảnh nóng ở mức vừa đủ. Những cảnh chiến đấu được thực hiện khá tốt nhưng có lẽ những đoạn chiến đấu hơi ngắn và đơn giản, cần có thêm nhiều pha hành động nảy lửa hơn.</p>
-
 <center><img src="../local/public/upload/images/anime/Isuca-1.jpg" width="70%" alt="Isuca" />
 <br><br>
-
-<img src="../local/public/upload/images/anime/Isuca-4.jpg" width="70%" alt="Isuca" />
+<img src="../local/public/upload/images/anime/Isuca-3.jpg" width="70%" alt="Isuca" />
 </center>
 
-<p>Nhìn chung, Isuca chỉ dừng lại ở mức giải trí. Bộ phim này khó có thể có nhiều fan hâm mộ do quá nhiều lỗi. Một thông tin không chính thức từ hãng phim là Isuca có thể sẽ có phần 2. Tuy nhiên, nếu như Kadokawa không khắc phục những lỗi trên thì phần 2 có thể sẽ lại tiếp tục thất bại như phần 1.</p>',
+<p>Nhìn chung, Isuca chỉ dừng lại ở mức giải trí. Bộ phim này khó có thể có nhiều fan hâm mộ do quá nhiều lỗi. Nhiều khả năng Isuca sẽ không có phần 2. Khán giả chỉ còn hy vọng vào series manga được thể hiện tốt hơn.</p>
+
+<center><img src="../local/public/upload/images/anime/Isuca-5.jpg" width="70%" alt="Isuca" /></center>
+
+',
 
             'dateDetailPost'     => '2015-07-06',
             'imgDetailPost'      => 'Isuca-thumbnail.jpg',
@@ -6064,18 +6075,35 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Việt Nam vào vòng 4 đội Chung Kết All Star Thế Giới 2017',
-            'urlDetailPost'      => 'viet-nam-vao-vong-4-doi-chung-ket-All-Star-The-Gioi-2017',
-            'presentDetailPost'  => 'Chiến thắng bất ngờ đến từ đội hình hạng 5,6 của All Star GPL',
-            'contentDetailPost'  => 'http://lienminh360.vn/esports/chinh-thuc-sieu-sao-gpl-vuot-qua-vong-bang-voi-chien-thang-truoc-brazil/
-            <br>
-            http://lienminh360.vn/cong-dong/sao-ai-cung-bi-hanh-boi-mot-team-chi-dung-ping-de-giao-tiep-vay-reddit-tung-ho-sieu-sao-gpl-sau-chien-tich-vuot-qua-vong-bang/
-            <br>          
-            http://lienminh360.vn/esports/dia-chan-allstar-2017-sieu-sao-gpl-huy-diet-sieu-sao-bac-my/',
+            'nameDetailPost'     => 'Diễn viên lồng tiếng Sadohara Kaori kết hôn',
+            'urlDetailPost'      => 'dien-vien-long-tieng-Sadohara-Kaori-ket-hon',
+            'presentDetailPost'  => 'Sadohara Kaori đã tham gia vào các phim: Date a live, Amagi Brilliant Park, Isuca, Hitsugi no Chaika...',
+            'contentDetailPost'  => '<p>Diễn viên lồng tiếng Sadohara Kaori đã đăng trên blog cá nhân vào ngày 13/12/2017 rằng cô và diễn viên lồng tiếng Kawahara Yoshihisa đã đăng ký kết hôn. Cặp đôi này sử dụng phiếu đăng ký kết hôn có in hình Detective Conan được ra mắt đầu năm nay.</p>
 
-            'dateDetailPost'     => '2018-12-09',
-            'imgDetailPost'      => 'viet-nam-vao-vong-4-doi-chung-ket-All-Star-The-Gioi-2017-thumbnail.jpg',
-            'idCat'              => GAME_POST,
+
+',
+
+            'dateDetailPost'     => '2017-12-17',
+            'imgDetailPost'      => 'dien-vien-long-tieng-Sadohara-Kaori-ket-hon-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Cupid Chocolate season 2',
+            'urlDetailPost'      => 'cupids-chocolates-season-2',
+            'presentDetailPost'  => 'Nối tiếp thành công của season 1, Socola của thần tình yêu đã ra mắt season 2.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2017-12-09',
+            'imgDetailPost'      => 'cupids-chocolates-season-2-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
@@ -6430,6 +6458,27 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'         	 => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Lotte Cinema sẽ chiếu Live-Action Inuyashiki tại Việt Nam vào 20 tháng 7',
+            'urlDetailPost'      => 'lotte-cinema-se-chieu-live-action-Inuyashiki-tai-Viet-Nam-vao-20-thang-7',
+            'presentDetailPost'  => 'Sadohara Kaori đã tham gia vào các phim: Date a live, Amagi Brilliant Park, Isuca, Hitsugi no Chaika...',
+            'contentDetailPost'  => '<p>Chuỗi rạp chiếu phim Lotte Cinema của Việt Nam công bố vào ngày 5/7/2018 rằng bộ phim Live-Action Inuyashiki chuyển thể từ manga cùng tên của tác giả Hiroya Oku sẽ được chiếu tại Việt Nam bắt đầu từ ngày 20/7/2018.</p>
+
+
+',
+
+            'dateDetailPost'     => '2018-07-11',
+            'imgDetailPost'      => 'lotte-cinema-se-chieu-live-action-Inuyashiki-tai-Viet-Nam-vao-20-thang-7-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,

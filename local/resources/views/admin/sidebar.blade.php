@@ -6,7 +6,7 @@
 -->
     <div class="sidebar-wrapper">
         <div class="logo">
-            <a href="http://kingdomnvhai.info/" class="simple-text">
+            <a href="http://news.kingdomnvhai.info" class="simple-text">
                 KINGDOM NVHAI
             </a>
         </div>

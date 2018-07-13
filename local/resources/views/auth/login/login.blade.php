@@ -16,7 +16,7 @@
             <div class="header-container_inner">
                 <div class="site-branding col-md-2">
                     <h1 class="site-logo">
-                    <a href="http://kingdomnvhai.info/"><img src="auth/images/logo_name_NVHAI_small_blue.png" width="90%" alt=""/></a>
+                    <a href="http://news.kingdomnvhai.info"><img src="auth/images/logo_name_NVHAI_small_blue.png" width="90%" alt=""/></a>
                     </h1>
                 </div>
 

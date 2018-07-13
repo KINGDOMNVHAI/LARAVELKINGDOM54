@@ -16,7 +16,7 @@
             <div class="header-container_inner">
                 <div class="site-branding col-md-2">
                     <h1 class="site-logo">
-                        <a href="http://kingdomnvhai.info/"><img src="auth/images/logo_name_NVHAI_small_blue.png" width="90%" alt=""/></a>
+                        <a href="http://news.kingdomnvhai.info"><img src="auth/images/logo_name_NVHAI_small_blue.png" width="90%" alt=""/></a>
                     </h1>
                 </div>
 
@@ -42,8 +42,8 @@
 
     <div class="login-form row">
 
-        <img src="auth/images/chara_r_19.png" width="960" height="962"  alt="" id="lefting"/>
-        <img src="auth/images/chara_r_33.png" width="960" height="962"  alt="" id="righting"/>
+        <img src="auth/images/chara_l_48.png" width="960" height="962"  alt="" id="lefting"/>
+        <img src="auth/images/chara_r_54.png" width="960" height="962"  alt="" id="righting"/>
 
         <div id="content" class="container">
             <div class="box-top-blue col-md-offset-3 col-md-6 login-present">
