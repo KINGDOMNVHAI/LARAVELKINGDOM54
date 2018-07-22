@@ -135,4 +135,3 @@ Route::get('/download/{urlCat}', 'News\DownloadController@listPostDownload')->na
 // ======================= Search Page =======================
 
 Route::post('/list-search-post', 'News\PostController@listSearch')->name('list-search-post');
-

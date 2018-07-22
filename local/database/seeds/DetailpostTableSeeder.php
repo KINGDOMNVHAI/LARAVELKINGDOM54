@@ -144,7 +144,9 @@ class DetailpostTableSeeder extends Seeder
 
 <p>Có vẻ như công ty Kadokawa luôn biết khai thác thế mạnh của mình về hình ảnh và âm thanh như các bộ phim như Date a Live hay Amagi Brilliant Park. Cũng như 2 phim trên, hình ảnh của Seirei Tsukai no Blade Dance theo phong cách tươi sáng, màu sắc và có phần trẻ con. Các nhân vật trong Seirei Tsukai no Blade Dance dù 16 tuổi nhưng khá giống những cô bé dễ thương. Phần âm nhạc cũng khá tốt với 2 bài hát mở đầu và kết thúc theo 2 phong cách khác nhau. Ngay từ tập đầu tiên, người viết đã ấn tượng với bản nhạc nền chiến đấu khá hùng tráng khi Claire quất roi tấn công Kamito. Hay như tập cuối cùng, đội Hỏa Miêu chiến đấu với Velsaria, âm nhạc cũng được thể hiện rất tốt.</p>
 
-<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Team-Scalet-vs-Velsaria.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
+<center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Team-Scalet-vs-Velsaria.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/>
+<br><br>
+<img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-Fianna.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 
 <p>Seirei Tsukai no Blade Dance là một bộ phim rất đáng xem và đáng chờ đợi. Với những pha hành động hấp dẫn, những cảnh nóng hài hước, hình ảnh và âm thanh rất tốt và trên hết, phiên bản light novel hiện đã đến volume 13. Season mới chỉ chiếu đến volume 3, tức là Seirei Tsukai no Blade Dance sẽ còn rất nhiều season sẽ ra mắt trong các năm tới. Các fan hâm mộ thoải mái đón chờ season mới. </p>
 
@@ -462,23 +464,23 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
             'nameDetailPost'     => 'Các loại nội dung của trang web',
             'urlDetailPost'      => 'Cac-loai-noi-dung-cua-trang-web',
             'presentDetailPost'  => 'Các trang web được chia làm 3 loại nội dung. Có loại dễ thu hút lượt xem, có loại khó thu hút nhưng đóng vai trò quan trọng.',
-            'contentDetailPost'  => '<p>Trong thời đại Internet, có vô số các trang web với vô vàn nội dung khác nhau: chính trị, quốc tế, xã hội, giải trí, game, phim ảnh…  Sau khi nghiên cứu, người viết đã phân ra các loại nội dung của trang web. Các trang web thường viết với 3 loại nội dung như sau:</p>
+            'contentDetailPost'  => '<p>Trong thời đại Internet, có vô số các trang web với vô vàn nội dung khác nhau: chính trị, quốc tế, xã hội, giải trí, game, phim ảnh…  Các website thường có 3 loại nội dung như sau:</p>
 
 <p><b>1) Nội dung thời sự</b></p>
 
-<p>Những trang web mang nội dung thời sự luôn theo dõi thông tin đang nóng hổi với nguồn tin từ các trang web khác hoặc tự tìm kiếm. Đặc biệt, những trang web này luôn bám sát nội dung đang được nhiều người quan tâm như Liên Minh Huyền Thoại, Marvel… </p>
+<p>Những trang web mang nội dung thời sự luôn theo dõi thông tin đang nóng hổi với nguồn tin từ các trang web khác hoặc tự tìm kiếm. Đặc biệt, các website này luôn bám sát nội dung đang được nhiều người quan tâm như Liên Minh Huyền Thoại, Marvel, những sự kiện thời sự nóng hổi… </p>
 
 <center><img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-1.jpg" width="100%" alt="Các loại nội dung của trang web"/></center>
 
-<p>Ưu điểm của những trang web này là có thể thu hút một lượng lớn lượt xem tại thời điểm đó. Nhiều người vì muốn kiếm lượt xem nên đã giật tiêu đề thật shock để gây sự chú ý, đánh vào tâm lý của nhiều người.</p>
+<p>Ưu điểm của loại nội dung này là có thể thu hút một lượng lớn lượt xem tại thời điểm đó. Nhiều người vì muốn nhiều lượt xem nên đã giật tiêu đề thật shock để gây sự chú ý, đánh vào tâm lý của nhiều người.</p>
 
-<p>Nhược điểm là những trang web này phải làm việc liên tục, đòi hỏi phải có một bộ phận quản trị viên năng động, chịu khó săn tìm thông tin. Nếu săn chậm quá thì chỉ còn cách đi sao chép thông tin, chỉnh sửa lại rồi đăng bài.</p>
+<p>Nhược điểm là những trang web này phải làm việc liên tục, đòi hỏi phải có một bộ phận quản trị viên năng động, chịu khó săn tìm thông tin và khả năng chỉnh sửa, viết nội dung vững. Nếu săn chậm quá thì chỉ còn cách đi sao chép thông tin, chỉnh sửa lại rồi đăng bài.</p>
 
-<p>Trên Youtube, những Vlogger có lợi thế hơn. Họ có thể tự do sáng tạo nội dung, nói theo quan điểm của mình và bằng cách của mình như diễn hài. Tất nhiên, nhiều Vlogger còn nói theo kiểu gây shock nhằm tạo sự chú ý. Nhưng lợi thế của Vlogger là họ chẳng cần phải copy thông tin của ai cả. Cứ thấy hiện tượng nào đang nổi lên hiện giờ là làm video thôi.</p>
+<p>Trên Youtube, các Vlogger có lợi thế hơn. Họ có thể tự do sáng tạo nội dung, nói quan điểm của mình và thể hiện mình như diễn hài. Tất nhiên, nhiều Vlogger còn nói theo kiểu gây shock nhằm tạo sự chú ý. Nhưng lợi thế của Vlogger là họ chẳng cần phải copy thông tin của ai cả. Cứ thấy hiện tượng nào đang nổi lên hiện giờ là làm video bày tỏ quan điểm cá nhân.</p>
 
 <p><b>2) Nội dung thư giãn</b></p>
 
-<p>Những video, trang tin tức này không chạy theo thời sự. Họ chỉ đơn giản là đăng những video, hình ảnh giải trí để thu hút lượt xem. Trang haivl là một điển hình nổi tiếng một thời. Một số trang còn đầu tư nội dung công phu hơn như những trang đọc truyện, xem phim online…</p>
+<p>Nội dung thư viện hay kho dữ liệu là những trang web được xây dựng theo dạng một kho lưu trữ dữ liệu. Đó có thể là phần mềm, phim ảnh, game hay học Photoshop… Những trang web này có thể nổi tiếng, có thể ít ai biết, thậm chí gần như không tồn tại. Khi bạn không cần, bạn sẽ không quan tâm đến các trang web này. Nhưng một khi bạn đã cần, những trang web này là nơi bạn phải đến, lùng sục, tìm kiếm rất vất vả mới có được. Thậm chí bạn phải biết tiếng nước ngoài mới tìm ra được các trang này.</p>
 
 <center><img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-3.jpg" width="70%" alt="Các loại nội dung của trang web" /></center>
 
@@ -496,11 +498,11 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-5.jpg" width="50%" alt="Các loại nội dung của trang web" /></center>
 
-<p>Nhược điểm của những trang web này là khó có thể quảng cáo do người dùng hiện đang không có nhu cầu. Nhưng đến một lúc nào đó, họ sẽ tìm đến. Vì vậy, những trang web này có tuổi thọ cực kỳ cao, miễn là chúng còn hoạt động. Kho dữ liệu càng nhiều, giá trị của trang web càng lớn. Đặc biệt là khi chúng chứa những thông tin khó tìm như game cũ, phim cũ…</p>
+<p>Nhược điểm của những trang web này là khó có thể quảng cáo do người dùng hiện đang không có nhu cầu. Nhưng đến một lúc nào đó, họ sẽ tìm đến. Vì vậy, những trang web này có tuổi thọ cực kỳ cao, miễn là chúng còn hoạt động. Kho dữ liệu càng nhiều, giá trị của trang web càng lớn. Đặc biệt là khi chúng chứa những thông tin khó tìm như game cũ, phim cũ… Đặc biệt, lượng tìm kiếm sẽ cao hơn nếu những trang này có kèm theo tiếng Anh, ngôn ngữ được dùng nhiều nhất thế giới. Không cần quá nhiều tiếng Anh, chỉ cần vài từ khóa là được.</p>
 
 <center><img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-6.jpg" width="50%" alt="Các loại nội dung của trang web" /></center>
 
-<p>Và nếu bạn đã từng nghe đến Deep Web, chắc chắn bạn sẽ biết 100% những trang Deep Web đều mang nội dung thư viện, kho dữ liệu. Đó là thông tin cá nhân, mật khẩu, những tài liệu mật, bí mật tội phạm… Những trang web, kho dữ liệu đó được cất giấu sau những bức tường lửa, an ninh mạng an toàn nhất. Nói ngắn gọn, những trang có nội dung thời sự, thư giãn được nêu trên chỉ chiếm phần nhỏ trên Internet. Còn những trang có nội dung thư viện, kho dữ liệu có tuổi thọ rất cao, chiếm vai trò quan trọng nhất trong Internet.</p>
+<p>Và nếu bạn đã từng nghe đến Deep Web, chắc chắn bạn sẽ biết 100% những trang Deep Web đều mang nội dung thư viện, kho dữ liệu. Đó là thông tin cá nhân, mật khẩu, những tài liệu mật, bí mật tội phạm… Những trang web, kho dữ liệu đó được cất giấu sau những bức tường lửa, an ninh mạng an toàn nhất. Nói ngắn gọn, những trang có nội dung thời sự, thư giãn được nêu trên chỉ chiếm phần nhỏ trên Internet. Còn những trang có nội dung thư viện, kho dữ liệu có tuổi thọ rất cao, chiếm vai trò quan trọng nhất trong Internet. Các file Torrent bạn download cũng là một dạng Deep Web.</p>
 
 <p>Nói chung, xây dựng một trang web đòi hỏi những người quản trị phải xác định được mục đích của nó là gì. Có những trang web kết hợp cả 3 yếu tố trên nhưng tất cả đều chọn cho mình 1 con đường chính. Và con đường nào cũng có ưu điểm và nhược điểm, lợi thế và khó khăn. Hy vọng mọi người sẽ chọn cho mình đường đi đúng.</p>',
 
@@ -522,23 +524,23 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
             'presentDetailPost'  => 'Một nam sinh đa nhân cách có khả năng bắn súng, chiến đấu bất đắc dĩ bắt cặp với một cô gái với kỹ năng chiến đấu được xếp hạng cao nhất.',
             'contentDetailPost'  => '<p>Thể loại: harem, ecchi, hành động, siêu nhiên, giả tưởng, lãng mạn, thần thoại. Phụ: học đường.</p>
 
-<p>Hidan no Aria là một bộ phim chuyển thể từ light novel cùng tên khá nổi tiếng của tác giả Akamatsu Chugaku.</p>
+<p>Hidan no Aria là một bộ phim chuyển thể từ light novel cùng tên của tác giả Akamatsu Chugaku. Series hiện đang có manga, light novel và anime.</p>
 
 <center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Aria-the-Scarlet-Ammo.jpg" width="70%" alt="Hidan no Aria" /></center>
 
 <p>Nam sinh Tohyama Kinji có năng lực đa nhân cách khi bị kích thích tình cờ gặp Aria H.Kanzaki, một Butei hạng S với 2 tay 2 súng trong một cuộc tấn công săn lùng Butei. Kết quả là cả 2 học trường trung học Tokyo Butei, nơi đào tạo ra những thám tử được vũ trang gọi là "Butei" với nhiều bộ phận khác nhau như bắn tỉa, chiến đấu… Từ đó, bộ đôi bất đắc dĩ này cùng nhau chiến đấu nhằm giải oan cho mẹ của Aria. Và cậu nam sinh Kinji được phần thưởng là một dàn harem gồm những cô gái với đủ mọi khả năng chiến đấu khác nhau, từ cận chiến đến bắn tỉa, từ trường kiếm châu Âu đến Tanaka Nhật.</p>
 
-<center><img src="../local/public/upload/images/anime/hidan-no-Aria-Aria.jpg" width="70%" alt="Hidan no Aria" /></center>
+<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Aria.jpg" width="70%" alt="Hidan no Aria" /></center>
 
-<p>Bộ phim hấp dẫn từ những tập đầu tiên với cảnh bắn nhau 2 tay 2 súng mà điệp viên 007 phải gọi bằng sư phụ. Phim là sự kết hợp giữa giả tưởng và thần thoại như một chiếc xe gắn súng tự động bắn hay sự xuất hiện của Vampire, con cháu Sherlock Holmes và Arsene Lupin. Những yếu tố như vậy khiến bộ phim có thêm chiều sâu, chứng tỏ rằng tác giả cũng đã tìm kiếm tài nguyên thông tin khá nhiều.</p>
+<p>Bộ phim hấp dẫn từ những tập đầu tiên với cảnh bắn nhau 2 tay 2 súng theo phong cách điệp viên 007. Phim là sự kết hợp giữa giả tưởng và thần thoại như một chiếc xe gắn súng tự động bắn hay sự xuất hiện của Vampire, con cháu Sherlock Holmes và Arsene Lupin. Những yếu tố như vậy khiến bộ phim có thêm chiều sâu. Nhưng có thể sẽ phản tác dụng với những ai không thích dạng phim lai tạp giữa thần thoại và hành động hiện đại.</p>
 
-<center><img src="../local/public/upload/images/anime/hidan-no-Aria-Riko.jpg" width="70%" alt="Hidan no Aria" /></center>
+<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Riko.jpg" width="70%" alt="Hidan no Aria" /></center>
 
-<p>Những cảnh nóng trong phim chỉ là yếu tố phụ.Yếu tố chính của bộ phim xoay quanh những pha hành động và những tình tiết hài hước của Kinji với các cô gái. Tuy nhiên, yếu tố hài hước vẫn còn mờ nhạt, không có gì nổi trội. Những pha đánh ghen, hài hước vẫn còn ít và những đoạn hội thoại có phần hơi dài. Một số khán giả chê khả năng đa nhân cách của Kinji không quá đặc biệt.</p>
+<p>Những cảnh nóng trong phim chỉ là yếu tố phụ.Yếu tố chính của bộ phim xoay quanh những pha hành động và những tình tiết hài hước của Kinji với các cô gái. Tuy nhiên, yếu tố hài hước vẫn còn mờ nhạt, cần được trau chuốt thêm. Những pha đánh ghen, hài hước vẫn còn ít và những đoạn hội thoại có phần hơi dài. Một số khán giả chê khả năng đa nhân cách của Kinji không quá đặc biệt.</p>
 
 <center><img src="../local/public/upload/images/anime/Hidan-no-Aria-yandere.jpg" width="70%" alt="Hidan no Aria" /></center>
  
-<p>Phần âm nhạc cũng không đặc sắc. Nói chung, Hidan no Aria khó có phần 2. Theo lời tác giả light novel Akamatsu Chugaku trên trang twitter là “Hidan no Aria có thể sẽ không có phần 2”. Vì vậy, hy vọng lượng bán light novel sẽ đủ để bù đắp thất bại này.</p>',
+<p>Phần âm nhạc cũng không đặc sắc. Nói chung, Hidan no Aria khó có phần 2, chỉ là bộ phim xem để giải trí dành cho những ai yêu thích thể loại harem, hành động bắn súng. Theo lời tác giả light novel Akamatsu Chugaku trên trang twitter là “Hidan no Aria có thể sẽ không có phần 2”. Vì vậy, hy vọng lượng bán light novel sẽ đủ để bù đắp thất bại này.</p>',
 
             'dateDetailPost'     => '2015-07-08',
             'imgDetailPost'      => 'hidan-no-aria-thumbnail.jpg',
@@ -553,18 +555,24 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Hidan no Aria AA phần 2 được công bố',
-            'urlDetailPost'      => 'Hidan-no-Aria-AA-phan-2-duoc-cong-bo',
-            'presentDetailPost'  => 'Hidan no Aria cuối cùng đã được công bố phần 2 sau gần 3 năm khán giả tưởng chừng như đã kết thúc dang dở.',
+            'nameDetailPost'     => 'Hidan no Aria AA được công bố',
+            'urlDetailPost'      => 'Hidan-no-Aria-AA-duoc-cong-bo',
+            'presentDetailPost'  => 'Hidan no Aria cuối cùng đã có anime mới sau gần 3 năm khán giả tưởng chừng như đã kết thúc dang dở.',
             'contentDetailPost'  => '<p>Hidan no Aria cuối cùng đã được công bố phần 2. Đây là điều bất ngờ vì thông tin này tưởng chừng như không bao giờ xảy ra sau một quãng thời gian khá dài.</p>
 
-<center><img src="../local/public/upload/images/anime/hidan-no-aria-aa-2nd-season-confirmed.jpg" width="70%" alt="Hidan no Aria AA phần 2 được công bố" /></center>
+<center><img src="../local/public/upload/images/anime/hidan-no-aria-AA-confirmed.jpg" width="50%" alt="Hidan no Aria AA phần 2 được công bố" /></center>
 
-<p>Hidan no Aria là một bộ phim chuyển thể từ light novel cùng tên khá nổi tiếng với nội dung hấp dẫn, tài nguyên thông tin khá phong phú. Nhưng kỳ lạ là bộ phim không có thông tin về phần 2 trong suốt gần 3 năm. Cuối cùng, phần 2 đã được chính thức xác nhận. Hidan no Aria AA sẽ dễ thương hơn, hành động nhiều hơn và có nhiều loli hơn.</p>
+<p>Hidan no Aria là một bộ phim chuyển thể từ light novel cùng tên khá nổi tiếng với nội dung hấp dẫn, tài nguyên thông tin khá phong phú. Nhưng series không có thông tin về anime phần 2 trong suốt gần 3 năm. Cuối cùng, anime mới đã được chính thức xác nhận. Hidan no Aria AA sẽ dễ thương hơn, hành động nhiều hơn và có nhiều loli hơn. Nhưng tin buồn cho các fan thể loại harem là Hidan no Aria sẽ là thể loại Yuri. Kinji vai chính trong phần trước sẽ chỉ là vai phụ trong phần này. </p>
 
-<p>Trước đây, tác giả light novel Hidan no Aria là Akamatsu Chugaku đã có một lời cảnh báo trên trang twitter của ông: “Hidan no Aria có thể sẽ không có phần 2”. Lý do muôn thuở là DVD/BD sales càng thấp thì khả năng có phần 2 cho anime càng ít. Vì thế tác giả khuyến khích fan nên mua nhiều hơn nữa. Thông tin này có từ năm 2011 tại <a href="http://www.sickos-alliance.net/news/anime-news/2296-hidan-no-aria-co-the-se-khong-co-ss2"> đây.</a></p>
+<p>Theo như nội dung trong manga, Hidan no Aria AA (còn gọi là Double A) không phải là phần 2 mà là ngoại truyện, nói về Akari Mamiya, đàn em ngưỡng mộ Aria và mong muốn được làm cộng sự của cô. Tuy nhiên, Akari lại kém cỏi mọi mặt nên cô bé phải rất vất vả để chứng tỏ bản thân.</p>
 
-Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-season-announced/"> seventhstyle.com</a>',
+<center><img src="../local/public/upload/images/anime/hidan-no-aria-AA-chap1.jpg" width="70%" alt="Hidan no Aria AA phần 2 được công bố" />
+
+<img src="../local/public/upload/images/anime/hidan-no-aria-AA-Mamiya-Akari.jpg" width="70%" alt="Hidan no Aria AA phần 2 được công bố" /></center>
+
+<p>Trước đây, tác giả light novel Hidan no Aria là Akamatsu Chugaku đã có một lời cảnh báo trên trang twitter của ông: “Hidan no Aria có thể sẽ không có phần 2”. Lý do là DVD/BD sales càng thấp thì khả năng có phần 2 cho anime càng ít. Vì thế tác giả khuyến khích fan nên mua nhiều hơn nữa.</p>
+
+',
 
             'dateDetailPost'     => '2015-07-09',
             'imgDetailPost'      => 'hidan-no-aria-aa-2nd-season-confirmed-thumbnail.jpg',
@@ -590,10 +598,10 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <ul>
 <li>Usotsuki Mii-kun to Kowareta Maa-chan
-<li>Spice and Wolf
+<li>Spice and Wolf (Sói và gia vị)
 <li>Oreimo
 <li>Kami-sama no Memo-chō
-<li>Kino\'s Journey
+<li>Kino Journey
 <li>Haruhi Suzumiya series
 <li>Shakugan no Shana
 <li>Student Council\'s Discretion
@@ -604,7 +612,7 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 <li>The Pilot\'s Love Song
 <li>A Certain Magical Index
 <li>Toradora!
-<li>Baka to Test to Shoukanjuu
+<li>Baka to Test to Shoukanjuu (Lũ ngốc, bài kiểm tra và linh thú triệu hồi)
 <li>Bakemonogatari
 <li>Full Metal Panic!
 <li>Book Girl series
@@ -613,11 +621,17 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 <li>Mimizuku to Yoru no Ou
 </ul>
 
-<center><img src="../local/public/upload/images/anime/baka-to-test-to-shoukanjuu-light-novel.jpg" width="70%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" /><br>Baka to Test to Shoukanjuu</center>
+<center><img src="../local/public/upload/images/anime/baka-to-test-to-shoukanjuu-light-novel.jpg" width="70%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" />
+
+<p>Baka to Test to Shoukanjuu</p>
+
+<img src="../local/public/upload/images/anime/Kino-Journey.jpg" width="70%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" />
+
+<p>Kino Journey</p></center>
 
 <p>Hiện vẫn còn một số ít những cái tên mới, tuy nhiên, danh sách này vẫn chưa thay đổi. Ví dụ, Kei Sazane - một tác giả nổi tiếng với chiến thắng trong giải Kadokawa Fantasia Novel lần thứ 18 kể từ khi ra mắt vào năm 2007, vẫn chưa có tác phẩm nào như SIREN hoặc Twilight-Colored Singer (được xếp hạng thứ 11 trong danh sách này) được chuyển thể. Đối với bất kỳ hãng sản xuất nào đang tìm kiếm để chuyển thể một loạt light novel phổ biến thành một anime mới, người ta sẽ không cần phải nhìn xa hơn nhiều so với công việc của Sazane.</p>
 
-<p>Thời buổi này, thật dễ dàng khi tìm hiểu thị trường và sở thích của độc giả light novel để thử và chuyển thể thành anime mới. Nhưng điều gì cũng có thể xảy ra sau khi ra mắt anime. Ít nhất, những con số bình chọn có thể trở thành một chỉ số tuyệt vời để quyết định cuốn light novel được chuyển thể.</p>
+<p>Thời buổi này, thật dễ dàng khi tìm hiểu thị trường và sở thích của độc giả light novel để thử và chuyển thể thành anime mới. Nhưng điều gì cũng có thể xảy ra sau khi ra mắt anime. Ít nhất, những con số bình chọn có thể trở thành một chỉ số tuyệt vời để quyết định cuốn light novel nào sẽ được chuyển thể. Nếu không, doanh thu thấp sẽ là thảm họa với các studio anime.</p>
 
 <p>Nguồn: <a href="http://www.animenewsnetwork.com/interest/2015-06-30/popular-light-novel-list-speculates-which-could-get-anime-next/.89833"> Anime News Network</a></p>',
 
@@ -643,17 +657,16 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <p>Infinite Stratos là series được chuyển thể từ Light Novel cùng tên. Infinite Stratos hiện đã có 2 phần anime, 1 game Infinite Stratos 2: Ignition Hearts và đây là game thứ 2 của series này. Infinite Stratos cũng có manga cùng tên.</p>
 
-<center><img src="../local/public/upload/images/anime/Infinite_Stratos_2_Love_and_Purge.jpg" width="70%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" />
-</center>
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-2-Love-and-Purge.jpg" width="70%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" /></center>
 
 <p>Infinite Stratos nói về nam sinh Orimura Ichika là nam giới duy nhất biết lái Infinite Stratos (IS) – vũ khí chiến đấu chỉ có phụ nữ mới sử dụng được. Thế là cậu phải học trong trường học toàn nữ sinh. Ở đó, cậu đã được gặp chị gái mình hiện đang làm giáo viên, cô bạn thuở nhỏ Shinonono Houki. Và từ đó, dàn harem cùng chiến đấu với cậu bắt đầu.</p>
 
-<center><img src="../local/public/upload/images/anime/IS_volume1_cover.jpg" width="50%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" /><p>Infinite Stratos volume 1 được làm lại trang bìa.</p>
+<center><img src="../local/public/upload/images/anime/IS-volume1-cover.jpg" width="50%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" /><p>Infinite Stratos volume 1 được làm lại trang bìa.</p>
 </center>
 
 <p>Trong phần 2 này sẽ có sự xuất hiện của chị gái Houki là Tabane, cũng là người tạo ra IS. Game sẽ được bán với giá 6.800 yên, tương đương 57 USD.</p>
 
- 
+<center><img src="../local/public/upload/images/anime/Infinite-Stratos-wallpaper.jpg" width="70%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" /></center>
 
 <p>Điều khiến khán giả cảm thấy không hài lòng với series này là do phần 2 có ít cảnh chiến đấu và Ichika quá mờ nhạt. Ichika dù là vai chính nhưng đóng góp quá ít trong chiến đấu. Nếu phần 1, Ichika có những cảnh chiến đấu đẹp mắt trong 4 trận chiến Cecilia, Rin, Laura và bộ giáp trắng cuối cùng thì phần 2, Infinite Stratos chỉ có 3 trận chiến. Cả 3 trận chiến đó, Ichika giống như là vai phụ trong phim. 2 trận chiến đầu tiên tập trung cảnh 2 cô gái chiến đấu. Trận đấu cuối cùng giống như phần 1, Ichika suýt chết và tập trung cảnh các cô gái chiến đấu. Cuối cùng là Ichika dứt điểm.</p>
 
@@ -677,19 +690,17 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
             'nameDetailPost'     => 'Kadokawa đăng ký tên miền re-zero-anime.jp',
             'urlDetailPost'      => 'Kadokawa-dang-ky-ten-mien-re-zero-anime',
             'presentDetailPost'  => 'Kadokawa chuẩn bị ra mắt anime Re:Zero. Câu chuyện nói về Subaru Natsuki lạc đến dị giới',
-            'contentDetailPost'  => '<p>Re: Zero Kara Hajimeru Isekai Seikatsu (Tạm dịch: Re: Cuộc sống trong thế giới khác từ con số 0) là một series light novel của tác giả Tappei Nagatsuki, minh họa bởi Shintaro Outsuka, và được xuất bản bởi Kadokawa. Vol 6 được ra mắt vào ngày 25/3/2015 tại Nhật Bản. Hiện light novel đã có volume 5. Bộ light novel này cũng có một bộ manga cùng tên. </p>
+            'contentDetailPost'  => '<p>Re: Zero Kara Hajimeru Isekai Seikatsu (Tạm dịch: Lặp lại cuộc sống trong thế giới khác từ con số 0) là một series light novel của tác giả Tappei Nagatsuki, minh họa bởi Shintaro Outsuka, và được xuất bản bởi Kadokawa. Vol 6 được ra mắt vào ngày 25/3/2015 tại Nhật Bản. Hiện light novel đã có volume 5. Bộ light novel này cũng có một bộ manga cùng tên.</p>
 
-<center><img src="../local/public/upload/images/anime/Re-Zero-Kara-Hajimeru-Isekai-Seikatsu-vol1-vol2-vol3.jpg" width="70%" alt="Kadokawa đăng ký tên miền re-zero-anime.jp" />
-</center>
+<center><img src="../local/public/upload/images/anime/Re-Zero-Kara-Hajimeru-Isekai-Seikatsu-vol1.jpg" width="50%" alt="Kadokawa đăng ký tên miền re-zero-anime.jp" /></center>
 
-<p>Trong câu chuyện, Subaru Natsuki là một học sinh trung học bình thường.  Cậu bị lạc trong một thế giới khác. Cậu được giải cứu bởi một cô gái có mái tóc bạch kim xinh đẹp. Cậu đi theo cô để trả ơn, nhưng số phận cô phải gánh chịu hơn những gì Subaru có thể tưởng tượng. Kẻ thù tấn công từng người một, và cả hai người họ đều thiệt mạng. Sau đó, Subaru phát hiện ra rằng mình có sức mạnh để quay ngược thời gian, trở về lần đầu tiên anh ta đến thế giới khác. Nhưng chỉ có mỗi anh nhớ lại những gì đã xảy ra kể từ lúc đó.</p>
+<p>Subaru Natsuki là một học sinh trung học bình thường. Cậu bị lạc trong một thế giới khác. Cậu được giải cứu bởi một cô gái có mái tóc bạch kim xinh đẹp. Cậu đi theo cô để trả ơn, nhưng số phận cô phải gánh chịu hơn những gì Subaru có thể tưởng tượng. Kẻ thù tấn công từng người một, và cả hai người họ đều thiệt mạng. Sau đó, Subaru phát hiện ra rằng mình có sức mạnh để quay ngược thời gian, trở về lần đầu tiên anh ta đến thế giới khác. Nhưng chỉ có mỗi anh nhớ lại những gì đã xảy ra kể từ lúc đó. Chữ Re trong tên light novel mang ý nghĩa quay trở lại.</p>
 
-<center><img src="../local/public/upload/images/anime/Re-Zero-Kara-Hajimeru-Isekai-Seikatsu.jpg" width="70%" alt="Kadokawa đăng ký tên miền re-zero-anime.jp" />
-</center>
+<center><img src="../local/public/upload/images/anime/Re-Zero-Kara-Hajimeru-Isekai-Seikatsu-vol1-2.jpg" width="70%" alt="Kadokawa đăng ký tên miền re-zero-anime.jp" /></center>
 
-<p>Series lấy cảm hứng từ hai bộ manga. Kadokawa xuất bản manga Re:Zero kara Hajimeru Isekai Seikatsu - Daisshou - Outo no Ichinichi Hen trong Monthly Comic Alive và tiếp tục ra mắt vol thứ hai vào ngày 23/3.</p>
+<p>Kadokawa xuất bản manga Re:Zero kara Hajimeru Isekai Seikatsu - Daisshou - Outo no Ichinichi Hen trong Monthly Comic Alive và tiếp tục ra mắt vol thứ hai vào ngày 23/3.</p>
 
-<p>Dự đoán trong tương lai sắp tới, có thể Kadokawa sẽ cho ra mắt phiên bản anime của series này trong tương lai. Dự đoán này dựa vào việc Kadokawa đầu tư một trang web riêng cho series này thì nhiều khả năng, series này sẽ có anime. Hy vọng rằng Re: Zero Kara Hajimeru Isekai Seikatsu sẽ có được nhiều fan hâm mộ</p>
+<p>Dự đoán trong tương lai sắp tới, có thể Kadokawa sẽ cho ra mắt phiên bản anime của series này. Dự đoán này dựa vào việc Kadokawa đầu tư một trang web riêng cho series. Hy vọng rằng Re: Zero Kara Hajimeru Isekai Seikatsu sẽ có được nhiều fan hâm mộ.</p>
 
 <p>Nguồn: <a href="http://www.animenewsnetwork.com/daily-briefs/2015-07-13/kadokawa-registers-re-zero-anime.jp-domain-name/.90391">Anime News Network</a></p>',
 
@@ -722,13 +733,11 @@ Nguồn tin:<a href="http://seventhstyle.com/2014/12/17/hidan-no-aria-aa-2nd-sea
 
 <p>Poster cho thấy rằng tác giả manga Yu-Gi-Oh! là Kazuki Takahashi phụ trách kịch bản và thiết kế nhân vật của bộ phim, và cũng là giám đốc giám sát sản xuất. Satoshi Kuwahara (Yu-Gi-Oh! Zexal, Yu-Gi-Oh! Zexal II) đang chỉ đạo bộ phim.</p>
 
-<p>Ở mặt sau của poster có in hình lời bình luận của tác giả Kazuki Takahashi:<br>
+<p>Ở mặt sau của poster có in hình lời bình luận của tác giả Kazuki Takahashi:</p>
 
-	“Các bạn có tin rằng đã 20 năm trôi qua kể từ ngày ra mắt Yu-Gi-Oh !? Để kỷ niệm sự kiện này, chúng tôi đang phát hành những bộ phim đầu tiên trong loạt phim với sự tham gia trực tiếp của tôi! Đối với bộ phim này, tôi đang viết kịch bản và bản vẽ thiết kế nhân vật! Câu chuyện diễn ra sau khi kết thúc của manga gốc, và nhiều câu hỏi sẽ được giải đáp! Yugi và Kaiba đang trở lại để chiến đấu trong một trận chiến mà khó có thể tin được trận chiến đó sẽ chiếu trên màn hình lớn! Tôi muốn các bạn xem các nhân vật yêu thích của các bạn như thế nào khi họ già đi! Các nhân viên Yu-Gi-Oh! hiện đang làm việc chăm chỉ để vẽ cho họ! Hiện vẫn còn rất nhiều việc phải làm, nhưng tôi không muốn thất vọng về sự mong đợi của các fan hâm mộ Yu-Gi-Oh! trên toàn thế giới. Hãy xem bộ phim này khi nó được chiếu trong các rạp chiếu phim!”
-</p>
+<p>“Các bạn có tin rằng đã 20 năm trôi qua kể từ ngày ra mắt Yu-Gi-Oh !? Để kỷ niệm sự kiện này, chúng tôi đang phát hành những bộ phim đầu tiên trong loạt phim với sự tham gia trực tiếp của tôi! Đối với bộ phim này, tôi đang viết kịch bản và bản vẽ thiết kế nhân vật! Câu chuyện diễn ra sau khi kết thúc của manga gốc, và nhiều câu hỏi sẽ được giải đáp! Yugi và Kaiba đang trở lại để chiến đấu trong một trận chiến mà khó có thể tin được trận chiến đó sẽ chiếu trên màn hình lớn! Tôi muốn các bạn xem các nhân vật yêu thích của các bạn như thế nào khi họ già đi! Các nhân viên Yu-Gi-Oh! hiện đang làm việc chăm chỉ để vẽ cho họ! Hiện vẫn còn rất nhiều việc phải làm, nhưng tôi không muốn thất vọng về sự mong đợi của các fan hâm mộ Yu-Gi-Oh! trên toàn thế giới. Hãy xem bộ phim này khi nó được chiếu trong các rạp chiếu phim!”</p>
 
-<center><img src="../local/public/upload/images/anime/yugioh-the-dark-side-of-dimensions-poster-back.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" />
-</center>
+<center><img src="../local/public/upload/images/anime/yugioh-the-dark-side-of-dimensions-poster-back.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" /></center>
 
 <p>Shunsuke Kazama sẽ trở lại với vai lồng tiếng Yugi Muto, và Kenjiro Tsuda sẽ trở lại với vai lồng tiếng Seto Kaiba.</p>
 
@@ -6466,9 +6475,32 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
         $post->create([
             'nameDetailPost'     => 'Lotte Cinema sẽ chiếu Live-Action Inuyashiki tại Việt Nam vào 20 tháng 7',
             'urlDetailPost'      => 'lotte-cinema-se-chieu-live-action-Inuyashiki-tai-Viet-Nam-vao-20-thang-7',
-            'presentDetailPost'  => 'Sadohara Kaori đã tham gia vào các phim: Date a live, Amagi Brilliant Park, Isuca, Hitsugi no Chaika...',
+            'presentDetailPost'  => 'Anime Inuyashiki nổi tiếng ra mắt vào cuối năm 2017 đã có bản Live-Action và sẽ chiếu tại cụm rạp Lotte Cinema ở Việt Nam.',
             'contentDetailPost'  => '<p>Chuỗi rạp chiếu phim Lotte Cinema của Việt Nam công bố vào ngày 5/7/2018 rằng bộ phim Live-Action Inuyashiki chuyển thể từ manga cùng tên của tác giả Hiroya Oku sẽ được chiếu tại Việt Nam bắt đầu từ ngày 20/7/2018.</p>
 
+<p>Bộ phim được công chiếu tại Nhật Bản vào ngày 20/4/2018 và đã bán được 91.000 vé, thu về 124 triệu yên (khoảng 1,14 triệu USD), giành vị trí thứ 5 trong tuần lễ khai mạc. Tính đến ngày 6/5/2018, bộ phim đã thu về tổng cộng 605.686.900 yên (khoảng 5,56 triệu USD). Bộ phim dự kiến sẽ vượt ngưỡng 1 tỷ yên (khoảng 9,21 triệu USD) tại phòng vé.</p>
+
+<center><img src="../local/public/upload/images/anime/lotte-cinema-se-chieu-live-action-Inuyashiki-tai-Viet-Nam-vao-20-thang-7-1.jpg" width="50%" alt="Lotte Cinema sẽ chiếu Live-Action Inuyashiki tại Việt Nam vào 20 tháng 7" /></center>
+
+<p>Các diễn viên tham gia bộ phim:</p>
+
+<p>Kinashi Noritake trong vai Ichiro Inuyashiki, nhân vật chính, là một diễn viên trung niên.</p>
+<p>Satoh Takeru trong vai Shishigami Hiro, một kẻ giết người.</p>
+<p>Hamada Mari trong vai Marie Inuyashiki, vợ của Ichiro</p>
+<p>Saito Yuki trong vai Yūko Shishigami, mẹ của Hiro</p>
+
+<p>Shinsuke Satou, đạo diễn của bộ phim chuyển thể Live-Action của manga Oku\'s Gantz, bộ phim tiếp theo của Gantz II: Perfect Answer, đã đạo diễn bộ phim này.</p>
+
+<p>Kodansha Comics đang xuất bản manga ở Bắc Mỹ, tập 10 đã phát hành vào tháng 12/2017. Crunchyroll cũng phát hành bộ phim kỹ thuật số mô tả câu chuyện.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xj8b3IbuFU0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>Inuyashiki Live Action (Official Trailer 2018)</p></center>
+
+<p>Ichiro Inuyashiki là một ông lão 58 tuổi, sống tiết kiệm vì gia đình nhưng gia đình luôn phớt lờ và không tôn trọng ông, coi ông như gánh nặng của họ. Bác sĩ tiết lộ ông bị ung thư. Cuộc đời ông tưởng như chấm hết cho đến khi một ánh sáng chói lòa từ trên trời chiếu xuống nơi Ichiro đứng. Ông tỉnh dậy mà không bị thương, nhận ra bản thân mình có gì đó thay đổi.</p>
+
+<pOku đã phát hành manga trong tạp chí Kodansha\'s Evening vào tháng 1/2014, volume thứ 10 cũng là volume cuối cùng được xuất tại Nhật Bản vào tháng 9/2017.></p>
+
+<p>Nguồn <a href="https://www.animenewsnetwork.com/news/2018-07-10/lotte-cinema-to-screen-live-action-inuyashiki-film-in-vietnam-on-july-20/.134078">Anime News Network</a></p>
 
 ',
 
@@ -6483,6 +6515,5 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
     }    
 }

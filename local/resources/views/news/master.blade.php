@@ -159,8 +159,8 @@ Author URL: http://www.free-css.com/template-categories/news
                                 for ($i=0; $i<=1; $i++){
                             ?>
                             <li>
-                                <div class="catgimg_container"> <a href="{{ $heads[$i]->urlDetailPost }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
-                                <h3 class="post_titile"><a href="{{ $heads[$i]->urlDetailPost }}">{{ $heads[$i]->nameDetailPost }}</a></h3>
+                                <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
+                                <h3 class="post_titile"><a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}">{{ $heads[$i]->nameDetailPost }}</a></h3>
                             </li>
                             <?php } ?>
 
