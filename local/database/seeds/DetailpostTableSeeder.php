@@ -38,7 +38,7 @@ class DetailpostTableSeeder extends Seeder
 
 <center><img src="../local/public/upload/images/anime/Highschool-DxD-Issei-vs-Raiser.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" />
 <p>Issei chiến đấu với Raiser</p></center>
- 
+
 <p>Nói về chiều sâu, bộ phim cũng rất đầu tư nghiên cứu cốt truyện về cuộc chiến giữa Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ. Phần 1 mới chỉ có Ác Quỷ và Thiên Thần Sa Ngã xuất hiện. Bộ phim còn đầu tư thêm cả những sinh vật thần thoại như rồng, Slime… những cấp quỷ, tộc quỷ khác nhau, công việc của quỷ khi đi tìm những giao ước với con người, khiến khán giả cảm thấy thế giới của Highschool DxD rất rộng lớn.</p>
 
 <center><img src="../local/public/upload/images/anime/Highschool-DxD-Angel-vs-Fallen-Angel-vs-Devil.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /><p>Bức tranh mô tả cuộc chiến giữa<br>Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ</p>
@@ -139,7 +139,7 @@ class DetailpostTableSeeder extends Seeder
 <p>Tinh Linh là một dạng sinh vật có 2 hình dạng: Tinh linh vũ khí và sinh vật sống. Ví dụ như Est và Restia là 2 cô gái Tinh Linh có thể biến thành thanh kiếm của Kamito. Hay Scarlet của Claire là một con mèo có thể biến thành roi lửa làm vũ khí.</p>
 
 <p>Bộ phim theo phong cách phương Tây ngày xưa. Từ những bản nhạc violin, ngôi trường mang kiến trúc Châu Âu đến những vũ khí, quần áo và ngựa cưỡi. Tuy nhiên, bộ phim vẫn mang dáng vẻ hiện đại với Tinh Linh là một người máy khổng lồ với những vũ khí tối tân, hay tập cuối có sự xuất hiện của một phi thuyền đưa 3 đội mạnh nhất đến với Đại Hội Kiếm Vũ.</p>
- 
+
 <center><img src="../local/public/upload/images/anime/Seirei-Tsukai-no-Blade-Dance-1.jpg" width="70%" alt="Seirei Tsukai no Blade Dance – Kiếm Vũ Tinh Linh Sứ"/></center>
 
 <p>Có vẻ như công ty Kadokawa luôn biết khai thác thế mạnh của mình về hình ảnh và âm thanh như các bộ phim như Date a Live hay Amagi Brilliant Park. Cũng như 2 phim trên, hình ảnh của Seirei Tsukai no Blade Dance theo phong cách tươi sáng, màu sắc và có phần trẻ con. Các nhân vật trong Seirei Tsukai no Blade Dance dù 16 tuổi nhưng khá giống những cô bé dễ thương. Phần âm nhạc cũng khá tốt với 2 bài hát mở đầu và kết thúc theo 2 phong cách khác nhau. Ngay từ tập đầu tiên, người viết đã ấn tượng với bản nhạc nền chiến đấu khá hùng tráng khi Claire quất roi tấn công Kamito. Hay như tập cuối cùng, đội Hỏa Miêu chiến đấu với Velsaria, âm nhạc cũng được thể hiện rất tốt.</p>
@@ -250,7 +250,7 @@ Yoshii Akihisa: một tên thiểu năng thật sự. Không còn từ gì để
 Shimada Minami: một nữ sinh sống ở Đức. Cô chuyển về Nhật Bản từ năm cấp 2 và đã trở thành bạn thân của hội bạn Akihisa. Vì cô không giỏi tiếng Nhật nên cô đã làm bài thi điểm thấp và học lớp F.</p>
 
 <center><img src="../local/public/upload/images/anime/Baka-to-Test-to-Shoukanjuu-1.jpg" width="70%" alt="Baka to Test to Shoukanjuu - Lũ ngốc, bài kiểm tra và linh thú triệu hồi" /></center>
- 
+
 <p>Sakamoto Yuuji: lớp trưởng và cũng là một thần đồng. Sau này, suy nghĩ của cậu đã thay đổi. Cậu muốn chứng tỏ với mọi người rằng điểm số không phải là tất cả. Những kẻ ngu ngốc cũng có những thế mạnh mà những người thông minh không có được.<br>
 
 Kinoshita Hideyoshi: một nam sinh dễ thương. Ai nhìn cậu cũng nghĩ cậu là con gái. Lý do là vì cậu là em trai song sinh với chị gái học lớp A nên nhìn mặt cậu giống con gái. Vì vậy mà cậu thường gặp rắc rối với việc ăn mặc, sinh hoạt cá nhân... <br>
@@ -316,7 +316,7 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <center><img src="../local/public/upload/images/anime/Infinite-Stratos-Houki.jpg" width="70%" alt="Infinite Stratos" /></center>
 
-<p>Nội dung mang bối cảnh khoa học viễn tưởng. Trong tương lai, một nhà khoa học Nhật Bản đã phát minh ra 1 bộ giáp hỗ trợ gọi là "Infinite Stratos" (IS). Và những người sử dụng được IS đều là con gái. Cho đến một ngày, một sự kiện lạ được phát hiện khi Orimura Ichika có thể sử dụng được IS. Thế là Ichika đã phải vào ngôi trường đào tạo phi công IS toàn nữ sinh. Tại đây, cậu đã gặp Orimura Chifuyu, chị gái cậu hiện đang làm giáo viên chủ nhiệm của lớp cậu.</p> 
+<p>Nội dung mang bối cảnh khoa học viễn tưởng. Trong tương lai, một nhà khoa học Nhật Bản đã phát minh ra 1 bộ giáp hỗ trợ gọi là "Infinite Stratos" (IS). Và những người sử dụng được IS đều là con gái. Cho đến một ngày, một sự kiện lạ được phát hiện khi Orimura Ichika có thể sử dụng được IS. Thế là Ichika đã phải vào ngôi trường đào tạo phi công IS toàn nữ sinh. Tại đây, cậu đã gặp Orimura Chifuyu, chị gái cậu hiện đang làm giáo viên chủ nhiệm của lớp cậu.</p>
 
 <center><img src="../local/public/upload/images/anime/Infinite-Stratos-Cecilia.jpg" width="70%" alt="Infinite Stratos" />
 </center>
@@ -422,10 +422,9 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <p>Trang chủ <a href="http://isuca.net/">Isuca</a></p>
 
-<p>Isuca là bộ phim anime được chuyển thể từ manga cùng tên. Bộ phim do hãng Kadokawa sản xuất và đã được phát hành vào năm 2015.</p> 
+<p>Isuca là bộ phim anime được chuyển thể từ manga cùng tên. Bộ phim do hãng Kadokawa sản xuất và đã được phát hành vào năm 2015.</p>
 
 <center><img src="../local/public/upload/images/anime/Isuca-2.jpg" width="70%" alt="Isuca" /></center>
-
 
 <p>Bộ phim nói về cậu học sinh Asano Shinichirou tình cờ gặp một miêu nữ bị một mũi tên bắn trúng. Cậu thả ra và bị Sakuya Shimazu – con gái của gia đình có truyền thống săn quỷ - bắt phải hợp tác để bắt miêu nữ lại. Cuối cùng, cậu lại thu phục được miêu nữ vì cậu đã nói đúng tên miêu nữ là Tama. Và từ đó, dàn harem của cậu bắt đầu cùng với công việc giúp việc cho gia đình của cô thợ săn quỷ.</p>
 
@@ -433,10 +432,10 @@ Bộ phim rất hấp dẫn với những cảnh hài hước dễ thương. “
 
 <center><img src="../local/public/upload/images/anime/Isuca-4.jpg" width="70%" alt="Isuca" /></center>
 
-<p>Thất vọng kế tiếp là bộ phim chỉ có 10 tập. Thường trong các bộ anime, phần 1 có 12 tập vì đây là phần gây ấn tượng mạnh với khán giả. Phần 1 phải là phẩn làm công phu, chu đáo nhất. 
+<p>Thất vọng kế tiếp là bộ phim chỉ có 10 tập. Thường trong các bộ anime, phần 1 có 12 tập vì đây là phần gây ấn tượng mạnh với khán giả. Phần 1 phải là phẩn làm công phu, chu đáo nhất.
 Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh chiến đấu. Cảnh nóng ở mức vừa đủ. Isuca sử dụng kỹ năng ngã của Rito trong To-Love Ru nhưng chưa ấn tượng bằng Rito.
 </p>
-	
+
 <center><img src="../local/public/upload/images/anime/Isuca-1.jpg" width="70%" alt="Isuca" />
 <br><br>
 <img src="../local/public/upload/images/anime/Isuca-3.jpg" width="70%" alt="Isuca" />
@@ -496,7 +495,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <center><img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-4.jpg" width="50%" alt="Các loại nội dung của trang web" />
 
-<img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-5.jpg" width="50%" alt="Các loại nội dung của trang web" /></center>
+<img src="../local/public/upload/images/website/Cac-loai-noi-dung-trang-web-5.jpg" width="30%" alt="Các loại nội dung của trang web" /></center>
 
 <p>Nhược điểm của những trang web này là khó có thể quảng cáo do người dùng hiện đang không có nhu cầu. Nhưng đến một lúc nào đó, họ sẽ tìm đến. Vì vậy, những trang web này có tuổi thọ cực kỳ cao, miễn là chúng còn hoạt động. Kho dữ liệu càng nhiều, giá trị của trang web càng lớn. Đặc biệt là khi chúng chứa những thông tin khó tìm như game cũ, phim cũ… Đặc biệt, lượng tìm kiếm sẽ cao hơn nếu những trang này có kèm theo tiếng Anh, ngôn ngữ được dùng nhiều nhất thế giới. Không cần quá nhiều tiếng Anh, chỉ cần vài từ khóa là được.</p>
 
@@ -526,20 +525,31 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <p>Hidan no Aria là một bộ phim chuyển thể từ light novel cùng tên của tác giả Akamatsu Chugaku. Series hiện đang có manga, light novel và anime.</p>
 
-<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Aria-the-Scarlet-Ammo.jpg" width="70%" alt="Hidan no Aria" /></center>
+<center><img src="../local/public/upload/images/website/Hidan-no-Aria-light-novel.jpg" width="50%" alt="Hidan no Aria" />
+<br><br>
+<img src="../local/public/upload/images/anime/Hidan-no-Aria-Aria-the-Scarlet-Ammo.jpg" width="70%" alt="Hidan no Aria" /></center>
 
 <p>Nam sinh Tohyama Kinji có năng lực đa nhân cách khi bị kích thích tình cờ gặp Aria H.Kanzaki, một Butei hạng S với 2 tay 2 súng trong một cuộc tấn công săn lùng Butei. Kết quả là cả 2 học trường trung học Tokyo Butei, nơi đào tạo ra những thám tử được vũ trang gọi là "Butei" với nhiều bộ phận khác nhau như bắn tỉa, chiến đấu… Từ đó, bộ đôi bất đắc dĩ này cùng nhau chiến đấu nhằm giải oan cho mẹ của Aria. Và cậu nam sinh Kinji được phần thưởng là một dàn harem gồm những cô gái với đủ mọi khả năng chiến đấu khác nhau, từ cận chiến đến bắn tỉa, từ trường kiếm châu Âu đến Tanaka Nhật.</p>
 
-<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Aria.jpg" width="70%" alt="Hidan no Aria" /></center>
+<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Aria.jpg" width="70%" alt="Hidan no Aria" />
+<br><br>
+<img src="../local/public/upload/images/anime/hidan-no-Aria-Kinji.jpg" width="70%" alt="Hidan no Aria" />
+<p>Cảnh đẹp trai nhất của Tohyama Kinji</p></center>
 
 <p>Bộ phim hấp dẫn từ những tập đầu tiên với cảnh bắn nhau 2 tay 2 súng theo phong cách điệp viên 007. Phim là sự kết hợp giữa giả tưởng và thần thoại như một chiếc xe gắn súng tự động bắn hay sự xuất hiện của Vampire, con cháu Sherlock Holmes và Arsene Lupin. Những yếu tố như vậy khiến bộ phim có thêm chiều sâu. Nhưng có thể sẽ phản tác dụng với những ai không thích dạng phim lai tạp giữa thần thoại và hành động hiện đại.</p>
 
-<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-Riko.jpg" width="70%" alt="Hidan no Aria" /></center>
+<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-EU-vs-Japan.jpg" width="70%" alt="Hidan no Aria" />
+<br><br>
+<img src="../local/public/upload/images/anime/Hidan-no-Aria-team.jpg" width="70%" alt="Hidan no Aria" />
+<br><br>
+<img src="../local/public/upload/images/anime/Hidan-no-Aria-Riko.jpg" width="70%" alt="Hidan no Aria" /></center>
 
 <p>Những cảnh nóng trong phim chỉ là yếu tố phụ.Yếu tố chính của bộ phim xoay quanh những pha hành động và những tình tiết hài hước của Kinji với các cô gái. Tuy nhiên, yếu tố hài hước vẫn còn mờ nhạt, cần được trau chuốt thêm. Những pha đánh ghen, hài hước vẫn còn ít và những đoạn hội thoại có phần hơi dài. Một số khán giả chê khả năng đa nhân cách của Kinji không quá đặc biệt.</p>
 
-<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-yandere.jpg" width="70%" alt="Hidan no Aria" /></center>
- 
+<center><img src="../local/public/upload/images/anime/Hidan-no-Aria-yandere.jpg" width="70%" alt="Hidan no Aria" />
+<br><br>
+<img src="../local/public/upload/images/anime/Hidan-no-aria-special.jpg" width="70%" alt="Hidan no Aria" /></center>
+
 <p>Phần âm nhạc cũng không đặc sắc. Nói chung, Hidan no Aria khó có phần 2, chỉ là bộ phim xem để giải trí dành cho những ai yêu thích thể loại harem, hành động bắn súng. Theo lời tác giả light novel Akamatsu Chugaku trên trang twitter là “Hidan no Aria có thể sẽ không có phần 2”. Vì vậy, hy vọng lượng bán light novel sẽ đủ để bù đắp thất bại này.</p>',
 
             'dateDetailPost'     => '2015-07-08',
@@ -594,7 +604,8 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <p>Gần đây, một danh sách đã được lập ra để xếp hạng những light novel nổi tiếng phổ nhất từ giữa năm 2008 đến năm 2011; đây là danh sách hàng năm được lập ra để xếp hạng light novel nổi tiếng. Đa số là những cuốn light novel đã được chuyển thể thành phim như Sword Art Online, The Melancholy of Haruhi Suzumiya và Baka to Test. Như ta có thể thấy, rất ít tên trong danh sách này chưa được chuyển thể thành anime.</p>
 
-<center><img src="../local/public/upload/images/anime/Kami-sama-no-Memochou.jpg" width="70%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" /><br>Kami-sama no Memochou</center>
+<center><img src="../local/public/upload/images/anime/Kami-sama-no-Memochou.jpg" width="50%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" />
+<p>Kami-sama no Memochou</p></center>
 
 <ul>
 <li>Usotsuki Mii-kun to Kowareta Maa-chan
@@ -621,7 +632,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 <li>Mimizuku to Yoru no Ou
 </ul>
 
-<center><img src="../local/public/upload/images/anime/baka-to-test-to-shoukanjuu-light-novel.jpg" width="70%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" />
+<center><img src="../local/public/upload/images/anime/Baka-to-Test-to-Shoukanjuu-light-novel.jpg" width="50%" alt="Những light novel nổi tiếng có thể sẽ được chuyển thể thành Anime" />
 
 <p>Baka to Test to Shoukanjuu</p>
 
@@ -661,8 +672,8 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <p>Infinite Stratos nói về nam sinh Orimura Ichika là nam giới duy nhất biết lái Infinite Stratos (IS) – vũ khí chiến đấu chỉ có phụ nữ mới sử dụng được. Thế là cậu phải học trong trường học toàn nữ sinh. Ở đó, cậu đã được gặp chị gái mình hiện đang làm giáo viên, cô bạn thuở nhỏ Shinonono Houki. Và từ đó, dàn harem cùng chiến đấu với cậu bắt đầu.</p>
 
-<center><img src="../local/public/upload/images/anime/IS-volume1-cover.jpg" width="50%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" /><p>Infinite Stratos volume 1 được làm lại trang bìa.</p>
-</center>
+<center><img src="../local/public/upload/images/anime/IS-volume1-cover.jpg" width="50%" alt="Infinite Stratos 2: Love and Purge ra mắt trailer" />
+<p>Infinite Stratos volume 1 được làm lại trang bìa.</p></center>
 
 <p>Trong phần 2 này sẽ có sự xuất hiện của chị gái Houki là Tabane, cũng là người tạo ra IS. Game sẽ được bán với giá 6.800 yên, tương đương 57 USD.</p>
 
@@ -725,11 +736,11 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/aVpeu13qWQo" frameborder="0" allowfullscreen></iframe></center><br>
 
 <center><img src="../local/public/upload/images/anime/Yugioh-the-movie-yugi-vs-kaiba.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" />
-</center>	 
+</center>
 
 <p>Các nhân viên của bộ phim đã bắt đầu quảng cáo poster vào ngày 12/7/2015. Poster có nhân vật mới, và tiết lộ rằng bộ phim sẽ ra mắt trong Tuần Lễ Vàng Nhật Bản 2016. Dòng chữ trên poster ghi là "Một lần nữa cho lần chiến đấu này." ("Once more, to that fighting stage.")</p>
 
-<center><img src="../local/public/upload/images/anime/yu-gi-oh-2016-film-poster.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" /></center>	
+<center><img src="../local/public/upload/images/anime/yu-gi-oh-2016-film-poster.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" /></center>
 
 <p>Poster cho thấy rằng tác giả manga Yu-Gi-Oh! là Kazuki Takahashi phụ trách kịch bản và thiết kế nhân vật của bộ phim, và cũng là giám đốc giám sát sản xuất. Satoshi Kuwahara (Yu-Gi-Oh! Zexal, Yu-Gi-Oh! Zexal II) đang chỉ đạo bộ phim.</p>
 
@@ -767,7 +778,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
             'presentDetailPost'  => 'World of Warships, tựa game hải chiến hấp dẫn đã được hãng Wargaming chính thức Open Beta vào ngày 2/7/2015',
             'contentDetailPost'  => '<p>Game hải chiến World of Warships đã khởi động Open Beta vào ngày 2/7/2015. </p>
 
-<center><img src="../local/public/upload/images/game/World-of-Warships-3.png" width="70%" alt="World of Warships ra mắt Open Beta" /></center> 
+<center><img src="../local/public/upload/images/game/World-of-Warships-3.png" width="70%" alt="World of Warships ra mắt Open Beta" /></center>
 
 <p>World of Warships là tựa game hải chiến, bắn tàu được sản xuất bởi Wargaming, hãng sản xuất game nổi tiếng được nhiều game thủ Việt biết đến với game online World of Tanks.</p>
 
@@ -775,7 +786,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <p>Trò chơi tương tự như World of Tanks. Người chơi điều khiển các loại tàu chiến của các nước khác nhau như Mỹ, Nga, Nhật… chiến đấu tại các chiến trường khác nhau như băng tuyết, quần đảo hay một vùng biển không có đất liền. Nhiệm vụ của các phe là bắn hạ hết tàu của đối thủ.</p>
 
-<center><img src="../local/public/upload/images/game/World-of-Warships-1.jpg" width="70%" alt="World of Warships ra mắt Open Beta" /></center> 
+<center><img src="../local/public/upload/images/game/World-of-Warships-1.jpg" width="70%" alt="World of Warships ra mắt Open Beta" /></center>
 
 <p>Trong bản Open Beta này, người chơi sẽ có thể sử dụng hơn 80 tàu chiến của Mỹ và Nhật Bản cùng với các tàu mới được thêm vào từ Vương quốc Anh và Liên Xô. Thậm chí người chơi có thể điều khiển tàu sân bay, ra lệnh cho máy bay tiêu diệt mục tiêu hoặc điều khiển tàu ngầm, gieo rắc cái chết bất ngờ.</p>
 
@@ -801,7 +812,63 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
             'nameDetailPost'     => 'Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề',
             'urlDetailPost'      => 'Tao-phu-de-cho-video-bang-notepad-phan-1-tao-phu-de',
             'presentDetailPost'  => 'Nếu các bạn cảm thấy mỗi khi viết phụ đề cho video quá phức tạp với những phần mềm thì hãy sử dụng cách rất đơn giản: chỉ cần 1 file notepad là có thể tạo phụ đề.',
-            'contentDetailPost'  => 'Cần viết lại.',
+            'contentDetailPost'  => '<p>Nếu các bạn cảm thấy mỗi khi viết phụ đề cho video quá phức tạp với những phần mềm, vừa rắc rối, vừa chiếm ổ cứng trong máy, khiến máy chạy chậm, phải download, bẻ crack, serial number, lo sợ link bị virut, bị các phần mềm rác tự động cài vào máy, không có bản lưu trữ… Hôm nay tôi sẽ giới thiệu cách để các bạn giảm bớt những phần mềm rắc rối đó bằng cách tạo phụ đề cho video mà không cần phần mềm.</p>
+
+<p>Tất cả những gì bạn cần chỉ là 1 file notepad có tên file giống với tên file video mà bạn viết phụ đề. Sau khi hoàn thành, bạn lưu file đó với đuôi là .srt là xong.</p>
+
+<p>Bước 1: Bạn download 1 file sub bất kỳ từ 1 bộ phim bất kỳ. Ví dụ như bộ Wonder Woman 2017 tại trang <a href="https://www.yifysubtitles.com/movie-imdb/tt0451279" target="_blank">yifysubtitles.com</a></p>
+
+<p>Bước 2: Để 2 file sub cùng thư mục và trùng tên. Mở bằng Media Player Classic sẽ thấy video có phụ đề.</p>
+
+<center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-1.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" /></center>
+
+<p>Việc còn lại đơn giản là sửa thời gian và nội dung cho phù hợp.</p>
+
+<p>Những con số 0,1,2,3… phía trên dòng thời gian là số thứ tự của phụ đề. Số thứ tự này không bắt buộc phải đúng thứ tự nhưng bạn phải ghi vào để file phụ đề hiểu rằng phụ đề ở dòng thời gian đó đã kết thúc.</p>
+
+<p>Sau khi hoàn thành, bạn lưu file đó với đuôi là .srt là xong.</p>
+
+<center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-2.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" />
+<br><br>
+<p>Khi tạo phụ đề bằng notepad,<br>
+bạn không cần ghi đúng số thứ tự của các dòng thời gian.</p></center>
+
+<p>Một vài điều cần lưu ý:</p>
+
+<ul>
+<li>Nếu bạn sử dụng video .avi, bạn có thể mở bằng Windows Media Player. Bạn sửa và lưu file sub, ngay lập tức Windows Media Player sẽ cập nhật và thay đổi sub ngay lập tức. Còn Media Player Classic phải tắt video đi mới cập nhật sub được.
+<li>Các dòng thời gian phải ghi đúng từng dấu chấm dấu phẩy. Nếu bạn ghi sai, tất cả phụ đề sẽ không xuất hiện.
+<li>Mẹo: Tạo 1 file chỉ có dòng thời gian, không sub để sau này có thể dùng ngay mà không cần download tại trang yifysubtitles.com.
+<li>Nhớ phải lưu file thường xuyên. Đây là điều quan trọng nhất.
+<li>Windows Media Player chỉ đọc phụ đề trên file .avi. Các định dạng khác phải có phần mềm xem video hỗ trợ như Media Player Classic.
+</ul>
+
+<center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-3.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" />
+<br><br>
+<p>Khi xem phim định dạng MP4, Windows Media Player không đọc được phụ đề.</p></center>
+
+<center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-4.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" />
+<br><br>
+<p>Khi xem phim trên định dạng AVI, Windows Media Player đọc được phụ đề<br>
+và tự động cập nhật phụ đề ngay khi bạn vừa save file notepad.<br>
+Media Player Classic thì không có chức năng đó.</p></center>
+
+<p><b>Điểm bất lợi</b></p>
+<ul>
+<li>Khi tạo phụ đề bằng notepad, bạn chỉ có thể tạo ở vị trí phía dưới phim, không thể tạo ở các vị trí khác. Chỉ có một mẹo là nếu bạn muốn ghi phụ đề cả phía trên lẫn phía dưới phim thì hãy viết 2 phụ đề trên cùng một dòng thời gian. Sau đó enter xuống dòng đến khi chữ nằm đúng vị trí.
+<li>Nếu muốn thêm màu sắc cho sub, hãy xem sub có sẵn có các thẻ font. Media Player Classic không hỗ trợ đổi màu sub.
+</ul>
+
+<p>Nếu bạn muốn tạo phụ đề ở cả phía trên và phía dưới,<br>
+bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị trí.</p>
+
+<p>Phụ đề tạo bằng notepad này là softsub – phụ đề mềm. Khi bạn đã viết xong phụ đề, nếu bạn muốn chuyển thành hardsub – phụ đề cứng, dính hoàn toàn vào file video, không thể gỡ ra – thì bạn có thể tìm các phần mềm khác gắn vào. Phần mềm mà tôi hay thường dùng nhất là Format Factory, giúp thay đổi định dạng, cắt phim, gắn phụ đề vào phim rất tốt. Link download tại <a href="http://www.pcfreetime.com/" target="_blank">pcfreetime.com</a></p>
+
+<p>Bài viết sau sẽ giới thiệu và hướng dẫn cách gắn phụ đề vào phim với Format Factory.</p>
+
+<p><a href="http://news.kingdomnvhai.info/post/Tao-phu-de-cho-video-bang-notepad-phan-2-gan-phu-de-bang-format-factory">Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề</a></p>
+
+',
 
             'dateDetailPost'     => '2015-07-15',
             'imgDetailPost'      => 'tao-sub-bang-notepad-thumbnail.jpg',
@@ -816,10 +883,66 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề',
-            'urlDetailPost'      => 'Tao-phu-de-cho-video-bang-notepad-phan-2-gan-phu-de',
+            'nameDetailPost'     => 'Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory',
+            'urlDetailPost'      => 'Tao-phu-de-cho-video-bang-notepad-phan-2-gan-phu-de-bang-format-factory',
             'presentDetailPost'  => 'Sau khi bạn đã tạo phụ đề bằng notepad, bạn chỉ cần dùng phần mềm đa năng Format Factory để gắn phụ đề vào video là có ngay một video phụ đề.',
-            'contentDetailPost'  => 'Cần viết lại.',
+            'contentDetailPost'  => '<p>Ở bài viết “Tạo phụ đề cho video bằng notepad”, tôi đã chỉ cho các bạn cách tạo phụ đề chỉ với 1 file notepad, không cần dùng thêm bất kỳ phần mềm nào. Đó chỉ là softsub – phụ đề mềm, có thể chỉnh sửa được. Nếu bạn muốn upload video lên youtube, bạn cần phải tạo hardsub – phụ đề cứng, tức là phụ đề không thể chỉnh sửa được, hoàn toàn gắn cứng vào phim. Để làm được điều đó, bạn hãy download phần mềm đa năng Format Factory.</p>
+
+<p>Format Factory là phần mềm rất đa năng. Bạn có thể dùng để thay đổi định dạng video, nhạc, lấy video từ đĩa ra máy vi tính, thay đổi đĩa thành file iso, ghép video, ghép nhạc… Bạn có thể tìm hiểu sau.</p>
+
+<p>Download Format Factory tại <a href="http://www.pcfreetime.com/" target="_blank">pcfreetime.com</a></p>
+
+<p><b>Hướng dẫn tạo hardsub cho video</b></p>
+
+<p>Bước 1: vào Option -> Subtitle Font. Tại đây, bạn có thể chọn font chữ cho sub, màu chữ (Font color), màu viền chữ (Font Border Color). Mục file name, bạn hãy dẫn đến thư mục C:\Windows\Fonts để chọn font. Trong trường hợp phần mềm không đọc được, bạn hãy download font chữ cần thiết về. Nếu bạn sử dụng tiếng Việt, hãy sử dụng Times New Roman hoặc Arial cho chắc ăn.</p>
+
+<center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-1.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" /></center>
+
+<p>Bước 2: sau khi chọn xong font chữ. Bạn bắt đầu gắn phụ đề vào video. Tôi chọn định dạng AVI. Chọn add file để đưa video cần gắn phụ đề vào.</p>
+
+<center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-2.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" /></center>
+
+<p>Bước 3: Chọn Output setting -> Additional Subtitle. Hãy đưa file sub cần gắn vào. Bạn có thể chỉnh sửa kích cỡ chữ (Subtitle Font Size) tại đây. Sau đó OK ra ngoài giao diện chính.</p>
+
+<center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-3.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" /></center>
+
+<p>Bước 4: Ngoài giao diện chính, bấm nút Start và bắt đầu đợi phụ đề được gắn vào phim. Sau khi hoàn thành, bạn chọn Output Folder để đến thư mục xuất phim.</p>
+
+<center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-4.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
+<br><br>
+<img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-5.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
+<br><br>
+<p>Phim định dạng AVI, font chữ Arial, font color trắng, viền đen.</p></center>
+
+<center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-6.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
+<br><br>
+<img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-7.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
+<br><br>
+<p>Phim định dạng AVI, font chữ Arial, font color trắng, viền xanh.</p></center>
+
+<p><b>Điểm tiện lợi</b></p>
+<ul>
+<li>Bạn không cần phải lưu trữ một file project nào có dung lượng lớn như Adobe Premire Pro hay những phần mềm phức tạp. Bạn chỉ cần 1 file video và 1 file sub. Sau này, khi bạn muốn làm lại, bạn chỉ cần cho file video và file sub vào, phần mềm tự động làm việc.
+<li>Format Factory đi kèm với nhiều ứng dụng khác như convert video, nhạc, ảnh… bạn có thể dùng vào nhiều mục đích.
+</ul>
+
+<p><b>Điểm bất lợi</b></p>
+<ul>
+<li>Phần mềm chỉ có chức năng gắn phụ đề vào phim. Bạn không thể chỉnh sửa kích cỡ chữ, lên dòng, xuống dòng, hiệu ứng karaoke…
+<li>Phần mềm chỉ nhận diện những dòng chữ sát dòng thời gian nhất. Khi bạn để 1 dòng trắng, phần mềm sẽ không tự đọc.
+<li>Nếu bạn muốn chỉnh sửa phần nào đó, bạn phải chỉnh sửa bên ngoài rồi convert lại từ đầu. Điều này rất phiền khi phải làm với một video dài. Thông thường, 1 video tôi phải convert khoảng 3 lần mới ưng ý.
+</ul>
+
+<center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-8.jpg" width="50%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
+<br><br>
+<p>Phim định dạng AVI, font chữ Arial, font color trắng, viền xanh.</p></center>
+
+<p>Nói chung, cách làm phụ đề bằng notepad và gắn vào video bằng Format Factory là những cách đơn giản nhất, thích hợp với những video không cần cầu kỳ hiệu ứng. Bất kỳ ai cũng có thể làm được mà không cần kỹ năng đồ họa như Adobe Premiere Pro hay các chương trình edit video chuyên nghiệp.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/u1HseD-SKqI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br><br>
+<p>Sản phẩm cuối cùng</p></center>
+',
 
             'dateDetailPost'     => '2015-07-16',
             'imgDetailPost'      => 'Format-Factory-gan-phu-de-vao-video-thumbnail.jpg',
@@ -836,24 +959,27 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
         $post->create([
             'nameDetailPost'     => 'Giảm dung lượng file ảnh hàng loạt với FastStone Photo Resizer',
             'urlDetailPost'      => 'Giam-dung-luong-anh-hang-loat-voi-FastStone-Photo-Resizer',
-            'presentDetailPost'  => 'Nếu bạn cần upload nhiều file ảnh trên website của bạn, bạn sẽ cần FastStone Photo Resizer để giảm dung lượng mà vẫn giữ vẻ đẹp của ảnh.',
+            'presentDetailPost'  => 'Nếu bạn cần upload nhiều file ảnh trên website của bạn, bạn sẽ cần FastStone Photo Resizer để giảm dung lượng hàng loạt mà vẫn giữ vẻ đẹp của ảnh.',
             'contentDetailPost'  => '<p>Khi bạn có một kho ảnh lớn, chắc hẳn vấn đề về dung lượng đến một lúc nào đó sẽ làm bạn đau đầu. Giải pháp tạm thời mà hiệu quả cho vấn đề này là giảm dung lượng các file ảnh đó. Giảm dung lượng thì có nhiều cách, phổ biến nhất là dùng Photoshop với lệnh Save for web. Nhưng làm sao để giảm dung lượng tất cả file ảnh lên đến cả trăm ảnh? Phần mềm FastStone Photo Resizer sẽ giúp bạn.</p>
 
-<center><img src="../local/public/upload/images/thuthuat/faststone-photo-resizer.jpg" width="70%" alt="Giảm dung lượng file ảnh hàng loạt với FastStone Photo Resizer" />
+<center><img src="../local/public/upload/images/thuthuat/faststone-photo-resizer.jpg" width="50%" alt="Giảm dung lượng file ảnh hàng loạt với FastStone Photo Resizer" />
 </center>
 
-<p>Bạn có thể download tại trang chủ <a href="http://www.faststone.org/download.htm ">FastStone.</a> hoặc tại <a href="https://drive.google.com/file/d/0B2QqgPEJF0YZYjdUVE1BcGhsYVE/view?usp=sharing"> Google Drive KINGDOM NVHAI.</a></p>
+<p><b>Link Download</b></p>
 
-<p>Sau khi cài đặt và sử dụng, bạn sẽ thấy giao diện chính của phần mềm. Cửa sổ lớn bên trái là nơi chứa ảnh của bạn. Bạn hãy chọn ảnh cần giảm dung lượng và Add sang cửa sổ bên phải. Nếu bạn muốn chọn tất cả thì bấm nút Add All. Bạn muốn bỏ chọn thì bấm nút Remove, bỏ chọn tất cả thì Clear.
-</p>
+<p><a href="http://www.faststone.org/download.htm" target="_blank">Trang chủ FastStone.</a></p>
+<p><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZYjdUVE1BcGhsYVE/view?usp=sharing" target="_blank">Google Drive KINGDOM NVHAI.</a></p>
+
+<p>Sau khi cài đặt và sử dụng, bạn sẽ thấy giao diện chính của phần mềm. Cửa sổ lớn bên trái là nơi chứa ảnh của bạn. Bạn hãy chọn ảnh cần giảm dung lượng và Add sang cửa sổ bên phải. Nếu bạn muốn chọn tất cả thì bấm nút Add All. Bạn muốn bỏ chọn thì bấm nút Remove, bỏ chọn tất cả thì Clear.</p>
 
 <center><img src="../local/public/upload/images/thuthuat/faststone-photo-resizer-1.jpg" width="70%" alt="Giảm dung lượng file ảnh hàng loạt với FastStone Photo Resizer" /></center>
 
-<p>Phía dưới là phần định dạng cho file ảnh trước khi xuất: <br>
-_ Output Format: định dạng file ảnh.<br>
-_ Output Folder: định vị trí xuất ảnh.<br>
-_ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm kích thước ảnh theo tỉ lệ), Crop (cắt ảnh theo kích thước định sẵn), Add Text (ghi tên lên file ảnh), Border (tô màu viền nhiều lớp)…
-</p>
+<p>Phía dưới là phần định dạng cho file ảnh trước khi xuất:</p>
+<ul>
+<li>Output Format: định dạng file ảnh.<br>
+<li>Output Folder: định vị trí xuất ảnh.<br>
+<li>Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm kích thước ảnh theo tỉ lệ), Crop (cắt ảnh theo kích thước định sẵn), Add Text (ghi tên lên file ảnh), Border (tô màu viền nhiều lớp)…
+</ul>
 
 <center><img src="../local/public/upload/images/thuthuat/faststone-photo-resizer-2.jpg" width="70%" alt="Giảm dung lượng file ảnh hàng loạt với FastStone Photo Resizer" /></center>
 
@@ -891,10 +1017,9 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
 <p>Thời điểm đó, game online Việt Nam chịu nhiều sức ép từ xã hội, giới truyển thông về những thông tin không tốt về game online và những game thủ. 2 game lão làng nhất thời đó là Võ Lâm Truyền Kỳ và MU Việt Nam vẫn trụ được suốt một thời gian dài. Nhưng sau những vụ việc NPH FPT để xảy ra nhiều lỗi, khiến những game thủ kỳ cựu, gắn bó với MU Việt Nam suốt 9 năm đã bỏ đi. Và cuối cùng, MU Online sẽ chính thức đóng cửa vào ngày 27/7/2014.
 </p>
 
-<p>Trong thời gian MU Việt Nam hoạt động, FPT đã có những cộng tác viên nhiệt tình như phóng viên NVHAI, thi sĩ Mystery@, BeMyMy... Tô Đức Quỳnh là một trong số đó. Anh đã viết ra phần 1 truyện Huyền Thoại Lục Địa MU. Truyện đã được phát hành và tặng miễn phí trong lần sinh nhật MU thứ 6. Và trong một thời gian ngắn, quyển sách đã được bán hết.</p>
+<p>Trong thời gian MU Việt Nam hoạt động, FPT đã có những cộng tác viên nhiệt tình như phóng viên NVHAI, thi sĩ Mystery@, BeMyMy... Tô Đức Quỳnh là một trong số đó. Anh đã viết ra phần 1 truyện Huyền Thoại Lục Địa MU. Truyện đã được phát hành và tặng miễn phí trong lần sinh nhật MU thứ 6. Và chỉ trong thời gian ngắn, quyển sách đã được bán hết.</p>
 
-<center><img src="../local/public/upload/images/game/Sinh-nhat-MU-Viet-Nam-lan6.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
-</center>
+<center><img src="../local/public/upload/images/game/Sinh-nhat-MU-Viet-Nam-lan-6.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" /></center>
 
 <center><p>Sinh nhật MU Việt Nam lần 6</p></center>
 
@@ -909,7 +1034,7 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
 
 <p>Tác giả Tô Đức quỳnh đã chia sẻ: Phần 2 của Huyền thoại lục địa MU đã được biên tập lại theo đúng chuẩn phong cách của Walt Disney với giọng văn hoàn toàn mới của người Việt. Bởi vậy anh rất tự tin khi nói rằng: “Đây sẽ là một cuốn truyện Việt Nam mang đẳng cấp quốc tế”.</p>
 
-<center><img src="../local/public/upload/images/game/Merlin-P-Mann-va-Jan-Kjær.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
+<center><img src="../local/public/upload/images/game/Merlin-P-Mann-va-Jan-Kjær.jpg" width="50%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
 </center>
 
 <center><p>Nhà biên kịch Merlin p.mann (áo đen) và họa sỹ Jan Kjær (áo xanh) là 2 người thầy đã góp phần nâng cao chất lượng viết của Huyền Thoại Lục Địa MU 2
@@ -944,24 +1069,25 @@ _ Advanced Option: chỉnh sửa chi tiết hơn. Trong này có Resize (giảm 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0vEWIfx-RTw" frameborder="0" allowfullscreen></iframe></center>
 
+<p><b>Cấu hình</b></p>
+
 <ul>
 <li>Tên game: Phantasmat 4 Dread of Oakville.
 <li>Thể loại: phiêu lưu, giải đố, kinh dị.
 <li>Sản xuất năm: 2015.
 <li>Hãng sản xuất: Eipix.
 <li>Cấu hình: Bộ vi xử lý 2Ghz, RAM 1024 MB, dung lượng ổ cứng 807 MB,  hệ điều hành Windows XP/Windows Vista/Windows 7/Windows 8, MAC.
-<li>Trang chủ Eipix. (http://eipix.com/)
+<li><a href="http://eipix.com/">Trang chủ Eipix.</a>
 </ul>
-	
+
 <p>Link download (chỉ cần download về và cài đặt miễn phí):</p>
-	
-<p> <a href="http://www.downloadeverything.org/phantasmat-4-dread-of-oakville-free-download-2015/">downloadeverything.org </a><br>
-<a href="http://www.btsdl.cc/phantasmat-4-the-dread-of-oakville-ce-pc-tf4731960.html">Torrent </a><br>
-<a href="https://drive.google.com/file/d/0B2QqgPEJF0YZZHBua0VhNXVoeGs/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
+
+<p> <a href="http://www.downloadeverything.org/phantasmat-4-dread-of-oakville-free-download-2015/" target="_blank">downloadeverything.org </a><br>
+<a href="http://www.btsdl.cc/phantasmat-4-the-dread-of-oakville-ce-pc-tf4731960.html" target="_blank">Torrent</a><br>
+<a href="https://drive.google.com/file/d/0B2QqgPEJF0YZZHBua0VhNXVoeGs/view?usp=sharing" target="_blank">Google Drive KINGDOM NVHAI</a>
 </p>
- 
-<center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" />
-</center>
+
+<center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" /></center>
 
 <p>Trích lời giới thiệu của hang Eipix về game:<br>
 
@@ -972,13 +1098,13 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
 
 <p>Khi vừa vào game, điều khiến tôi thích thú là về đồ họa của trò chơi. Dù dung lượng trò chơi rất nhẹ nhưng đồ họa không hề kém chút nào. Cảnh mưa, sấm sét, những hình ảnh rùng rợn khiến tôi thấy rất thích thú. Màu sắc khá tươi sáng, không mang vẻ âm u rùng rợn nhưng vẫn tạo nên bản sắc riêng, sự hồi hộp riêng.</p>
 
-<center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville-3.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" /><p>Anh chàng James này không biết mình đã bị mất tích.</p>
-</center>
+<center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville-3.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" />
+<br><br>
+<p>Anh chàng James này không biết mình đã bị mất tích.</p></center>
 
 <p>Trò chơi có cách bố cục khá tốt. Kho đồ, bản đồ và tất cả các nút điều khiển được gom lại ở phía dưới giúp người chơi dễ dàng xem và sử dụng chúng. Bản đồ giúp người chơi dễ xác định được phương hướng trong thị trấn.</p>
 
-<center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville-2.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" />
-</center>
+<center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville-2.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" /></center>
 
 <p>Tuy nhiên, điểm trừ cho trò chơi này là phần hướng dẫn. Nếu bạn chọn chế độ dễ thì trò chơi sẽ hiện ra toàn bộ hướng dẫn. Thậm chí, khi bạn giải đố, nút HINT sẽ giải luôn câu đố giúp bạn. Dù trò chơi khá nhẹ và khá dễ chơi nhưng việc để hướng dẫn như thế không hợp lý, nhất là đối với một game giải đố cần sự động não và kiên nhẫn.</p>
 
@@ -1021,7 +1147,7 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
 <a href="https://drive.google.com/folderview?id=0B2QqgPEJF0YZfjFPeldsbW9Kd0NRQkpuMnlBZmFyU3dzVV9sR2NuX3B5WUVrWGNRRnUyZHM&usp=sharing ">Google Drive KINGDOM NVHAI</a> <br>
 
 <a href="https://www.mediafire.com/folder/x7wyb6aar41xn/heroes_of_might_and_magic_v">Mediafire KINGDOM NVHAI</a><br>
-	
+
 <a href="http://congtruongit.com/forum/de-tai/reup-heroes-of-might-magic-v-full-pc-mediafire.35420/">Mediafire congtruongit.com</a> (làm theo hướng dẫn)</p>
 
 <center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V.jpg" width="70%" alt="Heroes of Might and Magic V" />
@@ -1036,7 +1162,7 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
 
 <p>Heroes of Might & Magic V sẽ có 6 thành phố xuất hiện, đó là Loài người – Haven, loài quỷ – Inferno, Thầy phép – Necropolis, yêu tinh bóng đêm – Dungeon, Phù thủy – Academy, và yêu tinh – Sylvan. Yêu tinh bóng đêm chính là bổ xung mới của bản này. Đây là điểm trừ đầu tiên của phiên bản này. Nếu như trong phần 3, người chơi có đến 9 thành phố thì bây giờ chỉ còn 6.</p>
 
-<p>Điểm trừ thứ 2 là hình ảnh dù được nâng cấp lên thành 3D nhưng không hẳn là đẹp. Một số hình ảnh quái vật vẫn còn hơi cứng. Thất vọng nhất là phần bối cảnh trong tòa thành. Nếu như phần 3, tòa thành là một bức tranh rất đẹp, bố cục gọn gang dễ nhìn thì phần 5, dù là hình ảnh 3D cho phép người chơi xem từng công trình nhưng nhìn tổng thể, bức tranh không đẹp như trước. Tuy nhiên, nếu đánh giá công bằng thì vẫn có thể chấp nhận được.</p> 
+<p>Điểm trừ thứ 2 là hình ảnh dù được nâng cấp lên thành 3D nhưng không hẳn là đẹp. Một số hình ảnh quái vật vẫn còn hơi cứng. Thất vọng nhất là phần bối cảnh trong tòa thành. Nếu như phần 3, tòa thành là một bức tranh rất đẹp, bố cục gọn gang dễ nhìn thì phần 5, dù là hình ảnh 3D cho phép người chơi xem từng công trình nhưng nhìn tổng thể, bức tranh không đẹp như trước. Tuy nhiên, nếu đánh giá công bằng thì vẫn có thể chấp nhận được.</p>
 
 <p>Phần bản đồ cũng quá ít so với phần 3 nhưng bạn có thể download các bản đồ mới trên mạng.</p>
 
@@ -1114,7 +1240,7 @@ Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 
             'contentDetailPost'  => '<p>Bạn muốn tạo một logo cho riêng mình. Bạn tìm đến các trang web tạo logo miễn phí thông qua từ khóa “tạo logo miễn phí” trên Google. Khi bạn tìm được những trang web đó, họ bắt bạn phải tạo tài khoản và thanh toán phí nếu muốn có logo chất lượng. Còn không thì bạn vẫn sẽ có logo nhưng không đẹp, không có chất lượng cao. Tôi sẽ hướng dẫn cho bạn cách “ăn cắp” logo của họ mà không tốn một đồng, không cần phải tạo bất kỳ tài khoản nào mà bạn vẫn có một logo đẹp rõ nét từ trang web của họ. Bí quyết đó chỉ nằm gọn trong nút Print Screen của bạn.</p>
 
 <center><img src="../local/public/upload/images/thuthuat/Print-Screen.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" />
-</center>	
+</center>
 
 <p>Nút Print Screen có tác dụng hóa giải mọi loại code ngăn cản việc bạn download hình từ các trang web. Chỉ cần làm 3 bước là bạn có thể lấy được mọi tấm hình bạn muốn.<br>
 
@@ -1135,7 +1261,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 <p>Ưu điểm của trang web này là logo rất to, rõ, đẹp và nhiều loại logo khác nhau. Nhược điểm là bạn không thể chỉnh sửa tên và màu sắc logo. Nếu bạn muốn chỉnh sửa tên, bạn chỉ cần vào Paint hoặc Photoshop, xóa tên đi rồi điền tên mới với font chữ mới vào là được.</p>
 
 <p><a href="http://www.logogarden.com/">Logo Garden</a> </p>
-	
+
 <p>Logo Garden thật sự cho phép bạn tạo một logo miễn phí nhưng chất lượng lại kém. Logo miễn phí của bạn rất nhỏ, nếu phóng to sẽ bị bể hình. Và đương nhiên, muốn logo của bạn đẹp hơn thì phải có tiền cho trang web.</p>
 
 <center><img src="../local/public/upload/images/thuthuat/LogoGarden.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" /></center>
@@ -1279,7 +1405,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 <p>Nitro+ Blasterz -Heroines Infinite Duel Gameplay</p></center>
 
 <p>Trò chơi sẽ bao gồm một mã download miễn phí cho hai nhân vật mới: Homura đến từ phim Senran Kagura Estival Versus -Shōjo-tachi no Sentaku, và Aino Heart từ Arcana Heart - series trò chơi chiến đấu của Examu. Marvelous cũng công bố trước đó rằng giao diện điều khiển phiên bản của trò chơi sẽ thúc đẩy Super Sonico từ nhân vật đối tác đến nhân vật đang điều khiển.</p>
- 
+
 <p>Những người đặt hàng trước trò chơi cũng sẽ nhận được một mã tải về miễn phí.</p>
 
 <p>Marvelous cũng tiết lộ một gói phiên bản giới hạn (limited edition) cho trò chơi. Gói phiên bản giới hạn bao gồm hộp pha lê 3D nghệ thuật được vẽ bởi Nitroplus, nghệ sĩ ở Santa Tsuji, soundtrack của trò chơi, một cuốn sách vẽ nhân vật, và một mã tải về cho phiên bản áo tắm của Super Sonico, Aino Heart, và Homura, có hình ảnh vẽ cử động của các nhân vật. Các phiên bản giới hạn được bán lẻ với giá 12.160 Yên (khoảng 98USD), và phiên bản tiêu chuẩn được bán lẻ với giá 6.990 Yên (khoảng 56USD).</p>
@@ -1312,16 +1438,16 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'contentDetailPost'  => '<p>24/7/2015, trang web dành cho bộ phim thứ 36 của Doraemon đã ra mắt trailer Doraemon the Movie: Nobita and the Birth of Japan 2016. (Tạm dịch: Doraemon the movie: Nobita và Nhật Bản sơ khai)</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/_mGtzCRA4Lw?list=PLDreFvf-2E24y_0mxGtParprQwZYexpFw" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Doraemon the Movie: Nobita and the Birth of Japan 2016</p></center>
-            
+
             <p>Bộ phim là bản làm lại của Doraemon: Nobita and the Birth of Japan đã ra mắt vào tháng 3/1989. Tsutomu Shibayama (đạo diễn của loạt phim truyền hình Doraemon 1979 và nhiều phim khác) đã làm đạo diễn của bộ phim lần này.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Doraemon_the_Movie_Nobita_and_the_Birth_of_Japan_2016.jpg" width="70%" alt="Doraemon ra mắt trailer the movie thứ 36" />
             </center>
-            
+
             <p>Bộ phim nhượng quyền thương mại trước đó là Doraemon: Nobita no Space Heroes (Doraemon: Nobita và những hiệp sĩ không gian 2015) đã ra mắt vào ngày 7/3/2015 tại Nhật Bản và ngày 26/6/2015 tại Việt Nam. Bộ phim 3D nhượng quyền thương mại đầu tiên là bộ phim Stand By Me Doraemon đã ra mắt tại Nhật Bản vào tháng 8/2014 trước khi ra mắt tại 21 quốc gia.</p>
-            
+
             <p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-07-26/36th-doraemon-the-movie-nobita-and-the-birth-of-japan-2016-film-1st-trailer-previews-story/.90890">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-27',
@@ -1448,7 +1574,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'update'             => 0,
         ]);
 
-        
+
 
         $post->create([
             'nameDetailPost'     => 'Cách mở nhiều trang web cùng lúc',
@@ -1581,7 +1707,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
  	+ Không cứu được ai cả. Chỉ còn Narcotte sống sót.<br>
  	+ Không cứu được Vera, chỉ cứu được Lombard.<br>
 + Không cứu được Lombard, chỉ cứu được Vera. <br>
-+ Cả ba người còn sống - Kết thúc này có hậu nhất. 
++ Cả ba người còn sống - Kết thúc này có hậu nhất.
 </p>
 
 <p>Với hình ảnh ở mức khá, âm thanh tốt, tạo sức hút và cốt truyện hay, Agatha Christie: And then there were none là một tựa game cũ mà hay xứng đáng để các game thủ thích trinh thám có cơ hội thử sức phá án. Nếu có ai cảm thấy game quá khó chơi, hãy xem hướng dẫn tại <a href=" http://diendan.vtcgame.vn/showthread.php?511870-Huong-Dan-Choi-Agatha-Christie-And-Then-There-Were-None">đây.</a></p>',
@@ -1665,7 +1791,7 @@ Google Drive KINGDOM NVHAI </a></p>
 
 <center>
 <img src="../local/public/upload/images/game/Safecracker-ket-sat-1.jpg" width="70%" />
-<p>Câu đố đầu tiên: hãy dịch chuyển sao cho<br> 
+<p>Câu đố đầu tiên: hãy dịch chuyển sao cho<br>
 các viên bi nằm gần các mũi tên cùng màu</p>
 </center>
 
@@ -1777,7 +1903,7 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
 	<a href="http://kumpulbagi.com/alonemisery/hektor-www-minigamespc-net-51056/www-minigamespc-net-flt-hekt,317364,gallery,1,1.iso">Link nước ngoài</a><br>
 
 <a href="https://www.fshare.vn/file/J3J5UK29VCRK">Fshare</a><br>
-	
+
 <a href="https://drive.google.com/open?id=0B8chnwZX7g9ANF9nZDhFTmJfNG8">Google Drive KINGDOM NVHAI</a></p>
 
 <p>Nguồn link: <br>
@@ -1810,7 +1936,7 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
 
 <p>Hektor hơi khác với Outlast là bạn sẽ không thấy ai trong suốt phần lớn thời gian chơi. Điều này nghe có vẻ yên tâm nhưng chắc chắn rằng một khi bạn đã bị hù thì chắc chắn bạn không thể giữ bình tĩnh để bỏ chạy, còn chạy đường nào và chạy được hay không lại là chuyện khác vì mọi thứ rất tối. Tốc độ mở cửa cũng không nhanh như Outlast nên chạy cũng khó hơn. Tốt nhất là bạn nên mở sẵn cửa phòng khi cần. Outlast thì khác, bạn luôn ở trong tư thế sẵn sàng chạy thục mạng nên cảm giác sợ khi chạy không hồi hộp bằng Hektor.</p>
 
-<p>Trò chơi gồm có 3 phần nên thời lượng cũng không quá dài như Outlast. Game có đồ họa đẹp, cấu hình nhẹ và khá hồi hộp. Bạn nên chơi qua Hektor nếu muốn tìm một tựa game kinh dị với phong cách tìm và chạy để "giải trí ". 
+<p>Trò chơi gồm có 3 phần nên thời lượng cũng không quá dài như Outlast. Game có đồ họa đẹp, cấu hình nhẹ và khá hồi hộp. Bạn nên chơi qua Hektor nếu muốn tìm một tựa game kinh dị với phong cách tìm và chạy để "giải trí ".
 </p>',
 
             'dateDetailPost'     => '2015-08-07',
@@ -1893,7 +2019,7 @@ Shook đánh Rammus mua Đá Tỏa Sáng.
 <p><b>6 Là tướng có khả năng đẩy trụ nhanh</b>
 Điển hình: Master Yi, Tryndame...</p>
 
-<p>Một vấn đề khác ở Elo Hell đó là đồng đội thích giết người hơn phá trụ. Vì vậy, nếu như có những trận đồng đội quá ham giết người, chẳng còn cách nào khác là bạn phải tự tay đẩy trụ hay đẩy lính lên cao. Cách này cũng có thể kéo dài trận đấu khi team bạn thất thế. Team bạn sẽ có thể có cơ hội lấy lại thế trận bằng cách phá trụ và kéo dài trận đấu.</p> 
+<p>Một vấn đề khác ở Elo Hell đó là đồng đội thích giết người hơn phá trụ. Vì vậy, nếu như có những trận đồng đội quá ham giết người, chẳng còn cách nào khác là bạn phải tự tay đẩy trụ hay đẩy lính lên cao. Cách này cũng có thể kéo dài trận đấu khi team bạn thất thế. Team bạn sẽ có thể có cơ hội lấy lại thế trận bằng cách phá trụ và kéo dài trận đấu.</p>
 
 <p><b>7 Là tướng có nhiều sát thương, hiệu ứng mà vẫn chống chịu tốt.</b><br>
 Điển hình: Galio, Nunu, Lissandra, Amumu, Wukong, Shyvana...</p>
@@ -1902,7 +2028,7 @@ Shook đánh Rammus mua Đá Tỏa Sáng.
 
 <center><img src="../local/public/upload/images/game/Galio.jpg" width="70%" alt="Kinh nghiệm chọn tướng ở Elo Hell" />
 
-<p>Bạn đã bao giờ nghĩ đến việc dùng Galio để khắc chế Katarina 
+<p>Bạn đã bao giờ nghĩ đến việc dùng Galio để khắc chế Katarina
 và những tướng cận chiến ít máu chưa?</p></center>
 
 <p><b>8 Là một tướng có chiêu tầm rất xa hay toàn bản đồ.</b><br>
@@ -1910,11 +2036,11 @@ và những tướng cận chiến ít máu chưa?</p></center>
 
 <p>Đây cũng là một cách hay. Có thể nhiều người đã biết về Zilean với bộ kỹ năng cũ. Nội tại của Zilean ngày trước có phạm vi toàn bản đồ. Sau này, Riot thấy Zilean đường giữa quá xuất sắc nên đã thay nội tại từ toàn bản đồ chỉ còn phạm vi 1500 xung quanh, mục đích là để Zilean quay về vị trí hỗ trợ. Chỉ một thay đổi nhỏ đó thôi đã khiến Zilean giảm tỉ lệ thắng rất nhiều. Và giờ thì bộ kỹ năng của Zilean đã được làm lại để Zilean có nhiều tác dụng hơn. </p>
 
-<p>Với bộ kỹ năng tầm rất xa hay toàn bản đồ sẽ giúp bạn có mạng giết hoặc hỗ trợ dễ dàng hơn, vừa giúp đỡ đồng đội, vừa dễ kiếm tiền. 2 tướng dễ chơi nhất và có chiêu thức toàn bản đồ là Gangplank và Soraka. Soraka với khả năng hồi máu sẽ giúp Xạ Thủ dễ thở hơn trong giai đoạn ban đầu. Gangplank có thể đi được 4 vị trí và chỉ có chiêu cuối Mưa Đại Bác (R) là kỹ năng định hướng.</p> 
+<p>Với bộ kỹ năng tầm rất xa hay toàn bản đồ sẽ giúp bạn có mạng giết hoặc hỗ trợ dễ dàng hơn, vừa giúp đỡ đồng đội, vừa dễ kiếm tiền. 2 tướng dễ chơi nhất và có chiêu thức toàn bản đồ là Gangplank và Soraka. Soraka với khả năng hồi máu sẽ giúp Xạ Thủ dễ thở hơn trong giai đoạn ban đầu. Gangplank có thể đi được 4 vị trí và chỉ có chiêu cuối Mưa Đại Bác (R) là kỹ năng định hướng.</p>
 
 <center><img src="../local/public/upload/images/game/Gangplank.jpg" width="70%" alt="Kinh nghiệm chọn tướng ở Elo Hell" />
 
-<p>Gangplank có thể đi 3 lane.<br> 
+<p>Gangplank có thể đi 3 lane.<br>
 Bạn có thể dễ dàng lấy điểm hỗ trợ từ Mưa Đại Bác (R)
 </p></center>
 
@@ -2015,7 +2141,7 @@ không cần làm việc gì khác nữa.</p></center>
 </ul></p>
 
 <p>Link download:
-<a href="https://drive.google.com/file/d/0B28sd7bsR2N9UE01bHM5LTJFcTA/view?usp=sharing">Google Drive KINGDOM NVHAI</a></p> 
+<a href="https://drive.google.com/file/d/0B28sd7bsR2N9UE01bHM5LTJFcTA/view?usp=sharing">Google Drive KINGDOM NVHAI</a></p>
 
 <p>Phần mềm ổ đĩa ảo
 <a href="https://drive.google.com/open?id=0B2QqgPEJF0YZUmtYdGs1RGxhZXc">Daemon Tool 4 </a></p>
@@ -2040,7 +2166,7 @@ không cần làm việc gì khác nữa.</p></center>
 <p>Bắn vỡ hồ bơi kính</p></center>
 
 <p>Cách thức ám sát cũng rất khác, rất phong phú. Sát thủ 47 giờ đã có nhiều khả năng mới như xô mục tiêu từ trên cao xuống, phi tang xác bằng cách bỏ vào thùng hay ném từ trên cao xuống, leo cột nhà… Thậm chí một số màn đòi hỏi người chơi phải chịu khó tìm tòi cách ám sát mục tiêu. Người viết thích nhất là màn 7 (You Better Watch Out). Mục tiêu đang ngồi ở hồ bơi kính ngoài trời. Sát thủ xuống tầng dưới, bắn một phát súng giảm thanh làm vỡ hồ bơi rồi rút lui. Cách ám sát rất nhanh gọn, không một dấu vết đó thực sự rất sáng tạo.</p>
- 	
+
 <p>Tuy nhiên, game vẫn có điểm thiếu sót. Người viết rất khó chịu với sự sợ hãi của dân thường. Nhiều lúc sát thủ đầu trọc chỉ chạy ngang qua, hoàn toàn không làm gì người dân xung quanh nhưng họ cứ nhìn thấy là chạy. Phải chăng cái đầu trọc và bộ mặt lạnh bang của hắn khiến người ta nhìn thấy thôi đã sợ chạy tán loạn?</p>
 
 <center><img src="../local/public/upload/images/game/Hitman_Blood_Money_4.jpg" width="70%" alt="Hitman: Blood Money - Đồng tiền tội lỗi" />
@@ -2292,26 +2418,26 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Trang chủ <a href="https://www.rschronicle.com/">Chronicle: RuneScape Legends</a></p>
 
             <p>Game online đấu bài Chronicle: RuneScape Legends đã mở cửa cho game thủ đăng ký chơi thử closed beta và sẽ mở cửa thử nghiệm dự kiến là vào tháng tới.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/F4Qv221_ydE" frameborder="0" allowfullscreen></iframe><br>
-            
+
             <p>Trailer game Chronicle: RuneScape Legends</p></center>
-            
+
             <p>Nếu như các bạn đã biết đến Hearthstone, một tựa game đấu bài nổi tiếng nhất hiện nay và là một trong số các trò chơi được thi đấu eSport thì Chronicle: RuneScape Legends cũng là một tựa game như vậy. </p>
-            
+
             <p>Tuy nhiên, nếu Hearthstone là tựa game dựa trên World of Warcraft và mang tính chất thuần đấu bài thì Chronicle: RuneScape Legends lại là tựa game dựa trên game RuneScape và có xu hướng theo dạng dàn trận. Bạn sẽ triệu hồi các quái vật trên những bản đồ khác nhau và di chuyển chúng. Giống như bạn đang chơi một ván cờ kết hợp với đấu bài hơn là một game đấu bài thuần túy như Hearthstone. </p>
-            
+
             <p>Trang chủ <a href="http://www.runescape.com/community">RunScape</a></p>
-            
+
             <center><iframe width="420" height="315" src="https://www.youtube.com/embed/17CrXMT2yEY" frameborder="0" allowfullscreen></iframe><br>
-            
+
             <p>Gameplay của Chronicle: RuneScape Legends</p></center>
-            
+
             <p>Đồ họa 3D trong game khá đẹp. Từ tòa lâu đài to lớn đến ngôi làng bé nhỏ đều được thực hiện khá rõ nét. Chronicle: RuneScape Legends cũng giống như Hearthstone. Bạn phải chọn 1 hero và sử dụng 3 loại bài quái vật, phép và bẫy để tấn công đối thủ.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Chronicle-RuneScape-Legends-map.jpg" width="70%" alt="Chronicle: RuneScape Legends - Game đấu bài hấp dẫn mới" />
             </center>
-            
+
             <p>Dựa trên các bình luận trên Youtube, có nhiều ý kiến trái chiều nhau về dạng game này. Có những người thích game thuần đấu bài như Hearthstone nhưng có nhiều ý kiến thích thú về phong cách chơi mới này. Chắc chắn game Chronicle: RuneScape Legends sẽ tiêu hao khá nhiều chất xám của những ai muốn khám phá nó.</p>',
 
             'dateDetailPost'     => '2015-08-25',
@@ -2333,25 +2459,25 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Trang chủ <a href="http://eloa.webzen.com/en">ELOA</a></p>
 
             <p>Hãng Webzen của Hàn Quốc vừa cho ra mắt game MMORPG mang tên ELOA – Elite Lord of Alliance. Game đang trong giai đoạn Close Beta thử nghiệm.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/pvZ_7eNZh8k" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer ELOA</p></center>
-            
+
             <p>ELOA là game mang phong cách Anime, được thiết kế trên đồ họa 3D với camera xoay nhiều góc độ. Người chơi sẽ hóa thân thành các anh hung đi phiêu lưu, luyện level, mua sắm vũ khí, tham gia các sự kiện như mọi game MMORPG khác.</p>
-            
+
             <center><img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-1.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
             </center>
-            
+
             <p>Nếu ai đã từng chơi game Aura Kingdom thì sẽ thấy ELOA có những điểm tương đồng. Đầu tiên là âm nhạc. Trong trailer, âm nhạc mang phong cách hùng tráng giống như Aura Kingdom. Thứ 2, những bảng điểm, menu, thùng đồ, menu kỹ năng cũng có thiết kế tương tự. Tuy nhiên, trò chơi vẫn mang phong cách khác với Aura Kingdom là bạn sẽ chơi theo góc nhìn 2,5D có thể phóng to thu nhỏ. Aura Kingdom lại là game thuần 3D. Vì vậy, cấu hình của ELOA phù hợp với nhiều loại máy.</p>
-            
+
             <center><img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-2.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
-            
-            
+
+
             <img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-3.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
-            
+
             <p>ELOA đã được quảng cáo trên các trang mạng.</p></center>
-            
+
             <p>Hiện mọi người đã có thể đăng ký để chơi ELOA. Nếu ai thích thú với Anime Nhật Bản hay đã từng chơi Aura Kingdom, hãy thử ghé qua ELOA xem sao.</p>',
 
             'dateDetailPost'     => '2015-08-28',
@@ -2373,36 +2499,36 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hành Động, Hài Hước, Siêu Nhiên, School life.</p>
 
             <p>Kikou Shoujo wa Kizutsukanai hay còn được gọi là Unbreakable Machine-Doll là series Light Novel của tác giả Kaitou Reiji, minh họa bởi Ruroo. Light Novel hiện đang có 13 volume. Anime của series mang tên Machine-Doll wa Kizutsukanai được hang Kadokawa sản xuất, ra mắt vào năm 2013.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/v3EMc5EFUYo" frameborder="0" allowfullscreen></iframe></center><br>
-            
+
             <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-1.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
             </center>
-            
+
             <p>Raishin là một cậu học sinh mất gia đình trong một trận thảm sát. Cậu được Shouko – người tạo ra những con rối - tặng cho một con rối tên là Yaya. Cậu lần theo dấu vết của kẻ mà cậu nghĩ là đã giết gia đình cậu và đến học viện dành cho những người điều khiển rối Walpurgis. Cậu đã nhập học với mức hạng 1235/1236, mức hạng gần bét trường. Và cậu đã được gặp những cô gái để xây dựng dàn harem, cũng là để chuẩn bị đối mặt với kẻ mà cậu nghĩ là hung thủ giết gia đình cậu.</p>
-            
-            
+
+
             <p>Ấn tượng đầu tiên của người viết khi xem phim là bối cảnh của bộ phim là nước Anh thế kỷ 19. Nếu bạn đã từng xem những bộ phim như Sherlock Holmes hay Titanic thì sẽ nhận ra ngay những hình ảnh quen thuộc như trang phục, xe lửa hơi nước hay những chiếc xe ô tô đặc trưng của thời kỳ này. Bộ phim đã thể hiện khá rõ nét và chính xác cả kiến trúc của tháp đồng hồ và nhà ga xe lửa trông rất thật. </p>
-            
+
             <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-2.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            
+
             <img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-3.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
             </center>
-            
+
             <p>Tiếp theo là những cảnh chiến đấu. Những trận chiến không chỉ là những con rối đấu với nhau như trong phim Pokémon mà những người điều khiển rối cũng là một phần quan trọng của trận chiến. Nếu người điều khiến không thể chiến đấu được, rối cũng ngưng hoạt động. Những con rối cũng có đủ loại hình dáng, sức mạnh. Những con rối mang hình dáng người máy, động vật và cả con người với khả năng giao tiếp không khác gì người thật khiến khán giả khó đoán đây là người hay rối. Do đó, bộ phim trở nên đa dạng về cách chiến đấu, chiến thuật. </p>
-            
+
             <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-4.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            
+
             <img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-5.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
             </center>
-            
+
             <p>Tính hài hước của bộ phim cũng được để ý đến. Tác giả đã cho Yaya là một cô gái tính cách trẻ con và cực kỳ hay ghen, Charlotte Belew là tiểu thư kiêu kỳ, để ý chuyện ngực to nhỏ, Frey quá hậu đậu nhưng cố đi ám sát Raishin và Henriette Belew nhát gan, sợ con trai, sợ chó. Những cảnh ecchi chỉ ở mức nhẹ giống như gia vị cho bộ phim thêm thú vị. Khán giả thích thú nhất là khi Yaya ghen và khi cố gắng gần gũi Raishin nhưng anh chàng quá phũ.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-7.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            
+
             <img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-8.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
             </center>
-            
+
             <p>Bộ phim đã gặt hái được thành công, được nhiều người hâm mộ và rất có triển vọng trở thành một series lớn. Yaya đã trở thành một trong số các cô gái có lượng fan hâm mộ ở mức khá. Light Novel hiện đang có 13 volume nên nhiều khả năng sẽ có phần 2 trong tương lai gần.</p>',
 
             'dateDetailPost'     => '2015-09-01',
@@ -2424,50 +2550,50 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hành Động, Hài Hước, Siêu Nhiên, School life.</p>
 
             <p>.Seikoku no Ryuu Kishi là series Light Novel, Manga và Anime. Phiên bản Light Novel được viết bởi tác giả Mizuchi Shiki và minh họa bởi Shimesaba Kohada. Anime được phát hành với cái tên Seikoku no Dragonar được ra mắt vào năm 2014, do hang Kadokawa sản xuất.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-light-novel.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
             </center>
-            
+
             <p>Nếu ai đã từng xem <a href="http://kingdomnvhai.info/NoiDung-Unbreakable-Machine-Doll-Bup-Be-Chien-Dau.html">Unbreakable Machine-Doll</a> đã từng phát hành vào năm 2013, hẳn sẽ thấy bộ phim này cũng có những điểm tương tự, giống nhau từ 50-70%.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-1.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
             </center>
-            
+
             <ul>
             <li>Cũng là một trường học theo phong cách Châu Âu thời trung cổ dành riêng cho những người có khả năng đặc biệt, trong phim này là khả năng luyện rồng. Trong phim, trường học này tên là Ansullivan Dragonar.
-            <li>Cũng là mỗi học sinh một “đệ tử”, trong phim này là một con rồng để cưỡi và huấn luyện. 
+            <li>Cũng là mỗi học sinh một “đệ tử”, trong phim này là một con rồng để cưỡi và huấn luyện.
             <li>Cũng là một nam chính với thành tích đội sổ, trong phim này là Ash Blake với thành tích chưa có con rồng nào. Sau này được một quý bà kỳ lạ ban cho một “đệ tử” có sức mạnh khác lạ với những “đệ tử” của mọi người.
             <li>Cũng là nam chính và “đệ tử” của mình đóng vai S&M (Slave and Master – Nô lệ và chủ nhân), chỉ khác là trong phim này, nữ là chủ nhân, nam là nô lệ. Unbreakable Machine-Doll thì ngược lại.
             <li>Cũng là một “đệ tử” của nam chính tính cách rất trẻ con.
-            <li>Cũng là một cô công chúa nổi tiếng nhất trường với tính cách lạnh lùng và có vấn đề với gia đình. Trong phim, cô tên là Silvia Lautreamont, công chúa thứ 4 của đất nước Lautreamont Knight. Cô ấy sống dưới cái bóng của người chị - một kỵ sĩ rất mạnh. 
+            <li>Cũng là một cô công chúa nổi tiếng nhất trường với tính cách lạnh lùng và có vấn đề với gia đình. Trong phim, cô tên là Silvia Lautreamont, công chúa thứ 4 của đất nước Lautreamont Knight. Cô ấy sống dưới cái bóng của người chị - một kỵ sĩ rất mạnh.
             <li>Cũng là một cô gái yếu đuối bé nhỏ có quan hệ phức tạp với một người em trai song sinh rất mạnh, trong phim này là một con rồng.
             <li>Cũng là những vụ bắt cóc “đệ tử” để thảm sát hay chế tạo, nhằm tạo ra những “đệ tử” mạnh nhất.
             </ul>
-            
+
             <center><img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-1.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
             </center>
-            
+
             <p>Với nét vẽ tuyệt đẹp, bộ phim đã thể hiện rất tốt phong cảnh trong game. Từ tòa lâu đài nguy nga tráng lệ cho đến khu dân cư đông đúc người dân, từ pháo đài bay hình rồng rất hoành tráng cho đến những con rồng lớn nhỏ đủ hình dạng. Người viết thích nhất là cảnh pháo đài bay hình rồng bay qua thành phố trông thật tuyệt vời.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-2.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
-            
+
             <p>Tổ chức cuộc đua rồng.</p>
-            
+
             <img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-3.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
-            
+
             <p>Pháo đài bay hình rồng tuyệt đẹp</p></center>
-            
+
             <p>Bộ phim tuy hơi ít những cảnh hài hước so với Unbreakable Machine-Doll hay các bộ phim học đường tương tự nhưng bù lại, ecchi trong phim là ở mức ecchi nặng nên vẫn có thể thu hút những khán giả muốn xem cảnh nóng. Tuy nhiên, bộ phim vẫn tập trung vào những cảnh chiến đấu ác liệt của những con rồng và kỵ sĩ rồng. Không chỉ có rồng, ngay cả kỵ sĩ rồng cũng được đầu tư như Ash được trang bị cả giáp và kiếm hay Rebecca cũng có bộ giáp rất đẹp.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-4.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
-            
+
             <img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-5.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
             </center>
-            
+
             <p>Và sức mạnh của rồng vẫn là điểm cần được khai thác nhất. Cảnh chiến đấu cuối cùng với Eco trong dạng rồng là cảnh được khai thác và lột tả rõ nét nhất. Âm thanh của phim cũng khá tốt. Với series Light Novel còn dài, bộ phim nhiều khả năng sẽ được nhà sản xuất ra mắt phần 2.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-6.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
-            
+
             <img src="../local/public/upload/images/anime/Seikoku-no-Dragonar-7.jpg" width="70%" alt="Seikoku no Dragonar - Trường học kỵ sĩ rồng" />
             </center>',
 
@@ -2492,58 +2618,58 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             Sản xuất năm: 2007.<br>
             Hãng sản xuất: Adventure Company<br>
             Cấu hình:  CPU: 1.6 GHz Pentium IV, RAM: 1 GB, CD-ROM/DVD-ROM: 16X, Hard Drive Space: 250 MB available, Video: 64MB nVidia GeForce 3/ATI Radeon 8500 Directx 9, Sound: 16-bit Directx, Windows XP, 7,8.</p>
-            
+
             <p>Link download:<br>
             <a href="https://drive.google.com/file/d/0B5kR2OM-nt4TUlRIMGZOLXJzNGs/view?usp=sharing">Google Drive KINGDOM NVHAI</a><br>
-            <a href="https://mega.nz/#!Y8sm3BgD!BiTtpkVh5KP2v_N-NMnfEyZKzqUtRjYxkYDDCzuIeP8">Mega</a></p> 
-            
-                
+            <a href="https://mega.nz/#!Y8sm3BgD!BiTtpkVh5KP2v_N-NMnfEyZKzqUtRjYxkYDDCzuIeP8">Mega</a></p>
+
+
             <center><iframe width="420" height="315" src="https://www.youtube.com/embed/kIgOrFbVi0c" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Attack on Pearl Harbor</p></center>
-            
+
             <p>Sau thành công rực rỡ của bộ phim Pearl Harbor – Trân Châu Cảng được sản xuất năm 2001, những game về thể loại thế chiến thứ 2 xoay quanh Trân Châu Cảng được đi vào sản xuất. Và một tựa game nhẹ mà hay nói về đề tài thế chiến thứ 2 không thể bỏ qua là game Attack on Pearl Harbor được sản xuất vào năm 2007.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Pearl-Harbor-Movie.jpg" width="70%" alt="Attack On Pearl Harbor – Trân Châu Cảng" />
-            
+
             <p>Bộ phim Trân Châu Cảng năm 2001 đến bây giờ vẫn thu hút rất nhiều khán giả.</p></center>
-            
+
             <p>Trò chơi khá dễ chơi. Bạn chỉ cần chọn phần chiến dịch, bắt đầu với phe Mỹ hoặc Nhật. Và tất nhiên, trận đánh mở màn chính là trận đánh đã đi vào lịch sử là một trong những trận đánh nổi tiếng nhất thế chiến thứ 2: Trân Châu Cảng. Sau đó là những trận đánh nhỏ khác. Nhiệm vụ của bạn có thể là tiêu diệt toàn bộ máy bay địch, phá hủy các cứ điểm, thả ngư lôi tiêu diệt tàu chiến hay hộ tống máy bay ném bom bay vào Tokyo.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Attack-On-Pearl-Harbor-2.jpg" width="70%" alt="Attack On Pearl Harbor – Trân Châu Cảng" />
             </center>
-            
+
             <p>Chủng loại máy bay mà bạn có thể điều khiển được chia làm 2 loại: máy bay tiêm kích và máy bay ném bom. Máy bay tiêm kích có tốc độ bay rất cao và sung máy khá mạnh. Máy bay ném bom thì to nặng nên bay chậm hơn, khả năng bắn yếu hơn nhưng bù lại có một khẩu súng bắn ngược lại phía sau. Máy bay ném bom còn chia làm 2 loại là máy bay ném ngư lôi và máy bay ném bom.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Attack-On-Pearl-Harbor-4.jpg" width="70%" alt="Attack On Pearl Harbor – Trân Châu Cảng" />
-            
+
             <p>Máy bay nào là máy bay Mỹ? Máy bay nào là máy bay Nhật?</p></center>
-            
+
             <p>Cách điều khiển khá dễ. Bạn chỉ cần dùng chuột để điều khiển camera, chuột trái để bắn, chuột phải để ném bom. Không có gì phức tạp. Tuy nhiên, game lại mắc 2 lỗi. Lỗi thứ nhất là lỗi phóng tên lửa của máy bay tiêm kích. Rất nhiều game lấy đề tài thế chiến thứ 2 mắc phải lỗi này. Máy bay thời thế chiến thứ 2 không có khả năng phóng tên lửa. Chính vì lỗi này mà máy bay tiêm kích của bạn dư sức hạ gục đối thủ chỉ với 1 quả tên lửa. Đây là lỗi rất nghiêm trọng.</p>
-            
+
             <p>Lỗi thứ 2 là giọng của điện đài. Người viết thắc mắc chẳng lẽ nhà sản xuất không thể tìm được một người có thể nói giọng điện đài viên mà lại phải dùng những âm thanh khó nghe lặp đi lặp lại như vậy? Lỗi này có thể bỏ qua vì đã có hướng dẫn tiếng Anh nhưng nếu như giọng điện đài là một câu nói hoàn chỉnh thì sẽ hay hơn là những âm thanh giống như radio rè rè lặp đi lặp lại.
             </p>
-            
+
             <center><img src="../local/public/upload/images/game/Attack-On-Pearl-Harbor-3.jpg" width="70%" alt="Attack On Pearl Harbor – Trân Châu Cảng" />
-            
+
             <p>Những dòng hướng dẫn cách chơi của điện đài.</p></center>
-            
+
             <p>Đồ họa của game khá tốt. Người viết rất thích những trận đánh lớn giữa các đội chiến hạm đánh với nhau. Tàu sân bay cho ra nhiều máy bay bắn nhau và cuối cùng là thả bom tiêu diệt toàn bộ tàu đối thủ. Máy bay đối thủ bắn khá rát khiến việc tấn công tàu đối thủ và bảo vệ tàu mình gặp nhiều khó khan. Tuy nhiên, nếu như nhiệm vụ cuối cùng của Mỹ là hộ tống máy bay ném bom hạt nhân tiến vào Hiroshima và Nagasaki thì nhiệm vụ cuối cùng của Nhật lại là chiến đấu xong… đâm đầu xuống đất tự sát. Đây là một điểm khá hài hước của game.</p>
-            
+
             <p>Dù sao, đây cũng là một game cũ mà hay rất đáng chơi nếu bạn yêu thích thể loại mô phỏng lái máy bay mà cấu hình máy không cho phép chơi những game nặng hiện nay. Cách chơi đơn giản mà cũng khá thú vị, đồ họa không quá lỗi thời, chắc chắn bạn sẽ thích những trận chiến đã đi vào lịch sử của thế chiến thứ 2.</p>
-            
+
             <p><b>Học lịch sử:</b></p>
-            
+
             <center><img src="../local/public/upload/images/game/Nhat-that-bai.jpg" width="70%" alt="Attack On Pearl Harbor – Trân Châu Cảng" /></center>
-            
+
             <p>Sau khi Mỹ thất bại thảm hại ở thế chiến thứ 2, Mỹ đã tập trung đánh bại Nhật nhằm rửa hận.</p>
-            
+
             <p>7/1942: tại đảo san hô Midway, Nhật dự định sẽ tiêu diệt hạm đội Mỹ nhưng thất bại nặng nề.</p>
-            
+
             <p>6/1944: cả 2 bên đã sử dụng tổng cộng 24 hàng không mẫu hạm trong trận đánh này (15 của Mỹ và 9 của Nhật). Và Nhật đã thảm bại khi mất 475 máy bay và 3 hàng không mẫu hạm.</p>
-            
+
             <p>10/1944: Trận chiến vịnh Leyte được xem là trận hải chiến lớn nhất của Thế Chiến II. Kết quả là Nhật thất bại với hơn 10000 người chết và 4 hàng không mẫu hạm.</p>
-            
+
             <p>6/8/1945 và 9/8/1945: 2 quả bom nguyên tử được thả xuống Hiroshima và Nagasaki. Tổng cộng hơn 200000 người chết.</p>',
 
             'dateDetailPost'     => '2015-09-08',
@@ -2565,24 +2691,24 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Thể loại: Hài Hước, Ecchi, Tình Cảm, School life.</p>
 
             <p>Kono Naka Ni Hitori Imouto Ga Iru là series light novel của tác giả Taguchi Hajime. Hiện light novel đã có volume 10. Anime được ra mắt từ ngày 6/7/2012 đến ngày 28/9/2012. Phiên bản manga cũng đã được phát hành.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kono-Naka_Ni-Hitori-Imouto-Ga-Iru-1.jpg" width="70%" alt="Kono Naka Ni Hitori Imouto Ga Iru – Ai là em gái?" />
             </center>
-            
+
             <p>Bộ phim nói về Mikadono Shogo, người thừa kế tập đoàn giàu có. Trong đám tang bố, đột nhiên có một cô bé tự xưng là em gái mình nói với cậu là sau này sẽ kết hôn với cậu. Cậu vào trường Miryuin với nhiệm vụ là tìm vợ sau này. Tình cờ thay, nơi này cũng là nơi em gái giấu mặt của cậu đang học. Và hài hước hơn khi có đến 5 cô gái thay phiên nhau giành tình cảm của cậu. Cuộc điều tra cô em gái trong số 5 cô gái này bắt đầu</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kono-Naka_Ni-Hitori-Imouto-Ga-Iru-4.jpg" width="70%" alt="Kono Naka Ni Hitori Imouto Ga Iru – Ai là em gái?" />
             </center>
-            
+
             <p>Mang phong cách hài hước, vui nhộn, bộ phim đưa khán giả vào những tình huống dở khóc dở cười khi vừa phải tìm kiếm em gái mình, vừa phải xử lý chuyện tình cảm với các cô gái cứ liên tục vây quanh cậu. Những cô gái liên tục bám lấy cậu, ăn mặc gợi cảm, thậm chí suýt lên giường với cậu khiến cậu liên tục trong trạng thái đỏ mặt. Thậm chí có những tình huống hết sức khó hiểu nhưng vẫn khá vui nhộn.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kono-Naka_Ni-Hitori-Imouto-Ga-Iru-2.jpg" width="70%" alt="Kono Naka Ni Hitori Imouto Ga Iru – Ai là em gái?" />
-            
+
             <img src="../local/public/upload/images/anime/Kono-Naka_Ni-Hitori-Imouto-Ga-Iru-3.jpg" width="70%" alt="Kono Naka Ni Hitori Imouto Ga Iru – Ai là em gái?" />
             </center>
-            
-            <p>Bên cạnh đó, tính hấp dẫn của bộ phim cũng được đẩy lên cao. Với chiếc điện thoại hàng độc của tập đoàn Mikadono chế tạo có khả năng giả giọng nói, các cô gái thay phiên nhau sử dụng để nhận làm em gái cậu. Thậm chí cả các nữ sinh trong trường cũng nhận là em gái cậu sau khi biết cậu là con nhà đại gia. Và cũng có những tình huống khá gay cấn khi có những thế lực muốn phá hoại tập đoàn cũng như vị trí thừa kế của cậu. Một cô em gái với tờ giấy xác minh ADN trùng với ADN của cậu cũng xuất hiện làm bộ phim càng thêm lôi cuốn.</p> 
-            
+
+            <p>Bên cạnh đó, tính hấp dẫn của bộ phim cũng được đẩy lên cao. Với chiếc điện thoại hàng độc của tập đoàn Mikadono chế tạo có khả năng giả giọng nói, các cô gái thay phiên nhau sử dụng để nhận làm em gái cậu. Thậm chí cả các nữ sinh trong trường cũng nhận là em gái cậu sau khi biết cậu là con nhà đại gia. Và cũng có những tình huống khá gay cấn khi có những thế lực muốn phá hoại tập đoàn cũng như vị trí thừa kế của cậu. Một cô em gái với tờ giấy xác minh ADN trùng với ADN của cậu cũng xuất hiện làm bộ phim càng thêm lôi cuốn.</p>
+
             <p>Ecchi của phim là ecchi nặng nhưng xuất hiện ít, chỉ ở mức làm gia vị cho bộ phim. Phim lấy chủ đề là em gái nên các cô gái trong phim gần như ai cũng tự nhận mình là em gái. Ngay cả quán cà phê, nhân viên cũng xưng hô là em gái. Nhìn chung, bộ phim khá hay, hấp dẫn nhưng có lẽ sẽ không có phần 2 dù light novel đã có 10 volume vì khoảng thời gian 3 năm là quá dài. </p>',
 
             'dateDetailPost'     => '2015-09-10',
@@ -2683,7 +2809,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Xem thêm: <a href="#">ELOA – Game 3D Anime mới</a></p>
 
             <p>ELOA là game MMORPG của hãng Webzen sản xuất và phát hành. Trò chơi đã chính thức Open Beta vào ngày 17/11/2015. Khi người viết chơi game, đã có nhiều game thủ Việt Nam tham gia trò chơi. Bài viết này sẽ giới thiệu sơ lược về game. Hy vọng những ai yêu thích thể loại game MMORPG hay phong cách Anime, chiến đấu thời Trung Cổ sẽ tham gia trò chơi.</p>
-            
+
             <p>Trò chơi có 5 lớp nhân vật:</p>
             <ul>
             <li>Blood Knight: Khả năng phòng ngự tốt.
@@ -2692,32 +2818,32 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <li>Psychic: Người hỗ trợ cho đồng đội.
             <li>Assassin Warrior: Sát thủ sử dụng dao, móng vuốt, lưỡi hái, tiêu diệt 1 hay nhiều mục tiêu với sát thương lớn.
             </ul>
-            
+
             <center><img src="../local/public/upload/images/game/ELOA_Gioi_thieu_so_luoc_2.jpg" width="70%" alt="Giới thiệu sơ lược về ELOA" />
-            
+
             <p>Người viết chọn nhân vật Sát Thủ (Assassin Warrior)</p></center>
-            
+
             <p>Sau khi đã chọn nhân vật, người chơi bắt đầu tập các thao tác đơn giản, tham gia trận chiến giúp NPC chiếm lại thành trì Baratan Fortress. Sau đó, người chơi sẽ bắt đầu làm các nhiệm vụ và được nhận 1 pet để cưỡi. Người chơi có thể mua thêm nhiều pet khác để chúng buff sức mạnh cho người chơi hoặc làm đồ ăn cho các pet khác để tăng cấp. Tuy nhiên, hãy lưu ý là không phải pet nào cũng cưỡi được.</p>
-            
+
             <center><img src="../local/public/upload/images/game/ELOA_Gioi_thieu_so_luoc_3.jpg" width="70%" alt="Giới thiệu sơ lược về ELOA" />
-            
+
             <p>Nơi dịch chuyển đến các vùng đất</p></center>
-            
+
             <p>Tiền tệ trong game có 3 loại: Đồng, Bạc, Vàng. 100 Đồng đổi lấy 1 Bạc. 100 Bạc đổi lấy 1 Vàng. Vũ khí trong game nếu cảm thấy không cần thiết, có thể bỏ đi để tạo ra các quặng Bạc, Vàng… Các quặng đó sẽ được dùng để đúc vũ khí, áo giáp hoặc bình máu, năng lượng.</p>
-            
+
             <center><img src="../local/public/upload/images/game/ELOA_Gioi_thieu_so_luoc_4.jpg" width="70%" alt="Giới thiệu sơ lược về ELOA" />
             </center>
-            
+
             <p>Bản đồ trong game khá rộng lớn nhưng không tạo cảm giác phải chạy bộ quá dài. Sau khi hoàn thành xong nhiệm vụ cuối cùng ở vùng đất hiện tại, người chơi sẽ sang vùng đất thứ 2 là Lost City, dành cho nhân vật từ level 12 trở lên. Quái vật càng lúc càng mạnh, khiến người chơi rất khó để hoàn thành các nhiệm vụ. Người viết nhiều lần bị một đàn quái vật lao vào, đánh mất máu rất nhanh. Nếu không có bình máu thì rất khó có thể sống sót. Nhất là nhiệm vụ cuối cùng cần có party. Nếu không, boss cuối sẽ không thể đánh một mình được.</p>
-            
+
             <center><img src="../local/public/upload/images/game/ELOA_Gioi_thieu_so_luoc_5.jpg" width="70%" alt="Giới thiệu sơ lược về ELOA" />
-            
+
             <img src="../local/public/upload/images/game/ELOA_Gioi_thieu_so_luoc_6.jpg" width="70%" alt="Giới thiệu sơ lược về ELOA" />
-            
+
             <p>Vùng đất Lost City</p></center>
-            
+
             <p>Người chơi Việt Nam không cần phải lo về kết nối, cấu hình hay bị chặn ID gì cả. Người viết cài game và chơi bình thường như chơi Liên Minh Huyền Thoại ở Việt Nam hay chơi Hearthstone, Aura Kingdom ở nước ngoài. ELOA là trò chơi được đánh giá là cấu hình nhẹ. Một tin bên lề là ELOA chưa về VN. NPH SGame đã ký hợp đồng với Webzen nói rằng thương vụ đang gặp trục trặc. Còn ở phương Tây, game được đổi tên thành Inspirit Online.</p>
-            
+
             <p>Hy vọng với những thông tin giới thiệu vừa rồi, các game thủ Việt Nam sẽ tham gia ELOA để trải nghiệm những điều mới mẻ.</p>',
 
             'dateDetailPost'     => '2015-09-17',
@@ -2757,30 +2883,30 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Trên trang chủ của hãng Furyu về game <a href="http://www.cs.furyu.jp/toloveru-tp/">To Love-Ru Trouble Darkness: True Princess</a> đã ra mắt trailer giới thiệu với tiêu đề “Datsu!! Rakuen!? Deviluke-hen” (Thiên đường (Harem) trốn thoát!? Deviluke) vào ngày 8/9/2015. Trò chơi dành cho hệ máy PS Vita đã được phát hành vào ngày 5/11/2015.</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/hqRLgiLdY7o" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/KGxX6tnXZ3I" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <p>Trailer To Love-Ru Trouble Darkness: True Princess</p></center>
-            
+
             <p>Trailer giới thiệu các nhân vật, lấy bối cảnh câu chuyện diễn ra vào tháng 9, trong gia đình và trường trung học Sainan, hứa hẹn một thế giới khác với bản gốc từ Anime và Manga. Trong game, Rito mất ký ức vì "một sự cố nào đó". Cậu không nhớ bất kỳ điều gì từ sau khi gặp Lala. Và 11 cô gái sẽ phải thể hiện tình yêu của họ, làm cho cậu nhớ lại và cũng để cậu tìm cho mình một công chúa thật sự. </p>
-            
+
             <center><img src="../local/public/upload/images/game/To_Love-Ru_Trouble_Darkness_True_Princess_1.jpg" width="70%" alt="To Love-Ru Darkness: True Princess được phát hành" />
             </center>
-            
+
             <p>Nội dung trong game nối tiếp phần Anime đã được phát hành vào tháng 5/2014. Trong phiên bản Anime To Love-Ru Trouble Darkness (hay còn gọi là To Love-Ru Darkness 2nd), Rito đã có thêm 2 cô gái mới vào Harem của mình là Mea và Nemexis. Trong game, cả 2 cô gái cũng sẽ xuất hiện.</p>
-            
+
             <p>Furyu đang "háo hức mong đợi trò chơi mô phỏng hẹn hò." Phiên bản sẽ có giá bán lẻ 6.980¥ (129.800 VNĐ), các phiên bản giới hạn sẽ có giá bán lẻ 8.980¥ (166.900 VNĐ). Các phiên bản tải về sẽ có giá bán lẻ 6.480 ¥ (120.500 VNĐ).</p>
-            
+
             <center><img src="../local/public/upload/images/game/To_Love-Ru_Trouble_Darkness_True_Princess_2.jpg" width="70%" alt="To Love-Ru Darkness: True Princess được phát hành" />
             </center>
-            
+
             <p>Phiên bản giới hạn bao gồm một gói với hình ảnh minh họa độc quyền, một mã sản phẩm cho một trò chơi "nguồn gốc kính xuyên thấu" cho phép người dùng nhìn xuyên quần áo của các nhân vật, một tấm chăn "Momo x Mea" gồm một hình ảnh họ ngủ chung, và 11 áo jacket khác nhau in hình mỗi nhân vật.</p>
-            
+
             <center><img src="../local/public/upload/images/game/To_Love-Ru_Trouble_Darkness_True_Princess_4.jpg" width="70%" alt="To Love-Ru Darkness: True Princess được phát hành" />
-            
+
             <img src="../local/public/upload/images/game/To_Love-Ru_Trouble_Darkness_True_Princess_5.jpg" width="70%" alt="To Love-Ru Darkness: True Princess được phát hành" />
             </center>
-            
+
             <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-09-09/to-love-ru-darkness-true-princess-game-posts-deviluke-promo/.92714">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-09-27',
@@ -2802,19 +2928,19 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Kênh YouTube của tạp chí Kodansha Young đã chiếu trailer original anime DVD (OAD) của bộ phim Prison School với nội dung là phiên bản giới hạn của manga volume thứ 20.</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/V979_JMNYIg" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Prison School OAD</p></center>
-            
+
             <p>Kodansha sẽ phát hành các gói manga phiên bản giới hạn vào tháng 4/2016. Các diễn viên của anime sẽ trở lại để phát OAD. Ngoài ra, Takahashi Mikako gia nhập dàn diễn viên với vai Mitsuko. Trong trailer, 3 nhân vật mới trong Hội học sinh là Takenomiya Keito, Bettou Risa, Yokoyama Mitsuko có vẻ sắp được xuất hiện. Trong phiên bản Anime, Takenomiya Keito đã được lồng tiếng bởi Koshimizu Ami.</p>
-            
+
             <img src="../local/public/upload/images/anime/Prison-School-Mitsuko.jpg" width="70%" />
-            
+
             <center><p>Nhân vật Yokoyama Mitsuko</p></center>
-                
+
             <img src="../local/public/upload/images/anime/Prison-School-Koshimizu-Ami-voice-actor-Keito.jpg" width="70%" />
-            
+
             <center><p>Koshimizu Ami lồng tiếng cho nhân vật Keito</p></center>
-            
+
             <p>Prison School là bộ manga nổi tiếng do Hiramoto Akira viết kịch bản và vẽ minh họa. Bản chuyển thể anime được công chiếu vào tháng 7/2015. Nội dung nói về học viện tư thục Hachimitsu từ trường nữ sinh chuyển thành trường nam nữ học chung. Và 5 nam sinh đầu tiên đã bắt đầu năm học bằng việc nếm mùi nhà tù của trường sau một lần vi phạm vì tội nhìn trộm nữ sinh.</p>',
 
             'dateDetailPost'     => '2015-09-30',
@@ -2835,47 +2961,47 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'presentDetailPost'  => 'Sau những thành tích xuất sắc tại giải Hearthstone Đông Nam Á và Châu Á, Neilyo được Blizzard khen ngợi và chuẩn bị tham gia Chung Kết Thế Giới tháng 11 sắp tới.',
             'contentDetailPost'  => '<p>Sau trận thắng với game thủ Hearthstone Taesang Hàn Quốc, Trần Hưng Lân (Neilyo) - nhà vô địch Hearthstone khu vực Châu Á sẽ tranh tài tại vòng chung kết thế giới tháng 11 tới đây.</p>
 
-            <p>Trang Fanpage của Hearthstone đã đăng <a href="https://www.facebook.com/HearthstoneSEA/photos/a.140648252812317.1073741830.138632246347251/416145065262633/?type=3">hình ảnh khen ngợi Neilyo.</a></p> 
-            
+            <p>Trang Fanpage của Hearthstone đã đăng <a href="https://www.facebook.com/HearthstoneSEA/photos/a.140648252812317.1073741830.138632246347251/416145065262633/?type=3">hình ảnh khen ngợi Neilyo.</a></p>
+
             <center><img src="../local/public/upload/images/game/Hearthstone_khen_Neilyo.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
             </center>
-            
+
             <p>Neilyo là game thủ Hearthstone Việt Nam đã chiến thắng xuất sắc trong khu vực Đông Nam Á và Châu Á vừa qua. Vào tháng 9/2015, Neilyo đã chiến thắng trong khu vực Đông Nam Á sau khi thắng Chalk người Philippines, lên ngôi vô địch giải đấu Hearthstone lớn nhất Đông Nam Á.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/tav5e1zI9Q4" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận chung kết giữa Neilyo và Chalk</p>
-            
+
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A_3.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A_4.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A_2.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <p>Thành tích thi đấu ấn tượng của Neilyo tại giải Đông Nam Á.</p></center>
-            
+
             <p>Sau đó, vào tháng 10, Neilyo đi thi đấu tại giải vô địch Châu Á và đã giành chiến thắng trước đối thủ người Hàn Quốc Taesang. Neilyo là tuyển thủ đầu tiên ở khu vực Châu Á Thái Bình Dương giành vé tham gia giải vô địch Hearthstone thế giới được tổ chức tại Anaheim, California trong sự kiện BlizzCon 2015 diễn ra trong hai ngày 06/11 và 07/11/2015.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/YSdh6xi_ccY" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận chung kết giữa Neilyo và Taesang</p></center>
-            
+
             <p>Trên trang <a href="http://www.gosugamers.net/hearthstone/rankings">Gosugamers</a>, lần đầu tiên trong lịch sử, có 1 Sea player lọt vào top 10 thế giới, top 1 Châu Á trên bảng xếp hạng. Đây là một điều đáng tự hào dành cho Việt Nam và Đông Nam Á. Người Việt Nam ở sau Neilyo là TaeyeonK, hiện đang ở trong top 50 thế giới, top 9 Châu Á. </p>
-            
+
             <center><img src="../local/public/upload/images/game/Neilyo_rank10.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <img src="../local/public/upload/images/game/Taeyeonk_rank45.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <p>2 game thủ Hearthstone giỏi nhất Việt Nam hiện nay</p>
-            
+
             <img src="../local/public/upload/images/game/Neilyo_Deck.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            
+
             <p>Bộ bài của Neilyo gồm Patron Warrior, Handlock và Druid</p></center>
-            
+
             <p>Hãy cùng theo dõi và cổ vũ cho Neilyo bằng cách tham gia group <a href="https://www.facebook.com/groups/HearthstoneViet/?fref=ts ">Hội giao lưu trao đổi kinh nghiệm chơi Hearthstone</a> hoặc <a href="https://www.facebook.com/HearthstoneSEA?ref=br_rs">Fanpage Hearthstone SEA.</a></p>
-            
+
             <p>(づ｡◕_◕｡)づ NEILYO TAKES MY ENERGY (づ｡◕_◕｡)づ<br>
             (づ｡◕_◕｡)づ NEILYO TAKES OUR ENERGY (づ｡◕_◕｡)づ	</p>',
 
@@ -2898,40 +3024,40 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Thể loại: Ecchi, Yuri, Hành Động, Thần Thoại, Hài Hước</p>
 
             <p>Bikini Warriors là một bộ phim khá đặc biệt, chỉ có 12 tập với độ dài mỗi tập vỏn vẹn 4 phút nhưng cảm xúc nó mang lại rất khó tả. Những ai xem bộ phim này khi mới ra mắt đều cảm thấy chán nản vì nó quá ngắn và vì mục đích chính của nó: mô tả những điểm nhấn đẹp đẽ nhất mà tạo hóa ban cho phụ nữ. Nhưng nếu xem hết, chúng ta có thể thấy bộ phim còn nói về nhiều điều ý nghĩa khác.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Bikini-Warriors-1.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
-            
+
             <p>Nội dung bộ phim khá đơn giản: một nhóm Nữ Anh Hùng (Yuusha) không rõ tên, chỉ biết họ gồm Fighter (Đấu Sĩ), Paladin (Hiệp Sĩ), Mage (Pháp Sư) và Dark Elf (Hắc Tiên) đi khắp nơi, từ thành thị đến nông thôn để kiếm kế sinh nhai và thực hiện nhiệm vụ cao cả của Nữ Anh Hùng là tiêu diệt Quỷ Vương, bảo vệ nhân loại. Mỗi tập phim xoay quanh cuộc sống thiếu thốn tiền bạc, vũ khí, đối đầu với quái vật, bị những kẻ xấu lừa gạt nhưng không bao giờ từ bỏ làm Anh Hùng của mình.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UG4c0jnCsBg" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Bản Bluray của Bikini Warriors sẽ ra mắt vào ngày 9/12/2015</p></center>
-            
+
             <p>Phong cách của phim rất giống với những tựa game cày level RPG như Diablo, Skyrim. Nếu ai đã từng say mê với những tựa game trên, cảm giác khi xem phim này rất thân thuộc. Giống như bạn đang chơi game, đi đến các làng mạc mua bán vũ khí, nhận nhiệm vụ từ trưởng làng, vào các hang động săn quái, mở rương đồ nhặt vũ khí, bình máu, bình năng lượng… Một phong cách có thể khiến giới game thủ cảm thấy rất thích thú</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Bikini-Warriors-2.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
-            
+
             <p>Chắc chắn, khi nghe tên bộ phim, ai cũng có thể đoán được phim này chỉ dành cho độ tuổi trên 16. Những bộ giáp bikini nhìn tưởng chừng chẳng thể bảo vệ được gì lại có sức chống chịu khá tốt, kháng hỏa, kháng băng như có phép thuật. Những cảnh chiến đấu đầy chất gợi cảm.  Những tiếng rên không thể chất hơn. Tất cả khiến ai cũng nghĩ phim chỉ có cảnh nóng, ngoài ra không còn gì khác.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Bikini-Warriors-3.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
-            
+
             <p>Tuy nhiên, nếu xem và hiểu kỹ hơn, phim cũng có những nội dung nhân văn sâu sắc. Đầu tiên là việc họ vượt qua khó khăn để chiến đấu với quái vật, bảo vệ người dân. Dù cả người dân lẫn vua chúa đều lừa họ, đều đối xử không tốt với họ, họ vẫn tìm cách bảo vệ người dân bất chấp thiếu thốn tiền bạc, vũ khí. Đó là điểm khiến người viết thích nhất ở bộ phim.</p>
-            
+
             <p>Thứ 2 là về tình đồng đội. Những Nữ Anh Hùng luôn bảo vệ nhau, giúp đỡ nhau và không phản bội. Có vui cùng hưởng, có họa cùng chịu. Người viết thích nhất là tập 11, khi Paladin chấp nhận đề nghị của lão trưởng làng là phải cưới ông ta thì cả nhóm mới được đi tiếp. Cả nhóm quyết định giải cứu Paladin khỏi tay lão trưởng làng háo sắc.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Bikini-Warriors-4.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
-            
+
             <p>Ngoài ra, trong phim còn xuất hiện thêm 2 nhân vật phụ là Valkyrie (Nữ Thần) và Hunter (Thợ Săn). Cá nhân người viết thích nhất Mage, cô bé có lẽ là trong sáng nhất trong phim. Trên kênh Twitter của Bikini Warriors đã có rất nhiều cosplayer nữ hóa trang thành các nhân vật này. Rõ ràng một bộ phim nhẹ nhàng, mang tính giải trí cao, ngắn gọn cũng có thể tạo nên sức hút lớn và những câu chuyện ý nghĩa.</p>
-            
+
             <center><img src="upload/images/anime/Bikini-Warriors-5.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
-            
+
             <img src="../local/public/upload/images/anime/Bikini-Warriors-6.jpg" width="70%" alt="Bikini Warriors – Những chiến binh gợi cảm" />
             </center>
-            
+
             <p>Thông tin bên lề: diễn viên lồng tiếng cho Fighter chính là Houki trong Infinite Stratos và Rias Gremory trong Highschool DxD.</p>',
 
             'dateDetailPost'     => '2015-10-05',
@@ -2971,7 +3097,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'contentDetailPost'  => '<p>Winged Sakura: Mindy Arc là game thuộc thể loại thủ thành theo phong cách Anime rất hay và cấu hình nhẹ nhưng vẫn đảm bảo độ hấp dẫn, lôi cuốn, phù hợp mọi lứa tuổi.</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2HJfFUKwIMY" frameborder="0" allowfullscreen></iframe></center>
-            
+
             <p><ul>
             <li>Tên game: Winged Sakura: Mindy Arc
             Thể loại: thủ thành, RPG, hành động.
@@ -2979,47 +3105,47 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             <li>Hãng sản xuất: Adventure Company
             <li>Cấu hình:  CPU: 1.5 GHz Pentium IV, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Drive Space: 1.5 GB available, Video: 128 MB Directx 9 compatible video card, Sound: 16-bit Directx, Windows XP, 7,8.
             </ul></p>
-            
+
             <p>Download:<br>
-            
+
             <a href="http://adf.ly/1UpX5Q">Google Drive KINGDOM NVHAI </a><br>
-            
+
             <a href="http://adf.ly/1UpXAU">Vozforums </a>
             </p>
-            
+
             <center><img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-4.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
             </center>
-            
+
             <p>Chỉ cần dùng một câu để miêu tả ngắn gọn về trò chơi này: “Trò chơi này là Plant vs Zombie phiên bản Anime”. Đúng như vậy! Nội dung nói về Mindy, một cô gái đột nhiên phát hiện mình có khả năng triệu hồi Tinh Linh. Và nhiệm vụ của cô là giúp Minzy chống lại cuộc tấn công của các Tinh Linh khác. Từ đó, cô sẽ thu phục được thêm nhiều Tinh Linh, học thêm các phép thuật mới, có vũ khí mới và thêm điểm kinh nghiệm. Theo như giới thiệu trong trailer thì trò chơi có 16 nhân vật để mở khóa.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-1.jpg" width="70%" />
-            
+
             <img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-5.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
             </center>
-            
+
             <p>Mặc dù nói rằng trò chơi giống Plant vs Zombie nhưng thực ra chỉ giống 50%. Nếu Plant vs Zombie, khi Zombie đi hết con đường, bạn sẽ thua. Còn Winged Sakura Mindy’s Arc, bạn sẽ có một lượng máu. Chỉ khi nào hết máu, bạn mới thua. Tuy nhiên, Winged Sakura Mindy’s Arc khó hơn Plant vs Zombie là Tinh Linh chỉ xuất hiện trong một khoảng thời gian rồi biến mất, đòi hỏi người chơi phải thao tác thật nhanh và liên tục triệu hồi Tinh Linh.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-2.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
-            
+
             <img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-7.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
             </center>
-            
+
             <p>Một bản đồ bao gồm nhiều level khác nhau. Người chơi có thể chơi cho đến khi nào đủ sức mạnh rồi mới sang level khác. Hệ thống kỹ năng và đồ dùng cũng khá phong phu. Hệ thống kỹ năng bao gồm 3 phần: Phép thuật tấn công, phép thuật phòng thủ và hồi phục, tăng kinh nghiệm… Đồ dùng cũng khá đa dạng, được chia làm nhiều loại như vũ khí, đồ phòng ngự… và có thể mua bán tùy ý.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-3.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
-            
+
             <img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-8.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
             </center>
-            
+
             <p>Và với các fan Anime, sẽ thật thiếu sót nếu không có những tấm ảnh phong cách Anime. Những tấm ảnh ở mức ecchi nhẹ, một nhân vật bí ẩn được sinh ra trong một bông hoa, những Thiên Thần Sa Ngã với đôi cánh đen... Tất cả sẽ khiến fan của Anime háo hức muốn tham gia trò chơi ngay lập tức.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Winged_Sakura_Mindy_Arc_6.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
-            
+
             <img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-10.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
             </center>
-            
+
             <p>Và có thông tin khá thú vị là trên trang chủ <a href="http://wingedsakura.com/">wingedsakura.com</a>  có nói về 2 phiên bản Winged Sakura: Battle of Hysteria và Winged Sakura: Akumori’s TG với dòng chữ “Games in Development” (Trò chơi trong giai đoạn phát triển). Hy vọng trong năm 2016 và 2017, phiên bản tiếp theo sẽ được ra mắt. Còn bây giờ, hãy cùng các Tinh Linh chiến đấu nào!</p>
-            
+
             <center><img src="../local/public/upload/images/game/Winged-Sakura-Mindy-Arc-9.jpg" width="70%" alt="Winged Sakura: Mindy Arc – Pháp sư Tinh Linh Mindy" />
             </center>',
 
@@ -3041,63 +3167,63 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
             'presentDetailPost'  => 'Cảm giác được chiến đấu với những sinh vật huyền thoại đang tấn công cả thế giới chắc chắn sẽ làm háo hức bất cứ game thủ nào.',
             'contentDetailPost'  => '<p>Nếu bạn là fan của thể loại game bắn súng, muốn được đối đầu với những sinh vật huyền thoại chỉ có trong truyền thuyết thì Legendary là một tựa game không thể bỏ qua. Một tựa game đã từng một thời nổi tiếng. Chắc chắn bạn sẽ cảm nhận sự hoành tráng của game ngay từ những giây phút đầu tiên.
             </p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-1.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" /></center>
-            
+
             <p><ul>
             <li>Tên game: Legendary
             Thể loại: hành động, bắn súng.
             <li>Sản xuất năm: 2008.
             <li>Hãng sản xuất: Spark Unlimited
-            <li>Cấu hình: CPU: Intel Pentium D805 2.6 GHz, AMD Athlon X2 3800. 
+            <li>Cấu hình: CPU: Intel Pentium D805 2.6 GHz, AMD Athlon X2 3800.
             RAM: 2 GB.
             Hard Drive Space: 8 GB.
-            Video: X1600, NVIDIA, GeForce, 7600 GT. 
-            Sound: 16-bit Directx 9. 
+            Video: X1600, NVIDIA, GeForce, 7600 GT.
+            Sound: 16-bit Directx 9.
             Windows XP, 7,8.
             </ul>
             </p>
-            
+
             <p>Link download:</p>
-            <p><a href="http://adf.ly/1UpWxJ">Google Drive KINGDOM NVHAI</a>     
-            
+            <p><a href="http://adf.ly/1UpWxJ">Google Drive KINGDOM NVHAI</a>
+
             <a href="http://adf.ly/1UpWqR">Chiaseit</a>
             </p>
-            
+
             <p>Phần mềm ổ đĩa ảo <a href="https://drive.google.com/open?id=0B2QqgPEJF0YZUmtYdGs1RGxhZXc">Daemon Tool 4</a></p>
-            
+
             <p>Sau khi loài người phát hiện ra chiếc hộp Pandora và trưng bày nó ở một viện bảo tàng tại New York, Deckard được một tổ chức cử đến để mở khóa chiếc hộp với một chìa khóa được giao cho hắn. Vô tình, Deckard mở khóa và bị gắn một dấu ấn trên tay. Và chiếc hộp bắt đầu giải thoát cho những sinh vật huyền thoại tấn công mọi người, tiêu diệt thế giới.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-3.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" />
             </center>
-            
+
             <p>Bạn sẽ ngay lập tức choáng ngợp với sự hoành tráng của game. Những con Griffon bay đầy trời với móng vuốt quắp được cả một chiếc ô tô. Những con Werewoft và Mega Werewoft nhảy xồ ra cào cấu bạn. Những con Minotaur cầm chùy to lớn húc đổ mọi thứ. Một con Golem khổng lồ được tập hợp bởi xe ô tô và hoành tráng nhất là Kraken với những  xúc tu khổng lồ ngay giữa lòng thành phố London. Tất cả đều rất hoành tráng, không chê vào đâu được.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-2.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" />
             </center>
-            
+
             <p> Kẻ thù của bạn không chỉ là quái vật mà còn có cả con người. Tổ chức bí ẩn cử tay sai đi lùng giết Deckard do bạn là người duy nhất có thể đóng chiếc hộp Pandora lại. Nhưng may mắn là bạn cũng có quân đội, những người cũng biết bí mật về chiếc hộp Pandora và bạn. Họ sẽ là đồng minh của bạn.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-7.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" />
             </center>
-            
+
             <p>Chiến trường trong rất đa dạng và được đầu tư kỹ lưỡng. Từ những đường phố đổ nát với những con Griffon bay rợp trời cho đến những tuyến đường tàu điện ngầm, ống cống với những con quái thú nhỏ bé và "dễ thương" hơn. Từ những khu rừng rậm vắng người cho đến bên trong những tòa nhà to lớn ở New York hay những ngôi nhà nhỏ đổ nát vùng ngoại ô. Từ những màn solo với Minotaur, Griffon cho đến những pha thót tim với một bầy Werewoft xồ đến bạn hay thậm chí là một mình chấp 2 con Minotaur. Tất cả đều tạo cảm giác sợ hãi và chân thực nhất đến cho người chơi. </p>
-            
+
             <p>Chắc chắn bạn không thể không run lên khi thấy những móng vuốt và mỏ của một con Griffon lao thẳng vào xé bạn hay hoảng loạn nhìn cái chùy của Minotaur vung vào người bạn. Lúc đó bạn sẽ thắc mắc: "Tại sao súng của mình yếu thế ?" Vì game không hiện máu của quái vật nên bạn không biết được khi nào chúng mới gục. Nhưng với những con Minotaur và Griffon, bạn sẽ phải xả 2 băng đạn súng trung liên mới hạ được. Lời khuyên là nếu như bạn có được những khẩu súng mạnh, hãy giữ nó đợi đến khi có quái vật to lớn mới dùng.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-6.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" />
-            
+
             <p>Màn đấu tay đôi với Griffon.</p></center>
-            
+
             <p>Vũ khí trong game cũng khá đa dạng. Súng ngắn, Shortgun hay thậm chí là cả súng trung liên để xả thoải mái vào những sinh vật to lớn bay đầy trời. Riêng màn ở London, bạn còn có cả Bazooka có khả năng khóa mục tiêu để bắn Kraken. Lựu đạn có lựu đạn thường và bom xăng. Âm thanh được thể hiện khá tốt với tiếng la hét, đổ nát, quái vật gầm rú hay súng máy bắn liên thanh. Chỉ hơi tiếc là hình ảnh không được tốt do game đã được sản xuất từ năm 2008 nhưng nếu bạn chơi màn chơi ở London thì chắc chắn bạn sẽ không bao giờ chê cảnh tượng trong game: vô số con Griffon bay rợp trời và những cái xúc tu của Kraken khổng lồ đè bẹp bạn</p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-4.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" />
-            
+
             <img src="../local/public/upload/images/game/Legendary-5.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" />
             </center>
-            
+
             <p>Nhìn chung, Legendary là một game không thể bỏ qua dành cho những ai yêu thích thể loại game bắn súng, chiến đấu với quái vật hay thích những bộ phim theo phong cách ngày tận thế. Chắc chắn Legendary sẽ cho bạn những trận chiến kịch tính nhất. </p>
-            
+
             <center><img src="../local/public/upload/images/game/Legendary-8.jpg" width="70%" alt="Legendary – Sinh vật huyền thoại" /></center>',
 
             'dateDetailPost'     => '2015-10-17',
@@ -3180,7 +3306,7 @@ Thông điệp của bộ phim rất sâu sắc: Nhìn thấy những người m
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-   
+
         $post->create([
             'nameDetailPost'     => 'Zekkyou Gakkyuu – Lớp học rùng rợn',
             'urlDetailPost'      => 'Zekkyou-Gakkyuu-Lop-hoc-rung-ron',
@@ -3245,45 +3371,45 @@ $post->create([
             'contentDetailPost'  => '<p>Vòng Chung Kết Thế Giới Hearthstone đã diễn ra. Trong vòng bảng, có tổng cộng 4 bảng với 16 game thủ tham gia tranh tài. Neilyo nằm ở bảng C với các đối thủ là LoveCX (Trung Quốc), Ostkaka (Thụy Điển) và Hotform (Canada).</p>
 
             <center><img src="../local/public/upload/images/game/Hearthstone-bang-C-CKTG.jpg" width="70%" width="70%" alt="Neilyo dừng bước tại Chung Kết Thế Giới Hearthstone" />
-            
+
             <img src="../local/public/upload/images/game/Hearthstone-Day-Match-2.jpg" width="70%" alt="Neilyo dừng bước tại Chung Kết Thế Giới Hearthstone" />
             </center>
-            
+
             <p>Tối ngày 28/10, rạng sang 29/10/2015 đã diễn ra 4 trận của 4 bảng. Neilyo đã thua Hotform, LoveCX đã thua Ostkaka. Vì vậy, LoveCX và Neilyo đã xuống nhánh thua để đấu với nhau. Ai thua sẽ bị loại, người thắng sẽ được tái đấu với nhánh thắng để có 1 vé vào tứ kết. Và Neilyo đã thắng LoveCX.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UCc1zzP8T9E" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận thi đấu giữa Neilyo và Hotform</p></center>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/o83pZ2WmuO8" frameborder="0" allowfullscreen></iframe>
-            
-            
+
+
             <p>Trận thi đấu giữa LoveCX và Ostkaka</p></center>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sHrwSwTKy38" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận thi đấu giữa Neilyo và LoveCX</p></center>
-            
+
             <p>Sau khi thua Ostkaka, Hotform tái đấu với Neilyo để giành cơ hội được tái đấu với Ostkaka giành vé vào tứ kết. Neilyo sử dụng bộ bài Secret Paladin, Midrage Hunter và Control Warrior. Trận thứ nhất, bài Warrior của Neilyo quá xấu trong khi bài Mage của Hotform quá đẹp nên thua. Sau đó, Neilyo thắng với Paladin và Hunter. Nhưng thật đáng tiếc là Warrior đã có một ngày thi đấu không thể tệ hơn khi thua Druid và cả Rogue. Kết quả là Neilyo phải dừng bước. </p>
-            
+
             <center><img src="../local/public/upload/images/game/Hearthstone-bang-C-Hotform-vs-Neilyo.jpg" width="70%" alt="Neilyo dừng bước tại Chung Kết Thế Giới Hearthstone" />
-            
+
             <p>Trận tái đấu giữa Hotform và Neilyo rất được chú ý.</p></center>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7XVOFT5pB2U" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận thi đấu giữa Ostkaka và Hotform</p></center>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/mTUrkjSbCDg" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận tái đấu giữa Neilyo và Hotform</p></center>
-            
-            
+
+
             <p>Và như vậy, đứng nhất bảng C là Ostkaka sẽ đấu với nhì bảng D là Pinpinho (Đài Loan) và nhì bảng C là Hotform sẽ đấu với nhất bảng B là Zoro (Trung Quốc).</p>
-            
+
             <center><img src="../local/public/upload/images/game/Hearthstone-tran-dau-bang-C.jpg" width="70%" alt="Neilyo dừng bước tại Chung Kết Thế Giới Hearthstone" />
             </center>
-            
+
             <p>Dù đã bị loại nhưng những người yêu thích Hearthstone Việt Nam vẫn cảm thấy tự hào vì lần đầu tiên Việt Nam có 1 đại diện tham dự vòng Chung Kết Thế Giới. Hy vọng sau này Neilyo và các game thủ Việt Nam sẽ tiếp tục mang vinh quang về cho nước nhà. Còn bây giờ, chúng ta hãy cùng chờ nhà vô địch Hearthstone năm nay.</p>',
 
             'dateDetailPost'     => '2015-10-29',
@@ -3325,7 +3451,7 @@ $post->create([
 
 <p>Ngoài ra, trong manga còn có một cô gái nữa là tử thần không đầu LaLa sống chung. Ngoài 7 cô gái đại diện cho 7 loài sống chung với Kimihito còn có nhiều loài phụ khác như Cyclop, Zombie, Minotaur, người cây… Dĩ nhiên, tất cả đều là con gái.</p>
 
- 
+
 <p>Theo như trong manga, nội dung xoay quanh cuộc sống của Kimihito với các cô gái. Những câu chuyện về gia đình của các cô gái, các tình huống hài hước liên tục diễn ra trong mỗi tập truyện khiến độc giả cười thích thú. Đặc điểm mà khán giả thấy ấn tượng nhất là khả năng chịu đòn của Kimihito. Theo như một lời bình luận thì Kimihito giống như Hercules đầu thai, dù cho bị các cô gái giẫm đạp, quăng ném thế nào vẫn sống khỏe.</p>
 
 <center><img src="../local/public/upload/images/anime/monster-musume_1.jpg" width="70%" alt="Monster Musume - Cuộc sống với Phi Nhân" /></center>
@@ -3356,38 +3482,38 @@ $post->create([
 
             <center><img src="../local/public/upload/images/game/Lich_thi_dau_ban_ket_chung_ket_Hearthstone_2015.jpg" width="70%" alt="Ostkaka vô địch Chung Kết Thế Giới Hearthstone 2015" />
             </center>
-            
+
             <p>Trong ngày thi đấu cuối cùng, 2 trận bán kết đã diễn ra. Đầu tiên là cặp đấu giữa Ostkaka (Thụy Điển) và Thijs (Netherlands). Sau khi Ostkaka dùng Warrior và Rogue dẫn trước 2-0, Ostkaka cố gắng lội ngược dòng với Warrior và Mage. Trận đấu cuối cùng giữa Mage của Ostkaka với Priest của Thijs, Ostkaka đã giành chiến thắng.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/W62pWehylJQ?list=PLEFn_PVNSM6jaYO5ums6SBzBhQfSTg4oc" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận đấu bán kết 1 giữa Ostkaka và Thijs</p></center>
-            
+
             <p>Trận bán kết 2 giữa Hotform (Canada) và Kno (Hàn Quốc). Kno đã dẫn trước với Warlock. Sau đó Hotform gỡ lại với Mage và Rogue. Kno thắng tiếp với Paladin. Trận đấu cuối cùng là cuộc đọ sức giữa 2 Druid. </p>
-            
+
             <p>Trong trận cuối cùng, Kno quá xui khi Piloted Shredder sinh ra Darnassus Aspirant làm mất mana của mình. Còn Hotform thì quá may mắn khi Piloted Shredder sinh ra Lightwell với khả năng hồi 3 máu cho đồng minh bất kỳ. Với những tình huống may mắn liên tiếp, Hotform đã giành chiến thắng. </p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Is612RtG0jM?list=PLEFn_PVNSM6jaYO5ums6SBzBhQfSTg4oc" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận đấu bán kết 2 giữa Hotform và Kno</p></center>
-            
+
             <center><img src="../local/public/upload/images/game/Hotform_vs_Ostkaka.jpg" width="70%" alt="Ostkaka vô địch Chung Kết Thế Giới Hearthstone 2015" />
             </center>
-            
+
             <p>Cuối cùng là trận chung kết giữa Ostkaka (Thụy Điển) và Hotform (Canada). Với chiến thắng 3 trận liên tiếp rất thuyết phục, Ostkaka đã chính thức trở thành nhà vô địch Chung Kết Thế Giới Hearthstone 2015. </p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7a16aKgKi_o?list=PLEFn_PVNSM6jaYO5ums6SBzBhQfSTg4oc" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trận chung kết giữa Ostkaka và Hotform
             </p></center>
-            
+
             <center><img src="../local/public/upload/images/game/Ostkaka_winner.jpg" width="70%" alt="Ostkaka vô địch Chung Kết Thế Giới Hearthstone 2015" />
             </center>
-            
+
             <p>Một tin bên lề quan trọng khác là Hearthstone đã thông báo ra mắt Adventure mới cho Hearthstone. Adventure mới mang tên The League of Explorers với chuyến phiêu lưu vào hầm mộ kim tự tháp. Sau khi hoàn thành 4 màn chơi, người chơi sẽ được nhận tổng cộng 45 lá bài mới. The League of Explorers chính thức ra mắt vào ngày 12/11/2015.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wmu0XXpUYog" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer The League of Explorers</p></center>',
 
             'dateDetailPost'     => '2015-11-08',
@@ -3410,27 +3536,27 @@ $post->create([
 
             <center><img src="../local/public/upload/images/game/World_of_Warcralf_Legion.jpg" width="70%" alt="World of Warcraft: Legion ra mắt trailer" />
             </center>
-            
+
             <p>Blizzard Entertainment - ông trùm của ngành giải trí Mỹ với siêu phẩm game World of Warcraft đã tung trailer mới mang phong cách điện ảnh nhằm quảng bá cho phiên bản World of Warcraft mới. Phiên bản này sẽ ra mắt vào mùa hè 2016.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/eYNCCu0y-Is" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer World of Warcraft: Legion</p></center>
-            
+
             <p>Đây có lẽ là một động thái nhằm vực dậy tựa game nổi tiếng đang lâm vào tình trạng khủng hoảng này. World of Warcraft đã có một sự sụt giảm số lượng người chơi nghiêm trọng. Tính đến tháng 09/2015, theo số liệu mới nhất của Blizzard, số lượng người chơi chỉ còn 5,5 triệu người. Rõ ràng, tình hình cạnh tranh gay gắt từ các game MMORPG ngày một nhiều như hiện nay thì việc World of Warcraft lung lay địa vị là chuyện khó tránh khỏi.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Blizzard_Battle_net.jpg" width="70%" alt="World of Warcraft: Legion ra mắt trailer" />
-            
+
             <p>World of Warcraft cùng những tựa game khác trên Battle.net</p></center>
-            
+
             <p>Tuy nhiên, Blizzard cũng không cần phải quá lo lắng bởi những tín hiệu vui khác đang đến từ các game khác. Game thẻ bài Hearthstone có tốc độ tăng trưởng người chơi 77%. Overwatch, tựa game bắn súng mới ra mắt gần đây đã có hơn 7 triệu game thủ đăng ký. Và ngày 6/11/2015, Hearthstone cùng Overwatch đã tung trailer phiên bản mới thu hút rất nhiều sự chú ý của game thủ.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UEYp1RTvllM" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer mới nhất của Overwatch</p>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/wmu0XXpUYog" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer mới nhất của Hearthstone</p></center>',
 
             'dateDetailPost'     => '2015-11-10',
@@ -3450,7 +3576,7 @@ $post->create([
             'urlDetailPost'      => 'Clustertruck-Nhay-tren-xe-tai',
             'presentDetailPost'  => 'Cùng nhảy trên xe tải và vượt qua những cung đường khó đi nhất với game hành động - giải đố Clustertruck.',
             'contentDetailPost'  => '<p>Tên game: Clustertruck<br>
-Thể loại: hành động<br>      
+Thể loại: hành động<br>
 Sản xuất năm: 22/4/2016<br>
 Hãng sản xuất: Landfall Games<br>
 Cấu hình:  CPU: 2 GHz, RAM 2 GB, Directx 9, Windows XP, 7,8. Hard Drive Space: 300 MB.</p>
@@ -3502,16 +3628,16 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'contentDetailPost'  => '<p>Ngày 16/11/2015, hãng CAPCOM vừa cho ra mắt trailer của Street Fighter V, game đối kháng dành cho PS4 và PC. Game sẽ được bán tại Bắc Mỹ và Châu Âu vào ngày 16/2/2016</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/EcD5XJl9lw4" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Street Fighter V</p></center>
-            
+
             <p>Những nhân vật trong game đã được tiết lộ bao gồm: Ryu, Ken, Chun-Li, Nash, M. Bison, Cammy, Birdie, Vega, Karin Kanzuki, Necalli, Rainbow Mika, Zangief, Laura, Rashid, và Dhalsim. Một số nhân vật khác có thể mua bằng tiền trong game. Necalli, Rashid, và Laura là những nhân vật mới đã được công bố cho đến thời điểm này.</p>
-            
+
             <center><img src="../local/public/upload/images/game/CAPCOM-Street-Fighter-1.jpg" width="70%" alt="Street Fighter V ra mắt trailer" />
             </center>
-            
+
             <p>Ngày 23/7/2015, một bản beta đã được ra mắt nhưng CAPCOM đã đóng cửa với lý do máy chủ, khiến trò chơi chưa tiếp cận được với nhiều người. Ban đầu, trò chơi chỉ được phát hành qua đĩa. CAPCOM sẽ tạo hệ thống tự động cập nhật miễn phí.</p>
-            
+
             <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-11-16/street-fighter-v-video-previews-game-tutorial-mode/.95443">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-11-17',
@@ -3655,13 +3781,13 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
 <li>Hãng sản xuất: Activision, Marvel
 <li>Cấu hình:  Intel Core® 2 Quad 2.4 Ghz or AMD Athlon II X4 2.6 Ghz, RAM 2 Gb, DirectX 9, Windows Vista/7/8
 </ul>
- 
+
 <center><img src="../local/public/upload/images/game/Spider_Man_2_The_Game_Quyet_chien_Tien_si_bach_tuoc_1.jpg" width="70%" alt="Spider Man 2 the game – Quyết chiến Tiến Sĩ Bạch Tuộc" /></center>
 
 <p>Link download:<br>
 <a href="http://adf.ly/1eKo5U" target="_blank">Google Drive KINGDOM NVHAI</a><br>
 
-<a href="http://gamesociu.com/spider-man-2-the-game.vip" target="_blank">Gamesociu</a></p> 
+<a href="http://gamesociu.com/spider-man-2-the-game.vip" target="_blank">Gamesociu</a></p>
 
 <p>Tuy nhiên, có một thế giới ngược giữa DC Comic và Marvel ở trong game và trên màn ảnh. Đó là trên phim, Marvel làm tốt bao nhiêu thì DC Comic làm trùm trong game bấy nhiêu. Và Spider Man 2 The Game cũng không phải ngoại lệ. </p>
 
@@ -3717,7 +3843,7 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
 
 <p>Charles Artagnan</p></center>
 
-<p>Bộ phim dù thể loại Ecchi nặng như Highschool DxD hay To Love Ru nhưng vẫn cân đối giữa Ecchi và chiến đấu, hài hước. Những cô gái Samurai với đủ các vũ khí khác nhau, từ quạt đến thương, từ búa đến kiếm. Và 3 Master Samurai, 3 cô gái đã hôn Muneakira thì có sức mạnh siêu nhiên, chiến đấu với quái vật và với Master Samurai Charles d’Artagnan.</p> 
+<p>Bộ phim dù thể loại Ecchi nặng như Highschool DxD hay To Love Ru nhưng vẫn cân đối giữa Ecchi và chiến đấu, hài hước. Những cô gái Samurai với đủ các vũ khí khác nhau, từ quạt đến thương, từ búa đến kiếm. Và 3 Master Samurai, 3 cô gái đã hôn Muneakira thì có sức mạnh siêu nhiên, chiến đấu với quái vật và với Master Samurai Charles d’Artagnan.</p>
 
 <p>Nội dung vẫn theo các bộ phim Harem khác như Saijaku Muhai no Bahamut hay Infinite Stratos: Mở đầu là nam chính bắt gặp cảnh nóng. Nửa số lượng tập đầu là tìm và tập hợp Harem. Tập chính giữa thì tất cả đi tắm biển. Cuối cùng là xông vào lâu đài đánh trùm cuối cứu công chúa. Nếu muốn, khán giả có thể tìm thêm OVA và Special để thưởng thức thêm nhiều cảnh Ecchi khác.</p>
 
@@ -3766,29 +3892,29 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'contentDetailPost'  => '<p>Senran Kagura là series game được thiết kế bởi Tamsoft và sản xuất bởi Marvelous Entertainment. Senran Kagura: Estival Versus được phát hành ngày 26/3/2015 tại Nhật Bản. Ngoài ra, series còn có phiên bản Manga, Anime. Đặc biệt, Senran Kagura: Estival Versus còn có một tập OVA ecchi nặng.</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/vKntzXUhXss" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Bài Sunshine Fes Opening của Senran Kagura Estival Versus</p></center>
-            
+
             <p>Câu chuyện nói về Học viện Hanzo được tạo ra bởi Chính phủ Nhật Bản để chống lại các ninja đen được thuê bởi các tập đoàn và các chính trị gia. Chỉ có các cá nhân với một hồ sơ sạch, không giết bất cứ ai, có thể ghi danh. Trong game, bạn sẽ điều khiển các cô gái ninja xinh đẹp, có khả năng biến hình với các trang phục, vũ khí đặc trưng để tấn công kẻ thù là những ninja đen bịt mặt.</p>
-            
+
             <p>Trong Senran Kagura: Estival Versus, các nhân vật tại 5 trường Ninja bị hút vào cổng không gian và được đưa đến một hòn đảo nhiệt đới. 2 chị em Ryouna và Ryoubi phát hiện ra chị cả Ryouki của mình đã được hồi sinh. </p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/AfrFi3pf3rY?list=PLDreFvf-2E24QfVqz-GdEojWQo4WhpV9B" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Danh sách video gameplay Senran Kagura: Estival Versus</p></center>
-            
+
             <p>Vẫn theo phong cách của series Senran Kagura, hình ảnh nhân vật xoay quanh các cô gái chiến đấu trong những bộ đồ thiếu vải hết sức có thể. Hình ảnh trong game được thể hiện ngày càng rõ nét khi mới vào đầu là những trận khởi động với các ninja đen. Kỹ năng Shinobi Biến Hình khiến bộ đồ và những tuyệt chiêu của các ninja được nâng cấp khá tốt. </p>
-            
+
             <p>Ngay từ bài hát mở đầu Sunshine Fes, mức độ ecchi đã lộ rõ với cảnh các cô gái mặc bikini trắng nhảy múa. Trong đó có cả hình ảnh 2D và 3D xen kẽ nhau. Khi xem OVA, mức độ ecchi đã được nâng lên để thu hút thêm khán giả.</p>
-            
+
             <p>Một số hình ảnh gameplay của Senran Kagura Estival Versus</p>
-            
+
             <center><img src="../local/public/upload/images/game/Senran-Kagura-Estival-Versus-Gameplay-1.jpg" width="70%" alt="Senran Kagura Estival Versus - Mùa hè đầy nắng" />
-            
+
             <img src="../local/public/upload/images/game/Senran-Kagura-Estival-Versus-Gameplay-2.jpg" width="70%" alt="Senran Kagura Estival Versus - Mùa hè đầy nắng" />
-            
+
             <img src="../local/public/upload/images/game/Senran-Kagura-Estival-Versus-Gameplay-3.jpg" width="70%" alt="Senran Kagura Estival Versus - Mùa hè đầy nắng" />
-            
+
             <img src="../local/public/upload/images/game/Senran-Kagura-Estival-Versus-Gameplay-4.jpg" width="70%" alt="Senran Kagura Estival Versus - Mùa hè đầy nắng" /></center>',
 
             'dateDetailPost'     => '2015-12-10',
@@ -3828,74 +3954,74 @@ nhồi vào đầu người xem những hình ảnh bệnh hoạn.
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hài Hước, Tình Cảm, School life.</p>
 
             <p>Ore ga ojou-sama gakkou ni shomin sample toshite rachirareta ken là series light novel của tác giả Nanatsuki Takafumi, minh họa bởi Uruu Gekka. Light novel đã được chuyển thể thành manga và anime. Anime đã được ra mắt vào ngày 7/10/2015. Manga hiện đã có chap 47.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/WbM_HjrmQnM" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/jcNtT0Ufw5Y" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/5cVaIS82_og" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <p>Trailer phim Ore ga ojou-sama.</p></center>
-            
+
             <p>Link truyện <a href="http://www.mangavn.net/t53027-ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-rachirareta-ken-chap-047">mangavn.net</a></p>
-            
+
             <p>Câu truyện kể về Kagurazaka Kimito, một học sinh bình thường đột nhiên trở thành “Người Được Chọn” vào học viện nữ sinh Seikain, một nơi chỉ dành cho tiểu thư con nhà giàu. Ngôi trường biệt lập với thế giới bên ngoài nên các tiểu thư không hề biết đến những thứ rất bình thường như điện thoại, đường phố, đồ ăn nhanh, manga… Và “Người Được Chọn” sẽ là một hình mẫu thường dân để giải đáp những thắc mắc của các tiểu thư về câu hỏi: cuộc sống của thường dân như thế nào?</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>Với cốt truyện hài hước ngay từ những tập đầu tiên, khán giả sẽ rất shock khi thấy 4 tên cơ bắp cao to đen hôi biểu diễn những động tác khiêu gợi nhưng không kém phần mạnh mẽ. Lý do là vì Kimito phải dứt bỏ ham muốn đùi phụ nữ để trở thành một kẻ cuồng cơ bắp. Nếu cậu ta không làm thế, cậu sẽ bị thiến và bị đưa đến một nơi không tồn tại. Mục đích là để bảo vệ sự trong trắng của các nữ sinh ở học viện.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-1.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>Tổng kết lại, harem của Kimito gồm 7 người:</p>
-            
+
             <p>_ Tenkuubashi Aika: một cô gái tự cô lập mình với mọi người, có mong muốn trở thành người nổi tiếng trong lớp. Cô có tật không kìm được lời nói thật và rất ngốc, luôn bị Kimito lừa một cách ngớ ngẩn. Cô là người nảy ra ý tưởng sáng lập ra câu lạc bộ Thường Dân để học những gì liên quan đến thường dân.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-2.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>_ Arisugawa Reiko: trái ngược với Aika, cô là cô gái nổi tiếng nhất lớp. Đảm đang, tháo vát, tốt bụng, hòa đồng… gần như mọi tính tốt đều có trong cô. Cô đã nghĩ mình sẽ trở thành vợ của Kimito sau một tình huống mà chỉ có trong phim mới xuất hiện.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-3.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>_ Shiodome Hakua: cô bé trông giống như học sinh tiểu học này là một thiên tài. Khi cô bé ở dạng thiên tài, cô bé sẽ viết những công thức khó hiểu lên bất kỳ chỗ nào có thể và lột từng mảnh quần áo trên người ra. Cô bé ít nói, có chế độ ăn riêng nhưng lại ăn bất kỳ thứ gì Kimito nấu và rất gần gũi với cậu.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-4.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>_ Jinryo Karen: cô gái samurai này có 2 tuyệt chiêu: chiêu chém kiếm gây sát thương theo đường thẳng và chiêu chém rách quần áo. Tuy rất mạnh nhưng cô cũng đã bị Kimito thu phục và tham gia harem của cậu.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-5.jpg" width="70%" />
             </center>
-            
+
             <p>_ Kujou Miyuki: hầu gái trưởng của học viện, hầu gái của Kimito và cũng là người canh chừng mọi hoạt động của Kimito. Bất kỳ một hành động thể hiện sự ham muốn người khác giới đều bị cô đe dọa bằng một cái kéo khổng lồ, sẵn sàng cắt giống của cậu bất kỳ lúc nào.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-6.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>_ Hanae Eri: một thần tượng đang làm diễn viên lồng tiếng cho anime và các game visual novel. Cô là bạn thuở nhỏ của Kimito và cũng là bà chủ của cậu. Chỉ cần cô ra lệnh, Kimito sẽ gạt các cô gái khác sang một bên để phục vụ cô.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-7.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>_ Những anh chàng cơ bắp: sẽ là thiếu sót lớn nếu không nhắc đến nhân vật nổi tiếng gần bằng vai chính của phim này. Với sở thích nói chuyện với con trai, thích đấu vật, cộng thêm tình cảnh ở học viện nữ sinh, Kimito đã trở thành một tên cuồng cơ bắp. Sẽ có nhiều tình huống khán giả được nhìn thấy Kimito cuồng cơ bắp đến mức nào.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-8.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>Bộ phim với nét vẽ tươi tắn, dễ thương cộng với những pha hài hước ngay từ đầu chắc chắn sẽ thu hút khán giả. Phong cách của phim cũng rất khác biệt với các phim harem khác. Nếu các phim harem khác, nam chính gần như là người đàn ông duy nhất, quan trọng nhất của phim thì trong phim này, những anh chàng cơ bắp cao to đen hôi cũng quan trọng không kém, nếu không muốn nói là mật thiết với nam chính.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-9.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>Âm nhạc của phim ở mức khá. Người viết thích bài hát mở đầu của phim với phong cách dễ thương cùng với hình ảnh chibi ngộ nghĩnh. Và trong bài nhạc mở đầu đó, những anh chàng cơ bắp xuất hiện chắc phải chiếm đến 1/3 thời lượng bài hát. Giống như nhà sản xuất muốn nhấn mạnh rằng: “Nam chính của phim là những anh chàng cơ bắp” vậy.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-10.jpg" width="70%" alt="Ore ga Ojou-sama Gakkou ni Shomin - Thường dân và trường học tiểu thư" />
             </center>
-            
+
             <p>Với sự thành công của manga đi trước, anime dù không hay bằng (theo đánh giá của người viết, có lẽ là do biết trước nội dung) nhưng cũng đã nhận được sự đánh giá cao của khán giả. Hy vọng manga sẽ sớm ra mắt các tập mới để độc giả theo dõi anh chàng cuồng cơ bắp Kimito xây dựng harem như thế nào.</p>',
 
             'dateDetailPost'     => '2015-12-16',
@@ -4400,7 +4526,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
 
             <center><img src="../local/public/upload/images/game/Golden-Monkey-Invitational-1.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
             </center>
-            
+
             <p>Luật thi đấu:</p>
             <ul>
             <li>Mỗi người chơi chuẩn bị 3 deck của 3 class khác nhau.
@@ -4408,26 +4534,26 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             <li>Tất cả các deck phải sử dụng: Elise Starseeker, 1 trong những lá bài Rồng Legendary 9 mana: Alexstraza, Nefarian, Onyxia, Ysera, Malygos, Nozdormu, ít nhất 1 Bomb Lobber, và ít nhất 2 Mad Bomber/2 Madder Bomber hoặc cả 4.
             <li>Người chơi có thể có những lá Rồng Legendary khác ngoài những lá liệt kê ở trên trong deck, nhưng những lá rồng đã được liệt kê sẽ không được sử dụng lặp lại ở những deck khác nhau. Ví dụ, 1 deck sử dụng Ysera, 1 deck khác có Alexstraza, 1 deck khác có Nefarian, nhưng cả 3 deck thì đều có thể có Chromagus hay Deathwing,..
             <li>Không được sử dụng những lá bài 2 mana và 7 mana trừ những ngoại lệ sau: Flare, Mad Bomber, Lorewalker Cho.</ul>
-            
+
             <center><img src="../local/public/upload/images/game/Golden-Monkey-Invitational-2.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            
+
             <img src="../local/public/upload/images/game/Golden-Monkey-Invitational-3.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
             </center>
-            
+
             <p>Nếu như Neilyo có 3 trận thắng khá thuyết phục, thậm chí thắng cả đối thủ Chalk đã từng đấu với anh trong trận chung kết chọn đại diện tham dự Chung Kết Thế Giới thì 2 tuyển thủ zGGLeoz và Ikki lại thua mặc dù họ đã đánh rất tốt và rất cố gắng.</p>
-            
-            
+
+
             <p>Cả giải đấu đã diễn ra suốt 9 giờ. Trong trận chung kết diễn ra vào khoảng 10 giờ tối theo giờ Việt Nam, Neilyo đã chiến thắng một cách khá may mắn vào những thời khắc khó khăn nhất trước đối thủ Heisnotaxel người Singapore. Trận đầu tiên, Heisnotaxel đã chiến thắng với Shaman trước Warlock của Neilyo. 3 trận sau đó, Hunter của Heisnotaxel đã thất bại trước Priest, Warlock và Warrior của Neilyo. Neilyo đã rất may mắn trong trận thứ 3 khi Warlock rút bài may mắn để hồi máu trước những đòn tấn công thẳng mặt của Hunter.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Golden-Monkey-Invitational-4.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
-            
+
             <img src="../local/public/upload/images/game/Golden-Monkey-Invitational-5.jpg" width="70%" alt="Neilyo vô địch giải Golden Monkey Invitational" />
             </center>
-            
+
             <center><iframe src="http://player.twitch.tv/?video=v44405329" frameborder="0" scrolling="no" height="378" width="620"></iframe>
-            
+
             <p>Toàn bộ trận đấu của giải.</p></center>
-            
+
             <p>Xin chúc mừng Neilyo đã có thêm thành tích mở đầu năm 2016. Chúng ta hãy cổ vũ cho Neilyo sẽ tiếp tục chiến thắng và góp mặt vào Chung Kết Thế Giới 2016.</p>',
 
             'dateDetailPost'     => '2016-02-14',
@@ -4492,7 +4618,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Masou Gakuen HxH - Học viện Ecchi',
+            'nameDetailPost'     => '[Review] Masou Gakuen HxH - Học viện Ecchi',
             'urlDetailPost'      => 'masou-gakuen-hxh-hoc-vien-ecchi',
             'presentDetailPost'  => 'Hida Kizuna sở hữu khả năng giúp các cô gái lên đỉnh để phát huy tối đa sức mạnh của bộ đồ chiến đấu họ đang mặc',
             'contentDetailPost'  => '',
@@ -4510,7 +4636,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Saijaku Muhai no Bahamut - Kỵ Sĩ Rồng Bất Bại',
+            'nameDetailPost'     => '[Review] Saijaku Muhai no Bahamut - Kỵ Sĩ Rồng Bất Bại',
             'urlDetailPost'      => 'saijaku-muhai-no-bahamut-ky-si-rong-bat-bai',
             'presentDetailPost'  => 'Lux, một hoàng tử tình cờ rơi xuống nhà tắm và nhìn thấy công chúa Lisesharte khỏa thân. Harem của cậu tại học viện nữ sinh bắt đầu.',
             'contentDetailPost'  => '',
@@ -4528,7 +4654,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Owari no Seraph - Truy lùng ma cà rồng',
+            'nameDetailPost'     => '[Review] Owari no Seraph - Truy lùng ma cà rồng',
             'urlDetailPost'      => 'owari-no-seraph-truy-lung-ma-ca-rong',
             'presentDetailPost'  => 'Bối cảnh hậu tận thế. Cuộc chiến liên miên giữa ma cà rồng và con người, thần thánh và quỷ dữ. Nhóm bạn Hyakuya Yuuichirou tìm cách sống sót trước cả 2 phe',
             'contentDetailPost'  => '',
@@ -4546,7 +4672,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Outbreak Company - Giao lưu văn hóa anime',
+            'nameDetailPost'     => '[Review] Outbreak Company - Giao lưu văn hóa anime',
             'urlDetailPost'      => 'outbreak-company-giao-luu-van-hoa-anime',
             'presentDetailPost'  => 'Thế giới hiện tại được liên kết với thế giới thần thoại với rồng, tiên, người lùn... Shinichi Kano, một otaku trở thành đại sứ giao lưu văn hóa anime với thế giới đó',
             'contentDetailPost'  => 'https://www.youtube.com/watch?v=8D5_c-s2BLk',
@@ -4571,22 +4697,22 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 
             <center><img src="../local/public/upload/images/anime/Cardcaptor_Sakura_Manga.jpg" width="70%" alt="CLAMP xuất bản Manga Cardcaptor Sakura mới" />
             </center>
-            
+
             <p>Nhóm tác giả CLAMP không liệt kê bất kỳ thông tin chi tiết về công việc mới, và các tạp chí cho biết trong tương lai sẽ bán bộ manga mới sau khi được quyết định. Các tạp chí của Nhật Bản cũng cho biết rằng manga mới không phải là một series đầy đủ mà chỉ là một truyện ngắn.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Cardcaptor_Sakura_Manga_2.jpg" width="70%" alt="Trailer game RPG Kono Subarashii Sekai ni Shukufuku wo!" />
             </center>
-            
+
             <p>Cardcaptor Sakura kể về một cô bé 10 tuổi, học lớp 4 tên là Kinomoto Sakura tình cờ phát hiện ra một bộ thẻ bài ma thuật gọi là thẻ bài Clow (Clow Card) trong quyển sách Clow, chúng được tạo ra và đặt tên nửa tiếng Anh-nửa tiếng Trung bởi pháp sư Clow Reed. Sau khi mở phong ấn quyển sách, các thẻ bài bắt đầu bay khắp nước Nhật trừ thẻ bài Windy mà Sakura cầm trên tay. Và cô bé cùng linh thú Kero bắt đầu thu thập lại tất cả thẻ bài, không cho chúng gây tai họa.</p>
-            
+
             <img src="../local/public/upload/images/anime/Cardcaptor_Sakura_Manga_1.jpg" width="50%" />
-            
+
             <p>Bộ truyện đã được xuất bản vào tháng 5/1996 và đã trở thành một trong số những series dành cho thiếu nhi ăn khách nhất. Phiên bản Anime đã được lồng tiếng Anh và cả tiếng Việt. Series có 2 phần Anime, 3 phiên bản The Movie, 10 phiên bản game và nhiều CD nhạc khác. Tất nhiên không thể thiếu phiên bản thẻ bài Clow, tâm điểm chính của cả loạt phim.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VDBSV8DL1lU" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Bài hát mở đầu Catch You Catch Me nổi tiếng của phim.</p></center>
-            
+
             <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-03-02/clamp-to-publish-new-cardcaptor-sakura-manga/.99295">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2016-03-02',
@@ -4600,7 +4726,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Các trào lưu anime qua từng giai đoạn',
             'urlDetailPost'      => 'cac-trao-luu-anime-qua-tung-giai-doan',
@@ -4620,7 +4746,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Hataraku Maou-sama - Ma vương đi làm',
+            'nameDetailPost'     => '[Review] Hataraku Maou-sama - Ma vương đi làm',
             'urlDetailPost'      => 'Hataraku-maou-sama-ma-vuong-di-lam',
             'presentDetailPost'  => 'Ma vương và anh hùng đến Nhật Bản hiện đại trong tình trạng mất sức mạnh và phải kiếm kế sinh nhai ở đó.',
             'contentDetailPost'  => 'https://www.youtube.com/watch?v=X55cjjQNEJg',
@@ -4638,7 +4764,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Murenase! Shiiton Gakuen - Học viện sở thú',
+            'nameDetailPost'     => '[Review] Murenase! Shiiton Gakuen - Học viện sở thú',
             'urlDetailPost'      => 'murenase-shiiton-gakuen-hoc-vien-so-thu',
             'presentDetailPost'  => 'Học viện Seton, nơi con người và các loài vật khác cùng nhau chung sống và học tập. Sói loli bắt đầu sự nghiệp xây một bầy đàn đa chủng loài với nam chính Mazama Jin',
             'contentDetailPost'  => 'http://www.nettruyen.com/truyen-tranh/murenase-shiiton-gakuen/chap-13/384508',
@@ -4659,23 +4785,67 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'nameDetailPost'     => '[Review] One Punch Man – Một đấm kết liễu',
             'urlDetailPost'      => 'one-punch-man-mot-dam-ket-lieu',
             'presentDetailPost'  => 'Bộ Manga cố gắng phá vỡ khái niệm anh hùng vất vả đánh thắng kẻ xấu đã được chuyển thể thành Anime.',
-            'contentDetailPost'  => '<p>One Punch Man khởi đầu là webcomic của tác giả có bút danh là One, bắt đầu công bố trên trang cá nhân vào ngày 3/6/2009. Phiên bản manga của tác giả Yuusuke Murata được công bố trên trang web của Young Jump WebComics Shueisha  ngày 14/6/2012. Ý tưởng cho bộ truyện làm lại bắt đầu khi Mutara gặp One trên Twitter để thảo luận. Theo đó Murata sẽ tiến hành remake lại bộ truyện.</p> 
+            'contentDetailPost'  => '<p>One Punch Man khởi đầu là webcomic của tác giả có bút danh là One, bắt đầu công bố trên trang cá nhân vào ngày 3/6/2009. Phiên bản manga của tác giả Yuusuke Murata được công bố trên trang web của Young Jump WebComics Shueisha  ngày 14/6/2012. Ý tưởng cho bộ truyện làm lại bắt đầu khi Mutara gặp One trên Twitter để thảo luận. Theo đó Murata sẽ tiến hành remake lại bộ truyện.</p>
 
             <p>Tại một Trái Đất hư cấu có các thành phố từ A đến Z. Trái Đất này tồn tại rất nhiều quái vật, thiên tai, người đột biến… liên tục phá hoại với đủ mọi mức độ. 2 tổ chức Hiệp Hội Anh Hùng và Hiệp Hội Quái Vật được lập ra để quản lý các anh hùng và quái vật trong thế giới hỗn loạn này. Saitama, một thanh niên thất nghiệp có cơ duyên làm anh hùng sau khi cứu một cậu bé. Anh đã luyện tập bằng cách nào đó mà vài năm sau, anh đã có sức mạnh đến mức kết liễu những con quái rất mạnh chỉ bằng một đấm duy nhất. Anh cùng cậu học trò Genos tham gia Hiệp Hội Anh Hùng và nhìn thấy nhiều mặt của những anh hùng được mọi người kính nể.</p>
-	
+
             <center><img src="../local/public/upload/images/anime/one-punch-man-mot-dam-ket-lieu-1.jpg" width="50%" alt="One Punch Man – Một đấm kết liễu"/></center>
-	
+
             <h3>Cố gắng thoát khỏi lối mòn…</h3>
-	
+
             <p>Khi nhắc đến chủ đề anh hùng nói riêng và chiến đấu nói chung, ai cũng sẽ nghĩ đến viễn cảnh: anh hùng, chính diện sẽ chật vật chống lại những con boss phản diện mạnh hơn. Và cuối cùng phe chính diện sẽ thắng bằng niềm tin, kết hợp hay tuyệt kỹ bí mật. Lối mòn “Anh hùng vất vả chống kẻ xấu” xuất hiện rất nhiều, từ phim qua truyện, từ Tây sang Á.</p>
 
             <p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
 
-	
+
 	',
 
             'dateDetailPost'     => '2016-03-13',
             'imgDetailPost'      => 'one-punch-man-dam-phat-chet-luon-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => '[Review] Mangaka-san to Assistant-san to The Animation - Mangaka và các cô gái phụ tá',
+            'urlDetailPost'      => 'Mangaka-san-to-Assistant-san-to-The-Animation-Mangaka-va-cac-co-gai-phu-ta',
+            'presentDetailPost'  => 'Tác giả mangaka cuồng quần lót cùng các cô gái chiến đấu với deadline và sự khắc nghiệt của nghề làm tác giả manga.',
+            'contentDetailPost'  => '
+
+
+
+	',
+
+            'dateDetailPost'     => '2016-03-16',
+            'imgDetailPost'      => 'mangaka-san-to-Assistant-san-to-The-Animation-Mangaka-va-cac-co-gai-phu-ta-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => '[Review] D-frag - CLB game vui nhộn',
+            'urlDetailPost'      => 'D-frag-clb-game-vui-nhon',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '
+
+
+
+	',
+
+            'dateDetailPost'     => '2016-03-19',
+            'imgDetailPost'      => 'D-frag-clb-game-vui-nhon-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4785,7 +4955,208 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 
 
 
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         // ----------------------------------- Bài viết cần xem thời gian ---------------------------------
 
@@ -4808,7 +5179,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Lễ hội Animax Carnival Malaysia 2016',
             'urlDetailPost'      => 'Le-hoi-Animax-Carnival-Malaysia-2016',
@@ -4837,11 +5208,11 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 
 <p><b>Lễ hội âm nhạc</b></p>
 
-<p><b>GARNIDELIA</b></p> 
+<p><b>GARNIDELIA</b></p>
 
-<p> GARNIDELIA biểu diễn vào 11:00 vào thứ bảy, trong khoảng 1 tiếng đầu tiên của buổi diễn.</p> 
+<p> GARNIDELIA biểu diễn vào 11:00 vào thứ bảy, trong khoảng 1 tiếng đầu tiên của buổi diễn.</p>
 
-<p> GARNIDELIA vừa phát hành album Birthia của họ năm ngoái, trong đó họ đã remakes rất nhiều bài hát của họ trước khi ra mắt chính thức vào năm 2014. Trong cuộc phỏng vấn, Toku nói rằng họ muốn nhiều người nghe những bài hát đầu tiên của họ, và bản thân họ muốn xem những bài hát nên chỉnh sửa thế nào khi họ hát bây giờ.</p> 
+<p> GARNIDELIA vừa phát hành album Birthia của họ năm ngoái, trong đó họ đã remakes rất nhiều bài hát của họ trước khi ra mắt chính thức vào năm 2014. Trong cuộc phỏng vấn, Toku nói rằng họ muốn nhiều người nghe những bài hát đầu tiên của họ, và bản thân họ muốn xem những bài hát nên chỉnh sửa thế nào khi họ hát bây giờ.</p>
 
 <p>Khi được hỏi về nguồn cảm hứng sáng tạo của họ, Toku trả lời Maria là nguồn cảm hứng để tạo ra những bài hát mà anh muốn cô hát, và Maria đã trả lời rằng nguồn cảm hứng lớn nhất của cô là phản ứng của người hâm mộ. Họ kết luận rằng cả hai đều muốn âm nhạc có thể giúp đỡ tất cả mọi người.</p>
 
@@ -4911,7 +5282,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái',
             'urlDetailPost'      => 'Co-giao-tieng-Anh-nong-bong-va-tro-dua-tai-quai',
@@ -4983,7 +5354,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Overwatch 1 tháng sau Open Beta',
             'urlDetailPost'      => 'Overwatch-1-thang-sau-Open-Beta',
@@ -5061,7 +5432,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Injustice 2 sẽ ra mắt vào năm 2017',
             'urlDetailPost'      => 'Injustice-2-se-ra-mat-vao-nam-2017',
@@ -5093,7 +5464,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Những lệnh cấm Pokemon GO trên thế giới',
             'urlDetailPost'      => 'Nhung-lenh-cam-Pokemon-GO-tren-the-gioi',
@@ -5157,7 +5528,7 @@ cải thiện tình trạng này?
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Pokemon GO đã làm hỏng hình ảnh Pokemon như thế nào?',
             'urlDetailPost'      => 'Pokemon-GO-da-lam-hong-hinh-anh-Pokemon-nhu-the-nao',
@@ -5246,13 +5617,13 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '<p>Vietnamese Road là một tựa game vui nhộn đầy thử thách do HanelSoft, một công ty thành viên thuộc Hanel kết hợp sản xuất với công ty Nhật Bản Hiropro, ra mắt từ tháng 6/2016. Trò chơi hiện có hơn 7.000 lượt tải về trên cả iOS và Android bao gồm cả bản tiếng Anh và tiếng Việt. Trong đó hơn 75% là người dùng nước ngoài.</p>
 
             <p>Khi tham gia vào game <em>Vietnamese Road</em> thì người chơi sẽ có nhiệm vụ phải điều khiển nhân vật khi đi sang đường tại những địa điểm của Việt Nam với nhiều phương tiện đang di chuyển trên đường một cách dày đặc nên bạn sẽ phải cần thận khi sang đường để không bị những chiếc xe như Dream chiến, Lead chiến, xe chở lợn, xe chở gà… đâm phải. </p>
-            
+
             <center><img src="../local/public/upload/images/game/Vietnamese_Road_giao_thong_Viet_Nam_tren_iOS_va_Android_1.jpg" width="70%" alt="Vietnamese Road - giao thông Việt Nam trên iOS và Android" /></center>
-            
+
             <p>Ý tưởng sáng tạo ra trò chơi đến từ Enomoto Kaori (1986), một cô gái Nhật đang sống và làm việc tại Hà Nội. Enomoto là nhà thiết kế game của Hanelsoft và cũng góp mặt trong đội phát triển của sản phẩm. Cô sang Việt Nam từ tháng 7/2015, cô gái Nhật Bản cho biết đã yêu mến đất nước và nền văn hóa tại nơi đây. Nhận thấy Việt Nam chưa có nhiều sản phẩm game có nội dung quảng bá văn hóa Việt, cô đã quyết định làm một tựa game mang phong cách Việt Nam và Vietnamese Road ra đời.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Vietnamese_Road_giao_thong_Viet_Nam_tren_iOS_va_Android_Enomoto_Kaori.jpg" width="70%" alt="Vietnamese Road - giao thông Việt Nam trên iOS và Android" /></center>
-            
+
             <p>Nữ thiết kế game còn đang ấp ủ một dự án game di động khác có nội dung về ẩm thực Việt Nam, dự kiến sẽ ra mắt vào đầu năm 2017.</p>',
 
             'dateDetailPost'     => '2016-08-20',
@@ -5266,7 +5637,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Snake eSports thua World Elite và 10 trận 1 ngày của Sofm',
             'urlDetailPost'      => 'Snake-eSports-thua-World-Elite-va-10-tran-1-ngay-cua-Sofm',
@@ -5318,7 +5689,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Vì sao Saigon Joker thua tại Wildcard?',
             'urlDetailPost'      => 'Vi-sao-Saigon-Joker-thua-tai-Wildcard',
@@ -5354,7 +5725,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Tỉnh Miyagi quảng cáo cho Pokemon GO',
             'urlDetailPost'      => 'Tinh-Miyagi-quang-cao-cho-Pokemon-GO',
@@ -5383,8 +5754,8 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'update'             => 0,
         ]);
 
-        
-		
+
+
 		$post->create([
             'nameDetailPost'     => 'Ngân hàng Nhật Bản phát hành thẻ tín dụng Hatsune Miku',
             'urlDetailPost'      => 'Ngan-hang-Nhat-Ban-ra-mat-the-tin-dung-Hatsune-Miku',
@@ -5486,24 +5857,24 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '<p>Nhà phát triển game Illusion đã mở trang web tiếng Anh vào ngày 13/10/2016 để tiết lộ trò chơi người lớn VR Kanojo sắp tới. Illusion mô tả trò chơi như một "kinh nghiệm thực tế với bạn gái ảo".</p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/e1P4OUw5D7M" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer VR Kanojo</p></center>
-            
+
             <p>Đoạn video giới thiệu nữ sinh trung học Yuhi Sakura tương tác với người chơi. Người chơi có thể trả lời câu hỏi bằng cách gật đầu hay lắc đầu hoặc chọn câu trả lời như các game Visual Novel trước đây.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1ujtdDdLd3E" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Bài hát của game</p>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/miVNsupbnaY" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/U-fXGRtLHaI" frameborder="0" allowfullscreen></iframe><br><br>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/6fjIp9uiD1c" frameborder="0" allowfullscreen></iframe>
             </center>
-            
+
             <p>Game mô tả Sakura là một cô gái luôn tươi cười và vui vẻ với mọi người. Cô ấy thích đồ ngọt. Món đồ ngọt cô ấy thích nhất là Socola Bocky. Illusion sẽ phát hành game này vào tháng 1/2017 cùng với phiên bản PC. Game được lưu ý chỉ dành cho lửa tuổi 18+. </p>
-            
+
             <p>Nguồn tin <a href="http://www.animenewsnetwork.com/interest/2016-10-15/illusion-reveals-vr-kanojo-adult-vr-game/.107581" target="_blank">Anime News Network </a></p>',
 
             'dateDetailPost'     => '2016-10-14',
@@ -5517,7 +5888,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Pokemon GO tổ chức sự kiện trong game đầu tiên mừng Halloween',
             'urlDetailPost'      => 'Pokemon-GO-to-chuc-su-kien-trong-game-dau-tien-mung-Halloween',
@@ -5551,11 +5922,11 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '<p></p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/OAnW7RA3tIY" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Konosuba - Subarashii Sekai ni Shukufuku wo! season 2</p></center>
-            
+
             <p></p>
-            
+
             <p></p>',
 
             'dateDetailPost'     => '2016-10-26',
@@ -5569,9 +5940,9 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
-        
-		
+
+
+
 		$post->create([
             'nameDetailPost'     => 'Việt Nam đòi lại đầy đủ nợ nần tại Wildcard, tiến tới Chung Kết All Star Thế Giới            ',
             'urlDetailPost'      => 'Viet-Nam-doi-lai-day-du-no-nan-tai-Wildcard-tien-toi-chung-ket-All-Star-The-Gioi',
@@ -5612,61 +5983,61 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'nameDetailPost'     => 'Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số',
             'urlDetailPost'      => 'Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so',
             'presentDetailPost'  => 'Gatebox, một bước tiến công nghệ đang đe dọa đến thảm họa dân số cả thế giới trong tương lai.',
-            'contentDetailPost'  => '<p>Gatebox, trailer về chiếc hộp dành cho những chàng trai độc thân tại Nhật đang trở thành cơn sốt về công nghệ và là mối lo về thảm họa dân số sắp khiến thanh niên nước Nhật và cả thế giới phải gánh chịu trong giữa và cuối thế kỷ 21. <a href="http://gatebox.ai/">Trang chủ Gatebox.</a></p> 
+            'contentDetailPost'  => '<p>Gatebox, trailer về chiếc hộp dành cho những chàng trai độc thân tại Nhật đang trở thành cơn sốt về công nghệ và là mối lo về thảm họa dân số sắp khiến thanh niên nước Nhật và cả thế giới phải gánh chịu trong giữa và cuối thế kỷ 21. <a href="http://gatebox.ai/">Trang chủ Gatebox.</a></p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nkcKaNqfykg" frameborder="0" allowfullscreen></iframe><br>
-            
+
             Trailer Gatebox
             </center>
-            
+
             <p>Sản phẩm công nghệ mới mang tên Gatebox vừa được hãng Vinclu của Nhật Bản ra mắt, nó mang đến một nhân vật ảo làm bạn với người dùng. Azuma Hikari sẽ là nhân vật đầu tiên được đưa vào trong chiếc Gatebox. Theo như trailer, Azuma Hikari là nhân vật 3D có khả năng báo thức, dự báo thời tiết, thậm chí là nhắn tin hỏi thăm và bật điện trong nhà. Chắc chắn trong tương lai, người dùng sẽ có thể chọn và mua các nhân vật đúng ý mình từ các bộ Anime, Manga. Giá sản phẩm này là 2600USD.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-1.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
-            
+
             <img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-2.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
             </center>
-            
+
             <p><b>Bước tiến công nghệ</b></p>
-            
+
             <p>Phải công nhận công nghệ Nhật Bản phát triển thuộc hàng nhanh nhất thế giới. Công nghệ 3D mới ngày nào còn xuất hiện trong phim Iron man với khả năng tự xử lý những yêu cầu của người dùng thì nay đã xuất hiện và làm những yêu cầu cơ bản như báo thức, dự báo thời tiết, thậm chí là bật điện trong nhà. Không biết đến giữa thế kỷ 21, nó còn có thể làm được gì nữa.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-3.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
-            
+
             <img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-4.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
-            
+
             <img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-5.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
             </center>
-            
+
             <p>Với công nghệ này, những người đàn ông sẽ có không chỉ một mà là nhiều cô gái trẻ mãi không già, tính cách như một người vợ hoàn hảo và đặc biệt là không bao giờ phản bội, bỏ bạn theo chàng trai khác. Vậy bạn có cần bạn gái nữa không?</p>
-            
+
             <p><b>Đàn ông vùng lên</b></p>
-            
+
             <p>Nếu như xoay ngược thời gian, về thời Trung Quốc với chính sách một con, chúng ta hay nghe về tình trạng chênh lệch giới tính nghiêm trọng. Hậu quả của nó mang lại là đàn ông không thể lấy vợ vì các cô gái thời nam nữ bình đẳng, chênh lệch giới tính này quá vật chất. Đàn ông bây giờ luôn than phiền rằng phụ nữ chỉ thích những đại gia có tiền, có nhà, có xe. Thời buổi nam nữ bình đẳng, ly dị quá dễ dàng, không cần hòa giải như trước khiến đàn ông càng lúc càng thất vọng về phụ nữ.</p>
-            
+
             <p>Những câu chuyện trong vòng gần 20 đầu thế kỷ 21 này đã cho chúng ta thấy một thế hệ những cô gái thực dụng. Nào là “So sánh trai Việt trai Tây”, nào là “Khóc sau xe ô tô hay cười sau xe đạp”, “Gái đẹp và đại gia”, “Tình phí”, “Đi ăn ai trả tiền?”, “Chán chồng, thích làm bà mẹ đơn thân”, “Thoải mái tình dục”…  đã khiến rất nhiều đàn ông cảm thấy thất vọng, chán nản với phụ nữ thời nay không còn biết những thứ đơn giản nhất như nữ công gia chánh, chỉ còn biết tiền để mong cuộc sống của mình là hoàng hậu trong lâu đài đẹp đẽ hoặc một cuộc sống không phụ thuộc vào đàn ông vì lý do đàn ông lấy về sẽ ngoại tình, bồ bịch.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-6.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
-            
+
             <p>Bà mẹ đơn thân là cách sống của nhiều phụ nữ thời nay</p></center>
-            
+
             <p>Và giờ đây, khi các nhân vật nữ trong Anime, Game, Manga Nhật Bản đang dần thay thế các cô gái ngoài đời thực với đầy đủ ngoại hình và tính cách của một người vợ hoàn hảo, những người đàn ông đã tuyên bố phụ nữ đời thực chả là gì so với gái ảo. Dù những lý lẽ của các cô gái thực đưa ra là “Nó có sinh con được không?”, “Xài một thời gian là chán” thì cũng không thể giúp cải thiện hình ảnh các cô gái đã bị xấu xí suốt một thế hệ được.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-7.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
-            
+
             <p>Những lý do con gái đưa ra cũng không cải thiện được hình ảnh đã bị xấu xí.</p>
-            
+
             <img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-8.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
-            
+
             <p>Cách đàn ông vùng lên</p></center>
-            
+
             <p><b>Thảm họa dân số</b></p>
-            
+
             <p>Một nghiên cứu mới công bố của Quốc hội Hàn Quốc cho thấy người nước này sẽ “tuyệt chủng” trong năm 2750 vì tỷ lệ sinh liên tục sụt giảm. Trung Quốc đang phải chịu hậu quả từ chính sách một con. Nhật Bản nổi tiếng với những con NEET, những thanh niên chán sex. Nghiên cứu của Viện Quốc gia về Dân số và An sinh xã hội Nhật Bản cho thấy: “Gần như 70% đàn ông và 60% phụ nữ chưa lập gia đình, họ cũng không ở trong bất kỳ mối quan hệ nào”.</p>
-            
+
             <p>Làm việc quá nhiều là nguyên nhân chính cho tình trạng này. Với giờ làm thuộc hàng cao nhất thế giới, Nhật Bản là nước có số người chết vì làm việc quá sức cũng thuộc hàng cao nhất thế giới. Tự tử, đột quỵ vì làm việc đã trở thành điều bình thường khi cạnh tranh công việc mỗi lúc một gay gắt. Người Nhật gọi là hiện tượng Karoshi, chết vì làm việc quá sức.</p>
-            
+
             <center><img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-9.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" /></center>
-            
+
             <p>Vì vậy, Gatebox thực sự là điểm báo cho một mối hiểm họa về dân số và sinh sản trong tương lai. Các nước phát triển sẽ chịu ảnh hưởng đầu tiên. Và ngăn chặn điều này là không thể khi công nghệ ngày một phát triển và đang ảnh hưởng trực tiếp đến lối sống của nhiều người. Từ thế hệ những người ngồi lỳ quán net cho đến thế hệ cúi đầu nhìn điện thoại. Công nghệ đang đe dọa đến dân số của cả thế giới. </p>',
 
             'dateDetailPost'     => '2016-12-27',
@@ -5688,48 +6059,48 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '<p>Nếu ai thuộc thế hệ 9x, chắc hẳn sẽ biết đến Yahoo!, ông vua một thời đã tự giết mình bằng những chính sách sai lầm. Và giờ Youtube, hay chính xác hơn là Google, đang có những mầm mống của sự sai lầm. Các Youtube Partner, những nguồn sống không thể thiếu của Youtube đang kêu gào lên vì chính sách “giết nhầm còn hơn bỏ sót”, quét bỏ nhiều kênh Youtube hay bỏ Google Adsense của họ.</p>
 
             <p>Trong nhiều tháng cuối năm 2016, cộng đồng những người làm Youtube lớn nhỏ liên tục kêu ca vì lượng view của họ sụt giảm đáng kể mà không rõ nguyên nhân. Nhiều kênh Youtube rất nổi tiếng như Pewdiepie, Trung Quốc Không Kiểm Duyệt... với hàng triệu subscribe, nội dung hay, nhưng view vẫn giảm một cách khó hiểu.</p>
-            
+
             <p>Những người làm Youtube đã có những phản ứng gay gắt với các quyết định của Youtube. Nhẹ thì bị mất Google Adsense. Nặng thì bị xóa video. Thậm chí một số kênh còn bị khóa tài khoản. Có người may mắn khiếu nại, đòi lại được kênh. Có người thì không.</p>
-            
+
             <center><img src="../local/public/upload/images/thietkeweb/Youtube_dang_tu_giet_minh_giong_Yahoo_1.jpg" width="70%" alt="Youtube đang tự giết mình giống Yahoo" />
-            
+
             <img src="../local/public/upload/images/thietkeweb/Youtube_dang_tu_giet_minh_giong_Yahoo_2.jpg" width="70%" alt="Youtube đang tự giết mình giống Yahoo" />
             </center>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/vCkgypL6Vwc" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trung Quốc Không Kiểm Duyệt lên tiếng về việc bị xóa video.</p>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/__oj0MiMEeo" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Pewdiepie tuyên bố xóa kênh Youtube
             khi đạt 50 triệu Subcribe gây xôn xao thế giới.</p>
-            
+
             </center>
-            
+
             <p>Chuyện này có thể có liên quan đến việc Mỹ bắt đầu lập ra luật kiểm soát tuyên truyền từ nước ngoài. Sau khi Donald Trump được bầu làm tổng thống Mỹ, Nhà Trắng đã thành lập cơ quan kiểm soát những nội dung tuyên truyền từ nước ngoài.</p>
-            
+
             <p>Nội dung chi tiết trong <a href="https://www.congress.gov/bill/114th-congress/senate-bill/2943/text ">trang web của Nhà Trắng.</a></p>
-            
+
             <p><b>SEC. 1287. GLOBAL ENGAGEMENT CENTER.</b></p>
-            
+
             <p>(2) PURPOSE.—The purpose of the Center shall be to lead, synchronize, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining United States national security interests.</p>
-            
+
             <p>Tạm dịch: Mục đích của trung tâm sẽ là phối hợp với chính phủ liên bang nhằm mục đích nhận biết, hiểu, phơi bày và chống lại những tuyên truyền và thông tin sai lệch từ nước ngoài nhằm phá hoại an ninh quốc gia Hoa Kỳ.</p>
-            
+
             <center><img src="../local/public/upload/images/thietkeweb/Youtube_dang_tu_giet_minh_giong_Yahoo_3.jpg" width="70%" alt="Youtube đang tự giết mình giống Yahoo" />
             </center>
-            
+
             <p>Khi Mỹ đã ra luật như vậy thì Facebook, Youtube và các mạng xã hội khác sẽ hoạt động như thế nào? Chắc chắn họ sẽ thay đổi thuật toán, kiểm duyệt, truy quét các tài khoản, video, kênh Youtube tuyên truyền chính trị bất lợi cho Mỹ. Cuộc truy quét này giống như một cơn bão càn qua mọi thứ, khiến các kênh Youtube không liên quan đến chính trị như Pewdiepie cũng chịu chung số phận vì thuật toán bị thay đổi.</p>
-            
+
             <p>Thống kê mới đây của SocialBlade cũng cho thấy tình trạng view sụt giảm mạnh là có thật. Theo báo cáo này, lượng view và subscribe trung bình mỗi ngày trên YouTube đã giảm 5-7% kể từ nửa đầu năm 2016. Nghiêm trọng hơn là trong khoảng tháng 7 đến tháng 9, tỷ lệ sụt giảm là 10%.</p>
-            
+
             <center><img src="../local/public/upload/images/thietkeweb/Youtube_dang_tu_giet_minh_giong_Yahoo_4.jpg" width="70%" alt="Youtube đang tự giết mình giống Yahoo" /></center>
-            
+
             <p>Tuy nhiên, đại diện Youtube đã phản bác lại thông tin trên và cho rằng các số liệu thống kê của bên thứ 3 là không thể chính xác. SocialBlade cũng ngay lập tức đáp trả, khẳng định rằng các dữ liệu này không phải họ tự tạo ra mà là lấy từ chính YouTube.</p>
-            
+
             <center><img src="../local/public/upload/images/website/Youtube_dang_tu_giet_minh_giong_Yahoo_5.jpg" width="70%" alt="Youtube đang tự giết mình giống Yahoo" /></center>
-            
+
             <p>Youtube đang muốn đưa mọi thứ vào tầm kiểm soát nhưng lại gây ra sự phẫn nộ cho cộng đồng sáng tạo video. Nếu không cẩn thận, những quyết sách sai lầm sẽ khiến đế chế video này sụp đổ như ông vua Yahoo! một thời. Nhất là khi Facebook đang cố gắng cạnh tranh sang thị trường video, stream trực tuyến.</p>',
 
             'dateDetailPost'     => '2016-12-28',
@@ -5761,7 +6132,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-        
+
         $post->create([
             'nameDetailPost'     => 'Hiệp Sĩ Lưu Ban và câu chuyện về văn hóa phẩm 18+',
             'urlDetailPost'      => 'Hiep-Si-Luu-Ban-va-cau-chuyen-ve-van-hoa-pham-18',
@@ -5769,55 +6140,55 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '<p>Hiện nay, dư luận đang bàn tán xôn xao về quyển Light Novel 18+ đầu tiên sắp được ra mắt là Rakudai Kishi no Eiyuutan, tên tiếng Việt là Hiệp Sĩ Lưu Ban. Tác giả Riku Misora, minh họa Won. Light Novel hiện đang có 10 volume và 1 volume Zero. 3/10/2015, phiên bản Anime đã được ra mắt với tên Rakudai Kishi no Cavalry, nhận được nhiều đánh giá cao từ khán giả.</p>
 
             <center><img src="../local/public/upload/images/anime/Rakudai-Kishi-No-Cavalry-Japanese-Vietnam.jpg" width="70%"/>
-            
+
             <p>Rakudai Kishi no Eiyuutan phiên bản tiếng Nhật và tiếng Việt</p></center>
-            
+
             <p>Hiện nay, Light Novel đang ngày càng được xuất bản nhiều với ấn phẩm của <a href="http://ipm.vn/trang-chu.html ">nhà phát hành IPM</a>. Tuy nhiên, những Light Novel đang được IPM phát hành đều là những Light Novel đã có từ rất lâu như Sword Art Online, Baka to Test to Shoukanjuu (tên tiếng Việt là Lũ Ngốc, Bài Kiểm Tra Và Linh Thú Triệu Hồi), Another… Những Light Novel đó đã có từ lâu, có Anime đầy đủ 2 season nổi tiếng một thời. Trong khi Hiệp Sĩ Lưu Ban chỉ mới có Anime vào 3/10/2015. Vì vậy, Hiệp Sĩ Lưu Ban có thể xem là Light Novel thuộc loại mới nhất hiện tại.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/SAO-Vol4-Banner.jpg" width="70%"/>
-            
+
             <img src="../local/public/upload/images/anime/Rakudai-Kishi-No-Cavalry-3.jpg" width="70%" /></center>
-            
+
             <p>Tuy nhiên, một số thành phần phải dùng từ là “dị ứng với Anime Nhật” lên tiếng phản đối Hiệp Sĩ Lưu Ban dù nó đã được gắn mác 18+ rõ ràng. Họ cho rằng Hiệp Sĩ Lưu Ban sẽ là tiền đề để các văn hóa phẩm đồi trụy xâm nhập Việt Nam. Mặc dù nếu so sánh cả nội dung truyện  lẫn nội dung trên Anime đều thua xa Game of Thrones (Trò Chơi Vương Quyền) hay 50 Sắc Thái. Mức độ nhạy cảm của Hiệp Sĩ Lưu Ban chính xác hơn phải là 16+.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/50-sac-thai.jpg" width="70%"/>
-            
+
             <p>50 Sắc Thái đã có hình ảnh nhạy cảm ngay từ ngoài bìa.</p></center>
-            
+
             <img src="../local/public/upload/images/anime/Rakudai-Kishi-No-Cavalry-Vol-1-color.jpg" width="70%" />
-            
+
             <img src="../local/public/upload/images/anime/Rakudai-Kishi-No-Cavalry-Vol-1-1.jpg" width="50%" />
-            
+
             <p>Những hình ảnh nhạy cảm trong Hiệp Sĩ Lưu Ban tập 1</p>
-            
+
             <img src="../local/public/upload/images/anime/Rakudai-Kishi-No-Cavalry-2.jpg" width="70%" />
 
             <p>Hình ảnh nhạy cảm trên phiên bản Anime.</p></center>
-            
+
             <p>Thực ra, người ta lo sợ Hiệp Sĩ Lưu Ban nói riêng và sách 18+ nói chung dễ ảnh hưởng đến giới trẻ vì Việt Nam không có những nơi chỉ bán sách 18+. Sách 18+ vẫn được bán chung với sách thường trong các nhà sách, hiệu sách từ lớn đến nhỏ. Tuy nhiên, những mối lo này chẳng đáng lo mấy vì những quyển sách này toàn là truyện chữ, tiểu thuyết. Và với văn hóa đọc đang xuống thấp như hiện nay, việc ra ngoài nhà sách mua một quyển sách toàn chữ dày cộp là việc không phải thanh thiếu niên nào cũng làm được. Nên nhớ đây không phải là Manga, truyện tranh nên mức độ đồi trụy, nhạy cảm đã giảm đi rất nhiều so với cách đây 10 năm tràn lan truyện tranh Ecchi.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Inuyasha-Manga.jpg" width="70%" />
-            
+
             <p>Manga Inuyasha cũng có những cảnh ecchi.</p></center>
-            
+
             <p>Nếu so sánh với những thứ ảnh hưởng đến văn hóa, lối sống của giới trẻ như game online ngày trước, thiết bị di động hiện giờ thì tiểu thuyết 18+ chẳng đáng sợ bằng. Như cách đây gần 10 năm, thời Võ Lâm Truyền Kỳ, MU Việt Nam, Thiên Long Bát Bộ là số một trong các tiệm net. Các bậc phụ huynh kêu gào đòi nhà nước cấm game online, đóng cửa tiệm net. Khi hỏi tại sao phụ huynh không quản lý con em thì họ thanh minh rằng con họ trốn nhà chơi net hay họ không có thời gian. Và giờ thì sao? Chẳng còn ai kêu gào nữa khi mà thời game online cày level đã qua, các nhà phát hành Việt Nam rơi rụng, đóng cửa mảng game.</p>
-            
+
             <p>Hay như hiện tại, Smartphone, Ipad đang tạo ra cả một “Thế Hệ Cúi Đầu”, từ già đến trẻ, ai cũng cắm mặt vào điện thoại. Rồi đến game trên điện thoại, Facebook, Zalo, rồi Pokemon GO. Cả thế giới không còn cách nào khác ngoài việc tuyên truyền sống chung với nó. Chẳng lẽ cấm luôn cả thế giới không xài điện thoại nữa?</p>
-            
+
             <center><img src="../local/public/upload/images/anime/The-He-Cui-Dau-2.jpg" width="70%" />
-            
+
             <p>Bạn có thích thế hệ ngồi quán net một thời?</p>
-            
+
             <img src="../local/public/upload/images/anime/The-He-Cui-Dau.jpg" width="70%" />
-            
+
             <p>Bạn thích thế hệ cúi đầu hiện tại?</p>
-            
+
             <img src="../local/public/upload/images/anime/IS-volume1-cover.jpg" width="50%" />
-            
+
             <p>Hay bạn muốn thanh thiếu niên rời bỏ điện thoại để đọc sách?</p></center>
-            
+
             <p>Vậy thì Light Novel 18+ cũng thế thôi. Tiềm năng phát triển Light Novel ở Việt Nam rất lớn. Văn hóa đọc tại Việt Nam giờ đang xuống thấp. Nếu không có cách để thu hút, phát triển thì “Thế Hệ Cúi Đầu” vẫn sẽ tiếp tục được sinh ra. Phải thay thế “Thế Hệ Cúi Đầu” bằng thế hệ đọc sách, đọc Light Novel thì như thế mới bớt đi những cảnh thanh thiếu niên cắm mặt vào điện thoại khắp mọi nơi được. Và hãy yên tâm là nếu so sánh giữa quản lý sách với quản lý những thứ trên Internet thì chắc chắn quản lý sách dễ hơn nhiều.</p>
-            
+
             <p>Cuối cùng, ai cũng biết sách báo, văn hóa đọc hiện giờ đang bị thiết bị công nghệ, Internet bỏ xa. Công nghệ phát triển từng ngày, còn sách báo thì dậm chân tại chỗ với những quy tắc lạc hậu. Nếu muốn sách báo phát triển, phải phá bỏ các quy tắc đó.</p>',
 
             'dateDetailPost'     => '2017-01-11',
@@ -5831,7 +6202,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
         $post->create([
             'nameDetailPost'     => 'Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam',
             'urlDetailPost'      => 'Kimi-no-nawa-Bom-tan-Anime-Nhat-tai-Viet-Nam',
@@ -5839,76 +6210,76 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => '<p>Thể loại: tình cảm, lãng mạn, hài hước, siêu nhiên, học đường.</p>
 
             <p>Kimi no Na wa? (君の名は。?) Tên tiếng Anh là Your Name, là một bộ phim hoạt hình Nhật Bản thuộc thể loại khoa học giả tưởng, siêu nhiên được đạo diễn bởi Shinkai Makoto. Phim do hãng CoMix Wave Films sản xuất và Touhou phát hành. <a href="http://www.kiminona.com/index.html">Trang chủ Kimi no nawa.</a></p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/hRfHcp2GjVI" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Tralier Your Name</p></center>
-            
+
             <p>Bộ phim nói về một cô gái tên Mitsuha mong ước một cuộc sống sôi động và thú vị hơn tại Tokyo. Rồi một ngày, cô nhân ra mình đã hoán đổi thân xác với một thiếu niên tên Taku bằng tuổi mình. Hai người cứ trò chuyện với nhau qua những dòng thư, tin nhắn viết trên vở, điện thoại, cơ thể mình. Cho đến khi họ không còn hoán đổi thân xác với nhau nữa, Taku quyết định đi tìm Mitsuha và phát hiện ra thị trấn của cô đã bị sao băng phá hủy 3 năm trước. Taku tìm cách trở về xác của Mitsuha với hy vọng cứu được cô và người dân trong thị trấn trước khi trí nhớ của cậu dần dần biến mất.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-1.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" />
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-2.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
-            
+
             <p>Được gọi là bom tấn vì đạo diễn Makoto Shinkai không thể tin tác phẩm của ông lại có thể đạt những con số doanh thu kỷ lục trên khắp thế giới. Tại Hàn Quốc, Your Name thu hút gần 1,2 triệu khán giả xứ kim chi trong tuần đầu công chiếu. Tại Việt Nam, cơn sốt Kimi no nawa khiến các trang mạng, Facebook sôi sục bàn tán còn những phim đang chiếu hiện tại gần như chẳng ai biết. Tại Nhật Bản, kể từ ngày công chiếu vào tháng 8/2016, bộ phim đã thu về hơn 19.7 tỉ yên (tương đương 174 triệu đô la Mỹ), trở thành phim ăn khách nhất Nhật Bản năm 2016.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-3.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
-            
+
             <p>Thậm chí, nhiều người còn hy vọng Kimi no nawa sẽ trở thành hiện tượng tại giải Oscar, nơi mà hạng mục "Phim hoạt hình xuất sắc nhất" (Best Animated Feature) trong suốt 15 năm qua luôn là nơi thống trị của các phim hoạt hình Hollywood. Lý do có lẽ là vì khi nhắc đến phim hoạt hình, nhiều người luôn nghĩ trẻ em là đối tượng <b>duy nhất</b> được phép xem loại phim này. Nghĩa là phim hoạt hình nào dành cho người lớn thì phim đó ít được quan tâm hơn. </p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-4.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
-            
+
             <p><b>Điều gì dẫn đến thành công của Kimi no nawa?</b></p>
-            
+
             <p>Đầu tiên có lẽ là bộ phim đã thể hiện quá xuất sắc cả về hình ảnh, âm nhạc, nội dung và cái kết. Những phong cảnh đối lập nhau của nông thôn và thành thị, độ sắc nét của Tokyo dưới trời tuyết, khung cảnh huyền ảo của bầu trời đêm sao băng. Từ bài hát Yumetourou mở đầu cho đến những bản nhạc nền đàn piano thật tuyệt vời. Nội dung phim tình cảm, kịch tính, lãng mạn, hài hước và chút ecchi khiến bộ phim như một món ăn tinh thần đủ mọi hương vị.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-5.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" />
-            
+
             <img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-6.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8vNDkF8HWoI" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Quảng cáo nước Suntory</p></center>
-            
+
             <p>Điều đặc biệt là Anime ở Việt Nam nói chung vẫn còn đang rất non trẻ và mới lạ với nhiều người. Ngoài cộng đồng fan hâm mộ Anime/Manga ra thì hầu như mọi người đều gọi với cái tên chung là phim hoạt hình/truyện tranh phong cách Nhật. Chính vì vậy, ngoài những series hoàn toàn thuần túy dành cho trẻ con như Doraemon thì những tựa phim +13 gần như không có cơ hội chen chân vào rạp Việt Nam. Fan Anime/Manga phải trải qua rất nhiều tiếc nuối khi những tựa phim cực kỳ hấp dẫn như Date a live Mayuri Judgement, Accel World Infinite Burst hay Girl und Panzer không được chiếu tại Việt Nam dù rất nhiều nước trong Đông Nam Á như Thái Lan, Philippines, Indonesia, Singapore thì được chiếu.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/tA5auypuWVE" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Accel World Infinite Burst</p>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/dbIywGqvPv8" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Girl und Panzer</p></center>
-            
+
             <p>Tốc độ tăng doanh thu phòng vé của Kimi no nawa kinh khủng đến mức Frozen ( bộ phim từng 2 lần giành được giải Oscar cho hạng mục phim hoạt hình hay nhất ) phải mất đến  37 ngày để đạt đến con số 10 tỷ còn Kimi no nawa chỉ cần 28 ngày. Với thành tích đáng nể này,  Your Name đã vươn lên thứ 7 trong top 10 bộ phim vĩ đại có doanh thu cao nhất Nhật Bản.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-7.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
-            
+
             <p><strong>Top 10 Phim có doanh thu cao nhất Nhật Bản</strong></p>
             <ul>
             <li>1. “Spirited Away” (2001/30.1 tỷ yen)
-            
+
             <li>2. “Howl’s Moving Castle” (2004/19.6 tỷ yen)
-            
+
             <li>3. “Princess Mononoke” (1997/19.3 tỷ yen)
-            
+
             <li>4. “Bayside Shakedown 2” (2003/17.35 tỷ yen)
-            
+
             <li>5. “Ponyo” (2008/15.5 tỷ yen)
-            
+
             <li>6. “The Wind Rises” (2013/12.02 tỷ yen)
-            
+
             <li>7. “your name.” (2016/11.1 tỷ yen)
-            
+
             <li>8. “Antarctica” (1983/11 tỷ yen)
-            
+
             <li>9. “Bayside Shakedown 2” (1998/10.1 tỷ yen )
-            
+
             <li>10. “The Adventures of Chatran” (1986/9.8 tỷ yen)
             </ul>
-            
+
             <p>Và điều khiến các fan Anime/Manga Việt Nam hào hứng nhất đó là Kimi no nawa xuất hiện đúng vào sự kiện cuốn Light Novel 18+ Hiệp Sĩ Lưu Ban đang gây tranh cãi và <a href="http://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/viet-nam-cho-phep-chieu-rap-phim-18-tu-2017-3521443.html">Luật Điện Ảnh</a> mới được thực hiện vào 1/1/2017 quy định độ tuổi được Bộ Văn hóa, Thể thao và Du lịch thông qua. Dù không phải tin vui nhưng 3 sự kiện xảy ra liên tiếp này cũng đã khiến các fan Anime/Manga thật sự vui mừng vì đây sẽ là khởi đầu cho những bộ phim Anime kế tiếp được chiếu tại rạp Việt Nam. Fan Anime/Manga sẽ không còn nuối tiếc vì không được xem bản chiếu rạp của series mình yêu thích như Date a live Mayuri Judgement hay Accel World Infinite Burst nữa.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-8.jpg" width="70%" /></center>',
 
             'dateDetailPost'     => '2017-01-11',
@@ -5928,17 +6299,17 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'urlDetailPost'      => 'Phong-van-Shimazaki-Nobunaga-ve-anime-Your-Name',
             'presentDetailPost'  => '',
             'contentDetailPost'  => '<p>Shimazaki Nobunaga, diễn viên lồng tiếng cho nhân vật phụ Tsukasa Fujii, một trong hai người bạn của Taki trong bom tấn anime Your Name. Anh cũng chính là diễn viên lồng tiếng cho vai nam chính Itsuka Shidou trong series Date a live nổi tiếng, series đã có phim chiếu rạp Date a live Mayuri Judgement. </p>
-            
+
             <center>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/hRfHcp2GjVI" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Tralier Your Name</p>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/RTShaDDj6Mg" frameborder="0" allowfullscreen></iframe>
-            
+
             <p>Trailer Date a live Mayuri Judgement</p>
             </center>
-            
+
             <p></p>
             ',
 
@@ -5995,20 +6366,20 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'urlDetailPost'      => 'no-luc-thoat-khoi-loi-mon-vai-chinh-dien-yeu-hon-phan-dien',
             'presentDetailPost'  => 'Anh hùng vất vả chống kẻ xấu và kết liễu bằng bí kỹ, sự đoàn kết, niếm tin. Một mô-típ quá quen thuộc.',
             'contentDetailPost'  => '<p>Khi nhắc đến những trận chiến chính diện và phản diện, ai cũng sẽ nghĩ đến những trận chiến dưới kèo hoặc ngang kèo của vai chính diện khi đối đầu với những tên trùm. Cảnh chính diện ra đòn nhưng trùm vẫn trơ trơ, cảnh con trùm cực mạnh đè bẹp chính diện, cảnh anh hùng tung chiêu bí thuật kết liễu trùm cuối rồi thở dốc vì kiệt sức. Những hình ảnh quá quen thuộc trong mọi bộ phim, truyện tranh cả tây lẫn ta, cả Âu lẫn Á.</p>
-            
+
             <center><img src="../local/public/upload/images/anime/goku-full-ultra-instinct-vs-jiren.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" /></center>
             <br><br>
             <center><img src="../local/public/upload/images/anime/superman-vs-doomsday.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" />
             <p>Anh hùng thất thế trước kẻ xấu là hình ảnh quá quen thuộc.</p></center>
-            
+
             <p>Vậy nên nhiều tác giả đã muốn phá bỏ khuôn khổ, không đi theo lối mòn cũ. Nhất là sau thành công của One Punch Man và sự nổi lên của thể loại Isekai, các tác giả đã hòa trộn hai yếu này làm một. Isekai wa smartphone to tomo ni là cái tên nổi bật. Isekai Maou to Shoukan Shoujo no Dorei Majutsu cũng khá triển vọng với anime sắp ra mắt.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NlhUse6IMEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
             <p>PV của Isekai Maou to Shoukan Shoujo no Dorei Majutsu</p></center>
-            
-            
-            
+
+
+
             ',
 
             'dateDetailPost'     => '2018-07-05',
@@ -6025,10 +6396,10 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
 
 
 
-		
-		
+
+
         // ----------------------- Bài cần viết -----------------------
-        
+
 		$post->create([
             'nameDetailPost'     => 'Những thành công của GAM trong năm 2017 có ý nghĩa thế nào?',
             'urlDetailPost'      => 'nhung-thanh-cong-cua-GAM-trong-nam-2017-co-y-nghia-the-nao',
@@ -6046,7 +6417,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Real Account - Mạng xã hội chết chóc',
             'urlDetailPost'      => 'real-account-mang-xa-hoi-chet-choc',
@@ -6121,7 +6492,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Liên Minh Huyền Thoại Việt Nam tiếp bước Đài Loan tách khỏi GPL, trở thành khu vực riêng',
             'urlDetailPost'      => 'Viet-Nam-tiep-buoc-Dai-Loan-tach-khoi-GPL-tro-thanh-mot-khu-vuc-rieng',
@@ -6203,9 +6574,9 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'urlDetailPost'      => 'nhung-diem-yeu-cua-evos-tai-msi-2018',
             'presentDetailPost'  => 'MSI 2018 đã kết thúc với EVOS khi họ chỉ có 2 trận thắng. Hãy cùng phân tích điểm yếu của EVOS.',
             'contentDetailPost'  => '
-            
-            
-            
+
+
+
             ',
 
             'dateDetailPost'     => '2018-05-17',
@@ -6237,7 +6608,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => "CoMix Wave tung ra PV mới của anime Shikioriori",
             'urlDetailPost'      => 'comix-wave-tung-ra-PV-moi-cua-anime-shikioriori',
@@ -6260,7 +6631,7 @@ Website : https://shikioriori.jp/',
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Pumpkin Night - Bí ngô sát thủ',
             'urlDetailPost'      => 'pumpkin-night-bi-ngo-sat-thu',
@@ -6280,7 +6651,6 @@ Website : https://shikioriori.jp/',
         ]);
 
 		$post->create([
-            'nameDetailPost'     => 'Đụng chạm lịch sử - Nidome Jinsei bị hủy hoàn toàn',
             'nameDetailPost'     => 'Đụng chạm lịch sử - Nidome Jinsei bị hủy hoàn toàn',
             'urlDetailPost'      => 'dung-cham-lich-su-nidome-jinsei-bi-huy-hoan-toan',
             'presentDetailPost'  => 'Young again in another world sắp ra mắt Anime đã bị hủy bỏ hoàn toàn do đụng chạm đến Trung Quốc',
@@ -6328,7 +6698,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'head_position'      => HEADER_TOP_LEFT,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Dự luật an ninh mạng Việt Nam chính thức được thông qua',
             'urlDetailPost'      => 'du-luat-an-ninh-mang-chinh-thuc-duoc-thong-qua',
@@ -6346,7 +6716,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Light Novel Date a live chính thức ra mắt tại Việt Nam',
             'urlDetailPost'      => 'light-novel-date-a-live-chinh-thuc-ra mat-tai-viet-nam',
@@ -6364,7 +6734,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-		
+
 		$post->create([
             'nameDetailPost'     => 'Dragon ball FighterZ dời lịch ra mắt trong năm nay',
             'urlDetailPost'      => 'dragon-ball-fighterz-doi-lich-ra-mat-trong-nam-nay',
@@ -6408,7 +6778,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'contentDetailPost'  => '<p>Trang chủ <a href="http://movie.trinity-7.com/">Trinity Seven</a> vào ngày 7/3/2018 vừa thông báo sẽ có The Movie thứ 2, kèm theo hình ecchi của Lilith</p>
 
             <p>Moive đầu tiên của Trinity Seven là The Eternal Library And The Alchemist Girl</p>
-            
+
             ',
             'dateDetailPost'     => '2018-03-07',
             'imgDetailPost'      => 'trinity-seven-se-co-the-movie-thu-2-thumbnail.jpg',
@@ -6427,37 +6797,37 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'urlDetailPost'      => 'Archie-lieu-da-gia',
             'presentDetailPost'  => '',
             'contentDetailPost'  => '<p>Archie, 1 trong 5 người đầu tiên tham gia Chung Kết Thế Giới 2012 khi còn trong đội Saigon Joker. Hiện giờ anh là người duy nhất trong đội còn thi đấu. Những cái tên khác là QTV, Nixwater, Junie và Violet đều đã lui vào hậu trường, làm những công việc khác liên quan đến thể thao điện tử. Việc anh thi đấu khiến nhiều người thắc về độ tuổi của anh có còn phù hợp với việc thi đấu hay không. Hãy cùng xem lại các thông số, thông tin cũng như những pha xử lý của Archie trong những năm qua.</p>
-            
+
             <h3>Độ tuổi của một số tuyển thủ thế giới</h3>
-            
+
             <p>Archie sinh ngày 26/07/1992. Vậy hãy điểm qua một số tuyển thủ thế giới sinh năm 1993 trở về trước.</p>
-            
+
             <center><img src="../local/public/upload/images/game/lieu-archie-da-gia-tuoi-cua-cac-tuyen-thu.jpg" width="70%" alt="Archie liệu đã già"/></center>
-            
+
             <p>Chúng ta có thể thấy đội tuyển Gambit Esports của Nga có các tuyển thủ sinh năm 1992, 1993. Và họ vừa thắng Việt Nam tại giải Rift Rivals 2018. Khu vực LCL của Nga đã thua khu vực TCL của Thổ Nhĩ Kỳ và TCL vô địch Rift Rivals 2018.</p>
-            
+
             <p>Xạ thủ Doublelift là cái tên được nhắc đến rất nhiều trong năm 2017 khi đánh chung với Bjergsen trong team Solomid tại Chung Kết Thế Giới 2017 (CKTG 2017). Hiện anh đã qua Team Liquid với Xmithie và cả 2 là những người lớn tuổi nhất nhì trong đội. Thành tích gần đây của Team Liquid là 4 trận thắng ở MSI 2018 và chỉ thua Tie-break với Fnatic. Trong khi đội tuyển EVOS của Việt Nam chỉ có 2 trận thắng.</p>
-            
+
             <p>Rõ ràng độ tuổi không phải vấn đề. Một đội cần có những người trẻ tuổi với kỹ năng tốt và những đàn anh dày dạn kinh nghiệm cũng như tâm lý. Trong Rift Rivals 2018, GAM và EVOS của Việt Nam toàn những người trẻ tuổi, thậm chí 3 người của GAM còn chưa hề có kinh nghiệm thi đấu quốc tế nên thua là điều khó tránh khỏi. </p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/WkywXhb7rp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
             <p>1:30 BLV Hoàng Luân nói đây là giải đấu quốc tế đầu tiên của Kiaya, Spot, Blazes</p></center>
-            
+
             <h3>Những pha xử lý của Archie</h3>
-            
+
             <p>Tất nhiên, chúng ta sẽ không nói những thời điểm quá xa. Hãy cùng xem lại những pha xử lý của Archie trong CKTG 2017 và một pha cướp Baron năm 2016.</p>
-            
+
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bVtlbuFSnU8?start=3098" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            
+
             <p>Pha cướp Baron năm 2016 của Archie</p>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/0ceEupJt4kY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            
+
             <iframe width="560" height="315" src="https://www.youtube.com/embed/wSfYAsqECOg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
             <p>Archie xuất hiện trong The Penta: CKTG 2017 Tuần 2</p></center>
-            
+
             https://www.facebook.com/lolesports/videos/793079427531583/',
 
             'dateDetailPost'     => '2018-08-07',
@@ -6515,5 +6885,5 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-    }    
+    }
 }
