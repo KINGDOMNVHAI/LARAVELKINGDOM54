@@ -577,7 +577,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 <p>Theo như nội dung trong manga, Hidan no Aria AA (còn gọi là Double A) không phải là phần 2 mà là ngoại truyện, nói về Akari Mamiya, đàn em ngưỡng mộ Aria và mong muốn được làm cộng sự của cô. Tuy nhiên, Akari lại kém cỏi mọi mặt nên cô bé phải rất vất vả để chứng tỏ bản thân.</p>
 
 <center><img src="../local/public/upload/images/anime/hidan-no-aria-AA-chap1.jpg" width="70%" alt="Hidan no Aria AA phần 2 được công bố" />
-
+<br><br>
 <img src="../local/public/upload/images/anime/hidan-no-aria-AA-Mamiya-Akari.jpg" width="70%" alt="Hidan no Aria AA phần 2 được công bố" /></center>
 
 <p>Trước đây, tác giả light novel Hidan no Aria là Akamatsu Chugaku đã có một lời cảnh báo trên trang twitter của ông: “Hidan no Aria có thể sẽ không có phần 2”. Lý do là DVD/BD sales càng thấp thì khả năng có phần 2 cho anime càng ít. Vì thế tác giả khuyến khích fan nên mua nhiều hơn nữa.</p>
@@ -735,8 +735,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/aVpeu13qWQo" frameborder="0" allowfullscreen></iframe></center><br>
 
-<center><img src="../local/public/upload/images/anime/Yugioh-the-movie-yugi-vs-kaiba.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" />
-</center>
+<center><img src="../local/public/upload/images/anime/Yugioh-the-movie-yugi-vs-kaiba.jpg" width="70%" alt="Yu-Gi-Oh!: The Dark Side of Dimensions tung trailer Kaiba đấu bài với Yugi" /></center>
 
 <p>Các nhân viên của bộ phim đã bắt đầu quảng cáo poster vào ngày 12/7/2015. Poster có nhân vật mới, và tiết lộ rằng bộ phim sẽ ra mắt trong Tuần Lễ Vàng Nhật Bản 2016. Dòng chữ trên poster ghi là "Một lần nữa cho lần chiến đấu này." ("Once more, to that fighting stage.")</p>
 
@@ -829,7 +828,7 @@ Nhưng về mặt hình ảnh, bộ phim vẫn chưa thể hiện tốt cảnh c
 <p>Sau khi hoàn thành, bạn lưu file đó với đuôi là .srt là xong.</p>
 
 <center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-2.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" />
-<br><br>
+
 <p>Khi tạo phụ đề bằng notepad,<br>
 bạn không cần ghi đúng số thứ tự của các dòng thời gian.</p></center>
 
@@ -844,11 +843,11 @@ bạn không cần ghi đúng số thứ tự của các dòng thời gian.</p><
 </ul>
 
 <center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-3.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" />
-<br><br>
+
 <p>Khi xem phim định dạng MP4, Windows Media Player không đọc được phụ đề.</p></center>
 
 <center><img src="../local/public/upload/images/thuthuat/tao-sub-bang-notepad-4.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề" />
-<br><br>
+
 <p>Khi xem phim trên định dạng AVI, Windows Media Player đọc được phụ đề<br>
 và tự động cập nhật phụ đề ngay khi bạn vừa save file notepad.<br>
 Media Player Classic thì không có chức năng đó.</p></center>
@@ -911,13 +910,13 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
 <center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-4.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
 <br><br>
 <img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-5.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
-<br><br>
+
 <p>Phim định dạng AVI, font chữ Arial, font color trắng, viền đen.</p></center>
 
 <center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-6.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
 <br><br>
 <img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-7.jpg" width="70%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
-<br><br>
+
 <p>Phim định dạng AVI, font chữ Arial, font color trắng, viền xanh.</p></center>
 
 <p><b>Điểm tiện lợi</b></p>
@@ -934,13 +933,13 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
 </ul>
 
 <center><img src="../local/public/upload/images/thuthuat/Format-Factory-hardsub-8.jpg" width="50%" alt="Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory" />
-<br><br>
+
 <p>Phim định dạng AVI, font chữ Arial, font color trắng, viền xanh.</p></center>
 
 <p>Nói chung, cách làm phụ đề bằng notepad và gắn vào video bằng Format Factory là những cách đơn giản nhất, thích hợp với những video không cần cầu kỳ hiệu ứng. Bất kỳ ai cũng có thể làm được mà không cần kỹ năng đồ họa như Adobe Premiere Pro hay các chương trình edit video chuyên nghiệp.</p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/u1HseD-SKqI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br><br>
+
 <p>Sản phẩm cuối cùng</p></center>
 ',
 
@@ -1010,35 +1009,31 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
             'contentDetailPost'  => '<p>Đối với đa phần game thủ Việt Nam, đặc biệt là những fans trung thành của MU Online, chắc chắn đã không còn xa lạ với tác giả Tô Đức Quỳnh, một game thủ kì cựu của MU Online, đồng thời cũng là tác giả cuốn sách “Huyền Thoại Lục Địa MU” được xuất bản vào tháng 9/2011 bởi Nhà Xuất Bản Kim Đồng. Cuốn sách đã trải qua 6 năm viết và 2 năm thẩm định để có được sự công nhận từ giới chuyên môn, trở thành một trong những tiểu thuyết giả tưởng hiếm hoi do người Việt sáng tác, và là tác phẩm văn học đầu tiên viết về Game Online tại Việt Nam.</p>
 
 <center><img src="../local/public/upload/images/game/To-Duc-Quynh-Huyen-Thoai-Luc-Dia-MU.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
-</center>
 
-<center><p>Tô Đức Quỳnh, tác giả Huyền Thoại Lục Địa MU</p></center>
+<p>Tô Đức Quỳnh, tác giả Huyền Thoại Lục Địa MU</p></center>
 
 <p>Thời điểm đó, game online Việt Nam chịu nhiều sức ép từ xã hội, giới truyển thông về những thông tin không tốt về game online và những game thủ. 2 game lão làng nhất thời đó là Võ Lâm Truyền Kỳ và MU Việt Nam vẫn trụ được suốt một thời gian dài. Nhưng sau những vụ việc NPH FPT để xảy ra nhiều lỗi, khiến những game thủ kỳ cựu, gắn bó với MU Việt Nam suốt 9 năm đã bỏ đi. Và cuối cùng, MU Online sẽ chính thức đóng cửa vào ngày 27/7/2014.
 </p>
 
 <p>Trong thời gian MU Việt Nam hoạt động, FPT đã có những cộng tác viên nhiệt tình như phóng viên NVHAI, thi sĩ Mystery@, BeMyMy... Tô Đức Quỳnh là một trong số đó. Anh đã viết ra phần 1 truyện Huyền Thoại Lục Địa MU. Truyện đã được phát hành và tặng miễn phí trong lần sinh nhật MU thứ 6. Và chỉ trong thời gian ngắn, quyển sách đã được bán hết.</p>
 
-<center><img src="../local/public/upload/images/game/Sinh-nhat-MU-Viet-Nam-lan-6.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" /></center>
+<center><img src="../local/public/upload/images/game/Sinh-nhat-MU-Viet-Nam-lan-6.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
 
-<center><p>Sinh nhật MU Việt Nam lần 6</p></center>
+<p>Sinh nhật MU Việt Nam lần 6</p></center>
 
 <p>Và sau nhiều khó khăn, phần 2 của quyển sách đã được anh ra mắt. Trên trang Facebook Huyền Thoại Lục Địa MU, anh thông báo quyển sách chính thức phát hành vào ngày 26/6/2015 với 3000 bản đầu tiên. </p>
 
 <center><img src="../local/public/upload/images/game/Huyen-Thoai-Luc-Dia-MU-phan1-phan2-4.jpg" width="70%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
-</center>
 
-<center><p>Huyền Thoại Lục Địa MU phần 1 và 2 của NVHAI mua</p></center>
+<p>Huyền Thoại Lục Địa MU phần 1 và 2 của NVHAI mua</p></center>
 
 <p>Giá quyển  sách là 96.000 đồng. Tuy nhiên, một số điểm bán sách có giá ưu đãi hơn. Ở tiệm sách 142 Trần Huy Liệu, P15, Quận Phú Nhuận, TP.Hồ Chí Minh, người viết mua chỉ với giá 72.000 đồng. Địa chỉ các nhà sách có bán tại <a href="https://www.facebook.com/huyenthoailucdiamu/posts/805552339539955:0">đây. </a></p>
 
 <p>Tác giả Tô Đức quỳnh đã chia sẻ: Phần 2 của Huyền thoại lục địa MU đã được biên tập lại theo đúng chuẩn phong cách của Walt Disney với giọng văn hoàn toàn mới của người Việt. Bởi vậy anh rất tự tin khi nói rằng: “Đây sẽ là một cuốn truyện Việt Nam mang đẳng cấp quốc tế”.</p>
 
 <center><img src="../local/public/upload/images/game/Merlin-P-Mann-va-Jan-Kjær.jpg" width="50%" alt="Tô Đức Quỳnh ra mắt Huyền Thoại Lục Địa MU phần 2" />
-</center>
 
-<center><p>Nhà biên kịch Merlin p.mann (áo đen) và họa sỹ Jan Kjær (áo xanh) là 2 người thầy đã góp phần nâng cao chất lượng viết của Huyền Thoại Lục Địa MU 2
-</p></center>
+<p>Nhà biên kịch Merlin p.mann (áo đen) và họa sỹ Jan Kjær (áo xanh) là 2 người thầy đã góp phần nâng cao chất lượng viết của Huyền Thoại Lục Địa MU 2</p></center>
 
 <p>Tác giả cũng chia sẻ về những khó khăn trong quá trình viết sách. </p>
 
@@ -1065,7 +1060,7 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
             'nameDetailPost'     => 'Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng',
             'urlDetailPost'      => 'Phantasmat-4-Dread-of-Oakville-Thi-tran-Oakville-kinh-hoang',
             'presentDetailPost'  => 'Bạn đang đi trên đường, đột nhiên gặp một cơn bão lớn. Bạn thấy có ánh sáng ở vách núi liền chạy xe vào đó. Vách núi đổ sập và bạn chỉ có thể tiến lên, bước vào một thị trấn ma ám.',
-            'contentDetailPost'  => '<p>Dòng game phiêu lưu, giải đố thường ít thu hút người chơi do sự đặc thù của nó. Những game phiêu lưu, giải đố thường khiến nhiều người chơi cảm thấy đau đầu khi giải đố, khiến nhiều người khá mất kiên nhẫn. Tuy nhiên, sự hấp dẫn của dòng game này cũng chính là những câu đố hóc búa đó. Khi người chơi phát hiện ra đường đi mới, lắp ghép được những món đồ mới hay giải được một câu đố hóc búa, cảm giác vui sướng thật khó tả.</p>
+            'contentDetailPost'  => '<p>Dòng game phiêu lưu, giải đố thường ít thu hút người chơi do sự đặc thù của nó. Những game phiêu lưu, giải đố khiến nhiều người chơi cảm thấy đau đầu khi giải đố, dẫn đến mất kiên nhẫn. Tuy nhiên, sự hấp dẫn của dòng game này cũng chính là những câu đố hóc búa đó. Khi người chơi phát hiện ra đường đi mới, lắp ghép được những món đồ mới hay giải được một câu đố hóc búa, cảm giác vui sướng thật khó tả.</p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0vEWIfx-RTw" frameborder="0" allowfullscreen></iframe></center>
 
@@ -1080,35 +1075,36 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
 <li><a href="http://eipix.com/">Trang chủ Eipix.</a>
 </ul>
 
-<p>Link download (chỉ cần download về và cài đặt miễn phí):</p>
+<p><b>Link download (chỉ cần download về và cài đặt miễn phí)</b></p>
 
-<p> <a href="http://www.downloadeverything.org/phantasmat-4-dread-of-oakville-free-download-2015/" target="_blank">downloadeverything.org </a><br>
-<a href="http://www.btsdl.cc/phantasmat-4-the-dread-of-oakville-ce-pc-tf4731960.html" target="_blank">Torrent</a><br>
-<a href="https://drive.google.com/file/d/0B2QqgPEJF0YZZHBua0VhNXVoeGs/view?usp=sharing" target="_blank">Google Drive KINGDOM NVHAI</a>
-</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZZHBua0VhNXVoeGs/view?usp=sharing" target="_blank">Google Drive KINGDOM NVHAI</a>
+</ul>
+
+<p><b>Hướng dẫn chơi từ đầu đến cuối trên <a href="https://www.bigfishgames.com/blog/walkthrough/phantasmat-the-dread-of-oakville-strategy-guide-hints-cheats-codes-tips-tricks/">bigfishgames</a></b></p>
 
 <center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" /></center>
 
-<p>Trích lời giới thiệu của hang Eipix về game:<br>
+<p>Trích lời giới thiệu của hãng Eipix về game:<br>
 
-“Khi lần đầu tiên bạn đến với thị trấn Oakville, bạn nghĩ rằng: "Nơi này có vẻ là một nơi đáng yêu để giết thời gian cho đến khi cơn bão trôi qua”. Ồ, nhưng bạn đã lầm. Bây giờ chỉ có một ý nghĩ trong tâm trí bạn – TRỐN THOÁT!
+“Khi lần đầu tiên bạn đến với thị trấn Oakville, bạn nghĩ rằng: "Nơi này có vẻ là một nơi đáng yêu để giết thời gian cho đến khi cơn bão trôi qua”. Ồ, nhưng bạn đã lầm. Bây giờ chỉ có một ý nghĩ trong tâm trí bạn – TRỐN THOÁT!<br>
 Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
 
 <p>Trò chơi theo dạng góc nhìn người thứ nhất và quan sát tranh tĩnh. Trước mắt bạn là một khung cảnh tĩnh và bạn sẽ phải mò mẫm từng góc cạnh của hình để không bỏ sót bất kỳ món đồ hay lối đi nào. Bạn sẽ phải nhặt tất cả những món đồ, giải các câu đố và tìm đường đi cho mình để tìm hiểu xem sức mạnh ma quỷ nào đã ám lên thị trấn nhỏ bé ven biển này. Và đương nhiên, mục tiêu cuối cùng là thoát ra khỏi đây.</p>
 
-<p>Khi vừa vào game, điều khiến tôi thích thú là về đồ họa của trò chơi. Dù dung lượng trò chơi rất nhẹ nhưng đồ họa không hề kém chút nào. Cảnh mưa, sấm sét, những hình ảnh rùng rợn khiến tôi thấy rất thích thú. Màu sắc khá tươi sáng, không mang vẻ âm u rùng rợn nhưng vẫn tạo nên bản sắc riêng, sự hồi hộp riêng.</p>
+<p>Khi vừa vào game, điều khiến người viết thích thú là về đồ họa của trò chơi. Dù dung lượng trò chơi rất nhẹ nhưng đồ họa không hề kém chút nào. Cảnh mưa, sấm sét, những hình ảnh rùng rợn khiến người viết cảm thấy rất thích thú. Màu sắc khá tươi sáng, không mang vẻ âm u rùng rợn nhưng vẫn tạo nên bản sắc riêng, sự hồi hộp riêng.</p>
 
 <center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville-3.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" />
-<br><br>
+
 <p>Anh chàng James này không biết mình đã bị mất tích.</p></center>
 
 <p>Trò chơi có cách bố cục khá tốt. Kho đồ, bản đồ và tất cả các nút điều khiển được gom lại ở phía dưới giúp người chơi dễ dàng xem và sử dụng chúng. Bản đồ giúp người chơi dễ xác định được phương hướng trong thị trấn.</p>
 
 <center><img src="../local/public/upload/images/game/Phantasmat-4-Dread-of-Oakville-2.jpg" width="70%" alt="Phantasmat 4 Dread of Oakville – Thị trấn Oakville kinh hoàng" /></center>
 
-<p>Tuy nhiên, điểm trừ cho trò chơi này là phần hướng dẫn. Nếu bạn chọn chế độ dễ thì trò chơi sẽ hiện ra toàn bộ hướng dẫn. Thậm chí, khi bạn giải đố, nút HINT sẽ giải luôn câu đố giúp bạn. Dù trò chơi khá nhẹ và khá dễ chơi nhưng việc để hướng dẫn như thế không hợp lý, nhất là đối với một game giải đố cần sự động não và kiên nhẫn.</p>
+<p>Tuy nhiên, điểm trừ cho trò chơi này là phần hướng dẫn. Nếu bạn chọn chế độ dễ thì trò chơi sẽ hiện ra toàn bộ hướng dẫn. Thậm chí, khi bạn giải đố, nút HINT sẽ giải luôn câu đố giúp bạn. Dù trò chơi khá nhẹ và khá dễ chơi nhưng việc để hướng dẫn như thế không hợp lý, nhất là đối với một game giải đố cần sự động não và kiên nhẫn. Thời lượng và độ khó của game cũng tương đối ngắn.</p>
 
-<p>Nói chung, Phatasmat 4 Dread of Oakville là một game mang tính chất giải trí nhưng vẫn có sức hấp dẫn riêng. Trò chơi cũng có những màn hù dọa khiến người chơi giật mình. Nếu bạn cần tìm một game giải trí nhẹ nhàng mà hấp dẫn thì Phatasmat 4 Dread of Oakville rất đáng để bạn thử.</p>',
+<p>Nói chung, Phatasmat 4 Dread of Oakville là một game mang tính chất giải trí nhưng vẫn có sức hấp dẫn riêng. Trò chơi cũng có những màn hù dọa khiến người chơi giật mình. Nếu bạn cần tìm một game giải trí nhẹ nhàng mà hấp dẫn thì Phatasmat 4 Dread of Oakville rất đáng để bạn trải nghiệm.</p>',
 
             'dateDetailPost'     => '2015-07-19',
             'imgDetailPost'      => 'Phantasmat-4-Dread-of-Oakville-thumbnail.jpg',
@@ -1126,10 +1122,11 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'nameDetailPost'     => '[Review] Heroes of Might and Magic V',
             'urlDetailPost'      => 'Heroes-of-Might-and-Magic-V',
             'presentDetailPost'  => 'Heroes of Might and Magic sau khi thuộc về Ubisoft, liệu hãng này có thể hồi sinh lại ánh hào quang của một trong số tựa game dàn trận có tuổi đời lão làng này không?',
-            'contentDetailPost'  => '<p>Sau thất bại của Heroes of Might and Magic IV, hãng 3DO tuyên bố phá sản. Heroes of Might and Magic tưởng chừng sẽ bị chôn vùi theo chủ. Nhưng sau này, hãng Ubisoft đã hồi sinh series game này với phần thứ 5 và thêm 2 phần mở rộng là Heroes of Might and Magic V Hammers of Fate và Heroes of Might and Magic V Tribes of the East. </p>
+            'contentDetailPost'  => '<p>Sau thất bại của Heroes of Might and Magic IV, hãng 3DO tuyên bố phá sản. Heroes of Might and Magic tưởng chừng sẽ bị chôn vùi theo chủ. Nhưng sau này, hãng Ubisoft đã hồi sinh series game này với phần thứ 5 và thêm 2 phần mở rộng là Heroes of Might and Magic V Hammers of Fate và Heroes of Might and Magic V Tribes of the East.</p>
 
-<center><img src="../local/public/upload/images/game/Heroes_of_might_and_magic_V_Wallpaper.jpg" width="70%" alt="Heroes of Might and Magic V" />
-</center>
+<center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V-Wallpaper.jpg" width="70%" alt="Heroes of Might and Magic V" /></center>
+
+<p><b>Cấu hình</b></p>
 
 <ul>
 <li>Tên game: Heroes of Might and Magic V.
@@ -1139,26 +1136,21 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
 <li>Cấu hình:  Pentium 4 / Athlon 1.5 GHz or higher, RAM 512 MB, card màn hình 28 MB AGP GeForce4 Ti4200 / RADEON 8500, Windows 2000/XP, Win7, Win8.
 </ul>
 
-<p>Link download:<br>
-File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
-<a href="https://drive.google.com/file/d/0B2QqgPEJF0YZeFhOX2gzYnRkVGc/view?usp=sharing">Google Drive KINGDOM NVHAI</a></p>
+<p><b>Link download</b></p>
 
-<p>File rar (download về rồi giải nén): <br>
-<a href="https://drive.google.com/folderview?id=0B2QqgPEJF0YZfjFPeldsbW9Kd0NRQkpuMnlBZmFyU3dzVV9sR2NuX3B5WUVrWGNRRnUyZHM&usp=sharing ">Google Drive KINGDOM NVHAI</a> <br>
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZeFhOX2gzYnRkVGc/view?usp=sharing" target="_blank">File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo)</a>
+<li><a href="https://drive.google.com/folderview?id=0B2QqgPEJF0YZfjFPeldsbW9Kd0NRQkpuMnlBZmFyU3dzVV9sR2NuX3B5WUVrWGNRRnUyZHM&usp=sharing" target="_blank">File rar Google Drive KINGDOM NVHAI (download về rồi giải nén)</a>
+<li><a href="http://congtruongit.com/forum/de-tai/reup-heroes-of-might-magic-v-full-pc-mediafire.35420/">Mediafire congtruongit.com</a> (làm theo hướng dẫn)
+</ul>
 
-<a href="https://www.mediafire.com/folder/x7wyb6aar41xn/heroes_of_might_and_magic_v">Mediafire KINGDOM NVHAI</a><br>
-
-<a href="http://congtruongit.com/forum/de-tai/reup-heroes-of-might-magic-v-full-pc-mediafire.35420/">Mediafire congtruongit.com</a> (làm theo hướng dẫn)</p>
-
-<center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V.jpg" width="70%" alt="Heroes of Might and Magic V" />
-</center>
+<center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V.jpg" width="70%" alt="Heroes of Might and Magic V" /></center>
 
 <p>Vẫn theo phong cách của dòng game Heroes of Might and Magic, người chơi sẽ chọn cho mình một tòa thành, tạo hero dẫn quân đi tấn công những con quái vật trên bản đồ, đánh chiếm các khu mỏ tài nguyên và kết thúc game khi chiếm được thành của đối thủ. Trong quá trình chiến đấu, hero của bạn sẽ được tăng kinh nghiệm và bạn có thể chọn nâng cấp kỹ năng cho hero.</p>
 
 <p>Ưu điểm dễ nhận thấy nhất là đồ họa. Tất nhiên là hãng Ubisoft đã nâng cấp đồ họa lên thành 3D, có thể xoay chuyển camera dễ dàng. Game bao gồm cả 5 kiểu chơi khác nhau (cả trực tuyến lẫn ngoại tuyến). Chơi một mình, hoặc cùng người khác qua mạng Lan, hoặc mạng trực tuyến internet…</p>
 
-<center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V-2.jpg" width="70%" alt="Heroes of Might and Magic V" />
-</center>
+<center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V-2.jpg" width="70%" alt="Heroes of Might and Magic V" /></center>
 
 <p>Heroes of Might & Magic V sẽ có 6 thành phố xuất hiện, đó là Loài người – Haven, loài quỷ – Inferno, Thầy phép – Necropolis, yêu tinh bóng đêm – Dungeon, Phù thủy – Academy, và yêu tinh – Sylvan. Yêu tinh bóng đêm chính là bổ xung mới của bản này. Đây là điểm trừ đầu tiên của phiên bản này. Nếu như trong phần 3, người chơi có đến 9 thành phố thì bây giờ chỉ còn 6.</p>
 
@@ -1169,10 +1161,8 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
 <center><img src="../local/public/upload/images/game/Heroes-of-might-and-magic-III.jpg" width="70%" />
 <p>Tòa thành Haven phần 3 nhìn toàn cảnh</p>
 
-
 <img src="../local/public/upload/images/game/Heroes-of-might-and-magic-V-3.jpg" width="70%" alt="Heroes of Might and Magic V" />
-<p>Tòa thành Haven phần 5 nhìn toàn cảnh</p>
-</center>
+<p>Tòa thành Haven phần 5 nhìn toàn cảnh</p></center>
 
 <p>Heroes of Might and Magic V nhìn chung vẫn đáp ứng được kỳ vọng của fan hâm mộ nhưng vẫn chưa vượt qua cái bóng lớn của chính mình trong các phiên bản trước. Hy vọng trong các phần tiếp theo, hãng Ubisoft sẽ làm tốt hơn. </p>',
 
@@ -1192,34 +1182,39 @@ File ISO (Sử dụng Daemon Tool Lite để đọc ổ đĩa ảo): <br>
             'nameDetailPost'     => '[Review] King’s Bounty The Legend',
             'urlDetailPost'      => 'King-Bounty-The-Legend',
             'presentDetailPost'  => 'Kết hợp giữa thể loại nhập vai và dàn trận theo lượt, King’s Bounty The Legend dù có phong cách giống với Heroes of Might and Magic nhưng vẫn tạo được sức hút riêng.',
-            'contentDetailPost'  => '<p>Tên game: King\'s Bounty The Legend<br>
-Thể loại: dàn trận theo lượt.<br>
-Sản xuất năm: 23/9/2008<br>
-Hãng sản xuất: Katauri Interactive<br>
-Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 5.5GB Hard Disk Space, DirectX 9.0c, 256MB Nvidia GeFirce 6800/ATI Radeon X800 Video Card</p>
+            'contentDetailPost'  => '<p><b>Cấu hình</b></p>
+
+<ul>
+<li>Tên game: Kings Bounty The Legend
+<li>Thể loại: dàn trận theo lượt.
+<li>Sản xuất năm: 23/9/2008
+<li>Hãng sản xuất: Katauri Interactive
+<li>Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 5.5GB Hard Disk Space, DirectX 9.0c, 256MB Nvidia GeFirce 6800/ATI Radeon X800 Video Card
+</ul>
+
+<p><b>Link download</b></p>
+
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZSmlFTEpvMHNxaTA/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
+</ul>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/px5cEI-z78U" frameborder="0" allowfullscreen></iframe></center>
 
-<p>Link download<br>
-<a href="https://drive.google.com/file/d/0B2QqgPEJF0YZSmlFTEpvMHNxaTA/view?usp=sharing">Google Drive KINGDOM NVHAI: </a></p>
-
 <p>Vương quốc Darion từng là một nơi thanh bình, nhưng giờ đây sự xuất hiện của nhiều loại quái vật như người sói, xác chết biết đi. Những cây ăn thịt người mọc tràn lan khắp nơi, gieo rắc nỗi kinh hoàng lên đầu dân chúng. Và thời thế tạo anh hung, vương quốc cần một chiến binh, pháp sư hoặc hiệp sĩ giúp nhà vua tiêu diệt ma quỷ, đem lại cuộc sống bình yên cho dân lành.</p>
 
-<center><img src="../local/public/upload/images/game/kings-bounty-the-legend-1.jpg" width="70%" alt="King’s Bounty The Legend" />
-</center>
+<center><img src="../local/public/upload/images/game/kings-bounty-the-legend-1.jpg" width="70%" alt="King’s Bounty The Legend" /></center>
 
 <p>Mặc dù với lối chơi tương tự như dòng game dàn trận theo lượt nổi tiếng Heroes of Might and Magic nhưng King’s Bounty: The Legend không có chức năng tùy biến nhân vật ngay từ đầu. Sau khi chọn loại nhân vật, bạn được mang theo một số đồ vật và chọn hướng chuyên sâu trên hệ thống phát triển kỹ năng. Nói đơn giản, trò chơi giống như sự kết hợp giữa thể loại nhập vai và dàn trận theo lượt. Bạn cày level cho hero, nâng kỹ năng và mang quân lính của mình đi chinh phạt nhưng không có tòa thành hay xây nhà nào. Heroes of Might and Magic cho bạn thành lũy, xây nhà còn King’s Bounty: The Legend chỉ tập trung vào 1 hero duy nhất.</p>
 
-<center><img src="../local/public/upload/images/game/kings-bounty-the-legend.jpg" width="70%" alt="King’s Bounty The Legend" />
-</center>
+<center><img src="../local/public/upload/images/game/kings-bounty-the-legend.jpg" width="70%" alt="King’s Bounty The Legend" /></center>
 
 <p>Level của nhân vật càng tăng thì số lượng và chủng loại lính mà bạn có thể điều khiển cũng trở nên đa dạng hơn. Chẳng hạn, ở màn cuối, người chơi sẽ được quyền điều khiển một số loại quái vật như rồng, cây phun độc và ma cà rồng. Bạn còn có thể gặp được những con boss như Kraken, những trận đánh với đối thủ là quái vật khổng lồ hay rồng.</p>
 
 <center><img src="../local/public/upload/images/game/kings-bounty-the-legend-2.jpg" width="70%" alt="King’s Bounty The Legend" /></center>
 
-<p>Trò chơi có rất nhiều cảnh đẹp theo phong cách thần thoại châu Âu. Bạn sẽ thấy những con tàu chiến, những tòa lâu đài hay những ngôi làng nhỏ như trong các bộ phim châu Âu thời Trung Cổ. Bạn sẽ gặp người, tiên, thủy quái, người lùn, xác chết biết đi, người sói và quỷ. Trên bản đồ, những nhân vật có chấm đỏ ở phía trên là kẻ thù của bạn. Nếu chết, người chơi sẽ được đưa trở lại cung điện để hồi sinh. Tại đây bạn có thể mua thêm binh lính, phục hồi sức mạnh và máu. Dù đồ họa đã lỗi thời nhưng vẫn rất đẹp. Cấu hình nhẹ nên game thủ bây giờ hoàn toàn có thể chơi được.</p>
+<p>Trò chơi có rất nhiều cảnh đẹp theo phong cách thần thoại châu Âu. Bạn sẽ thấy những con tàu chiến, những tòa lâu đài hay những ngôi làng nhỏ như trong các bộ phim châu Âu thời Trung Cổ, tồn tại tiên, thủy quái, người lùn, xác chết biết đi, người sói và quỷ. Trên bản đồ, những nhân vật có chấm đỏ ở phía trên là kẻ thù của bạn. Nếu chết, người chơi sẽ được đưa trở lại cung điện để hồi sinh. Tại đây bạn có thể mua thêm binh lính, phục hồi sức mạnh và máu. Dù đồ họa đã lỗi thời nhưng vẫn rất đẹp. Cấu hình nhẹ nên game thủ bây giờ hoàn toàn có thể chơi được.</p>
 
-<p>Nếu các bạn muốn trải nghiệm phiên bản mới hơn, hãy tìm đến King\'s Bounty: Armored Princess. Chắc chắn bạn sẽ rất thích thú với phiên bản mới này khi bạn được điều khiển một nàng công chúa xinh đẹp và mạnh mẽ đi phiêu lưu khắp thế giới.</p>',
+<p>Nếu các bạn muốn trải nghiệm phiên bản mới hơn, hãy tìm đến Kings Bounty: Armored Princess. Chắc chắn bạn sẽ rất thích thú với phiên bản mới này khi bạn được điều khiển một nàng công chúa xinh đẹp và mạnh mẽ đi phiêu lưu khắp thế giới.</p>',
 
             'dateDetailPost'     => '2015-07-21',
             'imgDetailPost'      => 'kings-bounty-the-legend-thumbnail.jpg',
@@ -1235,22 +1230,23 @@ Cấu hình: Intel Pentium 4 or AMD Athlon 64 2800+ 2.6 GHz Processor, RAM 1GB, 
 
         $post->create([
             'nameDetailPost'     => 'Thủ thuật “ăn cắp” logo từ các trang web tạo logo online',
-            'urlDetailPost'      => 'Thủ thuật “ăn cắp” logo từ các trang web tạo logo online',
+            'urlDetailPost'      => 'Thu-thuat-an-cap-logo-tu-cac-trang-web-tao-logo-online',
             'presentDetailPost'  => 'Làm sao để bạn không cần trả tiền vẫn có thể lấy được logo đẹp của những trang web tạo logo online?',
-            'contentDetailPost'  => '<p>Bạn muốn tạo một logo cho riêng mình. Bạn tìm đến các trang web tạo logo miễn phí thông qua từ khóa “tạo logo miễn phí” trên Google. Khi bạn tìm được những trang web đó, họ bắt bạn phải tạo tài khoản và thanh toán phí nếu muốn có logo chất lượng. Còn không thì bạn vẫn sẽ có logo nhưng không đẹp, không có chất lượng cao. Tôi sẽ hướng dẫn cho bạn cách “ăn cắp” logo của họ mà không tốn một đồng, không cần phải tạo bất kỳ tài khoản nào mà bạn vẫn có một logo đẹp rõ nét từ trang web của họ. Bí quyết đó chỉ nằm gọn trong nút Print Screen của bạn.</p>
+            'contentDetailPost'  => '<p>Bạn muốn tạo một logo cho riêng mình. Bạn tìm đến các trang web tạo logo miễn phí thông qua từ khóa “tạo logo miễn phí” trên Google. Khi bạn tìm được những trang web đó, họ bắt bạn phải tạo tài khoản và thanh toán phí nếu muốn có logo chất lượng. Còn không thì bạn vẫn sẽ có logo nhưng không đẹp, độ phân giải thấp. Người viết sẽ hướng dẫn cho bạn cách “ăn cắp” logo của họ mà không tốn một đồng, không cần phải tạo bất kỳ tài khoản nào mà bạn vẫn có một logo đẹp rõ nét từ trang web của họ. Bí quyết đó chỉ nằm gọn trong nút Print Screen của bạn.</p>
 
-<center><img src="../local/public/upload/images/thuthuat/Print-Screen.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" />
-</center>
+<center><img src="../local/public/upload/images/thuthuat/Print-Screen.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" /></center>
 
-<p>Nút Print Screen có tác dụng hóa giải mọi loại code ngăn cản việc bạn download hình từ các trang web. Chỉ cần làm 3 bước là bạn có thể lấy được mọi tấm hình bạn muốn.<br>
+<p>Nút Print Screen có tác dụng hóa giải mọi loại code ngăn cản việc bạn download hình từ các trang web. Chỉ cần làm 3 bước là bạn có thể lấy được mọi tấm hình bạn muốn.</p>
 
-Bước 1: vào trang web bạn cần lấy hình.<br>
-Bước 2: bấm nút Print Screen để chụp màn hình.<br>
-Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn màn hình trang web.</p>
+<ul>
+<li>Bước 1: vào trang web bạn cần lấy hình.
+<li>Bước 2: bấm nút Print Screen để chụp màn hình.
+<li>Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn màn hình trang web.
+</ul>
 
 <p>Và đây là một số trang web tạo logo “gần như miễn phí”:</p>
 
-<p><a href="http://www.tweak.com/">Tweak </a></p>
+<p><a href="http://www.tweak.com/">Tweak</a></p>
 
 <center><img src="../local/public/upload/images/thuthuat/Tweak.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" /></center>
 
@@ -1274,9 +1270,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
 <center><img src="../local/public/upload/images/thuthuat/LogoGarden-2.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" /></center>
 
-<p>Đó là 2 trong số các trang tạo logo online mà người viết đánh giá là tốt. Ngoài ra còn có nhiều trang khác nữa. Mong rằng các bạn sẽ tìm được logo thích hợp cho mình.</p>
-
-<p><a href="http://web.vivicorp.com/cong-cu-thiet-ke-logo.html">12 công cụ thiết kế web logo online miễn phí tốt nhất </a></p>',
+<p>Đó là 2 trong số các trang tạo logo online mà người viết đánh giá là tốt. Ngoài ra còn có nhiều trang khác nữa. Mong rằng các bạn sẽ tìm được logo thích hợp cho mình.</p>',
 
             'dateDetailPost'     => '2015-07-22',
             'imgDetailPost'      => 'Thu-thuat-an-cap-logo-tu-cac-trang-web-tao-logo-online-thumbnail.jpg',
@@ -1296,8 +1290,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'presentDetailPost'  => 'Ai cũng biết PowerPoint là phần mềm dùng để tạo slide trình chiếu trong các buổi thuyết trình, hội họp. Nhưng bạn đã bao giờ dùng PowerPoint để thiết kế ảnh chưa?',
             'contentDetailPost'  => '<p>Bạn muốn tạo một bức ảnh đẹp mà không cần khả năng vẽ, Illustrator hay Corel Draw? Bạn muốn có một tấm ảnh quảng cáo mà không cần download các phần mềm chỉnh sửa ảnh để tránh bị virus, phiền phức với key crack? Hãy dùng Power Point 2010 và Paint.</p>
 
-<p>Cách làm cực kỳ đơn giản: bạn chỉ cần tìm một hình nền đẹp dành cho PowerPoint. Sau đó đưa lên làm hình nền, chèn hình chèn chữ cần thiết vào là có ngay một tấm hình đẹp.
-</p>
+<p>Cách làm cực kỳ đơn giản: bạn chỉ cần tìm một hình nền đẹp dành cho PowerPoint. Sau đó đưa lên làm hình nền, chèn hình chèn chữ cần thiết vào là có ngay một tấm hình đẹp.</p>
 
 <p>Cách chèn hình nền cho slide: Click chuột phải vào slide -> Format Background -> Trong thẻ Fill chọn Picture or texture fill -> Trong phần Insert From chọn nút File để lấy hình cần làm hình nền.</p>
 
@@ -1321,7 +1314,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
 <img src="../local/public/upload/images/thuthuat/Tao-hinh-bang-Powerpoint-Miku.jpg" width="70%" alt="Tạo ảnh tuyệt đẹp bằng PowerPoint 2010" /></center>
 
-<p>Bạn cũng có thể chỉnh sửa kiểu chữ. Chọn Insert trên thanh menu, vào WordArt để tạo một dòng chữ tuyệt đẹp.</P>',
+<p>Bạn cũng có thể chỉnh sửa kiểu chữ. Chọn Insert trên thanh menu, vào WordArt để tạo một dòng chữ tuyệt đẹp.</p>',
 
             'dateDetailPost'     => '2015-07-23',
             'imgDetailPost'      => 'Tao-anh-tuyet-dep-bang-PowerPoint-2010-thumbnail.jpg',
@@ -1339,26 +1332,28 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'nameDetailPost'     => 'Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma',
             'urlDetailPost'      => 'Yugioh-Zexal-Power-of-Chaos-Yuma-the-Challenge-Loi-thach-thuc-cua-Yuma',
             'presentDetailPost'  => 'Trải qua hơn 10 năm, thế giới bài ma thuật Yugioh vẫn phát triển không ngừng. Yugioh! Zexal Power of Chaos Yuma the Challenge là một trong số đó.',
-            'contentDetailPost'  => '<p>Yugioh! Zexal Power of Chaos Yuma the Challenge là tựa game đánh bài dựa trên series manga, anime nổi tiếng Yugioh! Trò chơi này là phiên bản thứ 6 của loạt game đánh bài Yugioh! Nhưng điểm đặc biệt là phần này là phần do các fan tạo nên do KONAMI phát triển game quá ít.</p>
+            'contentDetailPost'  => '<p>Yugioh! Zexal Power of Chaos Yuma the Challenge là tựa game đánh bài dựa trên series manga, anime, game nổi tiếng Yugioh! Trò chơi này là phiên bản thứ 6 của series. Một số game có chút đặc biệt đó là được các fan bổ sung bản MOD, tức là có thêm những lá bài hay hình ảnh mới.</p>
 
-<p>Link download:<br>
-	<a href="https://drive.google.com/file/d/0B2QqgPEJF0YZb0dJWVRGNFFEWlE/view?usp=sharing">Google Drive KINGDOM NVHAI</a> </p>
+            <p><b>Link download</b></p>
 
-<center><img src="../local/public/upload/images/game/Yugioh-Zexal.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" />
-</center>
+            <ul>
+            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZb0dJWVRGNFFEWlE/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
+            </ul>
+
+<center><img src="../local/public/upload/images/game/Yugioh-Zexal.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" /></center>
 
 <p>Với tổng số lên tới 1109 trong đó 450 lá bài được thêm vào từ sự sáng tạo của tác giả và các nhân vật hoạt hình được xây dựng từ các fan. Ở phiên bản fan-made này, đối thủ của bạn sẽ là Yuma Tsukumo, trong game luật chơi vẫn giữ tính truyền thống, nhưng các lá bài sẽ rất mới lạ và chưa từng nhìn thấy trước đây.</p>
 
-<p>Nếu bạn đã xem anime Yugioh! Zexal thì các bạn đã biết phong cách chơi mới của phần này. Yuma sẽ sử dụng khả năng triệu hồi Exceed (triệu hồi quái thú khi có 2 quái thú cùng level). Tuy nhiên, trong game bạn sẽ không thể triệu hồi một cách thoải mái như ở trong game mà phải sử dụng những lá bài hỗ trợ triệu hồi.</p>
+<p>Nếu bạn đã xem anime Yugioh! Zexal thì các bạn đã biết phong cách chơi mới của phần này. Yuma sẽ sử dụng khả năng triệu hồi Exceed (triệu hồi quái thú khi có 2 quái thú cùng level). Tuy nhiên, trong game bạn sẽ không thể triệu hồi một cách thoải mái như anime mà phải sử dụng những lá bài hỗ trợ triệu hồi.</p>
 
-<center><img src="../local/public/upload/images/game/Yugioh-Zexal-1.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" />
-</center>
+<center><img src="../local/public/upload/images/game/Yugioh-Zexal-1.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" /></center>
 
 <p>Với số lượng bài lớn này, người chơi có thể tạo nên những bộ bài theo nhiều chiến thuật khác nhau. Tuy nhiên, hơi tiếc là trong phần này, game tập trung vào khả năng triệu hồi Exceed nên những dạng bộ bài khác ít được khai thác tốt, trừ những lá bài cơ bản và quá truyền thống từ đầu series đến giờ.</p>
 
 <p>Hy vọng với anime Yugioh! Arc V đã ra mắt và the movie Yugioh! The Dark Side of Dimensions sẽ ra mắt vào năm 2016, các fan hâm mộ sẽ tiếp tục được hòa mình vào thế giới bài ma thuật Yugioh! với nhiều lá bài mới. Các bạn cũng có thể tìm phiên bản tiếp theo của series game này là Yugioh! Arc V đã ra mắt. Còn bây giờ, triệu hồi Exceed!</p>
 
-<center><img src="../local/public/upload/images/game/Yugioh-ARCV.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" /><p>Yugioh! ARC V đã ra mắt.</p></center>',
+<center><img src="../local/public/upload/images/game/Yugioh-ARCV.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" />
+<p>Yugioh! ARC V đã ra mắt.</p></center>',
 
             'dateDetailPost'     => '2015-07-24',
             'imgDetailPost'      => 'Yugioh-Zexal-Power-of-Chaos-Yuma-the-Challenge-thumbnail.jpg',
@@ -1376,7 +1371,53 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'nameDetailPost'     => 'Tạo theme cho Windows 7 phong cách Anime',
             'urlDetailPost'      => 'Tao-theme-cho-Windows-7-phong-cach-Anime',
             'presentDetailPost'  => 'Hãy cùng tìm hiểu cách thay đổi giao diện Desktop, thanh Taskbar để màn hình máy vi tính của bạn trở nên sinh động hơn.',
-            'contentDetailPost'  => 'Cần viết lại',
+            'contentDetailPost'  => '<p>Chắc các bạn đã từng nghe đến cách thay đổi theme cho Windows, tức là thay đổi giao diện Desktop, thanh Taskbar và nhiều thứ khác để trông sinh động hơn. Tuy nhiên, vẫn có nhiều bạn hay thắc mắc về một số lỗi khi tạo theme. Bài viết này sẽ hướng dẫn cho các bạn cách tạo theme.</p>
+
+            <p>Đầu tiên, các bạn cần phải có 1 theme và chương trình Universal Theme Patcher. Đây là theme mà người viết thích nhất vì nó có đầy đủ các nhân vật trong Date a Live phần 1.</p>
+
+            <p><b>Link download theme Date a Live và Universal Theme Patcher</b></p>
+
+            <ul>
+            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZaFBPdGlPU2JiQmM/view">Google Drive KINGDOM NVHAI</a>
+            </ul>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-1.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Sau khi tải về, các bạn giải nén theme Date a Live ra và cài đặt. Tôi sử dụng theme có tên là [THEME SEVEN] Date a Live. Kết quả xuất hiện ngay tức thì sau khi cài xong. Tuy nhiên, vấn đề là chỉ có màn hình Desktop là thay đổi hình ảnh, còn thanh Taskbar gặp lỗi chuyển thành dạng thanh Taskbar của Windows 98.</p>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-2.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Lúc này, các bạn cài Universal Theme Patcher đúng phiên bản 32 bit hoặc 64 bit. Khi cài, chương trình có hỏi về 3 cái Patch cần cài. Các bạn cài hết cả 3 Patch bằng cách nhấn nút Patch. Sau đó khởi động lại máy.</p>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-3.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Nếu sau khi khởi động lại vẫn không có gì thay đổi, bạn click chuột phải vào màn hình -> chọn Personalize -> chọn theme Date a Live ở dòng Installed Themes là có kết quả.</p>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-4.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+            <br><br>
+            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-5.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Nếu bạn muốn thay đổi hình ảnh xuất hiện ngoài màn hình Desktop, bạn vào C:\Windows\Resources\Themes\Date a Live\wallpaper. Tại đây bạn sẽ thấy tất cả những tấm hình mà theme đã sẵn có. Bạn chỉ cần thay đổi bằng những tấm hình bạn thích là được. Còn nếu bạn muốn chỉnh thời gian thay đổi hình ảnh thì bạn quay lại cửa sổ Personalize, chọn Desktop Background và chỉnh thời gian xuất hiện, chọn những tấm nào được phép xuất hiện.</p>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-6.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+            <br><br>
+            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-7.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Tương tự, bạn cũng có thể thay đổi nhạc khi khởi động hoặc tắt máy. Bạn vào C:\Windows\Resources\Themes\Date a Live\sound có 2 file nhạc Logon (nhạc khởi động máy) và nhạc Logout (nhạc tắt máy). Bạn hãy chọn file nhạc bạn thích, thay tên bằng Logon hoặc Logout rồi để vào đó. Chương trình sẽ tự động nhận biết. Nhớ là phải chọn những file nhạc ngắn để nhạc nổi lên không quá dài. Người viết đã từng gặp phải tình huống là nhạc nổi lên khi đang ngồi ở chỗ đông người, rất phiền toái.</p>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-8.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Các bạn cũng có thể tìm thêm nhiều theme đẹp khác và sáng tạo bằng cách kết hợp các theme lại với nhau. Ví dụ như theme này có nhạc hay, hình đẹp, theme kia có hình trên Taskbar và các cửa sổ đẹp. Bạn thay nhạc, đổi hình cho đúng ý mình. Một máy vi tính có thể cài nhiều theme và thay đổi bằng cách vào phần Personalize.</p>
+
+            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-9.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+            <br><br>
+            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-10.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+            <br><br>
+            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-11.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+
+            <p>Tuy nhiên, lời khuyên là bạn sử dụng theme nào thì chỉ cài một theme đó thôi. Những theme còn lại hãy xóa đi để khỏi chiếm dung lượng và dẫn đến tình trạng máy chạy chậm. Chúc các bạn thành công!</p>
+
+            ',
 
             'dateDetailPost'     => '2015-07-25',
             'imgDetailPost'      => 'tao-theme-cho-windows-7-thumbnail.jpg',
@@ -1396,8 +1437,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
             'presentDetailPost'  => 'Game đối kháng Nitroplus – Blasterz - Heroines Infinite Duel sẽ ra mắt vào tháng 12/2015 cho hệ máy PS3 và PS4.',
             'contentDetailPost'  => '<p>Ngày 16/7/2015, website chính thức của trò chơi đối kháng Marvelous và Nitroplus Blasters Heroines Infinite Duel thông báo rằng trò chơi sẽ ra mắt vào ngày 10/12/2015 cho hệ máy PlayStation 3 và PlayStation 4.</p>
 
-<center><img src="../local/public/upload/images/game/Nitroplus-Blasterz-Heroines-Infinite-Duel-2.jpg" width="70%" alt="Nitroplus – Blasterz - Heroines Infinite Duel ra mắt game cho PS3/PS4" />
-</center>
+<center><img src="../local/public/upload/images/game/Nitroplus-Blasterz-Heroines-Infinite-Duel-2.jpg" width="70%" alt="Nitroplus – Blasterz - Heroines Infinite Duel ra mắt game cho PS3/PS4" /></center>
 
 <p>Trò chơi này theo dạng đối kháng. 2 đối thủ sẽ chiến đấu với nhau. Mỗi đối thủ sẽ có 2 nhân vật hỗ trợ. Khi họ sẵn sàng, người chơi sẽ gọi nhân vật hỗ trợ ra chiến đấu ra tung chiêu vào đối thủ.</p>
 
@@ -1408,10 +1448,10 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
 <p>Những người đặt hàng trước trò chơi cũng sẽ nhận được một mã tải về miễn phí.</p>
 
-<p>Marvelous cũng tiết lộ một gói phiên bản giới hạn (limited edition) cho trò chơi. Gói phiên bản giới hạn bao gồm hộp pha lê 3D nghệ thuật được vẽ bởi Nitroplus, nghệ sĩ ở Santa Tsuji, soundtrack của trò chơi, một cuốn sách vẽ nhân vật, và một mã tải về cho phiên bản áo tắm của Super Sonico, Aino Heart, và Homura, có hình ảnh vẽ cử động của các nhân vật. Các phiên bản giới hạn được bán lẻ với giá 12.160 Yên (khoảng 98USD), và phiên bản tiêu chuẩn được bán lẻ với giá 6.990 Yên (khoảng 56USD).</p>
+<p>Marvelous cũng tiết lộ một gói phiên bản giới hạn (limited edition) cho trò chơi. Gói phiên bản giới hạn bao gồm hộp pha lê 3D nghệ thuật được tạo bởi Nitroplus, nghệ sĩ ở Santa Tsuji, soundtrack của trò chơi, một cuốn sách vẽ nhân vật, và một mã tải về cho phiên bản áo tắm của Super Sonico, Aino Heart, và Homura, có hình ảnh vẽ cử động của các nhân vật. Các phiên bản giới hạn được bán lẻ với giá 12.160 Yên (khoảng 98USD), và phiên bản tiêu chuẩn được bán lẻ với giá 6.990 Yên (khoảng 56USD).</p>
 
 <center><img src="../local/public/upload/images/game/Nitroplus-Blasterz-Heroines-Infinite-Duel-box.jpg" width="70%" alt="Nitroplus – Blasterz - Heroines Infinite Duel ra mắt game cho PS3/PS4" />
-
+<br><br>
 <img src="../local/public/upload/images/game/Nitroplus-Blasterz-Heroines-Infinite-Duel-1.jpg" width="70%" alt="Nitroplus – Blasterz - Heroines Infinite Duel ra mắt game cho PS3/PS4" /></center>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/3V7AQVg3Gt0" frameborder="0" allowfullscreen></iframe>
@@ -1443,8 +1483,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
             <p>Bộ phim là bản làm lại của Doraemon: Nobita and the Birth of Japan đã ra mắt vào tháng 3/1989. Tsutomu Shibayama (đạo diễn của loạt phim truyền hình Doraemon 1979 và nhiều phim khác) đã làm đạo diễn của bộ phim lần này.</p>
 
-            <center><img src="../local/public/upload/images/anime/Doraemon_the_Movie_Nobita_and_the_Birth_of_Japan_2016.jpg" width="70%" alt="Doraemon ra mắt trailer the movie thứ 36" />
-            </center>
+            <center><img src="../local/public/upload/images/anime/Doraemon-the-Movie-Nobita-and-the-Birth-of-Japan-2016.jpg" width="70%" alt="Doraemon ra mắt trailer the movie thứ 36" /></center>
 
             <p>Bộ phim nhượng quyền thương mại trước đó là Doraemon: Nobita no Space Heroes (Doraemon: Nobita và những hiệp sĩ không gian 2015) đã ra mắt vào ngày 7/3/2015 tại Nhật Bản và ngày 26/6/2015 tại Việt Nam. Bộ phim 3D nhượng quyền thương mại đầu tiên là bộ phim Stand By Me Doraemon đã ra mắt tại Nhật Bản vào tháng 8/2014 trước khi ra mắt tại 21 quốc gia.</p>
 
@@ -1474,7 +1513,9 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
 <center><img src="../local/public/upload/images/game/Need-for-Speed-No-Limits.jpg" width="70%" alt="EA ra mắt trailer Need for Speed: No Limits" /></center>
 
-<p>EA công bố trò chơi trong tháng 11, và nói với Gamespot rằng mục đích là để "xác định lại" thể loại đua xe trên nền tảng điện thoại di động.</p>',
+<p>Là bản kế tiếp của Most Wanted, Need For Speed: No Limits được cải tiến lớn về mặt đồ họa. Đổ bóng, chi tiết xe hay các hiệu ứng khói lửa, va chạm dưới lớp áo 3D đều được đầu tư rất kĩ càng khiến đồ họa của game có thể sánh ngang tầm nhiều tựa game trên PC, Console.</p>
+
+<p>EA công bố trò chơi trong tháng 11, và nói với Gamespot rằng mục đích là để "thiết lập lại" thể loại đua xe trên nền tảng điện thoại di động.</p>',
 
             'dateDetailPost'     => '2015-07-28',
             'imgDetailPost'      => 'EA-trailer-need-for-speed-no-limits-thumbnail.jpg',
@@ -1496,8 +1537,7 @@ Bước 3: vào Paint, Ctrl+V và bạn có được tấm hình chụp toàn m�
 
 <p>EVE: Valkyrie là một trò chơi bắn súng trong vũ trụ mà người chơi sẽ sử dụng một tai nghe thực tế ảo để có những cảm giác đang ở trong một cuộc không chiến thực sự. Eve: Valkyrie sẽ được phát hành trên Microsoft Windows và PlayStation 4 Console. </p>
 
-<center><img src="../local/public/upload/images/game/eve-valkyrie-playing-group.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay" />
-</center>
+<center><img src="../local/public/upload/images/game/eve-valkyrie-playing-group.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay" /></center>
 
 <p>Trang chủ <a href="https://www.evevalkyrie.com/">EVE: VALKYRIE</a></p>',
 
@@ -2309,19 +2349,16 @@ cuối cùng cũng phân thắng bại.
 
 <img src="../local/public/upload/images/anime/Yuusha-Ni-Narenakatta-Ore-Wa-Shibushibu-Shuushoku-Wo-Ketsui-Shimashita-1.jpg" width="70%" alt="Sự xuống cấp của Quỷ Vương" />
 
-<p>Con gái Quỷ Vương hết được chu cấp tiền bạc, <br>
-phải đi làm thêm tại cửa hàng đồ điện kiếm sống.
-</p></center>
+<p>Con gái Quỷ Vương hết được chu cấp tiền bạc,<br>
+phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
 
 <img src="../local/public/upload/images/anime/Floor-Ni-Maou-Ga-Imasu-1.jpg" width="70%" alt="Sự xuống cấp của Quỷ Vương" />
-
 
 <p>Vợ Quỷ Vương cũng phải đi phụ việc quán nước.</p>
 
 <img src="../local/public/upload/images/anime/Highschool-DxD-New-1.jpg" width="70%" alt="Sự xuống cấp của Quỷ Vương" />
 
-<p>Quỷ Vương kế nhiệm đàm phán hòa bình<br>với Thiên Thần và Thiên Thần Sa Ngã.
-</p>
+<p>Quỷ Vương kế nhiệm đàm phán hòa bình<br>với Thiên Thần và Thiên Thần Sa Ngã.</p>
 
 <img src="../local/public/upload/images/anime/Maoyu-Maou-Yuusha-1.jpg" width="70%" alt="Sự xuống cấp của Quỷ Vương" />
 
@@ -6595,7 +6632,11 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'nameDetailPost'     => 'Kishuku Gakkou no Juliet sẽ được ra mắt vào tháng 10/2018',
             'urlDetailPost'      => 'kishuku-gakkou-no-juliet-se-ra-mat-vao-mua-thu-2018',
             'presentDetailPost'  => 'Khán giả sắp được xem câu chuyện hài hước của Romeo và Juliet phiên bản Anime vào tháng 10/2018',
-            'contentDetailPost'  => 'http://goboiano.com/romeo-juliet-inspired-boarding-school-juliet-airs-this-fall/',
+            'contentDetailPost'  => 'http://goboiano.com/romeo-juliet-inspired-boarding-school-juliet-airs-this-fall/
+
+            https://www.animenewsnetwork.com/news/2018-08-17/boarding-school-juliet-tv-anime-casts-yoshimasa-hosoya/.135591
+
+            ',
 
             'dateDetailPost'     => '2018-05-25',
             'imgDetailPost'      => 'Kishuku-Gakkou-no-Juliet-se-ra-anime-vao-thang-10-thumbnail.jpg',
@@ -6877,6 +6918,52 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'dateDetailPost'     => '2018-07-11',
             'imgDetailPost'      => 'lotte-cinema-se-chieu-live-action-Inuyashiki-tai-Viet-Nam-vao-20-thang-7-thumbnail.jpg',
             'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Walkure Romanze hợp tác với Kamihime Project R',
+            'urlDetailPost'      => 'Walkure-Romanze-hop-tac-voi-Kamihime-Project-R',
+            'presentDetailPost'  => '2 game Eroge hợp tác với nhau. Người chơi sẽ được thấy các nhân vật Walkure Romanze xuất hiện trên game Kamihime Project R',
+            'contentDetailPost'  => '<p>Ai đã từng xem anime <a href="http://news.kingdomnvhai.info/post/Walkure-Romanze-Hiep-si-dau-thuong">Walkure Romanze - Hiệp sĩ đấu thương</a>, chuyển thể từ Eroge Visual Novel cùng tên, chắc hẳn vẫn nhớ Takahiro với dàn harem yêu thích bộ môn cưỡi ngựa đấu thương. Ngày 21/8/2018, Kamihime Project R, game chơi trên trình duyệt của trang Nutaku đã liên kết với Walkure Romanze để đưa các nhân vật Takahiro, Mio, Noel, Akane và Celia lên game Kamihime Project R. Đây thật sự là một tin rất vui với các fan hâm mộ cả 2 series này.</p>
+
+            https://www.facebook.com/permalink.php?story_fbid=1098005240374777&id=306458502862792&notif_id=1534778906102186&notif_t=page_post_reaction&ref=notif
+
+',
+
+            'dateDetailPost'     => '2018-08-21',
+            'imgDetailPost'      => 'Walkure-Romanze-hop-tac-voi-Kamihime-Project-R-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Devil May Cry 5 tung trailer thông báo ngày phát hành',
+            'urlDetailPost'      => 'Devil-May-Cry-5-tung-trailer-thong-bao-ngay-phat-hanh',
+            'presentDetailPost'  => '3/8/2019 sẽ là ngày phát hành Devil May Cry 5',
+            'contentDetailPost'  => '
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/0gBESLaqXFs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            https://www.animenewsnetwork.com/news/2018-08-21/devil-may-cry-5-trailer-reveals-march-8-release-date/.135739
+
+',
+
+            'dateDetailPost'     => '2018-08-22',
+            'imgDetailPost'      => 'Devil-May-Cry-5-tung-trailer-thong-bao-ngay-phat-hanh-thumbnail.jpg',
+            'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),

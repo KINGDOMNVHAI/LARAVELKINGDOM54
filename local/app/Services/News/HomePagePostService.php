@@ -47,7 +47,7 @@ class HomePagePostService extends ServiceProvider
                     'detailpost.nameDetailPost as name_post',
                     'detailpost.urlDetailPost as url_post',
                     'detailpost.presentDetailPost as present_post',
-                    'detailpost.dateDetailPost as date_post',
+                    DB::raw("DATE_FORMAT(detailpost.dateDetailPost,'%d-%m-%Y') as date_post"),
                     'detailpost.imgDetailPost as img_post'
                 )
                 ->where('category.enable', true)
@@ -57,12 +57,7 @@ class HomePagePostService extends ServiceProvider
                 ->get();
         }
 
-        //$arrayPost = $query;
-
-       // print_r(count($arrayPost));die;
-
         return $arrayPost;
-
     }
 
     public function showAllCategories()
