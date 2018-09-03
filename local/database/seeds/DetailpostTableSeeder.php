@@ -4782,6 +4782,38 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
+            'nameDetailPost'     => 'Lịch sử dòng game Need For Speed',
+            'urlDetailPost'      => 'lich-su-dong-game-need-for-speed',
+            'presentDetailPost'  => 'Hãy xem tựa game nổi tiếng Esport có lịch sử phát triển như thế nào.',
+            'contentDetailPost'  => '<p>Need For Speed - tựa game đua xe có lịch sử phát triển lâu đời bậc nhất thế giới.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2016-03-05',
+            'imgDetailPost'      => 'lich-su-dong-game-need-for-speed-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 1,
+        ]);
+
+        $post->create([
             'nameDetailPost'     => '[Review] Hataraku Maou-sama - Ma vương đi làm',
             'urlDetailPost'      => 'Hataraku-maou-sama-ma-vuong-di-lam',
             'presentDetailPost'  => 'Ma vương và anh hùng đến Nhật Bản hiện đại trong tình trạng mất sức mạnh và phải kiếm kế sinh nhai ở đó.',
@@ -4823,15 +4855,15 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'presentDetailPost'  => 'Bộ Manga cố gắng phá vỡ khái niệm anh hùng vất vả đánh thắng kẻ xấu đã được chuyển thể thành Anime.',
             'contentDetailPost'  => '<p>One Punch Man khởi đầu là webcomic của tác giả có bút danh là One, bắt đầu công bố trên trang cá nhân vào ngày 3/6/2009. Phiên bản manga của tác giả Yuusuke Murata được công bố trên trang web của Young Jump WebComics Shueisha  ngày 14/6/2012. Ý tưởng cho bộ truyện làm lại bắt đầu khi Mutara gặp One trên Twitter để thảo luận. Theo đó Murata sẽ tiến hành remake lại bộ truyện.</p>
 
-            <p>Tại một Trái Đất hư cấu có các thành phố từ A đến Z. Trái Đất này tồn tại rất nhiều quái vật, thiên tai, người đột biến… liên tục phá hoại với đủ mọi mức độ. 2 tổ chức Hiệp Hội Anh Hùng và Hiệp Hội Quái Vật được lập ra để quản lý các anh hùng và quái vật trong thế giới hỗn loạn này. Saitama, một thanh niên thất nghiệp có cơ duyên làm anh hùng sau khi cứu một cậu bé. Anh đã luyện tập bằng cách nào đó mà vài năm sau, anh đã có sức mạnh đến mức kết liễu những con quái rất mạnh chỉ bằng một đấm duy nhất. Anh cùng cậu học trò Genos tham gia Hiệp Hội Anh Hùng và nhìn thấy nhiều mặt của những anh hùng được mọi người kính nể.</p>
+<p>Tại một Trái Đất hư cấu có các thành phố từ A đến Z. Trái Đất này tồn tại rất nhiều quái vật, thiên tai, người đột biến… liên tục phá hoại với đủ mọi mức độ. 2 tổ chức Hiệp Hội Anh Hùng và Hiệp Hội Quái Vật được lập ra để quản lý các anh hùng và quái vật trong thế giới hỗn loạn này. Saitama, một thanh niên thất nghiệp có cơ duyên làm anh hùng sau khi cứu một cậu bé. Anh đã luyện tập bằng cách nào đó mà vài năm sau, anh đã có sức mạnh đến mức kết liễu những con quái rất mạnh chỉ bằng một đấm duy nhất. Anh cùng cậu học trò Genos tham gia Hiệp Hội Anh Hùng và nhìn thấy nhiều mặt của những anh hùng được mọi người kính nể.</p>
 
-            <center><img src="../local/public/upload/images/anime/one-punch-man-mot-dam-ket-lieu-1.jpg" width="50%" alt="One Punch Man – Một đấm kết liễu"/></center>
+<center><img src="../local/public/upload/images/anime/one-punch-man-mot-dam-ket-lieu-1.jpg" width="50%" alt="One Punch Man – Một đấm kết liễu"/></center>
 
-            <h3>Cố gắng thoát khỏi lối mòn…</h3>
+<h3>Cố gắng thoát khỏi lối mòn…</h3>
 
-            <p>Khi nhắc đến chủ đề anh hùng nói riêng và chiến đấu nói chung, ai cũng sẽ nghĩ đến viễn cảnh: anh hùng, chính diện sẽ chật vật chống lại những con boss phản diện mạnh hơn. Và cuối cùng phe chính diện sẽ thắng bằng niềm tin, kết hợp hay tuyệt kỹ bí mật. Lối mòn “Anh hùng vất vả chống kẻ xấu” xuất hiện rất nhiều, từ phim qua truyện, từ Tây sang Á.</p>
+<p>Khi nhắc đến chủ đề anh hùng nói riêng và chiến đấu nói chung, ai cũng sẽ nghĩ đến viễn cảnh: anh hùng, chính diện sẽ chật vật chống lại những con boss phản diện mạnh hơn. Và cuối cùng phe chính diện sẽ thắng bằng niềm tin, kết hợp hay tuyệt kỹ bí mật. Lối mòn “Anh hùng vất vả chống kẻ xấu” xuất hiện rất nhiều, từ phim qua truyện, từ Tây sang Á.</p>
 
-            <p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
+<p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
 
 	',
 
@@ -4852,8 +4884,6 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'urlDetailPost'      => 'Mangaka-san-to-Assistant-san-to-The-Animation-Mangaka-va-cac-co-gai-phu-ta',
             'presentDetailPost'  => 'Tác giả mangaka cuồng quần lót cùng các cô gái chiến đấu với deadline và sự khắc nghiệt của nghề làm tác giả manga.',
             'contentDetailPost'  => '
-
-
 
 	',
 
@@ -4891,7 +4921,49 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Empire Earth – Đế chế thiên niên kỷ',
+            'urlDetailPost'      => 'Empire-Earth–de-che-thien-nien-ky',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p>Là một trong các tựa game cũ mà hay, Empire Earth đã từng được đánh giá là game hay nhất năm 2001, có thể đánh giá ngang với Age of Empires lừng danh với sự đa dạng thời kỳ, binh chủng, công trình hơn hẳn và hình ảnh, màu sắc tương tự Age of Empires. Những ai thuộc thế hệ 8x, 9x yêu thích thể loại game dàn trận, chiến thuật chắc chắn không thể quên được Empire Earths – Đế Chế Thiên Niên Kỷ.</p>
 
+<center></center>
+
+<p>Nếu Age of Empires chỉ cho bạn 5 thời kỳ thì Empire Earth sẽ cho bạn 22 thời kỳ, một con số rất đồ sộ vì mỗi thời kỳ là một bộ hình ảnh công trình, binh chủng khác nhau. Bạn sẽ được trải qua từ thời đồ đá, con người ăn long ở lỗ, ném đá, cầm chày đánh nhau. Bước sang đồ đồng, đồ sắt với giáo mác, voi ngựa giống trong các bộ phim Hy Lạp, La Mã cổ đại. Chứng kiến những chiếc máy bay, xe tăng Thế Chiến Thứ Nhất giống hệt trong sử sách, đội quân Kamikaze (Phong Thần) khủng khiếp của Nhật Bản trong Thế Chiến Thứ Hai. Và cuối cùng là 2 thời kỳ của khoa học viễn tưởng, robot, tia laze, tên lửa bắn ầm ầm.</p>
+
+<p></p>
+
+<center><img src="../local/public/upload/images/game/Need-for-Speed-No-Limits.jpg" width="70%" alt="EA ra mắt trailer Need for Speed: No Limits" /></center>
+
+<p></p>
+
+<p>Để thực tế hơn và cũng để giảm tải số lượng binh chủng, hình ảnh, mỗi thời kỳ sẽ có một số loại quân tiêu biểu. Nếu ở thời kỳ gần Thế Chiến Thứ Nhất, người viết rất ấn tượng với những con thuyền buồm giống hệt trong phim Cướp Biển Caribe. Con tàu to cao, 2-3 dàn pháo ở 2 bên mạn tàu bắn rất đẹp mắt, đã tai. Còn nếu bạn thích Thế Chiến, bạn sẽ không thể rời mắt khỏi những chiếc xe tăng trau chuốt từng chi tiết, máy bay ném bom hạt nhân giống như chiếc đã từng ném xuống Nhật Bản. Cột khói, ánh sáng chói lòa, phá sập 2-3 công trình chỉ với 1 quả bom. Một cảnh tượng không thể chê vào đâu được.</p>
+
+<p>Game cũng giảm bớt số lượng binh chủng không cần thiết. Nếu bạn đã chơi Thế Chiến, bạn sẽ không thể xây hay gọi cung thủ được. Nếu bạn chơi thời khoa học viễn tưởng, những chiếc máy bay bị bỏ bớt gần hết để thay cho robot. Rất đáng tiếc. Thời kỳ mà người viết cảm thấy không hài long nhất là thời khoa học viễn tưởng. Trong thời này, xe tăng và bộ binh không có nhiều tác dụng khi chỉ đi dưới đất còn robot vừa vượt nước, vừa bay trên trời. Tàu chiến cũng ít tác dụng hơn khi phải cạnh tranh với tàu ngầm. Nhất là khi đối thủ sử dụng tàu ngầm tên lửa hạt nhân, đứng từ khoảng cách rất xa với sát thương rất lớn, cực kỳ khó chịu khi phải cử máy bay đi tìm diệt.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2016-03-20',
+            'imgDetailPost'      => 'Empire-Earth–de-che-thien-nien-ky-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 
@@ -7134,7 +7206,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             Đắm mình vào bầu trời xanh thẳm<br>
             và còn lại cứ phó mặc tất cả cho mùa hè!</p></center>
 
-            <p style="float:right">Shounan no Kaze - Grand Blue Opening</p>
+            <p style="float:right"><b>Shounan no Kaze - Grand Blue Opening</b></p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0VvMKJ4IuWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
@@ -7247,7 +7319,9 @@ http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-
 
 <p>Và Tuấn đã không làm người hâm mộ Việt Nam phải thất vọng khi chiến thắng vận động viên đến từ Ả Rập Saudi với tỉ số 3-1 để tiến vào bán kết.</p>
 
-<p>Trận tiếp theo, Tuấn gặp chủ nhà Indo.</p>
+<p>Trận tiếp theo, Tuấn gặp Jothree của chủ nhà Indonesia. Trận đấu gây tranh cãi khi đột ngột ngưng truyền hình trên Twitch. Trận đấu bị remake và kết quả là Indonesia thắng.</p>
+
+<p>Vào bán kết, Jothree của chủ nhà Indonesia gặp Kin0531 của Đài Loan và để thua với tỉ số 3-1.</p>
 
 <p><b>Kết quả</b></p>
 

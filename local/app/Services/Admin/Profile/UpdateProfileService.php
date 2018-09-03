@@ -1,7 +1,7 @@
 <?php
 namespace App\Services\Admin\Profile;
 
-use App\Model\user;
+use App\Model\users;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Auth;
 
@@ -60,7 +60,7 @@ class UpdateProfileService extends ServiceProvider
             $fileNameBanner = Auth::user()->banner;
         }
 
-        $query = user::where('id', Auth::user()->id)
+        $query = users::where('id', Auth::user()->id)
             ->update([
                 'lastname' => $request->lastname,
                 'firstname' => $request->firstname,

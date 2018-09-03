@@ -1,9 +1,10 @@
 <?php
 namespace App\Http\Controllers\Auth;
 
-use App\Model\user;
+use App\Model\users;
 use App\Http\Controllers\Controller;
 use App\Response\Auth\LoginResponse;
+use App\Services\Auth\LoginService;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
@@ -58,14 +59,23 @@ class LoginController extends Controller
         $username = $request->input('username');
         $password = $request->input('password');
 
-        if( Auth::attempt(['username' => $username, 'password' => $password]))
+        if (Auth::attempt(['username' => $username, 'password' => $password]))
         {
             return redirect()->intended();
         }
         else
         {
-            return redirect()->route('kd-login')->with('message', 'WRONG_PASSWORD');
-        }
+            $checklogin = new LoginService;
+            $checkuser = $checklogin->checkUser($username);
 
+            if ($checkuser == '')
+            {
+                return redirect()->route('kd-login')->with('message', __('auth.username_is_not_exist'));
+            }
+            else
+            {
+                return redirect()->route('kd-login')->with('message', __('auth.wrong_password'));
+            }
+        }
     }
 }

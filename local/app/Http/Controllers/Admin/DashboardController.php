@@ -36,12 +36,10 @@ class DashboardController extends Controller
         else {
             return redirect()->route('kd-login');
         }
-
     }
 
     public function logout()
     {
-        // logout function
         Auth::logout();
         return redirect()->route('kd-login');
     }

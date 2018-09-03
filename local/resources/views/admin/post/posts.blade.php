@@ -14,7 +14,7 @@
     @include('admin.sidebar')
 
     <div class="main-panel">
-		
+
         <!-- kế thừa template bằng include -->
         @include('admin.navigation')
 
@@ -112,10 +112,10 @@
                                                     <i class="fa fa-edit"></i>
                                                 </a><!--  Update -->
 
-                                                <i class="fa fa-times" onclick="myFunction({{ $post->idDetailPost }})" style="color:#1DC7EA; font-size:18px"></i>
+                                                <i class="fa fa-times" onclick="deletePost({{ $post->idDetailPost }})" style="color:#1DC7EA; font-size:18px"></i>
 
                                                 <script>
-                                                    function myFunction(a) {
+                                                    function deletePost(a) {
                                                         var base_url = window.location.origin;
                                                         var c = base_url + "/LARAVELKINGDOM/posts-delete/" + a;
                                                         if (confirm("Bạn muốn xóa bài viết?")) {
