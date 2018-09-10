@@ -1538,19 +1538,21 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'nameDetailPost'     => 'Doanh thu Love Live! chiếm hạng 3 của Madoka Magica',
             'urlDetailPost'      => 'Doanh-thu-Love-Live-chiem-hang-3-cua-Madoka-Magica',
             'presentDetailPost'  => 'Sau hơn 1 tháng công chiếu, Love Live! The School Idol Movie đã thu được hơn 2,2 tỷ yên (17,7 triệu USD) tính đến ngày 1/8/2015.',
-            'contentDetailPost'  => '<p>Love Live! The School Idol Movie đã đạt hơn 1,5 triệu lượt xem tính đến ngày 1/8/2015, 50 ngày sau khi bộ phim được trình chiếu tại các rạp chiếu phim. Bộ phim cũng đã thu được hơn 2,2 tỷ yên (17,7 triệu USD) tính đến ngày 1/8, vượt qua doanh thu phòng vé của Puella Magi Madoka Magica The Movie Part 3: Rebellion. Puella Magi Madoka Magica The Movie Part 3: Rebellion đã đạt được tổng cộng ¥ 2.080.000.000 trong thời gian trình chiếu tại Nhật Bản khi bộ phim được ra mắt vào tháng 10/2013.</p>
+            'contentDetailPost'  => '<p>Love Live! The School Idol Movie đã đạt hơn 1,5 triệu lượt xem tính đến ngày 1/8/2015, nghĩa là 50 ngày sau khi bộ phim được trình chiếu tại các rạp. Bộ phim cũng đã thu được hơn 2,2 tỷ yên (17,7 triệu USD) tính đến ngày 1/8, vượt qua doanh thu phòng vé của Puella Magi Madoka Magica The Movie Part 3: Rebellion. Puella Magi Madoka Magica The Movie Part 3: Rebellion đã đạt được tổng cộng ¥ 2.080.000.000 trong thời gian trình chiếu tại Nhật Bản khi bộ phim được ra mắt vào tháng 10/2013.</p>
 
-<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie.jpg" width="70%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
+<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie.jpg" width="50%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
 
 <p>Love Live! The School Idol Movie đã vượt 2 tỷ yên (16 triệu USD) vào ngày 27/7/2015.</p>
 
-<p>Bộ phim đã đứng đầu phòng vé Nhật Bản về số lượng vé bán ra trong 3 tuần đầu tiên của mình tại các rạp chiếu phim. Bộ phim ra mắt ở vị trí thứ 1 về thu nhập từ ngày 13/6 đến ngày 14/6 đã tụt xuống vị trí thứ 2 chỉ sau Mad Max: Fury Road trong tuần thứ hai của mình. Bộ phim sau đó trở lại lên vị trí đầu tiên về thu nhập trong tuần thứ ba.</p>
+<p>Bộ phim đã đứng đầu phòng vé Nhật Bản về số lượng vé bán ra trong 3 tuần đầu tiên của mình tại các rạp. Bộ phim chiếm vị trí thứ 1 về doanh thu từ ngày 13/6. Đến ngày 14/6 đã tụt xuống vị trí thứ 2 chỉ sau Mad Max: Fury Road trong tuần thứ hai của mình. Sau đó đã trở lại vị trí đầu tiên về doanh thu trong tuần thứ ba.</p>
 
-<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie-1.jpg" width="70%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
+<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie-1.jpg" width="50%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
 
-<p>Bộ phim sẽ được công chiếu tại một số thành phố ở Hoa Kỳ vào ngày 12. Trước đó, bộ phim đã được công chiếu ở Úc, New Zealand, Đài Loan, Hồng Kông, Hàn Quốc, Thái Lan, Malaysia, Philippines, Singapore, Việt Nam, Brunei và Indonesia.</p>
+<p>Bộ phim sẽ được công chiếu tại một số thành phố ở Hoa Kỳ vào ngày 12. Trước đó, bộ phim đã được công chiếu ở Úc, New Zealand, Đài Loan, Hồng Kông, Hàn Quốc, Thái Lan, Malaysia, Philippines, Việt Nam, Singapore, Brunei và Indonesia.</p>
 
-<p>Nội dung của 13 tập phim được chiếu trên TV và đĩa Blu-ray phim kể về một ngôi trường sắp đóng cửa mang tên Otonokizaka, ngày càng ít các đơn xin nhập học khiến ban giám hiệu nhà trường đau đầu. Ai cũng có thể hiểu được rằng có lẽ nó đang chứa đựng nhiều chuyện bí ẩn về ngôi trường cấp 3 này. Để quyết định lập lại một thời đại mới cho ngôi trường, nhóm 9 nữ sinh đã bắt đầu liên kết cùng nhau để tạo ra một sự kiện hết sức đặc biệt. Họ tạo ra School Idol Project để lôi kéo những học sinh khác đến đây. </p>',
+<p>Nội dung của 13 tập phim được chiếu trên TV và đĩa Blu-ray phim kể về một ngôi trường sắp đóng cửa mang tên Otonokizaka, ngày càng ít các đơn xin nhập học khiến ban giám hiệu nhà trường đau đầu. Honoka Kousaka quyết định cứu ngôi trường bằng cách tổ chức một nhóm nhạc và tham gia Love Live, cuộc thi dành cho các nhóm nhạc thần tượng học sinh. School Idol Project – dự án thần tượng học đường chính thức bắt đầu!</p>
+
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-08-03/love-live-film-box-office-earnings-surpass-3rd-madoka-magica-film/.91209">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-30',
             'imgDetailPost'      => 'Love-Live-The-School-Idol-Movie-doanh-thu-xep-thu-3-thumbnail.jpg',
@@ -1593,10 +1595,20 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Cách mở nhiều trang web cùng lúc',
-            'urlDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc',
-            'presentDetailPost'  => 'Khi làm SEO, bạn sẽ cần mở nhiều trang web cùng lúc để đăng bài lên diễn đàn. Có những trang web giúp bạn làm điều đó',
-            'contentDetailPost'  => 'Viết lại',
+            'nameDetailPost'     => 'Cách mở nhiều trang web cùng lúc bằng URLOpener',
+            'urlDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener',
+            'presentDetailPost'  => 'Khi làm SEO, bạn sẽ cần mở nhiều trang web cùng lúc để đăng bài lên diễn đàn. Có những trang web giúp bạn làm việc đó',
+            'contentDetailPost'  => '<p>URLOpener là trang web giúp các SEOer có thể mở nhiều trang web cùng lúc để đăng bài, diễn đàn, tăng view... Cách sử dụng rất đơn giản. Chỉ cần nhìn vào trang chủ, ta có thể thấy ngay khung copy các url. Bấm submit, các url sẽ được chuyển thành đường link. Cuối cùng là Open All.</p>
+
+<p>Tuy nhiên, sẽ có trường hợp những máy mới dùng lần đầu không xài được. Hãy đọc hướng dẫn trong phần hướng dẫn. Vì người viết dùng Google Chrome nên sẽ hướng dẫn cho Chrome.</p>
+
+<p>Hướng dẫn cho Chrome: vào Cài Đặt (Setting) của Chrome, mở Nâng Cao (Show advanced settings...), chọn Nội Dung (Content) -> Cửa Sổ Bật Lên (Popup). Trong phần Cho Phép (Allow), thêm đường link http://www.urlopener.com/index.php vào. Sau đó ra ngoài thử lại. Chúc bạn thành công!</p>
+
+<p></p>
+
+<p></p>
+
+            ',
 
             'dateDetailPost'     => '2015-08-02',
             'imgDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener-thumbnail.jpg',
@@ -2285,8 +2297,6 @@ không cần làm việc gì khác nữa.</p></center>
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
-
-
 
         $post->create([
             'nameDetailPost'     => 'Sự xuống cấp của Quỷ Vương',
@@ -3081,7 +3091,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'presentDetailPost'  => 'Một số tựa game còn làm mưa làm gió với những trailer, movie đậm chất phim bom tấn Hollywood.',
             'contentDetailPost'  => '',
 
-            'dateDetailPost'     => '2015-10-09',
+            'dateDetailPost'     => '2015-10-08',
             'imgDetailPost'      => 'Nhung-trailer-game-phong-cach-dien-anh-khong-the-bo-qua-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
@@ -3091,6 +3101,32 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 1,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Love Live! The School Idol Movie không được chiếu tại Việt Nam',
+            'urlDetailPost'      => 'Love-Live-The-School-Idol-Movie-khong-duoc-chieu-tai-viet-nam',
+            'presentDetailPost'  => 'Lại là một tin không vui dành cho các fan Anime Việt Nam',
+            'contentDetailPost'  => '<p></p>
+
+<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie.jpg" width="70%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
+
+<p></p>
+
+https://newsofotaku.wordpress.com/2015/10/09/love-live-the-school-idol-movie-se-khong-duoc-chieu-tai-viet-nam/
+
+',
+
+            'dateDetailPost'     => '2015-10-09',
+            'imgDetailPost'      => 'Love-Live-The-School-Idol-Movie-khong-duoc-chieu-tai-viet-nam-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -4905,8 +4941,6 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'presentDetailPost'  => '',
             'contentDetailPost'  => '
 
-
-
 	',
 
             'dateDetailPost'     => '2016-03-19',
@@ -5943,24 +5977,31 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'nameDetailPost'     => 'EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR',
             'urlDetailPost'      => 'EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr',
             'presentDetailPost'  => 'Hãy cùng trải nghiệm game thực tế ảo để cùng tham gia vào không chiến ngoài vũ trụ với EVE: Valkyrie.',
-            'contentDetailPost'  => '<p>Ngày 10/6/2016, EVE: Valkyrie xuất hiện trailer giới thiệu. Theo đó, game sẽ được chơi trên PS4 Virtual.</p>
+            'contentDetailPost'  => '<p>EVE: Valkyrie là một trò chơi bắn súng trong vũ trụ. Người chơi sẽ sử dụng kính thực tế ảo để có cảm giác như đang ở trong một cuộc không chiến thực sự. Eve: Valkyrie sẽ được phát hành trên Microsoft Windows và PlayStation 4 VR. Trong thời gian phát triển, trò chơi được gọi là EVE-VR.</p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/AZNff-of63U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-<p>EVE: Valkyrie là một trò chơi bắn súng trong vũ trụ mà người chơi sẽ sử dụng một tai nghe thực tế ảo để có những cảm giác đang ở trong một cuộc không chiến thực sự. Eve: Valkyrie sẽ được phát hành trên Microsoft Windows và PlayStation 4 Console.</p>
+<p>Nhà sản xuất EVE: Valkyrie, CCP Games đã tiết lộ: từ 3/2016, họ đã tinh chỉnh và cập nhật hệ thống chiến đấu để chúng trở nên trực quan, thoải mái và dễ chịu hơn. Họ đã học được rất nhiều về những gì nên và không nên làm trong VR. Khả năng cân bằng, điều khiển tàu nhận được nhiều sự trợ giúp tích cực từ cộng đồng người chơi.</p>
 
-<center><img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-2.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay" /></center>
+<center><img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-1.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" /></center>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AdfFnTt2UT0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><b>Chiến đấu nhiều người chơi</b></p>
+
+<p>Chiến đấu nhiều người chơi là trải nghiệm chính của Valkyrie. Tại đây, bạn sẽ kiếm được điểm kinh nghiệm (XP), xếp hạng phi công và mở khóa nhiều tàu, nâng cấp rộng hơn. Bạn có thể bay một mình hoặc chơi với đội hình tối đa 5 người. Bạn cũng có thể chơi ở chế độ co-op và đối mặt với các phi công AI phù hợp để bổ sung kỹ năng của bạn.</p>
+
+<p>Có ba lớp tàu chính trong Valkyrie: Fighter (tấn công), Heavy (đỡ đòn) và Support (hồi máu). Mỗi lớp có tiến trình riêng và lớp kinh nghiệm cụ thể. Khi bạn kiếm được XP trong một lớp cụ thể, bạn sẽ mở khóa các tàu mới và nâng cấp công thủ.</p>
+
+<p>Trò chơi sẽ được phát hành vào ngày 13/10/2016.</p>
+
+<center><img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-2.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" />
+<br><br>
+<img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-3.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" />
+<br><br>
+<img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-4.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" />
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdfFnTt2UT0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>Kênh Youtube EVE Online</p></center>
-
-
-
-
-
-https://blog.eu.playstation.com/2016/08/29/everything-you-need-to-know-about-eve-valkyrie-on-playstation-vr/
-
 
 <p>Trang chủ <a href="https://www.evevalkyrie.com/">EVE: VALKYRIE</a></p>',
 
