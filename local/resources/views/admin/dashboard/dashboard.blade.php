@@ -43,7 +43,7 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                                             <img class="avatar border-gray" src="admin/imgs/faces/face-1.jpg" />
                                         @endif
 
-                                        <h4 class="title">Xin chào {{Auth::user()->username}}!
+                                        <h4 class="title">{{ __('admin.welcome_user') }} {{Auth::user()->username}}! 
                                             <small>({{Auth::user()->type}})</small><br />
                                         </h4>
                                     </a>
@@ -63,7 +63,7 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                         <div class="card">
                             <div class="header">
                                 <h4 class="title">Get chart from Google Analytics</h4>
-                                <p class="category">Bài viết mỗi chuyên mục</p>
+                                <p class="category">{{ __('admin.posts_per_category') }}</p>
                             </div>
                             <div class="content">
                                 <div id="chartHours" class="ct-chart" style="position: relative; width:100%;">
@@ -127,15 +127,15 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                         <div class="card">
                             <div class="header">
                                 <h4 class="title">Thống kê tin tức</h4>
-                                <p class="category">Các chuyên mục và tin tức</p>
+                                <p class="category">{{ __('admin.categories_and_posts') }}</p>
                             </div>
                             <div class="content table-responsive table-full-width">
                                 <table class="table table-hover table-striped">
                                     <thead>
-                                        <th>Name</th>
-                                        <th>URL</th>
-                                        <th>Posts</th>
-                                        <th>Views</th>
+                                        <th>{{ __('admin.category_name') }}</th>
+                                        <th>{{ __('admin.category_url') }}</th>
+                                        <th>{{ __('admin.category_number_of_posts') }}</th>
+                                        <th>{{ __('admin.category_number_of_views') }}</th>
                                     </thead>
                                     <tbody>
 
@@ -152,7 +152,6 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
 
                                     </tbody>
                                 </table>
-
                             </div>
                         </div>
                     </div>
@@ -160,8 +159,8 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                     <div class="col-md-6">
                         <div class="card ">
                             <div class="header">
-                                <h4 class="title">Bài viết mới</h4>
-                                <p class="category">Backend development</p>
+                                <h4 class="title">{{ __('admin.new_post') }}</h4>
+                                <p class="category">{{ __('admin.newest_post') }}</p>
                             </div>
                             <div class="content">
                                 <div class="table-full-width">
