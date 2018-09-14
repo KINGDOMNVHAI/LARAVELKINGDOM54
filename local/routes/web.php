@@ -24,7 +24,7 @@ Route::get('/forgot-password', 'Auth\ForgotPasswordController@index')->name('for
 
 Route::post('/forgot-password-sendcode', 'Auth\ForgotPasswordController@sendcode')->name('forgot-password-sendcode');
 
-Route::get('logout', 'Admin\DashboardController@logout')->name('logout');
+Route::get('/logout', 'Admin\DashboardController@logout')->name('logout');
 
 // ======================= Categories =======================
 

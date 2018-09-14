@@ -60,8 +60,18 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="{{url('logout')}}">
+                    <a onclick="userLogout()">
                         <p>Log out</p>
+
+                        <script>
+                            function userLogout() {
+                                var base_url = window.location.origin;
+                                var c = base_url + "/LARAVELKINGDOM/logout";
+                                if (confirm("Bạn muốn đăng xuất?")) {
+                                    window.location.replace(c);
+                                }
+                            }
+                        </script>
                     </a>
                 </li>
                 <li class="separator hidden-lg hidden-md"></li>

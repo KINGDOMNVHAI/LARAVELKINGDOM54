@@ -1,9 +1,9 @@
 <?php
 namespace App\Services\Auth;
 
+use App\Model\users;
 use Illuminate\Support\ServiceProvider;
-use App\Model\user;
-use DB;
+use Illuminate\Support\Facades\Auth;
 
 class LoginService extends ServiceProvider
 {
@@ -22,8 +22,10 @@ class LoginService extends ServiceProvider
      *
      * @return void
      */
-    public function run($request)
+    public function checkUser($request)
     {
+        $query = users::where('username', $request)->first();
 
+        return $query;
     }
 }

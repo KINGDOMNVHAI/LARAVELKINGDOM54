@@ -1373,51 +1373,50 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'presentDetailPost'  => 'Hãy cùng tìm hiểu cách thay đổi giao diện Desktop, thanh Taskbar để màn hình máy vi tính của bạn trở nên sinh động hơn.',
             'contentDetailPost'  => '<p>Chắc các bạn đã từng nghe đến cách thay đổi theme cho Windows, tức là thay đổi giao diện Desktop, thanh Taskbar và nhiều thứ khác để trông sinh động hơn. Tuy nhiên, vẫn có nhiều bạn hay thắc mắc về một số lỗi khi tạo theme. Bài viết này sẽ hướng dẫn cho các bạn cách tạo theme.</p>
 
-            <p>Đầu tiên, các bạn cần phải có 1 theme và chương trình Universal Theme Patcher. Đây là theme mà người viết thích nhất vì nó có đầy đủ các nhân vật trong Date a Live phần 1.</p>
+<p>Đầu tiên, các bạn cần phải có 1 theme và chương trình Universal Theme Patcher. Đây là theme mà người viết thích nhất vì nó có đầy đủ các nhân vật trong Date a Live phần 1.</p>
 
-            <p><b>Link download theme Date a Live và Universal Theme Patcher</b></p>
+<p><b>Link download theme Date a Live và Universal Theme Patcher</b></p>
 
-            <ul>
-            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZaFBPdGlPU2JiQmM/view">Google Drive KINGDOM NVHAI</a>
-            </ul>
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZaFBPdGlPU2JiQmM/view">Google Drive KINGDOM NVHAI</a>
+</ul>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-1.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-1.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Sau khi tải về, các bạn giải nén theme Date a Live ra và cài đặt. Tôi sử dụng theme có tên là [THEME SEVEN] Date a Live. Kết quả xuất hiện ngay tức thì sau khi cài xong. Tuy nhiên, vấn đề là chỉ có màn hình Desktop là thay đổi hình ảnh, còn thanh Taskbar gặp lỗi chuyển thành dạng thanh Taskbar của Windows 98.</p>
+<p>Sau khi tải về, các bạn giải nén theme Date a Live ra và cài đặt. Tôi sử dụng theme có tên là [THEME SEVEN] Date a Live. Kết quả xuất hiện ngay tức thì sau khi cài xong. Tuy nhiên, vấn đề là chỉ có màn hình Desktop là thay đổi hình ảnh, còn thanh Taskbar gặp lỗi chuyển thành dạng thanh Taskbar của Windows 98.</p>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-2.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-2.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Lúc này, các bạn cài Universal Theme Patcher đúng phiên bản 32 bit hoặc 64 bit. Khi cài, chương trình có hỏi về 3 cái Patch cần cài. Các bạn cài hết cả 3 Patch bằng cách nhấn nút Patch. Sau đó khởi động lại máy.</p>
+<p>Lúc này, các bạn cài Universal Theme Patcher đúng phiên bản 32 bit hoặc 64 bit. Khi cài, chương trình có hỏi về 3 cái Patch cần cài. Các bạn cài hết cả 3 Patch bằng cách nhấn nút Patch. Sau đó khởi động lại máy.</p>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-3.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-3.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Nếu sau khi khởi động lại vẫn không có gì thay đổi, bạn click chuột phải vào màn hình -> chọn Personalize -> chọn theme Date a Live ở dòng Installed Themes là có kết quả.</p>
+<p>Nếu sau khi khởi động lại vẫn không có gì thay đổi, bạn click chuột phải vào màn hình -> chọn Personalize -> chọn theme Date a Live ở dòng Installed Themes là có kết quả.</p>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-4.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
-            <br><br>
-            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-5.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-4.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+<br><br>
+<img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-5.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Nếu bạn muốn thay đổi hình ảnh xuất hiện ngoài màn hình Desktop, bạn vào C:\Windows\Resources\Themes\Date a Live\wallpaper. Tại đây bạn sẽ thấy tất cả những tấm hình mà theme đã sẵn có. Bạn chỉ cần thay đổi bằng những tấm hình bạn thích là được. Còn nếu bạn muốn chỉnh thời gian thay đổi hình ảnh thì bạn quay lại cửa sổ Personalize, chọn Desktop Background và chỉnh thời gian xuất hiện, chọn những tấm nào được phép xuất hiện.</p>
+<p>Nếu bạn muốn thay đổi hình ảnh xuất hiện ngoài màn hình Desktop, bạn vào C:\Windows\Resources\Themes\Date a Live\wallpaper. Tại đây bạn sẽ thấy tất cả những tấm hình mà theme đã sẵn có. Bạn chỉ cần thay đổi bằng những tấm hình bạn thích là được. Còn nếu bạn muốn chỉnh thời gian thay đổi hình ảnh thì bạn quay lại cửa sổ Personalize, chọn Desktop Background và chỉnh thời gian xuất hiện, chọn những tấm nào được phép xuất hiện.</p>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-6.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
-            <br><br>
-            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-7.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-6.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+<br><br>
+<img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-7.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Tương tự, bạn cũng có thể thay đổi nhạc khi khởi động hoặc tắt máy. Bạn vào C:\Windows\Resources\Themes\Date a Live\sound có 2 file nhạc Logon (nhạc khởi động máy) và nhạc Logout (nhạc tắt máy). Bạn hãy chọn file nhạc bạn thích, thay tên bằng Logon hoặc Logout rồi để vào đó. Chương trình sẽ tự động nhận biết. Nhớ là phải chọn những file nhạc ngắn để nhạc nổi lên không quá dài. Người viết đã từng gặp phải tình huống là nhạc nổi lên khi đang ngồi ở chỗ đông người, rất phiền toái.</p>
+<p>Tương tự, bạn cũng có thể thay đổi nhạc khi khởi động hoặc tắt máy. Bạn vào C:\Windows\Resources\Themes\Date a Live\sound có 2 file nhạc Logon (nhạc khởi động máy) và nhạc Logout (nhạc tắt máy). Bạn hãy chọn file nhạc bạn thích, thay tên bằng Logon hoặc Logout rồi để vào đó. Chương trình sẽ tự động nhận biết. Nhớ là phải chọn những file nhạc ngắn để nhạc nổi lên không quá dài. Người viết đã từng gặp phải tình huống là nhạc nổi lên khi đang ngồi ở chỗ đông người, rất phiền toái.</p>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-8.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-8.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Các bạn cũng có thể tìm thêm nhiều theme đẹp khác và sáng tạo bằng cách kết hợp các theme lại với nhau. Ví dụ như theme này có nhạc hay, hình đẹp, theme kia có hình trên Taskbar và các cửa sổ đẹp. Bạn thay nhạc, đổi hình cho đúng ý mình. Một máy vi tính có thể cài nhiều theme và thay đổi bằng cách vào phần Personalize.</p>
+<p>Các bạn cũng có thể tìm thêm nhiều theme đẹp khác và sáng tạo bằng cách kết hợp các theme lại với nhau. Ví dụ như theme này có nhạc hay, hình đẹp, theme kia có hình trên Taskbar và các cửa sổ đẹp. Bạn thay nhạc, đổi hình cho đúng ý mình. Một máy vi tính có thể cài nhiều theme và thay đổi bằng cách vào phần Personalize.</p>
 
-            <center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-9.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
-            <br><br>
-            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-10.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
-            <br><br>
-            <img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-11.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-9.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+<br><br>
+<img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-10.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" />
+<br><br>
+<img src="../local/public/upload/images/thuthuat/Tao-Theme-cho-window-7-DAL-11.jpg" width="70%" alt="Tạo theme cho Windows 7 phong cách Anime" /></center>
 
-            <p>Tuy nhiên, lời khuyên là bạn sử dụng theme nào thì chỉ cài một theme đó thôi. Những theme còn lại hãy xóa đi để khỏi chiếm dung lượng và dẫn đến tình trạng máy chạy chậm. Chúc các bạn thành công!</p>
-
-            ',
+<p>Tuy nhiên, lời khuyên là bạn sử dụng theme nào thì chỉ cài một theme đó thôi. Những theme còn lại hãy xóa đi để khỏi chiếm dung lượng và dẫn đến tình trạng máy chạy chậm. Chúc các bạn thành công!</p>
+',
 
             'dateDetailPost'     => '2015-07-25',
             'imgDetailPost'      => 'tao-theme-cho-windows-7-thumbnail.jpg',
@@ -1536,49 +1535,24 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'EVE: Valkyrie ra mắt trailer gameplay',
-            'urlDetailPost'      => 'EVE-Valkyrie-ra-mat-trailer-gameplay',
-            'presentDetailPost'  => 'Hãy cùng trải nghiệm game thực tế ảo để cùng tham gia vào không chiến ngoài vũ trụ với EVE: Valkyrie.',
-            'contentDetailPost'  => '<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XQxuy5e7xx0" frameborder="0" allowfullscreen></iframe></center>
-
-<p>EVE: Valkyrie là một trò chơi bắn súng trong vũ trụ mà người chơi sẽ sử dụng một tai nghe thực tế ảo để có những cảm giác đang ở trong một cuộc không chiến thực sự. Eve: Valkyrie sẽ được phát hành trên Microsoft Windows và PlayStation 4 Console. </p>
-
-<center><img src="../local/public/upload/images/game/eve-valkyrie-playing-group.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay" /></center>
-
-<p>Trang chủ <a href="https://www.evevalkyrie.com/">EVE: VALKYRIE</a></p>',
-
-            'dateDetailPost'     => '2015-07-29',
-            'imgDetailPost'      => 'Eve-Valkyrie-trailer-gameplay-thumbnail.jpg',
-            'idCat'              => GAME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'views'              => random_int(0,100),
-            'enable'             => ENABLE,
-            'popular'            => 0,
-            'head_position'      => HEADER_NONE,
-            'update'             => 0,
-        ]);
-
-        $post->create([
             'nameDetailPost'     => 'Doanh thu Love Live! chiếm hạng 3 của Madoka Magica',
             'urlDetailPost'      => 'Doanh-thu-Love-Live-chiem-hang-3-cua-Madoka-Magica',
             'presentDetailPost'  => 'Sau hơn 1 tháng công chiếu, Love Live! The School Idol Movie đã thu được hơn 2,2 tỷ yên (17,7 triệu USD) tính đến ngày 1/8/2015.',
-            'contentDetailPost'  => '<p>Love Live! The School Idol Movie đã đạt hơn 1,5 triệu lượt xem tính đến ngày 1/8/2015, 50 ngày sau khi bộ phim được trình chiếu tại các rạp chiếu phim. Bộ phim cũng đã thu được hơn 2,2 tỷ yên (17,7 triệu USD) tính đến ngày 1/8, vượt qua doanh thu phòng vé của Puella Magi Madoka Magica The Movie Part 3: Rebellion. Puella Magi Madoka Magica The Movie Part 3: Rebellion đã đạt được tổng cộng ¥ 2.080.000.000 trong thời gian trình chiếu tại Nhật Bản khi bộ phim được ra mắt vào tháng 10/2013.</p>
+            'contentDetailPost'  => '<p>Love Live! The School Idol Movie đã đạt hơn 1,5 triệu lượt xem tính đến ngày 1/8/2015, nghĩa là 50 ngày sau khi bộ phim được trình chiếu tại các rạp. Bộ phim cũng đã thu được hơn 2,2 tỷ yên (17,7 triệu USD) tính đến ngày 1/8, vượt qua doanh thu phòng vé của Puella Magi Madoka Magica The Movie Part 3: Rebellion. Puella Magi Madoka Magica The Movie Part 3: Rebellion đã đạt được tổng cộng ¥ 2.080.000.000 trong thời gian trình chiếu tại Nhật Bản khi bộ phim được ra mắt vào tháng 10/2013.</p>
 
-<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie.jpg" width="70%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" />
-</center>
+<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie.jpg" width="50%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
 
 <p>Love Live! The School Idol Movie đã vượt 2 tỷ yên (16 triệu USD) vào ngày 27/7/2015.</p>
 
-<p>Bộ phim đã đứng đầu phòng vé Nhật Bản về số lượng vé bán ra trong 3 tuần đầu tiên của mình tại các rạp chiếu phim. Bộ phim ra mắt ở vị trí thứ 1 về thu nhập từ ngày 13/6 đến ngày 14/6 đã tụt xuống vị trí thứ 2 chỉ sau Mad Max: Fury Road trong tuần thứ hai của mình. Bộ phim sau đó trở lại lên vị trí đầu tiên về thu nhập trong tuần thứ ba.
-</p>
+<p>Bộ phim đã đứng đầu phòng vé Nhật Bản về số lượng vé bán ra trong 3 tuần đầu tiên của mình tại các rạp. Bộ phim chiếm vị trí thứ 1 về doanh thu từ ngày 13/6. Đến ngày 14/6 đã tụt xuống vị trí thứ 2 chỉ sau Mad Max: Fury Road trong tuần thứ hai của mình. Sau đó đã trở lại vị trí đầu tiên về doanh thu trong tuần thứ ba.</p>
 
-<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie-1.jpg" width="70%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" />
-</center>
+<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie-1.jpg" width="50%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
 
-<p>Bộ phim sẽ được công chiếu tại một số thành phố ở Hoa Kỳ vào ngày 12. Bộ phim được công chiếu ở Úc, New Zealand, Đài Loan, Hồng Kông, Hàn Quốc, Thái Lan, Malaysia, Philippines, Singapore, Việt Nam, Brunei và Indonesia.</p>
+<p>Bộ phim sẽ được công chiếu tại một số thành phố ở Hoa Kỳ vào ngày 12. Trước đó, bộ phim đã được công chiếu ở Úc, New Zealand, Đài Loan, Hồng Kông, Hàn Quốc, Thái Lan, Malaysia, Philippines, Việt Nam, Singapore, Brunei và Indonesia.</p>
 
-<p>Nội dung của 13 tập phim được chiếu trên TV và đĩa Blu-ray phim kể về một ngôi trường sắp đóng cửa mang tên Otonokizaka, ngày càng ít các đơn xin nhập học khiến ban giám hiệu nhà trường đau đầu. Ai cũng có thể hiểu được rằng có lẽ nó đang chứa đựng nhiều chuyện bí ẩn về ngôi trường cấp 3 này. Để quyết định lập lại một thời đại mới cho ngôi trường, nhóm 9 nữ sinh đã bắt đầu liên kết cùng nhau để tạo ra một sự kiện hết sức đặc biệt. Họ tạo ra School Idol Project để lôi kéo những học sinh khác đến đây. </p>',
+<p>Nội dung của 13 tập phim được chiếu trên TV và đĩa Blu-ray phim kể về một ngôi trường sắp đóng cửa mang tên Otonokizaka, ngày càng ít các đơn xin nhập học khiến ban giám hiệu nhà trường đau đầu. Honoka Kousaka quyết định cứu ngôi trường bằng cách tổ chức một nhóm nhạc và tham gia Love Live, cuộc thi dành cho các nhóm nhạc thần tượng học sinh. School Idol Project – dự án thần tượng học đường chính thức bắt đầu!</p>
+
+<p>Nguồn: <a href="http://www.animenewsnetwork.com/news/2015-08-03/love-live-film-box-office-earnings-surpass-3rd-madoka-magica-film/.91209">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-07-30',
             'imgDetailPost'      => 'Love-Live-The-School-Idol-Movie-doanh-thu-xep-thu-3-thumbnail.jpg',
@@ -1620,13 +1594,21 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'update'             => 0,
         ]);
 
-
-
         $post->create([
-            'nameDetailPost'     => 'Cách mở nhiều trang web cùng lúc',
-            'urlDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc',
-            'presentDetailPost'  => 'Khi làm SEO, bạn sẽ cần mở nhiều trang web cùng lúc để đăng bài lên diễn đàn. Có những trang web giúp bạn làm điều đó',
-            'contentDetailPost'  => 'Viết lại',
+            'nameDetailPost'     => 'Cách mở nhiều trang web cùng lúc bằng URLOpener',
+            'urlDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener',
+            'presentDetailPost'  => 'Khi làm SEO, bạn sẽ cần mở nhiều trang web cùng lúc để đăng bài lên diễn đàn. Có những trang web giúp bạn làm việc đó',
+            'contentDetailPost'  => '<p>URLOpener là trang web giúp các SEOer có thể mở nhiều trang web cùng lúc để đăng bài, diễn đàn, tăng view... Cách sử dụng rất đơn giản. Chỉ cần nhìn vào trang chủ, ta có thể thấy ngay khung copy các url. Bấm submit, các url sẽ được chuyển thành đường link. Cuối cùng là Open All.</p>
+
+<p>Tuy nhiên, sẽ có trường hợp những máy mới dùng lần đầu không xài được. Hãy đọc hướng dẫn trong phần hướng dẫn. Vì người viết dùng Google Chrome nên sẽ hướng dẫn cho Chrome.</p>
+
+<p>Hướng dẫn cho Chrome: vào Cài Đặt (Setting) của Chrome, mở Nâng Cao (Show advanced settings...), chọn Nội Dung (Content) -> Cửa Sổ Bật Lên (Popup). Trong phần Cho Phép (Allow), thêm đường link http://www.urlopener.com/index.php vào. Sau đó ra ngoài thử lại. Chúc bạn thành công!</p>
+
+<p></p>
+
+<p></p>
+
+            ',
 
             'dateDetailPost'     => '2015-08-02',
             'imgDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener-thumbnail.jpg',
@@ -1945,7 +1927,7 @@ các viên bi nằm gần các mũi tên cùng màu</p></center>
 
         $post->create([
             'nameDetailPost'     => '[Review] Hektor - Ký ức xáo trộn',
-            'urlDetailPost'      => 'Hektor',
+            'urlDetailPost'      => 'Hektor-ky-uc-xao-tron',
             'presentDetailPost'  => 'Mò mẫm trong bóng tối với ngọn lửa nhỏ bé, đi lang thang trong một khu vực dành cho thí nghiệm với những sinh vật quái dị lang thang đâu đó. Nguyên nhân là gì? Đây là đâu? Tại sao bạn lại ở đây?',
             'contentDetailPost'  => '<p>Tên game: Hektor<br>
 Thể loại: kinh dị<br>
@@ -1953,12 +1935,14 @@ Sản xuất năm: 1/2015.<br>
 Hãng sản xuất: Rubycone<br>
 Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Drive Space: 4 GB, Video: GeForce GT 740, Sound: 16-bit Directx 11, Windows XP, 7,8.</p>
 
-<p>Link download:<br>
-	<a href="http://kumpulbagi.com/alonemisery/hektor-www-minigamespc-net-51056/www-minigamespc-net-flt-hekt,317364,gallery,1,1.iso">Link nước ngoài</a><br>
 
-<a href="https://www.fshare.vn/file/J3J5UK29VCRK">Fshare</a><br>
+<p><b>Link download</b></p>
 
-<a href="https://drive.google.com/open?id=0B8chnwZX7g9ANF9nZDhFTmJfNG8">Google Drive KINGDOM NVHAI</a></p>
+<ul>
+<li><a href="http://kumpulbagi.com/alonemisery/hektor-www-minigamespc-net-51056/www-minigamespc-net-flt-hekt,317364,gallery,1,1.iso">Link nước ngoài</a>
+<li><a href="https://www.fshare.vn/file/J3J5UK29VCRK">Fshare</a>
+<li><a href="https://drive.google.com/open?id=0B8chnwZX7g9ANF9nZDhFTmJfNG8">Google Drive KINGDOM NVHAI</a>
+</ul>
 
 <p>Nguồn link: <br>
 <a href="http://www.minigamespc.net/2015/03/hektor-full-version.html">Minigamespc</a><br>
@@ -1971,18 +1955,15 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
 
 <p>Hektor là tựa game kinh dị của hãng Rubycone được ra mắt vào đầu năm 2015. Trò chơi này đã thu hút sự chú ý của rất nhiều fan yêu thích thể loại game kinh dị với phong cách tìm và chạy.</p>
 
-<center><img src="../local/public/upload/images/game/Hektor.jpg" width="70%" alt="Hektor - Ký ức xáo trộn" />
-</center>
+<center><img src="../local/public/upload/images/game/Hektor.jpg" width="70%" alt="Hektor - Ký ức xáo trộn" /></center>
 
 <p>Cốt truyện của game hơi mù mờ. Bạn sẽ xem một đoạn phim quay cảnh mình đang nằm trên giường với ánh đèn giống như trong phòng phẫu thuật. Sau khi tỉnh lại, bạn thấy mình đang nằm trên sàn nhà, trong một hành lang tối tăm. Chỉ với ánh sáng phát ra từ chiếc đèn pin và ngọn lửa nhỏ bé của cái hộp quẹt, bạn sẽ phải tìm hiểu xem bạn đang làm gì ở đây.</p>
 
-<center><img src="../local/public/upload/images/game/Hektor_2.jpg" width="70%" alt="Hektor - Ký ức xáo trộn" />
-</center>
+<center><img src="../local/public/upload/images/game/Hektor_2.jpg" width="70%" alt="Hektor - Ký ức xáo trộn" /></center>
 
 <p>Cảm nhận đầu tiên của người viết khi vừa bắt đầu là game tạo cảm giác u ám nặng nề. Nơi bạn đang đi có vẻ giống như một khu thí nghiệm bỏ hoang, có những nhà giam cửa song sắt, những căn phòng bàn giấy, những phòng bảo vệ có màn hình camera… Tất cả đều tối om trừ một số chỗ có công tắc đèn nếu bạn để ý trên tường. Khi đi trong một hành lang dài không ánh sáng, người viết cảm thấy giống như hành lang này dài vô tận. Âm thanh tí tách của nước, gạch đá rơi khi khu vực đột ngột rung chuyển tạo cảm giác như hơi thở của bạn trở nên khó khăn hơn.</p>
 
-<center><img src="../local/public/upload/images/game/Hektor_1.jpg" width="70%" alt="Hektor - Ký ức xáo trộn" />
-</center>
+<center><img src="../local/public/upload/images/game/Hektor_1.jpg" width="70%" alt="Hektor - Ký ức xáo trộn" /></center>
 
 <p>Khu vực này dường như đang bị một sức mạnh ma quái nào đó điều khiển, khiến cho tầm nhìn của người chơi đã tối còn bị méo mó, mờ ảo. Khi người chơi nhìn thấy dòng chữ hướng dẫn cách mở cánh cửa đầu tiên, lối đi phía sau lưng người chơi thay đổi và trở thành lối đi khác. Những sinh vật quái dị trông giống con người bất thình lình xuất hiện trong bóng tối, hồn ma bốc cháy… khiến những ai đã từng chơi Outlast hay những thể loại tương tự cảm thấy run rẩy mỗi khi mở những cánh cửa hay nghe thấy tiếng động lạ. Và giống Outlast, bạn chỉ có thể chạy nhanh hết sức trong bóng tối khi nhìn thấy những sinh vật đó vì trong tay bạn chẳng có vũ khí gì.</p>
 
@@ -1990,8 +1971,8 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
 
 <p>Hektor hơi khác với Outlast là bạn sẽ không thấy ai trong suốt phần lớn thời gian chơi. Điều này nghe có vẻ yên tâm nhưng chắc chắn rằng một khi bạn đã bị hù thì chắc chắn bạn không thể giữ bình tĩnh để bỏ chạy, còn chạy đường nào và chạy được hay không lại là chuyện khác vì mọi thứ rất tối. Tốc độ mở cửa cũng không nhanh như Outlast nên chạy cũng khó hơn. Tốt nhất là bạn nên mở sẵn cửa phòng khi cần. Outlast thì khác, bạn luôn ở trong tư thế sẵn sàng chạy thục mạng nên cảm giác sợ khi chạy không hồi hộp bằng Hektor.</p>
 
-<p>Trò chơi gồm có 3 phần nên thời lượng cũng không quá dài như Outlast. Game có đồ họa đẹp, cấu hình nhẹ và khá hồi hộp. Bạn nên chơi qua Hektor nếu muốn tìm một tựa game kinh dị với phong cách tìm và chạy để "giải trí ".
-</p>',
+<p>Trò chơi gồm có 3 phần nên thời lượng cũng không quá dài như Outlast. Game có đồ họa đẹp, cấu hình nhẹ và khá hồi hộp. Bạn nên chơi qua Hektor nếu muốn tìm một tựa game kinh dị với phong cách tìm và chạy để "giải trí ".</p>
+',
 
             'dateDetailPost'     => '2015-08-07',
             'imgDetailPost'      => 'Hektor-thumbnail.jpg',
@@ -2047,13 +2028,11 @@ trong các giải đấu mùa 2.</p></center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/N6wfgTNY5xo" frameborder="0" allowfullscreen></iframe>
 
 <p>Alliance vs Cloud 9 trong Chung Kết Thế Giới mùa 4.<br>
-Shook đánh Rammus mua Đá Tỏa Sáng.
-</p></center>
+Shook đánh Rammus mua Đá Tỏa Sáng.</p></center>
 
 <center><img src="../local/public/upload/images/game/Tuong_hop_Da_Toa_Sang.jpg" width="70%" alt="Kinh nghiệm chọn tướng ở Elo Hell" />
 
-<p>Những tướng có thể lên Hồng Ngọc Tỏa Sáng dù đi ở bất kỳ vị trí nào.
-</p></center>
+<p>Những tướng có thể lên Hồng Ngọc Tỏa Sáng dù đi ở bất kỳ vị trí nào.</p></center>
 
 <p><b>5 Là một tướng đi được gần như mọi vị trí.</b><br>
 Điển hình: Yorick, Gangplank, Kayle, Galio…</p>
@@ -2319,8 +2298,6 @@ không cần làm việc gì khác nữa.</p></center>
             'update'             => 0,
         ]);
 
-
-
         $post->create([
             'nameDetailPost'     => 'Sự xuống cấp của Quỷ Vương',
             'urlDetailPost'      => 'Su-xuong-cap-cua-Quy-Vuong',
@@ -2434,15 +2411,13 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
 
 <center><img src="../local/public/upload/images/anime/Kuusen-Madoushi-Kouhosei-No-Kyoukan-2.jpg" width="70%" alt="Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không" />
 <br><br>
-<img src="../local/public/upload/images/anime/Kuusen-Madoushi-Kouhosei-No-Kyoukan-3.jpg" width="70%" alt="Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không" />
-</center>
+<img src="../local/public/upload/images/anime/Kuusen-Madoushi-Kouhosei-No-Kyoukan-3.jpg" width="70%" alt="Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không" /></center>
 
 <p>Tuy nhiên, những ưu điểm đó không bù lại được nhược điểm quá lớn là những pha hành động quá sơ sài. Nội dung, cốt truyện hay, tình cảm tốt và ecchi trung bình chỉ khiến bộ phim mang tính chất xem giải trí chứ không có nhiều hy vọng trở thành phim lớn. Hiện giờ series này có 7 Volume Light Novel. Nếu doanh thu của phim này quá ít thì khó có khả năng sẽ có phần 2. Nếu như phim này phần hành động kịch tính, được đầu tư hơn nữa thì chắc chắn sẽ trở thành phim lớn.</p>
 
 <center><img src="../local/public/upload/images/anime/Kuusen-Madoushi-Kouhosei-No-Kyoukan-light-novel.jpg" width="70%" alt="Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không" />
 <br><br>
-<img src="../local/public/upload/images/anime/Kuusen-Madoushi-Kouhosei-No-Kyoukan-vol1.jpg" width="50%" alt="Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không" />
-</center>
+<img src="../local/public/upload/images/anime/Kuusen-Madoushi-Kouhosei-No-Kyoukan-vol1.jpg" width="50%" alt="Kuusen Madoushi Kouhosei No Kyoukan – Trường học phép thuật trên không" /></center>
 ',
 
             'dateDetailPost'     => '2015-08-22',
@@ -2463,28 +2438,27 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'presentDetailPost'  => 'Một tựa game đấu bài mang phong cách mới đang trong giai đoạn Close Beta. ',
             'contentDetailPost'  => '<p>Trang chủ <a href="https://www.rschronicle.com/">Chronicle: RuneScape Legends</a></p>
 
-            <p>Game online đấu bài Chronicle: RuneScape Legends đã mở cửa cho game thủ đăng ký chơi thử closed beta và sẽ mở cửa thử nghiệm dự kiến là vào tháng tới.</p>
+<p>Game online đấu bài Chronicle: RuneScape Legends đã mở cửa cho game thủ đăng ký chơi thử closed beta và sẽ mở cửa thử nghiệm dự kiến là vào tháng tới.</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/F4Qv221_ydE" frameborder="0" allowfullscreen></iframe><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/F4Qv221_ydE" frameborder="0" allowfullscreen></iframe><br>
 
-            <p>Trailer game Chronicle: RuneScape Legends</p></center>
+<p>Trailer game Chronicle: RuneScape Legends</p></center>
 
-            <p>Nếu như các bạn đã biết đến Hearthstone, một tựa game đấu bài nổi tiếng nhất hiện nay và là một trong số các trò chơi được thi đấu eSport thì Chronicle: RuneScape Legends cũng là một tựa game như vậy. </p>
+<p>Nếu như các bạn đã biết đến Hearthstone, một tựa game đấu bài nổi tiếng nhất hiện nay và là một trong số các trò chơi được thi đấu eSport thì Chronicle: RuneScape Legends cũng là một tựa game như vậy. </p>
 
-            <p>Tuy nhiên, nếu Hearthstone là tựa game dựa trên World of Warcraft và mang tính chất thuần đấu bài thì Chronicle: RuneScape Legends lại là tựa game dựa trên game RuneScape và có xu hướng theo dạng dàn trận. Bạn sẽ triệu hồi các quái vật trên những bản đồ khác nhau và di chuyển chúng. Giống như bạn đang chơi một ván cờ kết hợp với đấu bài hơn là một game đấu bài thuần túy như Hearthstone. </p>
+<p>Tuy nhiên, nếu Hearthstone là tựa game dựa trên World of Warcraft và mang tính chất thuần đấu bài thì Chronicle: RuneScape Legends lại là tựa game dựa trên game RuneScape và có xu hướng theo dạng dàn trận. Bạn sẽ triệu hồi các quái vật trên những bản đồ khác nhau và di chuyển chúng. Giống như bạn đang chơi một ván cờ kết hợp với đấu bài hơn là một game đấu bài thuần túy như Hearthstone. </p>
 
-            <p>Trang chủ <a href="http://www.runescape.com/community">RunScape</a></p>
+<p>Trang chủ <a href="http://www.runescape.com/community">RunScape</a></p>
 
-            <center><iframe width="420" height="315" src="https://www.youtube.com/embed/17CrXMT2yEY" frameborder="0" allowfullscreen></iframe><br>
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/17CrXMT2yEY" frameborder="0" allowfullscreen></iframe><br>
 
-            <p>Gameplay của Chronicle: RuneScape Legends</p></center>
+<p>Gameplay của Chronicle: RuneScape Legends</p></center>
 
-            <p>Đồ họa 3D trong game khá đẹp. Từ tòa lâu đài to lớn đến ngôi làng bé nhỏ đều được thực hiện khá rõ nét. Chronicle: RuneScape Legends cũng giống như Hearthstone. Bạn phải chọn 1 hero và sử dụng 3 loại bài quái vật, phép và bẫy để tấn công đối thủ.</p>
+<p>Đồ họa 3D trong game khá đẹp. Từ tòa lâu đài to lớn đến ngôi làng bé nhỏ đều được thực hiện khá rõ nét. Chronicle: RuneScape Legends cũng giống như Hearthstone. Bạn phải chọn 1 hero và sử dụng 3 loại bài quái vật, phép và bẫy để tấn công đối thủ.</p>
 
-            <center><img src="../local/public/upload/images/game/Chronicle-RuneScape-Legends-map.jpg" width="70%" alt="Chronicle: RuneScape Legends - Game đấu bài hấp dẫn mới" />
-            </center>
+<center><img src="../local/public/upload/images/game/Chronicle-RuneScape-Legends-map.jpg" width="70%" alt="Chronicle: RuneScape Legends - Game đấu bài hấp dẫn mới" /></center>
 
-            <p>Dựa trên các bình luận trên Youtube, có nhiều ý kiến trái chiều nhau về dạng game này. Có những người thích game thuần đấu bài như Hearthstone nhưng có nhiều ý kiến thích thú về phong cách chơi mới này. Chắc chắn game Chronicle: RuneScape Legends sẽ tiêu hao khá nhiều chất xám của những ai muốn khám phá nó.</p>',
+<p>Dựa trên các bình luận trên Youtube, có nhiều ý kiến trái chiều nhau về dạng game này. Có những người thích game thuần đấu bài như Hearthstone nhưng có nhiều ý kiến thích thú về phong cách chơi mới này. Chắc chắn game Chronicle: RuneScape Legends sẽ tiêu hao khá nhiều chất xám của những ai muốn khám phá nó.</p>',
 
             'dateDetailPost'     => '2015-08-25',
             'imgDetailPost'      => 'Chronicle-RuneScape-Legends-thumbnail.jpg',
@@ -2504,27 +2478,25 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'presentDetailPost'  => 'Một tựa game MMORPG 3D mang phong cách Anime đang trong giai đoạn thử nghiệm. ELOA – Elite Lord of Alliance do hãng Webzen của Hàn Quốc.',
             'contentDetailPost'  => '<p>Trang chủ <a href="http://eloa.webzen.com/en">ELOA</a></p>
 
-            <p>Hãng Webzen của Hàn Quốc vừa cho ra mắt game MMORPG mang tên ELOA – Elite Lord of Alliance. Game đang trong giai đoạn Close Beta thử nghiệm.</p>
+<p>Hãng Webzen của Hàn Quốc vừa cho ra mắt game MMORPG mang tên ELOA – Elite Lord of Alliance. Game đang trong giai đoạn Close Beta thử nghiệm.</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/pvZ_7eNZh8k" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pvZ_7eNZh8k" frameborder="0" allowfullscreen></iframe>
 
-            <p>Trailer ELOA</p></center>
+<p>Trailer ELOA</p></center>
 
-            <p>ELOA là game mang phong cách Anime, được thiết kế trên đồ họa 3D với camera xoay nhiều góc độ. Người chơi sẽ hóa thân thành các anh hung đi phiêu lưu, luyện level, mua sắm vũ khí, tham gia các sự kiện như mọi game MMORPG khác.</p>
+<p>ELOA là game mang phong cách Anime, được thiết kế trên đồ họa 3D với camera xoay nhiều góc độ. Người chơi sẽ hóa thân thành các anh hung đi phiêu lưu, luyện level, mua sắm vũ khí, tham gia các sự kiện như mọi game MMORPG khác.</p>
 
-            <center><img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-1.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
-            </center>
+<center><img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-1.jpg" width="70%" alt="ELOA – Game 3D Anime mới" /></center>
 
-            <p>Nếu ai đã từng chơi game Aura Kingdom thì sẽ thấy ELOA có những điểm tương đồng. Đầu tiên là âm nhạc. Trong trailer, âm nhạc mang phong cách hùng tráng giống như Aura Kingdom. Thứ 2, những bảng điểm, menu, thùng đồ, menu kỹ năng cũng có thiết kế tương tự. Tuy nhiên, trò chơi vẫn mang phong cách khác với Aura Kingdom là bạn sẽ chơi theo góc nhìn 2,5D có thể phóng to thu nhỏ. Aura Kingdom lại là game thuần 3D. Vì vậy, cấu hình của ELOA phù hợp với nhiều loại máy.</p>
+<p>Nếu ai đã từng chơi game Aura Kingdom thì sẽ thấy ELOA có những điểm tương đồng. Đầu tiên là âm nhạc. Trong trailer, âm nhạc mang phong cách hùng tráng giống như Aura Kingdom. Thứ 2, những bảng điểm, menu, thùng đồ, menu kỹ năng cũng có thiết kế tương tự. Tuy nhiên, trò chơi vẫn mang phong cách khác với Aura Kingdom là bạn sẽ chơi theo góc nhìn 2,5D có thể phóng to thu nhỏ. Aura Kingdom lại là game thuần 3D. Vì vậy, cấu hình của ELOA phù hợp với nhiều loại máy.</p>
 
-            <center><img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-2.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
+<center><img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-2.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
+<br><br>
+<img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-3.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
 
+<p>ELOA đã được quảng cáo trên các trang mạng.</p></center>
 
-            <img src="../local/public/upload/images/game/ELOA-Elite-Lord-of-Alliance-3.jpg" width="70%" alt="ELOA – Game 3D Anime mới" />
-
-            <p>ELOA đã được quảng cáo trên các trang mạng.</p></center>
-
-            <p>Hiện mọi người đã có thể đăng ký để chơi ELOA. Nếu ai thích thú với Anime Nhật Bản hay đã từng chơi Aura Kingdom, hãy thử ghé qua ELOA xem sao.</p>',
+<p>Hiện mọi người đã có thể đăng ký để chơi ELOA. Nếu ai thích thú với Anime Nhật Bản hay đã từng chơi Aura Kingdom, hãy thử ghé qua ELOA xem sao.</p>',
 
             'dateDetailPost'     => '2015-08-28',
             'imgDetailPost'      => 'ELOA-Game-3D-Anime-moi-thumbnail.jpg',
@@ -2544,38 +2516,33 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'presentDetailPost'  => 'Một học sinh chuyển trường đến Vương quốc Anh để trở thành người điều khiển rối giỏi nhất và trả thù cho gia đình.',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, Hành Động, Hài Hước, Siêu Nhiên, School life.</p>
 
-            <p>Kikou Shoujo wa Kizutsukanai hay còn được gọi là Unbreakable Machine-Doll là series Light Novel của tác giả Kaitou Reiji, minh họa bởi Ruroo. Light Novel hiện đang có 13 volume. Anime của series mang tên Machine-Doll wa Kizutsukanai được hang Kadokawa sản xuất, ra mắt vào năm 2013.</p>
+<p>Kikou Shoujo wa Kizutsukanai hay còn được gọi là Unbreakable Machine-Doll là series Light Novel của tác giả Kaitou Reiji, minh họa bởi Ruroo. Light Novel hiện đang có 13 volume. Anime của series mang tên Machine-Doll wa Kizutsukanai được hang Kadokawa sản xuất, ra mắt vào năm 2013.</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/v3EMc5EFUYo" frameborder="0" allowfullscreen></iframe></center><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v3EMc5EFUYo" frameborder="0" allowfullscreen></iframe>
+<br><br>
+<img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-1.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" /></center>
 
-            <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-1.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            </center>
+<p>Raishin là một cậu học sinh mất gia đình trong một trận thảm sát. Cậu được Shouko – người tạo ra những con rối - tặng cho một con rối tên là Yaya. Cậu lần theo dấu vết của kẻ mà cậu nghĩ là đã giết gia đình cậu và đến học viện dành cho những người điều khiển rối Walpurgis. Cậu đã nhập học với mức hạng 1235/1236, mức hạng gần bét trường. Và cậu đã được gặp những cô gái để xây dựng dàn harem, cũng là để chuẩn bị đối mặt với kẻ mà cậu nghĩ là hung thủ giết gia đình cậu.</p>
 
-            <p>Raishin là một cậu học sinh mất gia đình trong một trận thảm sát. Cậu được Shouko – người tạo ra những con rối - tặng cho một con rối tên là Yaya. Cậu lần theo dấu vết của kẻ mà cậu nghĩ là đã giết gia đình cậu và đến học viện dành cho những người điều khiển rối Walpurgis. Cậu đã nhập học với mức hạng 1235/1236, mức hạng gần bét trường. Và cậu đã được gặp những cô gái để xây dựng dàn harem, cũng là để chuẩn bị đối mặt với kẻ mà cậu nghĩ là hung thủ giết gia đình cậu.</p>
+<p>Ấn tượng đầu tiên của người viết khi xem phim là bối cảnh của bộ phim là nước Anh thế kỷ 19. Nếu bạn đã từng xem những bộ phim như Sherlock Holmes hay Titanic thì sẽ nhận ra ngay những hình ảnh quen thuộc như trang phục, xe lửa hơi nước hay những chiếc xe ô tô đặc trưng của thời kỳ này. Bộ phim đã thể hiện khá rõ nét và chính xác cả kiến trúc của tháp đồng hồ và nhà ga xe lửa trông rất thật. </p>
 
+<center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-2.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
+<br><br>
+<img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-3.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" /></center>
 
-            <p>Ấn tượng đầu tiên của người viết khi xem phim là bối cảnh của bộ phim là nước Anh thế kỷ 19. Nếu bạn đã từng xem những bộ phim như Sherlock Holmes hay Titanic thì sẽ nhận ra ngay những hình ảnh quen thuộc như trang phục, xe lửa hơi nước hay những chiếc xe ô tô đặc trưng của thời kỳ này. Bộ phim đã thể hiện khá rõ nét và chính xác cả kiến trúc của tháp đồng hồ và nhà ga xe lửa trông rất thật. </p>
+<p>Tiếp theo là những cảnh chiến đấu. Những trận chiến không chỉ là những con rối đấu với nhau như trong phim Pokémon mà những người điều khiển rối cũng là một phần quan trọng của trận chiến. Nếu người điều khiến không thể chiến đấu được, rối cũng ngưng hoạt động. Những con rối cũng có đủ loại hình dáng, sức mạnh. Những con rối mang hình dáng người máy, động vật và cả con người với khả năng giao tiếp không khác gì người thật khiến khán giả khó đoán đây là người hay rối. Do đó, bộ phim trở nên đa dạng về cách chiến đấu, chiến thuật. </p>
 
-            <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-2.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
+<center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-4.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
+<br><br>
+<img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-5.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" /></center>
 
-            <img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-3.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            </center>
+<p>Tính hài hước của bộ phim cũng được để ý đến. Tác giả đã cho Yaya là một cô gái tính cách trẻ con và cực kỳ hay ghen, Charlotte Belew là tiểu thư kiêu kỳ, để ý chuyện ngực to nhỏ, Frey quá hậu đậu nhưng cố đi ám sát Raishin và Henriette Belew nhát gan, sợ con trai, sợ chó. Những cảnh ecchi chỉ ở mức nhẹ giống như gia vị cho bộ phim thêm thú vị. Khán giả thích thú nhất là khi Yaya ghen và khi cố gắng gần gũi Raishin nhưng anh chàng quá phũ.</p>
 
-            <p>Tiếp theo là những cảnh chiến đấu. Những trận chiến không chỉ là những con rối đấu với nhau như trong phim Pokémon mà những người điều khiển rối cũng là một phần quan trọng của trận chiến. Nếu người điều khiến không thể chiến đấu được, rối cũng ngưng hoạt động. Những con rối cũng có đủ loại hình dáng, sức mạnh. Những con rối mang hình dáng người máy, động vật và cả con người với khả năng giao tiếp không khác gì người thật khiến khán giả khó đoán đây là người hay rối. Do đó, bộ phim trở nên đa dạng về cách chiến đấu, chiến thuật. </p>
+<center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-7.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
+<br><br>
+<img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-8.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" /></center>
 
-            <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-4.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-
-            <img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-5.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            </center>
-
-            <p>Tính hài hước của bộ phim cũng được để ý đến. Tác giả đã cho Yaya là một cô gái tính cách trẻ con và cực kỳ hay ghen, Charlotte Belew là tiểu thư kiêu kỳ, để ý chuyện ngực to nhỏ, Frey quá hậu đậu nhưng cố đi ám sát Raishin và Henriette Belew nhát gan, sợ con trai, sợ chó. Những cảnh ecchi chỉ ở mức nhẹ giống như gia vị cho bộ phim thêm thú vị. Khán giả thích thú nhất là khi Yaya ghen và khi cố gắng gần gũi Raishin nhưng anh chàng quá phũ.</p>
-
-            <center><img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-7.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-
-            <img src="../local/public/upload/images/anime/Unbreakable-Machine-Doll-8.jpg" width="70%" alt="Unbreakable Machine-Doll – Búp bê chiến đấu" />
-            </center>
-
-            <p>Bộ phim đã gặt hái được thành công, được nhiều người hâm mộ và rất có triển vọng trở thành một series lớn. Yaya đã trở thành một trong số các cô gái có lượng fan hâm mộ ở mức khá. Light Novel hiện đang có 13 volume nên nhiều khả năng sẽ có phần 2 trong tương lai gần.</p>',
+<p>Bộ phim đã gặt hái được thành công, được nhiều người hâm mộ và rất có triển vọng trở thành một series lớn. Yaya đã trở thành một trong số các cô gái có lượng fan hâm mộ ở mức khá. Light Novel hiện đang có 13 volume nên nhiều khả năng sẽ có phần 2 trong tương lai gần.</p>',
 
             'dateDetailPost'     => '2015-09-01',
             'imgDetailPost'      => 'Unbreakable-Machine-Doll_Bup-Be-Chien-Dau-thumbnail.jpg',
@@ -3124,7 +3091,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'presentDetailPost'  => 'Một số tựa game còn làm mưa làm gió với những trailer, movie đậm chất phim bom tấn Hollywood.',
             'contentDetailPost'  => '',
 
-            'dateDetailPost'     => '2015-10-09',
+            'dateDetailPost'     => '2015-10-08',
             'imgDetailPost'      => 'Nhung-trailer-game-phong-cach-dien-anh-khong-the-bo-qua-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
@@ -3134,6 +3101,32 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 1,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Love Live! The School Idol Movie không được chiếu tại Việt Nam',
+            'urlDetailPost'      => 'Love-Live-The-School-Idol-Movie-khong-duoc-chieu-tai-viet-nam',
+            'presentDetailPost'  => 'Lại là một tin không vui dành cho các fan Anime Việt Nam',
+            'contentDetailPost'  => '<p></p>
+
+<center><img src="../local/public/upload/images/anime/Love-Live-The-School-Idol-Movie.jpg" width="70%" alt="Doanh thu Love Live! chiếm hạng 3 của Madoka Magica" /></center>
+
+<p></p>
+
+https://newsofotaku.wordpress.com/2015/10/09/love-live-the-school-idol-movie-se-khong-duoc-chieu-tai-viet-nam/
+
+',
+
+            'dateDetailPost'     => '2015-10-09',
+            'imgDetailPost'      => 'Love-Live-The-School-Idol-Movie-khong-duoc-chieu-tai-viet-nam-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
         ]);
 
         $post->create([
@@ -3580,30 +3573,29 @@ $post->create([
             'presentDetailPost'  => 'Một trailer mang phong cách phim bom tấn vừa được tung ra để ra mắt phiên bản mới của World of warcraft.',
             'contentDetailPost'  => '<p>Trang chủ <a href="http://us.battle.net/wow/en/legion/">World of Warcraft</a></p>
 
-            <center><img src="../local/public/upload/images/game/World_of_Warcralf_Legion.jpg" width="70%" alt="World of Warcraft: Legion ra mắt trailer" />
-            </center>
+<center><img src="../local/public/upload/images/game/World_of_Warcralf_Legion.jpg" width="70%" alt="World of Warcraft: Legion ra mắt trailer" /></center>
 
-            <p>Blizzard Entertainment - ông trùm của ngành giải trí Mỹ với siêu phẩm game World of Warcraft đã tung trailer mới mang phong cách điện ảnh nhằm quảng bá cho phiên bản World of Warcraft mới. Phiên bản này sẽ ra mắt vào mùa hè 2016.</p>
+<p>Blizzard Entertainment - ông trùm của ngành giải trí Mỹ với siêu phẩm game World of Warcraft đã tung trailer mới mang phong cách điện ảnh nhằm quảng bá cho phiên bản World of Warcraft mới. Phiên bản này sẽ ra mắt vào mùa hè 2016.</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/eYNCCu0y-Is" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/eYNCCu0y-Is" frameborder="0" allowfullscreen></iframe>
 
-            <p>Trailer World of Warcraft: Legion</p></center>
+<p>Trailer World of Warcraft: Legion</p></center>
 
-            <p>Đây có lẽ là một động thái nhằm vực dậy tựa game nổi tiếng đang lâm vào tình trạng khủng hoảng này. World of Warcraft đã có một sự sụt giảm số lượng người chơi nghiêm trọng. Tính đến tháng 09/2015, theo số liệu mới nhất của Blizzard, số lượng người chơi chỉ còn 5,5 triệu người. Rõ ràng, tình hình cạnh tranh gay gắt từ các game MMORPG ngày một nhiều như hiện nay thì việc World of Warcraft lung lay địa vị là chuyện khó tránh khỏi.</p>
+<p>Đây có lẽ là một động thái nhằm vực dậy tựa game nổi tiếng đang lâm vào tình trạng khủng hoảng này. World of Warcraft đã có một sự sụt giảm số lượng người chơi nghiêm trọng. Tính đến tháng 09/2015, theo số liệu mới nhất của Blizzard, số lượng người chơi chỉ còn 5,5 triệu người. Rõ ràng, tình hình cạnh tranh gay gắt từ các game MMORPG ngày một nhiều như hiện nay thì việc World of Warcraft lung lay địa vị là chuyện khó tránh khỏi.</p>
 
-            <center><img src="../local/public/upload/images/game/Blizzard_Battle_net.jpg" width="70%" alt="World of Warcraft: Legion ra mắt trailer" />
+<center><img src="../local/public/upload/images/game/Blizzard_Battle_net.jpg" width="70%" alt="World of Warcraft: Legion ra mắt trailer" />
 
-            <p>World of Warcraft cùng những tựa game khác trên Battle.net</p></center>
+<p>World of Warcraft cùng những tựa game khác trên Battle.net</p></center>
 
-            <p>Tuy nhiên, Blizzard cũng không cần phải quá lo lắng bởi những tín hiệu vui khác đang đến từ các game khác. Game thẻ bài Hearthstone có tốc độ tăng trưởng người chơi 77%. Overwatch, tựa game bắn súng mới ra mắt gần đây đã có hơn 7 triệu game thủ đăng ký. Và ngày 6/11/2015, Hearthstone cùng Overwatch đã tung trailer phiên bản mới thu hút rất nhiều sự chú ý của game thủ.</p>
+<p>Tuy nhiên, Blizzard cũng không cần phải quá lo lắng bởi những tín hiệu vui khác đang đến từ các game khác. Game thẻ bài Hearthstone có tốc độ tăng trưởng người chơi 77%. Overwatch, tựa game bắn súng mới ra mắt gần đây đã có hơn 7 triệu game thủ đăng ký. Và ngày 6/11/2015, Hearthstone cùng Overwatch đã tung trailer phiên bản mới thu hút rất nhiều sự chú ý của game thủ.</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UEYp1RTvllM" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UEYp1RTvllM" frameborder="0" allowfullscreen></iframe>
 
-            <p>Trailer mới nhất của Overwatch</p>
+<p>Trailer mới nhất của Overwatch</p>
 
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/wmu0XXpUYog" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmu0XXpUYog" frameborder="0" allowfullscreen></iframe>
 
-            <p>Trailer mới nhất của Hearthstone</p></center>',
+<p>Trailer mới nhất của Hearthstone</p></center>',
 
             'dateDetailPost'     => '2015-11-10',
             'imgDetailPost'      => 'World-of-Warcralf-Legion-ra-mat-trailer-moi-thumbnail.jpg',
@@ -3673,18 +3665,18 @@ _ Slow Motion chỉ nên dùng trước khi nhảy để xác định xem nên n
             'presentDetailPost'  => 'Tựa game đối khảng lâu đời nổi tiếng của CAPCOM vừa ra mắt trailer mới. Game sẽ dành cho PS4 và PC.',
             'contentDetailPost'  => '<p>Ngày 16/11/2015, hãng CAPCOM vừa cho ra mắt trailer của Street Fighter V, game đối kháng dành cho PS4 và PC. Game sẽ được bán tại Bắc Mỹ và Châu Âu vào ngày 16/2/2016</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/EcD5XJl9lw4" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/EcD5XJl9lw4" frameborder="0" allowfullscreen></iframe>
 
-            <p>Trailer Street Fighter V</p></center>
+<p>Trailer Street Fighter V</p></center>
 
-            <p>Những nhân vật trong game đã được tiết lộ bao gồm: Ryu, Ken, Chun-Li, Nash, M. Bison, Cammy, Birdie, Vega, Karin Kanzuki, Necalli, Rainbow Mika, Zangief, Laura, Rashid, và Dhalsim. Một số nhân vật khác có thể mua bằng tiền trong game. Necalli, Rashid, và Laura là những nhân vật mới đã được công bố cho đến thời điểm này.</p>
+<p>Những nhân vật trong game đã được tiết lộ bao gồm: Ryu, Ken, Chun-Li, Nash, M. Bison, Cammy, Birdie, Vega, Karin Kanzuki, Necalli, Rainbow Mika, Zangief, Laura, Rashid, và Dhalsim. Một số nhân vật khác có thể mua bằng tiền trong game. Necalli, Rashid, và Laura là những nhân vật mới đã được công bố cho đến thời điểm này.</p>
 
-            <center><img src="../local/public/upload/images/game/CAPCOM-Street-Fighter-1.jpg" width="70%" alt="Street Fighter V ra mắt trailer" />
-            </center>
+<center><img src="../local/public/upload/images/game/CAPCOM-Street-Fighter-1.jpg" width="70%" alt="Street Fighter V ra mắt trailer" />
+</center>
 
-            <p>Ngày 23/7/2015, một bản beta đã được ra mắt nhưng CAPCOM đã đóng cửa với lý do máy chủ, khiến trò chơi chưa tiếp cận được với nhiều người. Ban đầu, trò chơi chỉ được phát hành qua đĩa. CAPCOM sẽ tạo hệ thống tự động cập nhật miễn phí.</p>
+<p>Ngày 23/7/2015, một bản beta đã được ra mắt nhưng CAPCOM đã đóng cửa với lý do máy chủ, khiến trò chơi chưa tiếp cận được với nhiều người. Ban đầu, trò chơi chỉ được phát hành qua đĩa. CAPCOM sẽ tạo hệ thống tự động cập nhật miễn phí.</p>
 
-            <p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-11-16/street-fighter-v-video-previews-game-tutorial-mode/.95443">Anime News Network</a></p>',
+<p>Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2015-11-16/street-fighter-v-video-previews-game-tutorial-mode/.95443">Anime News Network</a></p>',
 
             'dateDetailPost'     => '2015-11-17',
             'imgDetailPost'      => 'Street-Fighter-5-ra-mat-trailer-thumbnail.jpg',
@@ -4826,6 +4818,38 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
         ]);
 
         $post->create([
+            'nameDetailPost'     => 'Lịch sử dòng game Need For Speed',
+            'urlDetailPost'      => 'lich-su-dong-game-need-for-speed',
+            'presentDetailPost'  => 'Hãy xem tựa game nổi tiếng Esport có lịch sử phát triển như thế nào.',
+            'contentDetailPost'  => '<p>Need For Speed - tựa game đua xe có lịch sử phát triển lâu đời bậc nhất thế giới.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2016-03-05',
+            'imgDetailPost'      => 'lich-su-dong-game-need-for-speed-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 1,
+        ]);
+
+        $post->create([
             'nameDetailPost'     => '[Review] Hataraku Maou-sama - Ma vương đi làm',
             'urlDetailPost'      => 'Hataraku-maou-sama-ma-vuong-di-lam',
             'presentDetailPost'  => 'Ma vương và anh hùng đến Nhật Bản hiện đại trong tình trạng mất sức mạnh và phải kiếm kế sinh nhai ở đó.',
@@ -4867,15 +4891,15 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'presentDetailPost'  => 'Bộ Manga cố gắng phá vỡ khái niệm anh hùng vất vả đánh thắng kẻ xấu đã được chuyển thể thành Anime.',
             'contentDetailPost'  => '<p>One Punch Man khởi đầu là webcomic của tác giả có bút danh là One, bắt đầu công bố trên trang cá nhân vào ngày 3/6/2009. Phiên bản manga của tác giả Yuusuke Murata được công bố trên trang web của Young Jump WebComics Shueisha  ngày 14/6/2012. Ý tưởng cho bộ truyện làm lại bắt đầu khi Mutara gặp One trên Twitter để thảo luận. Theo đó Murata sẽ tiến hành remake lại bộ truyện.</p>
 
-            <p>Tại một Trái Đất hư cấu có các thành phố từ A đến Z. Trái Đất này tồn tại rất nhiều quái vật, thiên tai, người đột biến… liên tục phá hoại với đủ mọi mức độ. 2 tổ chức Hiệp Hội Anh Hùng và Hiệp Hội Quái Vật được lập ra để quản lý các anh hùng và quái vật trong thế giới hỗn loạn này. Saitama, một thanh niên thất nghiệp có cơ duyên làm anh hùng sau khi cứu một cậu bé. Anh đã luyện tập bằng cách nào đó mà vài năm sau, anh đã có sức mạnh đến mức kết liễu những con quái rất mạnh chỉ bằng một đấm duy nhất. Anh cùng cậu học trò Genos tham gia Hiệp Hội Anh Hùng và nhìn thấy nhiều mặt của những anh hùng được mọi người kính nể.</p>
+<p>Tại một Trái Đất hư cấu có các thành phố từ A đến Z. Trái Đất này tồn tại rất nhiều quái vật, thiên tai, người đột biến… liên tục phá hoại với đủ mọi mức độ. 2 tổ chức Hiệp Hội Anh Hùng và Hiệp Hội Quái Vật được lập ra để quản lý các anh hùng và quái vật trong thế giới hỗn loạn này. Saitama, một thanh niên thất nghiệp có cơ duyên làm anh hùng sau khi cứu một cậu bé. Anh đã luyện tập bằng cách nào đó mà vài năm sau, anh đã có sức mạnh đến mức kết liễu những con quái rất mạnh chỉ bằng một đấm duy nhất. Anh cùng cậu học trò Genos tham gia Hiệp Hội Anh Hùng và nhìn thấy nhiều mặt của những anh hùng được mọi người kính nể.</p>
 
-            <center><img src="../local/public/upload/images/anime/one-punch-man-mot-dam-ket-lieu-1.jpg" width="50%" alt="One Punch Man – Một đấm kết liễu"/></center>
+<center><img src="../local/public/upload/images/anime/one-punch-man-mot-dam-ket-lieu-1.jpg" width="50%" alt="One Punch Man – Một đấm kết liễu"/></center>
 
-            <h3>Cố gắng thoát khỏi lối mòn…</h3>
+<h3>Cố gắng thoát khỏi lối mòn…</h3>
 
-            <p>Khi nhắc đến chủ đề anh hùng nói riêng và chiến đấu nói chung, ai cũng sẽ nghĩ đến viễn cảnh: anh hùng, chính diện sẽ chật vật chống lại những con boss phản diện mạnh hơn. Và cuối cùng phe chính diện sẽ thắng bằng niềm tin, kết hợp hay tuyệt kỹ bí mật. Lối mòn “Anh hùng vất vả chống kẻ xấu” xuất hiện rất nhiều, từ phim qua truyện, từ Tây sang Á.</p>
+<p>Khi nhắc đến chủ đề anh hùng nói riêng và chiến đấu nói chung, ai cũng sẽ nghĩ đến viễn cảnh: anh hùng, chính diện sẽ chật vật chống lại những con boss phản diện mạnh hơn. Và cuối cùng phe chính diện sẽ thắng bằng niềm tin, kết hợp hay tuyệt kỹ bí mật. Lối mòn “Anh hùng vất vả chống kẻ xấu” xuất hiện rất nhiều, từ phim qua truyện, từ Tây sang Á.</p>
 
-            <p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
+<p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
 
 	',
 
@@ -4897,8 +4921,6 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'presentDetailPost'  => 'Tác giả mangaka cuồng quần lót cùng các cô gái chiến đấu với deadline và sự khắc nghiệt của nghề làm tác giả manga.',
             'contentDetailPost'  => '
 
-
-
 	',
 
             'dateDetailPost'     => '2016-03-16',
@@ -4919,8 +4941,6 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'presentDetailPost'  => '',
             'contentDetailPost'  => '
 
-
-
 	',
 
             'dateDetailPost'     => '2016-03-19',
@@ -4935,7 +4955,49 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Empire Earth – Đế chế thiên niên kỷ',
+            'urlDetailPost'      => 'Empire-Earth–de-che-thien-nien-ky',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p>Là một trong các tựa game cũ mà hay, Empire Earth đã từng được đánh giá là game hay nhất năm 2001, có thể đánh giá ngang với Age of Empires lừng danh với sự đa dạng thời kỳ, binh chủng, công trình hơn hẳn và hình ảnh, màu sắc tương tự Age of Empires. Những ai thuộc thế hệ 8x, 9x yêu thích thể loại game dàn trận, chiến thuật chắc chắn không thể quên được Empire Earths – Đế Chế Thiên Niên Kỷ.</p>
 
+<center></center>
+
+<p>Nếu Age of Empires chỉ cho bạn 5 thời kỳ thì Empire Earth sẽ cho bạn 22 thời kỳ, một con số rất đồ sộ vì mỗi thời kỳ là một bộ hình ảnh công trình, binh chủng khác nhau. Bạn sẽ được trải qua từ thời đồ đá, con người ăn long ở lỗ, ném đá, cầm chày đánh nhau. Bước sang đồ đồng, đồ sắt với giáo mác, voi ngựa giống trong các bộ phim Hy Lạp, La Mã cổ đại. Chứng kiến những chiếc máy bay, xe tăng Thế Chiến Thứ Nhất giống hệt trong sử sách, đội quân Kamikaze (Phong Thần) khủng khiếp của Nhật Bản trong Thế Chiến Thứ Hai. Và cuối cùng là 2 thời kỳ của khoa học viễn tưởng, robot, tia laze, tên lửa bắn ầm ầm.</p>
+
+<p></p>
+
+<center><img src="../local/public/upload/images/game/Need-for-Speed-No-Limits.jpg" width="70%" alt="EA ra mắt trailer Need for Speed: No Limits" /></center>
+
+<p></p>
+
+<p>Để thực tế hơn và cũng để giảm tải số lượng binh chủng, hình ảnh, mỗi thời kỳ sẽ có một số loại quân tiêu biểu. Nếu ở thời kỳ gần Thế Chiến Thứ Nhất, người viết rất ấn tượng với những con thuyền buồm giống hệt trong phim Cướp Biển Caribe. Con tàu to cao, 2-3 dàn pháo ở 2 bên mạn tàu bắn rất đẹp mắt, đã tai. Còn nếu bạn thích Thế Chiến, bạn sẽ không thể rời mắt khỏi những chiếc xe tăng trau chuốt từng chi tiết, máy bay ném bom hạt nhân giống như chiếc đã từng ném xuống Nhật Bản. Cột khói, ánh sáng chói lòa, phá sập 2-3 công trình chỉ với 1 quả bom. Một cảnh tượng không thể chê vào đâu được.</p>
+
+<p>Game cũng giảm bớt số lượng binh chủng không cần thiết. Nếu bạn đã chơi Thế Chiến, bạn sẽ không thể xây hay gọi cung thủ được. Nếu bạn chơi thời khoa học viễn tưởng, những chiếc máy bay bị bỏ bớt gần hết để thay cho robot. Rất đáng tiếc. Thời kỳ mà người viết cảm thấy không hài long nhất là thời khoa học viễn tưởng. Trong thời này, xe tăng và bộ binh không có nhiều tác dụng khi chỉ đi dưới đất còn robot vừa vượt nước, vừa bay trên trời. Tàu chiến cũng ít tác dụng hơn khi phải cạnh tranh với tàu ngầm. Nhất là khi đối thủ sử dụng tàu ngầm tên lửa hạt nhân, đứng từ khoảng cách rất xa với sát thương rất lớn, cực kỳ khó chịu khi phải cử máy bay đi tìm diệt.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2016-03-20',
+            'imgDetailPost'      => 'Empire-Earth–de-che-thien-nien-ky-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 
@@ -5902,6 +5964,50 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'dateDetailPost'     => '2016-09-30',
             'imgDetailPost'      => 'Lalala-Demacia-season-7-ra-mat-trailer-thumbnail.jpg',
             'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR',
+            'urlDetailPost'      => 'EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr',
+            'presentDetailPost'  => 'Hãy cùng trải nghiệm game thực tế ảo để cùng tham gia vào không chiến ngoài vũ trụ với EVE: Valkyrie.',
+            'contentDetailPost'  => '<p>EVE: Valkyrie là một trò chơi bắn súng trong vũ trụ. Người chơi sẽ sử dụng kính thực tế ảo để có cảm giác như đang ở trong một cuộc không chiến thực sự. Eve: Valkyrie sẽ được phát hành trên Microsoft Windows và PlayStation 4 VR. Trong thời gian phát triển, trò chơi được gọi là EVE-VR.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AZNff-of63U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
+<p>Nhà sản xuất EVE: Valkyrie, CCP Games đã tiết lộ: từ 3/2016, họ đã tinh chỉnh và cập nhật hệ thống chiến đấu để chúng trở nên trực quan, thoải mái và dễ chịu hơn. Họ đã học được rất nhiều về những gì nên và không nên làm trong VR. Khả năng cân bằng, điều khiển tàu nhận được nhiều sự trợ giúp tích cực từ cộng đồng người chơi.</p>
+
+<center><img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-1.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" /></center>
+
+<p><b>Chiến đấu nhiều người chơi</b></p>
+
+<p>Chiến đấu nhiều người chơi là trải nghiệm chính của Valkyrie. Tại đây, bạn sẽ kiếm được điểm kinh nghiệm (XP), xếp hạng phi công và mở khóa nhiều tàu, nâng cấp rộng hơn. Bạn có thể bay một mình hoặc chơi với đội hình tối đa 5 người. Bạn cũng có thể chơi ở chế độ co-op và đối mặt với các phi công AI phù hợp để bổ sung kỹ năng của bạn.</p>
+
+<p>Có ba lớp tàu chính trong Valkyrie: Fighter (tấn công), Heavy (đỡ đòn) và Support (hồi máu). Mỗi lớp có tiến trình riêng và lớp kinh nghiệm cụ thể. Khi bạn kiếm được XP trong một lớp cụ thể, bạn sẽ mở khóa các tàu mới và nâng cấp công thủ.</p>
+
+<p>Trò chơi sẽ được phát hành vào ngày 13/10/2016.</p>
+
+<center><img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-2.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" />
+<br><br>
+<img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-3.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" />
+<br><br>
+<img src="../local/public/upload/images/game/EVE-Valkyrie-ra-mat-trailer-gameplay-tren-ps4-vr-4.jpg" width="70%" alt="EVE: Valkyrie ra mắt trailer gameplay trên PS4 VR" />
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdfFnTt2UT0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Kênh Youtube EVE Online</p></center>
+
+<p>Trang chủ <a href="https://www.evevalkyrie.com/">EVE: VALKYRIE</a></p>',
+
+            'dateDetailPost'     => '2016-10-07',
+            'imgDetailPost'      => 'Eve-Valkyrie-trailer-gameplay-thumbnail.jpg',
+            'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
@@ -7141,7 +7247,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             Đắm mình vào bầu trời xanh thẳm<br>
             và còn lại cứ phó mặc tất cả cho mùa hè!</p></center>
 
-            <p style="float:right">Shounan no Kaze - Grand Blue Opening</p>
+            <p style="float:right"><b>Shounan no Kaze - Grand Blue Opening</b></p>
 
             <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0VvMKJ4IuWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
@@ -7158,6 +7264,122 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Esport tại Asiad 2018: Liên Minh Huyền Thoại',
+            'urlDetailPost'      => 'Esport-tai-Asiad-2018-Lien-Minh-Huyen-Thoai',
+            'presentDetailPost'  => 'Esport mở màn Asiad 2018 với bộ môn Liên Minh Huyền Thoại.',
+            'contentDetailPost'  => '<p>Trong bộ môn Esport tại Asiad 2018 có Liên Minh Huyền Thoại, Starcraft, Hearthstone.</p>
+
+<p></p>
+<p></p>
+<p></p>
+
+<p>Như vậy trong lần đầu tiên Asian Games 2018 tổ chức bộ môn LMHT, Trung Quốc đã giành huy chương vàng với tỉ số 3-1 trước Hàn Quốc, tiếp tục khẳng định Liên Minh Huyền Thoại Trung Quốc đang củng cổ sức mạnh và vượt qua Hàn Quốc, nơi mà các huyền thoại người Hàn đã chiếm cúp vô địch thế giới nhiều năm liền.</p>
+
+<p><b>Kết quả</b></p>
+
+<ul>
+<li>Huy chương Vàng – Đội tuyển LMHT Trung Quốc
+<li>Huy chương Bạc – Đội tuyển LMHT Hàn Quốc
+<li>Huy chương Đồng – Đội tuyển LMHT Đài Bắc Trung Hoa.
+</ul>
+
+http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-tran-chung-ket-dai-bac-trung-hoa-xep-hang-3/
+
+
+',
+
+            'dateDetailPost'     => '2018-08-29',
+            'imgDetailPost'      => 'Esport-tai-Asiad-2018-Lien-Minh-Huyen-Thoai-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Esport tại Asiad 2018: Starcraft',
+            'urlDetailPost'      => 'Esport-tai-Asiad-2018-Starcraft',
+            'presentDetailPost'  => 'Esport tiếp tục tại Asiad 2018 với bộ môn Starcraft.',
+            'contentDetailPost'  => '<p>Trong bộ môn Esport tại Asiad 2018 có Liên Minh Huyền Thoại, Starcraft, Hearthstone.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_TVEsnCx1mY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Xem toàn bộ giải đấu tại kênh Youtube của VTC</p></center>
+
+<p>Vận động viên của Việt Nam là Trần Hồng Phúc meomaika với đối thủ LIGHTWEIGHT từ Kazakhstan. meomaika chọn tộc Zerg còn LIGHTWEIGHT chọn tộc Protoss. meomaika đã chiến thắng với tỉ số 3-0 rất thuyết phục.</p>
+
+<p></p>
+
+<p>Đối thủ tiếp theo của Việt Nam là Nice từ Đài Loan. Rất tiếc là meomaika đã thua với tỉ số 3-1.</p>
+
+<p></p>
+
+<p>Trận thứ 3, Việt Nam đấu với DeMiGoD đến từ Iran. meomaika đã chiến thắng với tỉ số 3-0.</p>
+
+<p></p>
+
+<p><b>Kết quả</b></p>
+
+<ul>
+<li>Huy chương Vàng – Đội tuyển Starcraft Hàn Quốc
+<li>Huy chương Bạc – Đội tuyển Starcraft Đài Loan
+<li>Huy chương Đồng – Đội tuyển Starcraft Việt Nam
+</ul>
+',
+
+            'dateDetailPost'     => '2018-08-30',
+            'imgDetailPost'      => 'Esport-tai-Asiad-2018-Starcraft-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Esport tại Asiad 2018: Hearthstone',
+            'urlDetailPost'      => 'Esport-tai-Asiad-2018-Hearthstone',
+            'presentDetailPost'  => 'Esport tiếp tục tại Asiad 2018 với bộ môn Hearthstone.',
+            'contentDetailPost'  => '<p>Đã lâu lắm rồi, kể từ ngày Neilyo vô địch SEA và trở thành người đầu tiên của Việt Nam thi đấu tại Blizzcon, chúng ta mới có dịp được tranh tài tại đấu trường châu lục. Trong bộ môn Esport tại Asiad 2018 có Liên Minh Huyền Thoại, Starcraft, Hearthstone.</p>
+
+<p>Được biết đến như một Streamer hàng đầu về Hearthstone ở Việt Nam, Tuấn luôn cho thấy tình yêu của mình đối với Hearthstone, ngay cả khi sức khoẻ không cho phép đã cướp đi cơ hội có mặt trong đội tuyển HGG năm 2017 cũng như rất nhiều cơ hội khác. Lần này, với việc trở thành đại diện của Việt Nam thi đấu ở ASIAD, người hâm mộ tin rằng, lần này niềm vui sẽ mỉm cười với Tuấn, cũng như với những anh em đã luôn gắn bó với cộng đồng Hearthstone trong suốt những năm qua.</p>
+
+
+<p>Và Tuấn đã không làm người hâm mộ Việt Nam phải thất vọng khi chiến thắng vận động viên đến từ Ả Rập Saudi với tỉ số 3-1 để tiến vào bán kết.</p>
+
+<p>Trận tiếp theo, Tuấn gặp Jothree của chủ nhà Indonesia. Trận đấu gây tranh cãi khi đột ngột ngưng truyền hình trên Twitch. Trận đấu bị remake và kết quả là Indonesia thắng.</p>
+
+<p>Vào bán kết, Jothree của chủ nhà Indonesia gặp Kin0531 của Đài Loan và để thua với tỉ số 3-1.</p>
+
+<p><b>Kết quả</b></p>
+
+<ul>
+<li>Huy chương Vàng –
+<li>Huy chương Bạc –
+<li>Huy chương Đồng –
+</ul>
+',
+
+            'dateDetailPost'     => '2018-08-31',
+            'imgDetailPost'      => 'Esport-tai-Asiad-2018-Hearthstone-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
