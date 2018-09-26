@@ -4,7 +4,7 @@ Template URI: http://www.wpfreeware.com/magexpress-fancy-style-wordpress-magazin
 Author: WpFreeware
 Author URI: http://www.wpfreeware.com
 Description: A Pro responsive bootstrap magazine template
-Version: 1.0 
+Version: 1.0
 License: GPL
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -119,7 +119,7 @@ span.meta_comment:before{content:" "; font-family:FontAwesome; font-style:nor
 span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal; font-weight:normal; padding-right:4px; text-decoration:inherit}
 .business_category_right{float:right; display:inline; width:49%; padding-top:20px}
 .small_catg{}
-.small_catg li{border-bottom:1px dotted #e5e5e5; display:block; margin-bottom:10px; padding-bottom:10px; width:100%}
+.small_catg li{border-bottom:1px dotted #e5e5e5; display:block; margin-bottom:10px; padding-bottom:10px; width:100%; min-height:100px;}
 .related-img{display:inline-block; float:left}
 .media-left{width:120px;}
 .media-left > img{width:120px}
