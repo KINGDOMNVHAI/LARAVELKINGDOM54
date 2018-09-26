@@ -865,7 +865,7 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
 
 <p>Bài viết sau sẽ giới thiệu và hướng dẫn cách gắn phụ đề vào phim với Format Factory.</p>
 
-<p><a href="http://news.kingdomnvhai.info/post/Tao-phu-de-cho-video-bang-notepad-phan-2-gan-phu-de-bang-format-factory">Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề</a></p>
+<blockquote><a href="http://news.kingdomnvhai.info/post/Tao-phu-de-cho-video-bang-notepad-phan-2-gan-phu-de-bang-format-factory">Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề</a></blockquote>
 
 ',
 
@@ -885,7 +885,9 @@ bạn hãy viết 2 phụ đề rồi enter xuống dòng đến khi đúng vị
             'nameDetailPost'     => 'Tạo phụ đề cho video bằng notepad. Phần 2: gắn phụ đề bằng Format Factory',
             'urlDetailPost'      => 'Tao-phu-de-cho-video-bang-notepad-phan-2-gan-phu-de-bang-format-factory',
             'presentDetailPost'  => 'Sau khi bạn đã tạo phụ đề bằng notepad, bạn chỉ cần dùng phần mềm đa năng Format Factory để gắn phụ đề vào video là có ngay một video phụ đề.',
-            'contentDetailPost'  => '<p>Ở bài viết “Tạo phụ đề cho video bằng notepad”, tôi đã chỉ cho các bạn cách tạo phụ đề chỉ với 1 file notepad, không cần dùng thêm bất kỳ phần mềm nào. Đó chỉ là softsub – phụ đề mềm, có thể chỉnh sửa được. Nếu bạn muốn upload video lên youtube, bạn cần phải tạo hardsub – phụ đề cứng, tức là phụ đề không thể chỉnh sửa được, hoàn toàn gắn cứng vào phim. Để làm được điều đó, bạn hãy download phần mềm đa năng Format Factory.</p>
+            'contentDetailPost'  => '<p>Ở bài viết “Tạo phụ đề cho video bằng notepad”, KINGDOM NVHAI đã chỉ cho các bạn cách tạo phụ đề chỉ với 1 file notepad, không cần dùng thêm bất kỳ phần mềm nào. Đó chỉ là softsub – phụ đề mềm, có thể chỉnh sửa được. Nếu bạn muốn upload video lên youtube, bạn cần phải tạo hardsub – phụ đề cứng, tức là phụ đề không thể chỉnh sửa được, hoàn toàn gắn cứng vào phim. Để làm được điều đó, bạn hãy download phần mềm đa năng Format Factory.</p>
+
+<blockquote><a href="http://news.kingdomnvhai.info/post/Tao-phu-de-cho-video-bang-notepad-phan-1-tao-phu-de">Tạo phụ đề cho video bằng notepad. Phần 1: tạo phụ đề</a></blockquote>
 
 <p>Format Factory là phần mềm rất đa năng. Bạn có thể dùng để thay đổi định dạng video, nhạc, lấy video từ đĩa ra máy vi tính, thay đổi đĩa thành file iso, ghép video, ghép nhạc… Bạn có thể tìm hiểu sau.</p>
 
@@ -4999,15 +5001,275 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => '[Review] Princess Lover - Người tình công chúa',
+            'urlDetailPost'      => 'princess-lover-nguoi-tinh-cong-chua',
+            'presentDetailPost'  => 'Teppei đột nhiên mất ba mẹ và được ông ngoại đưa về làm người thừa kế tập đoàn lớn. Mục đích để tìm ra hung thủ. Harem của chàng trai đổi đời bắt đầu.',
+            'contentDetailPost'  => '
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            ',
+
+            'dateDetailPost'     => '2016-03-22',
+            'imgDetailPost'      => 'princess-lover-nguoi-tinh-cong-chua-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => '[Review] Saenai Heroine no Sodatekata - Nhịp đập trái tim',
+            'urlDetailPost'      => 'saenai-heroine-no-sodatekata-nhip-dap-trai-tim',
+            'presentDetailPost'  => 'Otaku tình cờ nhìn thấy một cô gái giữa khung cảnh tuyệt vời trong các bộ Visual Novel. Cậu quyết định lập nhóm làm game Visual Novel về cô gái đó.',
+            'contentDetailPost'  => '
+            <p>Câu chuyện nói về Otaku tên là Tomoya Aki. Trên đường đến trường, tình cờ cậu chứng kiến một khung cảnh thần tiên chỉ có trong Visual Novel. Cậu cũng đã tìm ra cô gái trong khung cảnh đó là bạn cùng lớp của cậu. Cậu quyết định tập hợp một nhóm gồm: bạn thuở nhỏ, senpai, ... và cô gái vai chính.</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            ',
+
+            'dateDetailPost'     => '2016-03-25',
+            'imgDetailPost'      => '',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => '[Review] Nourin - Idol về làm nông',
+            'urlDetailPost'      => 'nourin-idol-ve-lam-nong',
+            'presentDetailPost'  => 'Idol bất ngờ giải nghệ, về vùng quê học chung với nam chính. Những câu chuyện học đường hài hước bắt đầu từ đây.',
+            'contentDetailPost'  => '
+            <p>Khi cô Idol Kusakabe Yuka tuyên bố giải nghệ bất ngờ, thanh niên Hata Kosaku nhà ta bị sốc tận óc và chưa dừng lại ở đó hôm sau có 1 cô gái bước vào lớp Kosaku và tự giới thiệu mình là Kusakabe Yuka - học sinh chuyển trường</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            ',
+
+            'dateDetailPost'     => '2016-03-28',
+            'imgDetailPost'      => 'nourin-idol-ve-lam-nong-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Overwatch tiếp tục là chủ đề khiêu dâm',
+            'urlDetailPost'      => 'Overwatch-tiep-tuc-la-chu-de-khieu-dam',
+            'presentDetailPost'  => 'Overwatch nổi tiếng đến nỗi một loạt game và phim khiêu dâm đã ngập tràn Internet.',
+            'contentDetailPost'  => '
+                    http://www.vietgiaitri.com/game/game-online/201608/overwatch-tiep-tuc-tro-thanh-nan-nhan-cua-tin-dogame-khieu-dam-2584731/
+                    http://game8.vn/tin-moi/blizzard-quyet-kho-mau-tieu-diet-phim-khieu-dam-lay-tu-hinh-anh-nhan-vat-game-overwatch-40771',
+
+            'dateDetailPost'     => '2016-04-01',
+            'imgDetailPost'      => 'overwatch-tiep-tuc-la-chu-de-khieu-dam-duoc-yeu-thich-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'         	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Lễ hội Animax Carnival Malaysia 2016',
+            'urlDetailPost'      => 'Le-hoi-Animax-Carnival-Malaysia-2016',
+            'presentDetailPost'  => 'Lễ hội Animax Carnival Malaysia 2016 được diễn ra vào 26 và 27/3/2016 với nhiều trò chơi, chương trình ca nhạc và lễ hội Cosplay hấp dẫn',
+            'contentDetailPost'  => '<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-1.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+</center>
+
+<p>Animax Carnival là một sự kiện Anime do kênh Animax nhánh Châu Á tổ chức ở nhiều quốc gia Đông Nam Á, bao gồm Đài Loan, Malaysia, và Philippines. sự kiện Animax Carnival năm nay tại Malaysia diễn ra vào ngày 26 và 27 tháng 3 tại Trung tâm Hội nghị Sunway Pyramid, và thu hút hơn 30.000 lượt khách trong suốt hai ngày.</p>
+
+<p><b>Trò chơi</b></p>
+
+<p>Trung tâm sự kiện của lễ hội cũng như các buổi biểu diễn âm nhạc theo chủ đề Anime. Các trò chơi theo chủ đề năm nay bao gồm một máy đục lỗ One-punch Man, nơi người chơi có thể kiểm tra sức mạnh của họ, và một thiết lập bí ẩn phức tạp theo trò chơi Kindaichi R. Còn có trò bóng rổ và bắn súng shateki. Animax cũng có trò chơi tìm kiếm linh vật Oo-kun.</p>
+
+<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-2.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-3.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-4.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-5.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
+
+<p>Animax Carnival Malaysia có một gian hàng nơi người tham gia có thể xem các giai đoạn khác nhau trong việc thiết kế nhân vật Oo-kun.</p>
+
+<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-6.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+</center>
+
+<p><b>Lễ hội âm nhạc</b></p>
+
+<p><b>GARNIDELIA</b></p>
+
+<p> GARNIDELIA biểu diễn vào 11:00 vào thứ bảy, trong khoảng 1 tiếng đầu tiên của buổi diễn.</p>
+
+<p> GARNIDELIA vừa phát hành album Birthia của họ năm ngoái, trong đó họ đã remakes rất nhiều bài hát của họ trước khi ra mắt chính thức vào năm 2014. Trong cuộc phỏng vấn, Toku nói rằng họ muốn nhiều người nghe những bài hát đầu tiên của họ, và bản thân họ muốn xem những bài hát nên chỉnh sửa thế nào khi họ hát bây giờ.</p>
+
+<p>Khi được hỏi về nguồn cảm hứng sáng tạo của họ, Toku trả lời Maria là nguồn cảm hứng để tạo ra những bài hát mà anh muốn cô hát, và Maria đã trả lời rằng nguồn cảm hứng lớn nhất của cô là phản ứng của người hâm mộ. Họ kết luận rằng cả hai đều muốn âm nhạc có thể giúp đỡ tất cả mọi người.</p>
+
+<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-7.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-8.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-9.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+</center>
+
+<p><b>Angela</b></p>
+
+<p>Angela biểu diễn cùng ngày với lượng khan giả không giảm. Đây là hoạt động thứ 2 của bộ đôi này tại Malaysia sau năm 2014. Người hâm mộ rất háo hức được nhìn thấy họ trở lại.</p>
+
+<p>Khi được hỏi lý do tại sao họ chọn chủ đề quân sự Knights of Sidonia, bộ đôi đã trả lời rằng, bên cạnh việc phù hợp với chủ đề của câu chuyện, nó cũng là một cách giúp đỡ mọi người thông qua bài hát. KATSU lưu ý rằng cấu trúc âm nhạc và thành phần của các bài hát của mình có thể truyền cảm hứng cho một điều gì đó bên trong con người, không phân biệt lời bài hát thực sự đang nói về đất nước hay quân sự. Vì vậy, khi hát những ca khúc này, họ muốn nó tạo cảm hứng cho mọi người hành động vì những gì họ tin tưởng.</p>
+
+<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-10.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-11.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-12.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
+
+<p><b>Yanaginagi</b></p>
+
+<p>Trong khi cô ấy ngồi đợi, phóng viên đã có dịp phỏng vấn Yanaginagi trước khi biểu diễn.</p>
+
+<p>Cảm giác của cô thế nào khi lần đầu được làm diễn viên lồng tiếng Anime và game Norn 9?<br>
+
+Mặc dù ca hát và diễn xuất đều thể hiện nhân vật bằng giọng nói, tôi cảm thấy 2 công việc này khác nhau hơn mong đợi. Và nó rất khó khăn.</p>
+
+<p>Nếu cô chọn một bài hát yêu thích của cô, cô sẽ chọn bài nào?<br>
+
+Nếu tôi phải chọn, nó sẽ là bài "Mnemonic", một bài hát từ một anime được gọi là A Lull in the Sea. Tôi thật sự rất thích bài đó, và tôi đã khóc khi đang viết nó.<br>
+
+Tôi nhận thấy rằng trong rất nhiều các ca khúc viết cho phim Anime, lời bài lấy từ các sự kiện hoặc các chủ đề trong anime hoặc từ kịch bản. Bạn có thể biết trước bao nhiêu câu chuyện trước khi viết bài hát chứ?<br>
+
+Khi viết ca khúc cho Anime, tôi cố gắng có được càng nhiều thông tin có thể. Ví dụ, nếu nó dựa trên một bộ Manga hay Light Novel, tôi sẽ đọc tất cả mọi thứ của nó và tôi sẽ yêu cầu các nhân viên cho tôi đọc kịch bản của phim hoạt hình nhiều nhất có thể.</p>
+
+<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-13.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-14.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-15.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
+
+<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-16.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
+
+<p><b>Lễ hội Cosplay</b></p>
+
+<p>Dĩ nhiên, làm sao lễ hội Anime mà lại thiếu Cosplay được. Sự kiện Cosplay được tổ chức vào sáng thứ 7, 10 thí sinh xuất sắc nhất được chọn ra để lọt vào top 3.</p>
+
+<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-17.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
+
+<p>Gan Cia Seng (giải nhất) trong vai Maleficent trong Người Đẹp Ngủ Trong Rừng.<br>
+Raion Leo (giải nhì) trong vai búp bê trong Black Butler<br>
+Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
+
+<p>Trang nguồn: <a href="http://www.animenewsnetwork.com/convention/2016/animax-carnival-malaysia/.100593">Anime News Network</a></p>',
+
+            'dateDetailPost'     => '2016-04-05',
+            'imgDetailPost'      => 'Animax-Carnival-Malaysia-2016-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 
 
+		$post->create([
+            'nameDetailPost'     => 'Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái',
+            'urlDetailPost'      => 'Co-giao-tieng-Anh-nong-bong-va-tro-dua-tai-quai',
+            'presentDetailPost'  => 'Cô giáo dạy tiếng Anh ngây thơ vô tội trở thành trò đùa tai quái.',
+            'contentDetailPost'  => '<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-1.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+</center>
 
+<p>Cộng đồng yêu thích Anime – Manga vừa trải qua một sự kiện gây sốt. Câu chuyện bắt đầu từ việc sách giáo khoa dạy tiếng Anh New Horizon ở Nhật Bản đã vẽ một cô giáo được đặt tên là Ellen Baker. Đây là một cô giáo dạy Tiếng Anh tưởng tượng trong sách và là người đến từ Boston, Mỹ. Cô có nhiệm vụ dẫn truyện để các em học sinh dễ hình dung hơn.</p>
 
+<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-2.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
 
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-3.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
 
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-4.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
 
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-5.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<p>Cô giáo Ellen Baker</p></center>
+
+<p>Ngay lập tức, cô giáo đã trở thành đề tài gây sốt không chỉ vì độ nóng bỏng, dễ thương của mình mà còn tạo cảm hứng học tập cho các em học sinh. Nhiều người đánh giá đây là cách làm hay vì khi có một nhân vật dẫn truyện suốt cả quyển sách, các em sẽ hứng thú hơn nhiều. Nhiều người bắt đầu chế hình hài hước về cô giáo này. Một số Cosplayer còn hóa trang thành cô.</p>
+
+<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-6.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-7.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-8.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-9.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-10.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-11.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+</center>
+
+<p>Câu chuyện nếu dừng tại đây thì sẽ chẳng có gì đáng nói nếu như một số người chế hình không đi quá xa. Những họa sĩ bắt đầu vẽ cô giáo theo phong cách hentai với những cảnh quan hệ 18+. Mới đầu thì có vẻ hài hước nhưng hãy nghĩ đến một ngày nào đó, các em học sinh xem những cảnh cô giáo làm chuyện người lớn thế này trên Facebook thì sao? Chắc chắn cô giáo này vô tình sẽ trở thành một hình ảnh xấu trong mắt các em và phụ huynh. Một cô giáo hư hỏng, làm chuyện người lớn thì chắc chắn chẳng có phụ huynh nào chấp nhận được khi cô cứ xuất hiện trong cuốn sách các em học hằng ngày.</p>
+
+<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-12.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-13.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-14.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<p>Những hình ảnh 16+ do cộng đồng Anime – Manga chế ra.</p>
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-15.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-16.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<p>“Làm ơn dừng lại! Cô tồn tại để dạy tiếng Anh, không phải để làm chuyện người lớn”</p>
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-17.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<p>“Đến lúc dừng lại rồi”</p></center>
+
+<p>Cộng đồng Anime – Manga từ lâu dễ để lại ấn tượng xấu vì những hình ảnh không phù hợp lứa tuổi. Khi sáng tác, chế ảnh, mọi người cũng phải để ý đến những ảnh hưởng mà nó tác động đến lứa tuổi thiếu nhi. Không phải tự nhiên mà những bộ phim, Anime có phân loại độ tuổi 12+, 16+, 18+ đâu.</p>
+
+<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-18.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
+
+<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-19.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" /></center>',
+
+            'dateDetailPost'     => '2016-04-11',
+            'imgDetailPost'      => 'Co-giao-tieng-Anh-Ellen-baker-nong-bong-va-tro-dua-tai-quai-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 
@@ -5300,201 +5562,6 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 
 
         // ----------------------------------- Bài viết cần xem thời gian ---------------------------------
-
-        $post->create([
-            'nameDetailPost'     => 'Overwatch tiếp tục là chủ đề khiêu dâm',
-            'urlDetailPost'      => 'Overwatch-tiep-tuc-la-chu-de-khieu-dam',
-            'presentDetailPost'  => 'Overwatch nổi tiếng đến nỗi một loạt game và phim khiêu dâm đã ngập tràn Internet.',
-            'contentDetailPost'  => '
-                    http://www.vietgiaitri.com/game/game-online/201608/overwatch-tiep-tuc-tro-thanh-nan-nhan-cua-tin-dogame-khieu-dam-2584731/
-                    http://game8.vn/tin-moi/blizzard-quyet-kho-mau-tieu-diet-phim-khieu-dam-lay-tu-hinh-anh-nhan-vat-game-overwatch-40771',
-
-            'dateDetailPost'     => '2016-04-01',
-            'imgDetailPost'      => 'overwatch-tiep-tuc-la-chu-de-khieu-dam-duoc-yeu-thich-thumbnail.jpg',
-            'idCat'              => GAME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'views'              => random_int(0,100),
-            'enable'         	 => ENABLE,
-            'popular'            => 0,
-            'head_position'      => HEADER_NONE,
-            'update'             => 0,
-        ]);
-
-		$post->create([
-            'nameDetailPost'     => 'Lễ hội Animax Carnival Malaysia 2016',
-            'urlDetailPost'      => 'Le-hoi-Animax-Carnival-Malaysia-2016',
-            'presentDetailPost'  => 'Lễ hội Animax Carnival Malaysia 2016 được diễn ra vào 26 và 27/3/2016 với nhiều trò chơi, chương trình ca nhạc và lễ hội Cosplay hấp dẫn',
-            'contentDetailPost'  => '<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-1.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-</center>
-
-<p>Animax Carnival là một sự kiện Anime do kênh Animax nhánh Châu Á tổ chức ở nhiều quốc gia Đông Nam Á, bao gồm Đài Loan, Malaysia, và Philippines. sự kiện Animax Carnival năm nay tại Malaysia diễn ra vào ngày 26 và 27 tháng 3 tại Trung tâm Hội nghị Sunway Pyramid, và thu hút hơn 30.000 lượt khách trong suốt hai ngày.</p>
-
-<p><b>Trò chơi</b></p>
-
-<p>Trung tâm sự kiện của lễ hội cũng như các buổi biểu diễn âm nhạc theo chủ đề Anime. Các trò chơi theo chủ đề năm nay bao gồm một máy đục lỗ One-punch Man, nơi người chơi có thể kiểm tra sức mạnh của họ, và một thiết lập bí ẩn phức tạp theo trò chơi Kindaichi R. Còn có trò bóng rổ và bắn súng shateki. Animax cũng có trò chơi tìm kiếm linh vật Oo-kun.</p>
-
-<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-2.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-3.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-4.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-5.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
-
-<p>Animax Carnival Malaysia có một gian hàng nơi người tham gia có thể xem các giai đoạn khác nhau trong việc thiết kế nhân vật Oo-kun.</p>
-
-<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-6.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-</center>
-
-<p><b>Lễ hội âm nhạc</b></p>
-
-<p><b>GARNIDELIA</b></p>
-
-<p> GARNIDELIA biểu diễn vào 11:00 vào thứ bảy, trong khoảng 1 tiếng đầu tiên của buổi diễn.</p>
-
-<p> GARNIDELIA vừa phát hành album Birthia của họ năm ngoái, trong đó họ đã remakes rất nhiều bài hát của họ trước khi ra mắt chính thức vào năm 2014. Trong cuộc phỏng vấn, Toku nói rằng họ muốn nhiều người nghe những bài hát đầu tiên của họ, và bản thân họ muốn xem những bài hát nên chỉnh sửa thế nào khi họ hát bây giờ.</p>
-
-<p>Khi được hỏi về nguồn cảm hứng sáng tạo của họ, Toku trả lời Maria là nguồn cảm hứng để tạo ra những bài hát mà anh muốn cô hát, và Maria đã trả lời rằng nguồn cảm hứng lớn nhất của cô là phản ứng của người hâm mộ. Họ kết luận rằng cả hai đều muốn âm nhạc có thể giúp đỡ tất cả mọi người.</p>
-
-<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-7.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-8.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-9.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-</center>
-
-<p><b>Angela</b></p>
-
-<p>Angela biểu diễn cùng ngày với lượng khan giả không giảm. Đây là hoạt động thứ 2 của bộ đôi này tại Malaysia sau năm 2014. Người hâm mộ rất háo hức được nhìn thấy họ trở lại.</p>
-
-<p>Khi được hỏi lý do tại sao họ chọn chủ đề quân sự Knights of Sidonia, bộ đôi đã trả lời rằng, bên cạnh việc phù hợp với chủ đề của câu chuyện, nó cũng là một cách giúp đỡ mọi người thông qua bài hát. KATSU lưu ý rằng cấu trúc âm nhạc và thành phần của các bài hát của mình có thể truyền cảm hứng cho một điều gì đó bên trong con người, không phân biệt lời bài hát thực sự đang nói về đất nước hay quân sự. Vì vậy, khi hát những ca khúc này, họ muốn nó tạo cảm hứng cho mọi người hành động vì những gì họ tin tưởng.</p>
-
-<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-10.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-11.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-12.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
-
-<p><b>Yanaginagi</b></p>
-
-<p>Trong khi cô ấy ngồi đợi, phóng viên đã có dịp phỏng vấn Yanaginagi trước khi biểu diễn.</p>
-
-<p>Cảm giác của cô thế nào khi lần đầu được làm diễn viên lồng tiếng Anime và game Norn 9?<br>
-
-Mặc dù ca hát và diễn xuất đều thể hiện nhân vật bằng giọng nói, tôi cảm thấy 2 công việc này khác nhau hơn mong đợi. Và nó rất khó khăn.</p>
-
-<p>Nếu cô chọn một bài hát yêu thích của cô, cô sẽ chọn bài nào?<br>
-
-Nếu tôi phải chọn, nó sẽ là bài "Mnemonic", một bài hát từ một anime được gọi là A Lull in the Sea. Tôi thật sự rất thích bài đó, và tôi đã khóc khi đang viết nó.<br>
-
-Tôi nhận thấy rằng trong rất nhiều các ca khúc viết cho phim Anime, lời bài lấy từ các sự kiện hoặc các chủ đề trong anime hoặc từ kịch bản. Bạn có thể biết trước bao nhiêu câu chuyện trước khi viết bài hát chứ?<br>
-
-Khi viết ca khúc cho Anime, tôi cố gắng có được càng nhiều thông tin có thể. Ví dụ, nếu nó dựa trên một bộ Manga hay Light Novel, tôi sẽ đọc tất cả mọi thứ của nó và tôi sẽ yêu cầu các nhân viên cho tôi đọc kịch bản của phim hoạt hình nhiều nhất có thể.</p>
-
-<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-13.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-14.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-15.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" />
-
-<img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-16.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
-
-<p><b>Lễ hội Cosplay</b></p>
-
-<p>Dĩ nhiên, làm sao lễ hội Anime mà lại thiếu Cosplay được. Sự kiện Cosplay được tổ chức vào sáng thứ 7, 10 thí sinh xuất sắc nhất được chọn ra để lọt vào top 3.</p>
-
-<center><img src="../local/public/upload/images/anime/Animax-Carnival-Malaysia-2016-17.jpg" width="70%" alt="Lễ hội Animax Carnival Malaysia 2016" /></center>
-
-<p>Gan Cia Seng (giải nhất) trong vai Maleficent trong Người Đẹp Ngủ Trong Rừng.<br>
-Raion Leo (giải nhì) trong vai búp bê trong Black Butler<br>
-Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
-
-<p>Trang nguồn: <a href="http://www.animenewsnetwork.com/convention/2016/animax-carnival-malaysia/.100593">Anime News Network</a></p>',
-
-            'dateDetailPost'     => '2016-04-05',
-            'imgDetailPost'      => 'Animax-Carnival-Malaysia-2016-thumbnail.jpg',
-            'idCat'              => GAME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'views'              => random_int(0,100),
-            'enable'        	 => ENABLE,
-            'popular'            => 0,
-            'head_position'      => HEADER_NONE,
-            'update'             => 0,
-        ]);
-
-		$post->create([
-            'nameDetailPost'     => 'Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái',
-            'urlDetailPost'      => 'Co-giao-tieng-Anh-nong-bong-va-tro-dua-tai-quai',
-            'presentDetailPost'  => 'Cô giáo dạy tiếng Anh ngây thơ vô tội trở thành trò đùa tai quái.',
-            'contentDetailPost'  => '<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-1.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-</center>
-
-<p>Cộng đồng yêu thích Anime – Manga vừa trải qua một sự kiện gây sốt. Câu chuyện bắt đầu từ việc sách giáo khoa dạy tiếng Anh New Horizon ở Nhật Bản đã vẽ một cô giáo được đặt tên là Ellen Baker. Đây là một cô giáo dạy Tiếng Anh tưởng tượng trong sách và là người đến từ Boston, Mỹ. Cô có nhiệm vụ dẫn truyện để các em học sinh dễ hình dung hơn.</p>
-
-<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-2.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-3.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-4.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-5.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<p>Cô giáo Ellen Baker</p></center>
-
-<p>Ngay lập tức, cô giáo đã trở thành đề tài gây sốt không chỉ vì độ nóng bỏng, dễ thương của mình mà còn tạo cảm hứng học tập cho các em học sinh. Nhiều người đánh giá đây là cách làm hay vì khi có một nhân vật dẫn truyện suốt cả quyển sách, các em sẽ hứng thú hơn nhiều. Nhiều người bắt đầu chế hình hài hước về cô giáo này. Một số Cosplayer còn hóa trang thành cô.</p>
-
-<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-6.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-7.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-8.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-9.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-10.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-11.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-</center>
-
-<p>Câu chuyện nếu dừng tại đây thì sẽ chẳng có gì đáng nói nếu như một số người chế hình không đi quá xa. Những họa sĩ bắt đầu vẽ cô giáo theo phong cách hentai với những cảnh quan hệ 18+. Mới đầu thì có vẻ hài hước nhưng hãy nghĩ đến một ngày nào đó, các em học sinh xem những cảnh cô giáo làm chuyện người lớn thế này trên Facebook thì sao? Chắc chắn cô giáo này vô tình sẽ trở thành một hình ảnh xấu trong mắt các em và phụ huynh. Một cô giáo hư hỏng, làm chuyện người lớn thì chắc chắn chẳng có phụ huynh nào chấp nhận được khi cô cứ xuất hiện trong cuốn sách các em học hằng ngày.</p>
-
-<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-12.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-13.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-14.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<p>Những hình ảnh 16+ do cộng đồng Anime – Manga chế ra.</p>
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-15.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-16.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<p>“Làm ơn dừng lại! Cô tồn tại để dạy tiếng Anh, không phải để làm chuyện người lớn”</p>
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-17.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<p>“Đến lúc dừng lại rồi”</p></center>
-
-<p>Cộng đồng Anime – Manga từ lâu dễ để lại ấn tượng xấu vì những hình ảnh không phù hợp lứa tuổi. Khi sáng tác, chế ảnh, mọi người cũng phải để ý đến những ảnh hưởng mà nó tác động đến lứa tuổi thiếu nhi. Không phải tự nhiên mà những bộ phim, Anime có phân loại độ tuổi 12+, 16+, 18+ đâu.</p>
-
-<center><img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-18.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" />
-
-<img src="../local/public/upload/images/anime/Co-giao-tieng-Anh-Ellen-baker-19.jpg" width="70%" alt="Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái" /></center>',
-
-            'dateDetailPost'     => '2016-04-11',
-            'imgDetailPost'      => 'Co-giao-tieng-Anh-Ellen-baker-nong-bong-va-tro-dua-tai-quai-thumbnail.jpg',
-            'idCat'              => ANIME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'views'              => random_int(0,100),
-            'enable'        	 => ENABLE,
-            'popular'            => 0,
-            'head_position'      => HEADER_NONE,
-            'update'             => 0,
-        ]);
 
 		$post->create([
             'nameDetailPost'     => 'Overwatch 1 tháng sau Open Beta',
@@ -7035,7 +7102,7 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Lotte Cinema sẽ chiếu Live-Action Inuyashiki tại Việt Nam vào 20 tháng 7',
+            'nameDetailPost'     => 'Lotte Cinema sẽ chiếu Live-Action Inuyashiki tại Việt Nam vào 20/7',
             'urlDetailPost'      => 'lotte-cinema-se-chieu-live-action-Inuyashiki-tai-Viet-Nam-vao-20-thang-7',
             'presentDetailPost'  => 'Anime Inuyashiki nổi tiếng ra mắt vào cuối năm 2017 đã có bản Live-Action và sẽ chiếu tại cụm rạp Lotte Cinema ở Việt Nam.',
             'contentDetailPost'  => '<p>Chuỗi rạp chiếu phim Lotte Cinema của Việt Nam công bố vào ngày 5/7/2018 rằng bộ phim Live-Action Inuyashiki chuyển thể từ manga cùng tên của tác giả Hiroya Oku sẽ được chiếu tại Việt Nam bắt đầu từ ngày 20/7/2018.</p>
@@ -7300,7 +7367,7 @@ http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
-            'enable'             => UNENABLE,
+            'enable'             => ENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
@@ -7343,7 +7410,7 @@ http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
-            'enable'             => UNENABLE,
+            'enable'             => ENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
@@ -7379,10 +7446,191 @@ http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
-            'enable'             => UNENABLE,
+            'enable'             => ENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Virtual Youtuber - Phong cách độc đáo của Nhật Bản',
+            'urlDetailPost'      => 'virtual-youtuber-phong-cach-doc-dao-cua-rieng-Nhat-Ban',
+            'presentDetailPost'  => 'Nếu bạn là fan Anime, bạn không thể bỏ qua Virtual Youtuber - Youtuber ảo chỉ có tại Nhật Bản',
+            'contentDetailPost'  => '<p>Youtuber, hay còn gọi là các nhà sáng tạo của Youtube, đã là trào lưu, công việc part time hay thậm chí là full time của rất nhiều người trên khắp thế giới. Tuy nhiên, khán giả có thể đã chán các Youtuber người bình thường với những nội dung đã cũ. Nam giới thì stream game, diễn hài. Nữ giới vừa chơi game vừa khoe đường cong cơ thể, cosplay. Làm nhóm thì diễn kịch, hài. Dần dần, các Youtuber chuyển sang các thể loại khiêu dâm hơn nhằm mục đích thu hút người xem, khiến Youtube đã phải tuýt còi, mạnh tay xử phạt vào năm 2017. Vì vậy, một phong cách mới đã được Nhật Bản sáng tạo ra, đó là Virtual Youtuber.</p>
+
+<p>Virtual Youtuber là các nhân vật ảo làm Youtuber. Một studio nào đó tạo ra một nhân vật ảo, tìm diễn viên lồng tiếng, viết kịch bản và đăng kênh Youtube. Các Virtual Youtuber tự nhận mình là A.I (Artificial Intelligence - Trí thông minh nhân tạo) và làm tương tự như các Youtube bình thường hay làm: chơi game, diễn hài, bình luận chủ đề nào đó và có chút nói về chủ đề nhạy cảm. Nhưng tất nhiên, họ có thể làm những điều mà người thường không làm được như biến hình, cosplay ngay lập tức. Những điểm đặc biệt đó giúp Virtual Youtuber có rất nhiều fan hâm mộ, đa số là các fan Anime.</p>
+
+
+<p></p>
+
+
+',
+
+            'dateDetailPost'     => '2018-09-01',
+            'imgDetailPost'      => 'virtual-youtuber-phong-cach-doc-dao-cua-rieng-Nhat-Ban-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Liệu Trung Quốc có thể thống trị ngành công nghiệp Anime?',
+            'urlDetailPost'      => 'lieu-trung-quoc-co-the-thong-tri-nganh-cong-nghiep-anime',
+            'presentDetailPost'  => 'Một câu chuyện đã được nhắc đến từ lâu và nhiều khả năng sẽ trở thành hiện thực.',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://myanimelist.net/forum/?topicid=1739867
+
+https://pixel.facebook.com/VnSharingPage/posts/907714426081195?__tn__=KH-R
+
+https://pixel.facebook.com/VnSharingPage/photos/a.336505173202126/908083709377600/?type=3&theater
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-09-12',
+            'imgDetailPost'      => 'lieu-trung-quoc-co-the-thong-tri-nganh-cong-nghiep-anime-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Virtual Youtuber Kizuna gửi thư cảm ơn PewDiePie',
+            'urlDetailPost'      => 'virtual-youtuber-kizuna-gui-thu-cam-on-pewdiepie',
+            'presentDetailPost'  => "Fan hâm mộ của Youtuber và Virtual Youtuber nổi tiếng nhất thế giới 'đã có thể an nghỉ trong hạnh phúc.'",
+            'contentDetailPost'  => '<p>Ngày 5/6/2018, Virtual Youtuber Kizuna đã cover bài Hej Monika của PewDiePie biểu diễn. Hej Monika là bài hát được remix bởi Party In Backyard để nói về nhân vật Monika trong Visual Novel kinh dị nổi tiếng Doki Doki. Doki Doki được phát hành vào ngày 22/9/2017 và đã trở thành trào lưu trong lễ Halloween năm đó với khẩu hiện "Just Monika". Nghĩa là nếu bạn chọn bất kỳ nhân vật nào khác ngoài Monika thì gặp Bad End khủng khiếp.</p>
+
+<p>Bài hát Hej Monika dành cho nhân vật này đã được PewDiePie biểu diễn vào ngày 28/1/2018. Hơn 5 tháng sau, Kizuna biểu diễn lại và bắt chước các động tác của PewDiePie.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Vk8UEWHYfEg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvB-kv9q7Pk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Hej Monika của PewDiePie và Kizuna</p></center>
+
+<p>PewDiePie đã xem video này trong series "Thử Thách Không Cười" và tỏ ra rất thích thú. Các fan hâm mộ 2 bên ngay lập tức chia sẻ đến Kizuna tin vui này. Không dễ gì được Youtuber thành công nhất thế giới đăng lên video của mình. Gần 20 triệu lượt xem sẽ quảng cáo thương hiệu của bạn đến khắp thế giới nếu được PewDiePie để ý. Và Hej Monika của Kizuna cũng đã thành video có nhiều lượt xem nhất của cô với hơn 1 triệu lượt xem, một con số trong mơ của bất kỳ Youtuber nào.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/2FpBYaQV8sQ?start=480" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>8:00 PewDiePie đã xem hết video của Kizuna trong video của mình với sự thích thú hiện rõ trên nét mặt.</p></center>
+
+<p>Và tất nhiên, khi tin vui này đến tai Kizuna, cô rất phấn khởi và kéo dài niềm vui này bằng một bức thư tiếng Anh và Nhật để cảm ơn PewDiePie. Nội dung bức thư như sau:</p>
+
+<blockquote>Xin chào PewDiePie</blockquote>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/FjefKAmee00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Thư cảm ơn của Kizuna gửi đến PewDiePie</p></center>
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vGQvabazuP0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Video ghép đôi PewDiePie và Kizuna thành cặp song ca tuyệt vời.</p></center>
+
+<p>Rất nhiều bình luận khi xem song ca với nhau rằng</p>
+
+<ul>
+<li>Now I can die happy (Giờ tôi đã có thể an nghỉ trong hạnh phúc).
+<li>Who needs PornHub when you have this (Cần gì PornHub khi bạn đã có video này).
+<li>This...this is what world peace looks like. (Đây... đây là điều mà một thế giới yên bình đang tìm kiếm).
+<li>This is heaven (Đây là thiên đường).
+</ul>
+
+<p>Một ngày đáng để ăn mừng của fan hâm mộ Virtual Youtuber Kizuna. Chúc cô và studio của mình sẽ tiếp tục gặt hái nhiều thành công hơn nữa để trở thành Virtual Youtuber nổi tiếng nhất thế giới.</p>
+',
+
+            'dateDetailPost'     => '2018-09-20',
+            'imgDetailPost'      => 'virtual-youtuber-kizuna-gui-thu-cam-on-pewdiepie-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Seven Seas cấp giấy phép cho Light Novel và Manga Skeleton Knight in Another World',
+            'urlDetailPost'      => 'seven-seas-cap-giay-phep-cho-light-novel-va-manga-skeleton-kight-in-another-world',
+            'presentDetailPost'  => 'Hy vọng series thể loại Isekai này sẽ có anime. Đây là series rất tiềm năng.',
+            'contentDetailPost'  => '<p>Seven Seas Entertainment thông báo </p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-knight-in-another-world-light-novels-manga/.137085
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-09-22',
+            'imgDetailPost'      => 'seven-seas-cap-giay-phep-cho-light-novel-va-manga-skeleton-kight-in-another-world-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+
+
+
+
+
+
+        $post->create([
+            'nameDetailPost'     => 'Các Virtual Youtuber nổi tiếng hiện nay',
+            'urlDetailPost'      => 'cac-virtual-youtuber-noi-tieng-hien-nay',
+            'presentDetailPost'  => 'Tất nhiên, cái tên nổi tiếng nhất vẫn là Kizuna A.I',
+            'contentDetailPost'  => '<p>Virtual Youtuber là các nhân vật ảo làm Youtuber. Một studio nào đó tạo ra một nhân vật ảo, tìm diễn viên lồng tiếng, viết kịch bản và đăng kênh Youtube. Các Virtual Youtuber tự nhận mình là A.I (Artificial Intelligence - Trí thông minh nhân tạo). </p>
+
+            <blockquote>Link bài viết Virtual Youtuber</blockquote>
+
+<p></p>
+
+
+',
+
+            'dateDetailPost'     => '2018-10-01',
+            'imgDetailPost'      => 'virtual-youtuber-phong-cach-doc-dao-cua-rieng-Nhat-Ban-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
     }
 }
