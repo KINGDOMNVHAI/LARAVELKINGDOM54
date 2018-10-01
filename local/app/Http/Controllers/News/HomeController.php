@@ -36,7 +36,7 @@ class HomeController extends Controller
         $viewHead       = $posts->headPosition();
 
         return view('news.pages.home', [
-            'title'     => TITLE_NEWS_INDEX,
+            'title'          => TITLE_NEWS_INDEX,
 
             // Public Services
             'menuCategories' => $viewCategories,
