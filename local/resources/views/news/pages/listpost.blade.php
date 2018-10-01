@@ -12,15 +12,15 @@
                         <ul class="fashion_catgnav">
                             <li>
                                 <div class="catgimg2_container">
-                                    <a href="{{ route('post-content', $post->urlDetailPost ) }}">
-                                        <img alt="{{ $post->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $post->imgDetailPost }}">
+                                    <a href="{{ route('post-content', $post->url_post ) }}">
+                                        <img alt="{{ $post->name_post }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $post->img_post }}">
                                     </a>
                                 </div>
                                 <h2 class="catg_titile" style="width:100%">
-                                    <a href="{{ route('post-content', $post->urlDetailPost ) }}">{{ $post->nameDetailPost }}</a>
+                                    <a href="{{ route('post-content', $post->url_post ) }}">{{ $post->name_post }}</a>
                                 </h2>
-                                <div class="comments_box"> <span class="meta_date">{{ $post->dateDetailPost }}</span> <span class="meta_comment"><a href="#">No Comments</a></span> <span class="meta_more"><a  href="#">Read More...</a></span> </div>
-                                <p>{{ $post->presentDetailPost }}</p>
+                                <div class="comments_box"> <span class="meta_date">{{ $post->date_post }}</span></div>
+                                <p>{{ $post->present_post }}</p>
                             </li>
                         </ul>
                     </div>

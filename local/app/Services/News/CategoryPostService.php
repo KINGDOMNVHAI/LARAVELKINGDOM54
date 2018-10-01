@@ -3,6 +3,7 @@ namespace App\Services\News;
 
 use App\Model\category;
 use App\Model\detailpost;
+use DB;
 use Illuminate\Support\ServiceProvider;
 
 class CategoryPostService extends ServiceProvider
@@ -29,7 +30,11 @@ class CategoryPostService extends ServiceProvider
         $post = detailpost::join('category', 'category.idCat', 'detailpost.idCat')
             ->select(
                 'category.nameCat',
-                'detailpost.*'
+                'detailpost.nameDetailPost as name_post',
+                'detailpost.urlDetailPost as url_post',
+                'detailpost.presentDetailPost as present_post',
+                DB::raw("DATE_FORMAT(detailpost.dateDetailPost,'%d-%m-%Y') as date_post"),
+                'detailpost.imgDetailPost as img_post'
             )
             ->where('detailpost.enable', '=', ENABLE)
             ->where('detailpost.idCat', '=', $idCat->idCat)
