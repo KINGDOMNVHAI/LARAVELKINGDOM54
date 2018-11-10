@@ -7709,12 +7709,17 @@ https://pixel.facebook.com/VnSharingPage/photos/a.336505173202126/90808370937760
 
 <p>Và tất nhiên, khi tin vui này đến tai Kizuna, cô rất phấn khởi và kéo dài niềm vui này bằng một bức thư tiếng Anh và Nhật để cảm ơn PewDiePie. Nội dung bức thư như sau:</p>
 
-<blockquote>Xin chào PewDiePie</blockquote>
+<blockquote>
+<p>PewDiePie-san thân mến</p>
+
+<p>Rất vui được gặp anh. Youtuber Ảo Kizuna AI đây.</p>
+
+<p>Cảm ơn anh rất nhiều vì đã xem video.</p>
+</blockquote>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FjefKAmee00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>Thư cảm ơn của Kizuna gửi đến PewDiePie</p></center>
-
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/vGQvabazuP0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -7775,27 +7780,68 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
             'update'             => 0,
         ]);
 
-
-
-
-
-
-
         $post->create([
             'nameDetailPost'     => 'Các Virtual Youtuber nổi tiếng hiện nay',
             'urlDetailPost'      => 'cac-virtual-youtuber-noi-tieng-hien-nay',
             'presentDetailPost'  => 'Tất nhiên, cái tên nổi tiếng nhất vẫn là Kizuna A.I',
             'contentDetailPost'  => '<p>Virtual Youtuber là các nhân vật ảo làm Youtuber. Một studio nào đó tạo ra một nhân vật ảo, tìm diễn viên lồng tiếng, viết kịch bản và đăng kênh Youtube. Các Virtual Youtuber tự nhận mình là A.I (Artificial Intelligence - Trí thông minh nhân tạo). </p>
 
+
+
 <blockquote>Link bài viết Virtual Youtuber</blockquote>
+
+<h3>Kizuna AI</h3>
+
+
+
+<h3>Mirai Akari</h3>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I8ZBYReOEsg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Trailer Mirai Akari</p></center>
+
+
+
+
+<h3>Yomemi</h3>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sPQKzJwzXb4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Trailer Yomemi - bạn gái ảo của bạn</p></center>
+
+
+
+
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qGxQtx3Jdoo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Yomemi và Akari cùng chơi PUBG</p></center>
+
+<h3>Kaguya Luna</h3>
+
+
+<h3>Shiro</h3>
+
+
+<h3></h3>
+<h3></h3>
 
 <p></p>
 
+<p>Ngoài ra còn một số Virtual Youtuber tiềm năng khác như YUA</p>
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/z-dkbyFTu-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>YUA và Shiro</p></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZVAthoGoWQI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Giọng trong video là "Fuck You" của Kizuna AI</p></center>
 ',
 
             'dateDetailPost'     => '2018-10-01',
-            'imgDetailPost'      => 'virtual-youtuber-phong-cach-doc-dao-cua-rieng-Nhat-Ban-thumbnail.jpg',
+            'imgDetailPost'      => 'cac-virtual-youtuber-noi-tieng-hien-nay-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
