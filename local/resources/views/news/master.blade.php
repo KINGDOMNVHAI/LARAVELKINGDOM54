@@ -12,6 +12,7 @@ Author URL: http://www.free-css.com/template-categories/news
     <link rel="icon" href="../news/images/favicon.ico" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/font-awesome.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('news/fontawesome/css/fontawesome.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/animate.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/slick.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/theme.css')}}">
@@ -66,10 +67,8 @@ Author URL: http://www.free-css.com/template-categories/news
                         </ul>
                     </div>
                     <div class="header_top_right">
-                        <form action="#" class="search_form">
-                            <input type="text" placeholder="Text to Search">
-                            <input type="submit" value="">
-                        </form>
+                        <a href="https://www.youtube.com/channel/UCxUL0zS-XiU36bkUsr5dWbg"><i class="fa fa-youtube"></i></a>
+                        <a href="https://www.facebook.com/NVHAI-306458502862792/?ref=bookmarks"><i class="fa fa-facebook"></i></a>
                     </div>
                 </div>
                 <div class="header_bottom">
@@ -153,7 +152,7 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="content_middle_leftbar">
                     <div class="single_category wow fadeInDown">
-                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">Mới nhất</a> </h2>
+                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">ĐÁNG CHÚ Ý</a> </h2>
                         <ul class="catg1_nav">
                             <?php
                                 for ($i=0; $i<=1; $i++){
@@ -173,7 +172,7 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="slick_slider2">
 
                         @foreach($newest as $new)
-                            <div class="single_featured_slide"> <a href="#"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
+                            <div class="single_featured_slide"> <a href="{{ route('post-content', $new->urlDetailPost ) }}"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
                                 <h2><a href="{{ route('post-content', $new->urlDetailPost ) }}">{{ $new->nameDetailPost }}</a></h2>
                                 <p>{{ $new->presentDetailPost }}</p>
                             </div>
@@ -185,7 +184,7 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="content_middle_rightbar">
                     <div class="single_category wow fadeInDown">
-                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">Mới nhất</a> </h2>
+                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">ĐÁNG CHÚ Ý</a> </h2>
                         <ul class="catg1_nav">
                             <?php
                             for ($j=2; $j<=3; $j++){
@@ -209,7 +208,7 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-4 col-md-4">
                 <div class="content_bottom_right">
                     <div class="single_bottom_rightbar">
-                        <img alt="" src="{{asset('news/images/addbanner_300x250.jpg')}}" width="100%">
+                        <img alt="" src="{{asset('news/images/addbanner_300x250.gif')}}" width="100%">
                         <h2>Cập nhật thường xuyên</h2>
                         <ul class="small_catg popular_catg wow fadeInDown">
                             @foreach($updates as $update)
@@ -309,7 +308,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             <li><a href="#">Login</a></li>
                         </ul>
                     </div> -->
-                    <img alt="" src="{{asset('news/images/addbanner_300x250.jpg')}}" width="100%">
+                    <img alt="" src="{{asset('news/images/addbanner_300x250.gif')}}" width="100%">
                 </div>
             </div>
         </div>
@@ -336,10 +335,7 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="single_footer_top wow fadeInDown">
                         <h2>Tags</h2>
                         <ul class="labels_nav">
-                            <li><a href="#">Gallery</a></li>
-                            <li><a href="#">Business</a></li>
-                            <li><a href="#">Games</a></li>
-                            <li><a href="#">Life &amp; Style</a></li>
+                            <li><a href="#">Review</a></li>
                         </ul>
                     </div>
                 </div>

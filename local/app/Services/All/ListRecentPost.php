@@ -25,7 +25,7 @@ class ListRecentPost extends ServiceProvider
     public function run($num)
     {
         // RECENT POST
-        $view = detailpost::where('enable', '=', HIDDEN_POST)
+        $view = detailpost::where('enable', ENABLE)
             ->orderBy(DB::raw('RAND()'))
             ->latest('dateDetailPost')
             ->take($num)
