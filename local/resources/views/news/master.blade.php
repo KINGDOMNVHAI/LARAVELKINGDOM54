@@ -161,7 +161,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             ?>
                             <li>
                                 <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
-                                <h3 class="post_titile"><a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}">{{ $heads[$i]->nameDetailPost }}</a></h3>
+                                <h2 class="post_titile"><a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}">{{ $heads[$i]->nameDetailPost }}</a></h2>
                             </li>
                             <?php } ?>
 
@@ -175,7 +175,7 @@ Author URL: http://www.free-css.com/template-categories/news
 
                         @foreach($newest as $new)
                             <div class="single_featured_slide"> <a href="{{ route('post-content', $new->urlDetailPost ) }}"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
-                                <h2><a href="{{ route('post-content', $new->urlDetailPost ) }}">{{ $new->nameDetailPost }}</a></h2>
+                                <h1><a href="{{ route('post-content', $new->urlDetailPost ) }}">{{ $new->nameDetailPost }}</a></h1>
                                 <p>{{ $new->presentDetailPost }}</p>
                             </div>
                         @endforeach
@@ -193,7 +193,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             ?>
                             <li>
                                 <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$j]->imgDetailPost }}"></a></div>
-                                <h3 class="post_titile"><a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}">{{ $heads[$j]->nameDetailPost }}</a></h3>
+                                <h2 class="post_titile"><a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}">{{ $heads[$j]->nameDetailPost }}</a></h2>
                             </li>
                             <?php } ?>
                         </ul>
