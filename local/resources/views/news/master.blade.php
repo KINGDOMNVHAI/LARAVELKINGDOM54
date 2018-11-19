@@ -9,6 +9,8 @@ Author URL: http://www.free-css.com/template-categories/news
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:type" content="website" />
     <link rel="icon" href="../news/images/favicon.ico" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/font-awesome.min.css')}}">
@@ -211,6 +213,7 @@ Author URL: http://www.free-css.com/template-categories/news
                         <img alt="" src="{{asset('news/images/addbanner_300x250.gif')}}" width="100%">
                         <h2>Cập nhật thường xuyên</h2>
                         <ul class="small_catg popular_catg wow fadeInDown">
+
                             @foreach($updates as $update)
                                 <li>
                                     <div class="media wow fadeInDown"> <a href="{{ route('post-content', $update->urlDetailPost ) }}" class="media-left"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $update->imgDetailPost }}"> </a>
@@ -221,6 +224,7 @@ Author URL: http://www.free-css.com/template-categories/news
                                     </div>
                                 </li>
                             @endforeach
+
                         </ul>
                     </div>
                     <div class="single_bottom_rightbar">
@@ -335,7 +339,12 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="single_footer_top wow fadeInDown">
                         <h2>Tags</h2>
                         <ul class="labels_nav">
-                            <li><a href="#">Review</a></li>
+                            <li><a href="#">Công nghiệp anime</a></li>
+                            <li><a href="#">Văn hóa Nhật Bản</a></li>
+                            <li><a href="#">Virtual Youtuber</a></li>
+                            <li><a href="#">Kizuna AI</a></li>
+                            <li><a href="#">PewDiePie</a></li>
+                            <li><a href="#">Review anime</a></li>
                         </ul>
                     </div>
                 </div>

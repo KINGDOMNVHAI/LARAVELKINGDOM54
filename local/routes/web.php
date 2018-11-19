@@ -86,9 +86,6 @@ Route::post('/download-update/', 'Admin\DownloadController@update')->name('downl
 
 Route::get('/download-delete/{idDown}', 'Admin\DownloadController@delete')->name('download-delete');
 
-
-
-
 // ======================= User Profile =======================
 
 Route::get('/user-profile', 'Admin\ProfileController@index')->name('user-profile');
