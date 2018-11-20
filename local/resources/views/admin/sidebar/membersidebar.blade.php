@@ -1,4 +1,4 @@
-<center><h3>Member</h3></center>
+<center><h3>{{ __('admin.member') }}</h3></center>
 <hr>
 <li> <!-- class="active" -->
     <a href="{{ route('dashboard') }}">

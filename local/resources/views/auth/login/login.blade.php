@@ -48,7 +48,7 @@
         <div id="content" class="container">
             <div class="box-top-blue col-md-offset-3 col-md-6 login-present">
                 <div class="login-register-form col-md-offset-3 col-md-6">
-					<p class="header-msg">Login</p>
+					<p class="header-msg">{{ __('auth.login') }}</p>
                     <form action="{{ route('check-login') }}" method="post">
                         {{ csrf_field() }}
 {{--  
@@ -64,12 +64,12 @@
                         {{--  @if($errors->has('arletemail'))
                         <p style="color:red">{{$errors->first('email')}}</p>
                         @endif  --}}
-                        <input type="text" class="login-register-input" name="username" placeholder="Tên tài khoản"><br>
+                        <input type="text" class="login-register-input" name="username" placeholder="{{ __('auth.username') }}"><br>
                         
                         {{--  @if($errors->has('password'))
 							<p style="color:red">{{$errors->first('password')}}</p>
 						@endif  --}}
-                        <input type="password" class="login-register-input" name="password" placeholder="Mật khẩu"><br>
+                        <input type="password" class="login-register-input" name="password" placeholder="{{ __('auth.password') }}"><br>
                         <center><a href="{{ route('kd-register') }}">Chưa có tài khoản?</a>  |  <a href="{{ route('forgot-password') }}">Quên mật khẩu?</a></center><br>
                         <input type="submit" class="submit-signup" value="Đăng nhập">
 

@@ -27,7 +27,7 @@
                     <div class="col-md-8">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title">Edit Profile</h4>
+                                <h4 class="title">{{ __('admin.edit_profile') }}</h4>
                             </div>
                             <div class="content">
                                 <form action="{{ route('user-profile-update', Auth::user()->id ) }}" method="post" enctype="multipart/form-data">
@@ -35,14 +35,14 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <label>Last Name</label>
-                                                <input type="text" class="form-control" name="lastname" id="lastname" placeholder="Last Name" value="{{Auth::user()->lastname}}">
+                                                <label>{{ __('admin.last_name') }}</label>
+                                                <input type="text" class="form-control" name="lastname" id="lastname" placeholder="{{ __('admin.last_name') }}" value="{{Auth::user()->lastname}}">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <label>First Name</label>
-                                                <input type="text" class="form-control" name="firstname" id="firstname" placeholder="Company" value="{{Auth::user()->firstname}}">
+                                                <label>{{ __('admin.first_name') }}</label>
+                                                <input type="text" class="form-control" name="firstname" id="firstname" placeholder="{{ __('admin.first_name') }}" value="{{Auth::user()->firstname}}">
                                             </div>
                                         </div>
                                     </div>
@@ -50,14 +50,14 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <label>Username</label>
-                                                <input type="text" class="form-control" name="username" id="username" placeholder="Username" value="{{Auth::user()->username}}">
+                                                <label>{{ __('admin.username') }}</label>
+                                                <input type="text" class="form-control" name="username" id="username" placeholder="{{ __('admin.username') }}" value="{{Auth::user()->username}}">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <label>Email</label>
-                                                <input type="text" class="form-control" name="email" id="email" placeholder="Email" value="{{Auth::user()->email}}">
+                                                <label>{{ __('admin.email') }}</label>
+                                                <input type="text" class="form-control" name="email" id="email" placeholder="{{ __('admin.email') }}" value="{{Auth::user()->email}}">
                                             </div>
                                         </div>
                                     </div>
@@ -107,13 +107,13 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <label>Avatar</label>
+                                                <label>{{ __('admin.avatar') }}</label>
                                                 <input type="file" name="avatar" id="avatar">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <label>Banner</label>
+                                                <label>{{ __('admin.banner') }}</label>
                                                 <input type="file" name="banner" id="banner">
                                             </div>
                                         </div>
@@ -122,13 +122,13 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="form-group">
-                                                <label>About Me</label>
+                                                <label>{{ __('admin.about_me') }}</label>
                                                 <textarea rows="5" class="form-control" name="aboutme" placeholder="Here can be your description">{{Auth::user()->aboutme}}</textarea>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <button type="submit" class="btn btn-info btn-fill pull-right">Update Profile</button>
+                                    <button type="submit" class="btn btn-info btn-fill pull-right">{{ __('admin.update_profile') }}</button>
                                     <div class="clearfix"></div>
                                 </form>
                             </div>
@@ -138,7 +138,7 @@
                         <div class="card card-user">
                             <div class="image">
                                 @if(Auth::user()->banner != null)
-                                    <img src="upload/images/banner/{{Auth::user()->banner}}" />
+                                    <img src="local/public/upload/images/banner/{{Auth::user()->banner}}" />
                                 @else
                                     <img src="https://ununsplash.imgix.net/photo-1431578500526-4d9613015464?fit=crop&fm=jpg&h=300&q=75&w=400" alt="..."/>
                                 @endif
@@ -147,12 +147,12 @@
                                 <div class="author">
                                     <a href="#">
                                         @if(Auth::user()->avatar != null)
-                                            <img class="avatar border-gray" src="upload/images/avatar/{{Auth::user()->avatar}}" />
+                                            <img class="avatar border-gray" src="local/public/upload/images/avatar/{{Auth::user()->avatar}}" />
                                         @else
                                             <img class="avatar border-gray" src="admin/imgs/faces/face-1.jpg" />
                                         @endif
 
-                                        <h4 class="title">Xin chào {{Auth::user()->username}}!
+                                        <h4 class="title">{{ __('admin.welcome_user') }} {{Auth::user()->username}}!
                                             <small>({{Auth::user()->type}})</small><br />
                                         </h4>
                                     </a>

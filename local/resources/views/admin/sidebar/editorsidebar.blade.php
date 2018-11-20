@@ -1,5 +1,5 @@
 
-<center><h3>Editor</h3></center>
+<center><h3>{{ __('admin.editor') }}</h3></center>
 <hr>
 <li>
     <a href="{{ route('categories') }}">

@@ -1,7 +1,6 @@
 
-<center><h3>Administrator</h3></center>
+<center><h3>{{ __('admin.administrator') }}</h3></center>
 <hr>
-
 <li>
     <a href="{{ route('administrator') }}">
         <i class="pe-7s-medal"></i>

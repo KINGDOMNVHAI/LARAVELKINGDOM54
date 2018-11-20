@@ -13,8 +13,26 @@ return [
     |
     */
 
-    'username_is_not_exist' => 'Username is not exist',
-    'wrong_password'        => 'Wrong Password',
+    // =============== Login Screen ===============
+
+    'login' => 'Login',
+
+    'username' => 'Username', //Tên tài khoản
+    'password' => 'Password', //Mật khẩu
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // =============== Error Message ===============
 
     'failed' => 'These credentials do not match our records.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
