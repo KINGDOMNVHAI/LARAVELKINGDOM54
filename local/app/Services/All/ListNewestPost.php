@@ -24,7 +24,7 @@ class ListNewestPost extends ServiceProvider
     public function run($num,$idCat)
     {
         // NEWEST POST
-        $new = detailpost::where('enable', '=', HIDDEN_POST);
+        $new = detailpost::where('enable', ENABLE);
 
         if ($idCat != null)
         {

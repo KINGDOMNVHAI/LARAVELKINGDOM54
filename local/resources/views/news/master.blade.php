@@ -9,9 +9,12 @@ Author URL: http://www.free-css.com/template-categories/news
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:type" content="website" />
     <link rel="icon" href="../news/images/favicon.ico" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/font-awesome.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('news/fontawesome/css/fontawesome.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/animate.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/slick.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('news/css/theme.css')}}">
@@ -66,10 +69,8 @@ Author URL: http://www.free-css.com/template-categories/news
                         </ul>
                     </div>
                     <div class="header_top_right">
-                        <form action="#" class="search_form">
-                            <input type="text" placeholder="Text to Search">
-                            <input type="submit" value="">
-                        </form>
+                        <a href="https://www.youtube.com/channel/UCxUL0zS-XiU36bkUsr5dWbg"><i class="fa fa-youtube"></i></a>
+                        <a href="https://www.facebook.com/NVHAI-306458502862792/?ref=bookmarks"><i class="fa fa-facebook"></i></a>
                     </div>
                 </div>
                 <div class="header_bottom">
@@ -153,14 +154,14 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="content_middle_leftbar">
                     <div class="single_category wow fadeInDown">
-                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">Mới nhất</a> </h2>
+                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">ĐÁNG CHÚ Ý</a> </h2>
                         <ul class="catg1_nav">
                             <?php
                                 for ($i=0; $i<=1; $i++){
                             ?>
                             <li>
                                 <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$i]->imgDetailPost }}"></a></div>
-                                <h3 class="post_titile"><a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}">{{ $heads[$i]->nameDetailPost }}</a></h3>
+                                <h2 class="post_titile"><a href="{{ route('post-content', $heads[$i]->urlDetailPost) }}">{{ $heads[$i]->nameDetailPost }}</a></h2>
                             </li>
                             <?php } ?>
 
@@ -173,8 +174,8 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="slick_slider2">
 
                         @foreach($newest as $new)
-                            <div class="single_featured_slide"> <a href="#"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
-                                <h2><a href="{{ route('post-content', $new->urlDetailPost ) }}">{{ $new->nameDetailPost }}</a></h2>
+                            <div class="single_featured_slide"> <a href="{{ route('post-content', $new->urlDetailPost ) }}"><img alt="{{ $new->nameDetailPost }}" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $new->imgDetailPost }}"></a>
+                                <h1><a href="{{ route('post-content', $new->urlDetailPost ) }}">{{ $new->nameDetailPost }}</a></h1>
                                 <p>{{ $new->presentDetailPost }}</p>
                             </div>
                         @endforeach
@@ -185,14 +186,14 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="content_middle_rightbar">
                     <div class="single_category wow fadeInDown">
-                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">Mới nhất</a> </h2>
+                        <h2> <span class="bold_line"><span></span></span> <span class="solid_line"></span> <a href="#" class="title_text">ĐÁNG CHÚ Ý</a> </h2>
                         <ul class="catg1_nav">
                             <?php
                             for ($j=2; $j<=3; $j++){
                             ?>
                             <li>
                                 <div class="catgimg_container"> <a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}" class="catg1_img"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $heads[$j]->imgDetailPost }}"></a></div>
-                                <h3 class="post_titile"><a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}">{{ $heads[$j]->nameDetailPost }}</a></h3>
+                                <h2 class="post_titile"><a href="{{ route('post-content', $heads[$j]->urlDetailPost ) }}">{{ $heads[$j]->nameDetailPost }}</a></h2>
                             </li>
                             <?php } ?>
                         </ul>
@@ -209,9 +210,10 @@ Author URL: http://www.free-css.com/template-categories/news
             <div class="col-lg-4 col-md-4">
                 <div class="content_bottom_right">
                     <div class="single_bottom_rightbar">
-                        <img alt="" src="{{asset('news/images/addbanner_300x250.jpg')}}" width="100%">
+                        <img alt="" src="{{asset('news/images/addbanner_300x250.gif')}}" width="100%">
                         <h2>Cập nhật thường xuyên</h2>
                         <ul class="small_catg popular_catg wow fadeInDown">
+
                             @foreach($updates as $update)
                                 <li>
                                     <div class="media wow fadeInDown"> <a href="{{ route('post-content', $update->urlDetailPost ) }}" class="media-left"><img alt="" src="{{ url('/') }}/local/public/upload/images/thumbnail/{{ $update->imgDetailPost }}"> </a>
@@ -222,6 +224,7 @@ Author URL: http://www.free-css.com/template-categories/news
                                     </div>
                                 </li>
                             @endforeach
+
                         </ul>
                     </div>
                     <div class="single_bottom_rightbar">
@@ -309,7 +312,7 @@ Author URL: http://www.free-css.com/template-categories/news
                             <li><a href="#">Login</a></li>
                         </ul>
                     </div> -->
-                    <img alt="" src="{{asset('news/images/addbanner_300x250.jpg')}}" width="100%">
+                    <img alt="" src="{{asset('news/images/addbanner_300x250.gif')}}" width="100%">
                 </div>
             </div>
         </div>
@@ -336,10 +339,12 @@ Author URL: http://www.free-css.com/template-categories/news
                     <div class="single_footer_top wow fadeInDown">
                         <h2>Tags</h2>
                         <ul class="labels_nav">
-                            <li><a href="#">Gallery</a></li>
-                            <li><a href="#">Business</a></li>
-                            <li><a href="#">Games</a></li>
-                            <li><a href="#">Life &amp; Style</a></li>
+                            <li><a href="#">Công nghiệp anime</a></li>
+                            <li><a href="#">Văn hóa Nhật Bản</a></li>
+                            <li><a href="#">Virtual Youtuber</a></li>
+                            <li><a href="#">Kizuna AI</a></li>
+                            <li><a href="#">PewDiePie</a></li>
+                            <li><a href="#">Review anime</a></li>
                         </ul>
                     </div>
                 </div>

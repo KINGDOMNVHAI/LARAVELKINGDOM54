@@ -1600,17 +1600,34 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'nameDetailPost'     => 'Cách mở nhiều trang web cùng lúc bằng URLOpener',
             'urlDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener',
             'presentDetailPost'  => 'Khi làm SEO, bạn sẽ cần mở nhiều trang web cùng lúc để đăng bài lên diễn đàn. Có những trang web giúp bạn làm việc đó',
-            'contentDetailPost'  => '<p>URLOpener là trang web giúp các SEOer có thể mở nhiều trang web cùng lúc để đăng bài, diễn đàn, tăng view... Cách sử dụng rất đơn giản. Chỉ cần nhìn vào trang chủ, ta có thể thấy ngay khung copy các url. Bấm submit, các url sẽ được chuyển thành đường link. Cuối cùng là Open All.</p>
+            'contentDetailPost'  => '<p>URLOpener là trang web giúp các SEOer có thể mở nhiều trang web cùng lúc để đăng bài, diễn đàn, tăng view... Cách sử dụng rất đơn giản. Chỉ cần nhìn vào trang chủ, ta có thể thấy ngay khung copy các URL. Mỗi URL nhớ xuống dòng để dễ kiểm tra. Bấm Open All là tất cả đường link được mở.</p>
 
-<p>Tuy nhiên, sẽ có trường hợp những máy mới dùng lần đầu không xài được. Hãy đọc hướng dẫn trong phần hướng dẫn. Vì người viết dùng Google Chrome nên sẽ hướng dẫn cho Chrome.</p>
+<center><img src="../local/public/upload/images/thuthuat/cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener-1.jpg" width="70%" alt="Cách mở nhiều trang web cùng lúc bằng URLOpener" /></center>
 
-<p>Hướng dẫn cho Chrome: vào Cài Đặt (Setting) của Chrome, mở Nâng Cao (Show advanced settings...), chọn Nội Dung (Content) -> Cửa Sổ Bật Lên (Popup). Trong phần Cho Phép (Allow), thêm đường link http://www.urlopener.com/index.php vào. Sau đó ra ngoài thử lại. Chúc bạn thành công!</p>
+<p>Tuy nhiên, sẽ có trường hợp những máy mới dùng lần đầu không xài được. Lý do là vì trình duyệt của bạn đang chặn Popup của web. Hãy search cách mở Popup trình duyệt lên.</p>
 
-<p></p>
+<center><img src="../local/public/upload/images/thuthuat/cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener-2.jpg" width="100%" alt="Cách mở nhiều trang web cùng lúc bằng URLOpener" /></center>
 
-<p></p>
+<p><a href="https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=vi">Hướng dẫn mở Popup cho Chrome</a></P>
 
-            ',
+<p>Vào Cài Đặt (Setting)<br>
+-> Nâng Cao<br>
+-> Cài Đặt Nội Dung (Content)<br>
+-> Cửa Sổ Bật Lên<br>
+-> Copy đường link trang chủ http://www.url-opener.com/ vào<br>
+-> Refresh trang URLOpener và thử lại<br>
+</p>
+
+<p><a href="https://support.mozilla.org/vi/kb/Ng%C4%83n%20c%E1%BA%A3n%20c%E1%BB%ADa%20s%E1%BB%95%20qu%E1%BA%A3ng%20c%C3%A1o%20(c%E1%BB%ADa%20s%E1%BB%95%20Pop-up)">Hướng dẫn mở Popup cho Mozilla Firefox</a></P>
+
+<p>Bấm vào nút menu<br>
+-> Options<br>
+-> Thẻ Nội Dung<br>
+-> Bỏ tùy chọn Chặn Các Cửa Sổ Tự Mở<br>
+-> Ngoại Trừ (Exceptions)<br>
+-> Copy link trang chủ vào.</p>
+
+<p>Chúc các bạn thành công.</p>',
 
             'dateDetailPost'     => '2015-08-02',
             'imgDetailPost'      => 'cach-mo-nhieu-trang-web-cung-luc-bang-URLOpener-thumbnail.jpg',
@@ -1762,19 +1779,15 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'presentDetailPost'  => 'Trailer của Netoge no Yome wa Onnanoko Ja Nai To Omotta? phiên bản anime đã được ra mắt vào ngày 4/16/2015',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, học đường, thế giới ảo, lãng mạn.</p>
 
-<p>Kadokawa tiết lộ light novel “Netoge no Yome wa Onnanoko Ja Nai To Omotta?” sẽ được chuyển thể thành anime. Diễn viên lồng tiếng đã ra mắt vào ngày hôm sau. Sự kiện này sẽ được ra mắt trong sự kiện “Dengeki Bunko Autumn Festival 2015” được tổ chức tại Akihabara vào ngày 4/10/2015.
-</p>
+<p>Kadokawa tiết lộ light novel “Netoge no Yome wa Onnanoko Ja Nai To Omotta?” sẽ được chuyển thể thành anime. Diễn viên lồng tiếng đã ra mắt vào ngày hôm sau. Sự kiện này sẽ được ra mắt trong sự kiện “Dengeki Bunko Autumn Festival 2015” được tổ chức tại Akihabara vào ngày 4/10/2015.</p>
 
-<center><img src="../local/public/upload/images/anime/Dengeki-Bunko-Autumn-Festival.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Sự kiện Dengeki Bunko Autumn Festival 2014.</p>
-</center>
+<center><img src="../local/public/upload/images/anime/Dengeki-Bunko-Autumn-Festival.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Sự kiện Dengeki Bunko Autumn Festival 2014.</p></center>
 
 <p>“Netoge no Yome wa Onnanoko Ja Nai To Omotta?” có phiên bản light novel và manga. Tựa đề được dịch là “Bạn gái trong Game online”. Nội dung nói về Nishimura (tên trong game là Rusian) sau khi bị từ chối bởi cô vợ ảo trong game chỉ vì đó là một tên con trai, anh này trở nên nghi ngờ mọi đứa con gái trong game. Và một cô gái xuất hiện (tên trong game là Ako) đòi cưới anh. Hai người gặp nhau ngoài đời thật thì một sự thật cực kỳ bất ngờ: đó là một cô gái rất xinh đẹp. Và harem ảo của anh chàng Otaku số đỏ, chơi game có vợ này bắt đầu khi mà cả một nhóm bạn trong game của cậu đều là con gái ngoài đời thật.</p>
 
 <center><img src="../local/public/upload/images/anime/Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-Manga-Vol1.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Manga Volume 1</p>
 
-
-<img src="../local/public/upload/images/anime/Netoge_no_Yome_wa_Onnanoko_Ja_Nai_To_Omotta_LN_vol1.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Light Novel volume 1</p>
-</center>
+<img src="../local/public/upload/images/anime/Netoge_no_Yome_wa_Onnanoko_Ja_Nai_To_Omotta_LN_vol1.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Light Novel volume 1</p></center>
 
 <p>Ở trên các trang truyện, bộ manga này hiện đang được dịch khá lâu. Có vẻ như bộ truyện này đã bị hoãn lại hay phát hành chậm. Vì vậy các fan rất mong đợi phiên bản anime sẽ sớm ra mắt để các fan có thể theo dõi tiếp câu chuyện. Hy vọng rằng phiên bản anime sắp tới sẽ đáp ứng tốt mong đợi của fan hâm mộ.</p>
 
@@ -1837,13 +1850,11 @@ các viên bi nằm gần các mũi tên cùng màu</p></center>
 
 <p>Mặc dù thể loại game giải đố khá nhàm chán nhưng cộng đồng những người thích chơi những trò chơi trí tuệ vẫn khá đông. Đó là vì họ muốn được tận hưởng cảm giác giải xong một câu đố hóc búa. Và Safecracker đã làm tốt điều đó khi những câu đố của safecracker rất dễ khiến nhiều người nản lòng. Không chỉ phải vắt chất xám ra để suy nghĩ, trò chơi còn bắt người chơi phải thu thập những mảnh ghép như cầu chì, nguồn điện… để lắp vào một chiếc cửa có khóa mã số bị hỏng. Điều này khiến họ không ngừng làm việc trí óc.</p>
 
-<center><img src="../local/public/upload/images/game/Safecracker-1.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" />
-</center>
+<center><img src="../local/public/upload/images/game/Safecracker-1.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" /></center>
 
 <p>Đồ họa trong game cũng bình thường, không có gì nổi trội. Âm nhạc trong game khá trầm lắng, tạo sự im lặng cho người chơi tập trung suy nghĩ. Nói chung game này tạo cho người chơi cảm giác khá trầm lắng, chỉ hợp với những ai sẵn sàng nghiên cứu từng câu đố hóc búa nhất của game.</p>
 
-<center><img src="../local/public/upload/images/game/Safecracker-ket-sat-3.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" /><p>Câu đố thứ 3: di chuyển viên bi sắt sao cho rơi vào lỗ, không rơi xuống 4 cạnh bàn.</p>
-</center>
+<center><img src="../local/public/upload/images/game/Safecracker-ket-sat-3.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" /><p>Câu đố thứ 3: di chuyển viên bi sắt sao cho rơi vào lỗ, không rơi xuống 4 cạnh bàn.</p></center>
 
 <p>Nhìn chung, safecracker là game giải đố nên khá kén người chơi. Trò chơi này bây giờ rất khó tìm kiếm trên Google vì đã quá cũ. Nếu bạn đã đọc bài viết này, sao bạn không thử sức mình với những câu đố hóc búa? Phần thưởng cuối trò chơi là bạn có liên quan đến di chúc của ông tỷ phú. Hãy thử tìm hiểu xem sao.</p>',
 
@@ -2112,8 +2123,7 @@ Và Katarina đã tận dụng tốt sai lầm đó.</p></center>
 
 <p>Thậm chí ngay cả tướng Hỗ Trợ cũng phải biết đi gank. Ở rank thấp, tướng Hỗ Trợ đi gank là một cái gì đó xa lạ. Nhưng khi lên rank cao, việc đó là bình thường. Những tướng như Blitcrank, Lulu, Zyra, Morgana, Karma, Alistar… chạy ra đường giữa gank là chuyện thường thấy. Tất nhiên đó là khi Xạ Thủ của bạn đã có lợi thế hoặc đối thủ đang về nhà. Với meta bây giờ, cộng với sự xuất hiện của Bard, Tahm Kench thì việc tướng Hỗ Trợ đi gank là chuyện bình thường.</p>
 
-<center><img src="../local/public/upload/images/game/Yorick_thang_lien_tuc_8thang_1thua.jpg" width="70%" alt="Kinh nghiệm chọn tướng ở Elo Hell" />
-</center>
+<center><img src="../local/public/upload/images/game/Yorick_thang_lien_tuc_8thang_1thua.jpg" width="70%" alt="Kinh nghiệm chọn tướng ở Elo Hell" /></center>
 
 <p><b>11 Giảm tối đa công việc mà bạn phải làm</b><br>
 Điển hình: Soraka, Lulu, Janna, Dr.Mundo…</p>
@@ -4903,7 +4913,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 
 <p>Tác giả đã cố gắng thoát khỏi lối mòn đó bằng một anh hùng chẳng có gì đặc biệt về kỹ năng, vật phẩm. Saitama chỉ có điểm ấn tượng về ngoại hình là cái đầu hói trọc lóc. Anh không có tuyệt kỹ bí mật, múa may lung tung hay đao kiếm, phun nước thổi lửa. Tất cả những gì Saitama cần làm khi gặp quái vật là đấm. Chỉ đấm thôi và quái vật tan xác.</p>
 
-	',
+',
 
             'dateDetailPost'     => '2016-03-13',
             'imgDetailPost'      => 'one-punch-man-dam-phat-chet-luon-thumbnail.jpg',
@@ -4959,8 +4969,8 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 
         $post->create([
             'nameDetailPost'     => 'Empire Earth – Đế chế thiên niên kỷ',
-            'urlDetailPost'      => 'Empire-Earth–de-che-thien-nien-ky',
-            'presentDetailPost'  => '',
+            'urlDetailPost'      => 'Empire-Earth-de-che-thien-nien-ky',
+            'presentDetailPost'  => 'Mọi thế hệ 8x, 9x đời đầu yêu thích thể loại dàn trận đều đánh giá game này hay hơn cả Age of Empires. Tất nhiên rồi! Vì đây là game chiến thuật hay nhất năm 2001. ',
             'contentDetailPost'  => '<p>Là một trong các tựa game cũ mà hay, Empire Earth đã từng được đánh giá là game hay nhất năm 2001, có thể đánh giá ngang với Age of Empires lừng danh với sự đa dạng thời kỳ, binh chủng, công trình hơn hẳn và hình ảnh, màu sắc tương tự Age of Empires. Những ai thuộc thế hệ 8x, 9x yêu thích thể loại game dàn trận, chiến thuật chắc chắn không thể quên được Empire Earths – Đế Chế Thiên Niên Kỷ.</p>
 
 <center></center>
@@ -4990,7 +5000,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
 ',
 
             'dateDetailPost'     => '2016-03-20',
-            'imgDetailPost'      => 'Empire-Earth–de-che-thien-nien-ky-thumbnail.jpg',
+            'imgDetailPost'      => 'Empire-Earth-de-che-thien-nien-ky-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -5038,7 +5048,7 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             ',
 
             'dateDetailPost'     => '2016-03-25',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'saenai-heroine-no-sodatekata-nhip-dap-trai-tim-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -5055,8 +5065,28 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'presentDetailPost'  => 'Idol bất ngờ giải nghệ, về vùng quê học chung với nam chính. Những câu chuyện học đường hài hước bắt đầu từ đây.',
             'contentDetailPost'  => '
             <p>Khi cô Idol Kusakabe Yuka tuyên bố giải nghệ bất ngờ, thanh niên Hata Kosaku nhà ta bị sốc tận óc và chưa dừng lại ở đó hôm sau có 1 cô gái bước vào lớp Kosaku và tự giới thiệu mình là Kusakabe Yuka - học sinh chuyển trường</p>
-            <p></p>
-            <p></p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/m3-ygD5R2fA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Miracle Girls Festival - Cordless Telephone [Nourin]</p></center>
+
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z1kgHu9JyTg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Nourin Ending - Tefuru Girls</p></center>
+
+
+<center><iframe src="https://www.nhaccuatui.com/vh/auto/x9pFMUjpuq6al" width="620" height="350" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+<p>Nourin Opening - Himitsu No Tobira Kara Ai Ni Kite</p></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/idsvWO_y1kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Vietsub 3 bài hát hay nhất của phim: OP, ED và Cordless Telephone</p></center>
+
+
+
             <p></p>
             <p></p>
             ',
@@ -5196,9 +5226,6 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'update'             => 0,
         ]);
 
-
-
-
 		$post->create([
             'nameDetailPost'     => 'Cô giáo tiếng Anh nóng bỏng và trò đùa tai quái',
             'urlDetailPost'      => 'Co-giao-tieng-Anh-nong-bong-va-tro-dua-tai-quai',
@@ -5271,9 +5298,91 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Maken-ki! - Học viện Ma Khí',
+            'urlDetailPost'      => 'Maken-ki-Hoc-Vien-Ma-Khi',
+            'presentDetailPost'  => 'Học viện Tenbi từ trường nữ sinh thành trường tổng hợp. Takeru - nam sinh không xác định được Ma Khí - bắt đầu tận hưởng tuổi xuân cùng dàn Harem tại học viện.',
+            'contentDetailPost'  => '
+
+<p>Nếu đã từng xem Freezing, Highschool DxD hay Hiệp Sĩ Lưu Ban Chivalry of a Failed Knight, các bạn sẽ hiểu ngay nội dung và cách chiến đấu của Maken-ki! Những cô gái tự triệu hồi vũ khí riêng của mình: găng tay, kiếm, giáp chân... Hai thằng đực rựa chuyên đi nhìn trộm nữ sinh thay đồ. Những cảnh chiến đấu mà con gái chiếm phần lớn thời lượng. Cuộc tình tay 3 giữa Takeru, senpai và một nữ sinh mới quen. Tóm lại, Maken-ki! có nội dung rất giống Freezing.</p>
 
 
 
+
+
+
+',
+
+            'dateDetailPost'     => '2016-04-12',
+            'imgDetailPost'      => 'Maken-ki-Hoc-Vien-Ma-Khi-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Những bộ anime kể về cuộc sống của những người trong ngành Anime Manga.',
+            'urlDetailPost'      => 'nhung-bo-anime-ke-ve-cuoc-song-cua-nhung-nguoi-trong-nganh-anime-manga',
+            'presentDetailPost'  => 'Bạn muốn tìm hiểu cuộc sống của các mangaka hay những người làm trong ngành anime, game Visual Novel? Hãy xem những bộ anime sau.',
+            'contentDetailPost'  => '
+
+<h3>Mangaka-san to Assistant-san to The Animation - Mangaka và các cô gái phụ tá</h3>
+
+<p></p>
+
+<p></p>
+
+<h3>Saenai Heroine no Sodatekata</h3>
+
+<p></p>
+
+<p></p>
+
+<h3>Eromanga Sensei</h3>
+
+<p></p>
+
+<p></p>
+
+<h3>Ore no Imouto ga Konna ni Kawaii Wake ga Nai</h3>
+
+<p></p>
+
+<p></p>
+
+
+<h3>ANIME IMOUTO SAE IREBA</h3>
+
+<p></p>
+
+<p></p>
+
+
+<h3></h3>
+
+<p></p>
+
+<p></p>
+
+
+',
+
+            'dateDetailPost'     => '2016-04-15',
+            'imgDetailPost'      => 'nhung-bo-anime-ke-ve-cuoc-song-cua-nhung-nguoi-trong-nganh-anime-manga-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
 
 
 
@@ -6156,7 +6265,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
 <p>Nguồn tin <a href="http://www.animenewsnetwork.com/news/2016-10-24/pokemon-go-celebrates-halloween-with-1st-in-game-event/.108032">Anime News Network </a></p>',
 
             'dateDetailPost'     => '2016-10-24',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Pokemon-GO-to-chuc-su-kien-trong-game-dau-tien-mung-Halloween-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -6707,6 +6816,67 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
         ]);
 
         $post->create([
+            'nameDetailPost'     => 'Những bộ anime kể về cuộc sống của những người trong ngành Anime Manga.',
+            'urlDetailPost'      => 'nhung-bo-anime-ke-ve-cuoc-song-cua-nhung-nguoi-trong-nganh-anime-manga',
+            'presentDetailPost'  => 'Bạn muốn tìm hiểu cuộc sống của các mangaka hay những người làm trong ngành anime, game Visual Novel? Hãy xem những bộ anime sau.',
+            'contentDetailPost'  => '
+
+<h3>Mangaka-san to Assistant-san to The Animation - Mangaka và các cô gái phụ tá</h3>
+
+<p></p>
+
+<p></p>
+
+<h3>Saenai Heroine no Sodatekata</h3>
+
+<p></p>
+
+<p></p>
+
+<h3>Eromanga Sensei</h3>
+
+<p></p>
+
+<p></p>
+
+<h3>Ore no Imouto ga Konna ni Kawaii Wake ga Nai</h3>
+
+<p></p>
+
+<p></p>
+
+
+<h3>ANIME IMOUTO SAE IREBA</h3>
+
+<p></p>
+
+<p></p>
+
+
+<h3></h3>
+
+<p></p>
+
+<p></p>
+
+
+',
+
+            'dateDetailPost'     => '2016-12-13',
+            'imgDetailPost'      => 'nhung-bo-anime-ke-ve-cuoc-song-cua-nhung-nguoi-trong-nganh-anime-manga-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'        	 => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+
+
+        $post->create([
             'nameDetailPost'     => 'Diễn viên lồng tiếng Sadohara Kaori kết hôn',
             'urlDetailPost'      => 'dien-vien-long-tieng-Sadohara-Kaori-ket-hon',
             'presentDetailPost'  => 'Sadohara Kaori đã tham gia vào các phim: Date a live, Amagi Brilliant Park, Isuca, Hitsugi no Chaika...',
@@ -6926,7 +7096,7 @@ Website : https://shikioriori.jp/',
             http://goboiano.com/young-again-in-another-world-anime-at-risk-due-to-creators-bigoted-tweets/',
 
             'dateDetailPost'     => '2018-06-01',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'dung-cham-lich-su-nidome-jinsei-bi-huy-hoan-toan-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -7358,6 +7528,8 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
 
 http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-tran-chung-ket-dai-bac-trung-hoa-xep-hang-3/
 
+https://game.thanhnien.vn/tin-tuc/asiad-2018-goi-ten-6-bo-mon-the-thao-dien-tu-148342.html
+
 
 ',
 
@@ -7402,6 +7574,8 @@ http://lienminh360.vn/esports/asian-games-2018-trung-quoc-de-bep-han-quoc-trong-
 <li>Huy chương Bạc – Đội tuyển Starcraft Đài Loan
 <li>Huy chương Đồng – Đội tuyển Starcraft Việt Nam
 </ul>
+
+https://game.thanhnien.vn/tin-tuc/asiad-2018-goi-ten-6-bo-mon-the-thao-dien-tu-148342.html
 ',
 
             'dateDetailPost'     => '2018-08-30',
@@ -7613,7 +7787,7 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
             'presentDetailPost'  => 'Tất nhiên, cái tên nổi tiếng nhất vẫn là Kizuna A.I',
             'contentDetailPost'  => '<p>Virtual Youtuber là các nhân vật ảo làm Youtuber. Một studio nào đó tạo ra một nhân vật ảo, tìm diễn viên lồng tiếng, viết kịch bản và đăng kênh Youtube. Các Virtual Youtuber tự nhận mình là A.I (Artificial Intelligence - Trí thông minh nhân tạo). </p>
 
-            <blockquote>Link bài viết Virtual Youtuber</blockquote>
+<blockquote>Link bài viết Virtual Youtuber</blockquote>
 
 <p></p>
 
@@ -7632,5 +7806,101 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Diễn viên Dropkick on my Devil: Anime cần được bán 500 hộp nữa để có season 2',
+            'urlDetailPost'      => 'dien-vien-dropkick-on-my-devil-anime-can-duoc-ban-500-hop-nua-de-co-season-2',
+            'presentDetailPost'  => 'Bạn có muốn Dropkick on my Devil có season 2 không?',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/daily-briefs/2018-11-13/dropkick-on-my-devil-staff-anime-needs-to-sell-500-more-boxes-for-2nd-season/.139400
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-11-13',
+            'imgDetailPost'      => 'dien-vien-dropkick-on-my-devil-anime-can-duoc-ban-500-hop-nua-de-co-season-2-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Konosuba Dungeon RPG hoạt động trên hệ PS4, PS Vita',
+            'urlDetailPost'      => 'konosuba-dungeon-rpg-hoat-dong-tren-he-ps4-ps-vita',
+            'presentDetailPost'  => 'Ngày chính thức là vào 28/3/2018, game Konosuba Dungeon RPG sẽ được ra mắt trên hệ PS4 và PS Vita.',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/news/2018-11-15/konosuba-dungeon-rpg-launches-for-ps4-ps-vita-on-march-28/.139528
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-11-16',
+            'imgDetailPost'      => 'konosuba-dungeon-rpg-hoat-dong-tren-he-ps4-ps-vita-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Thám Tử Pikachu tung trailer đầu tiên',
+            'urlDetailPost'      => 'tham-tu-pikachu-tung-trailer-dau-tien',
+            'presentDetailPost'  => 'Deadpool là người lồng tiếng cho Pikachu.',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1roy4o4tqQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Bối cảnh diễn ra ở thành phố Ryme.</p>
+
+https://www.animenewsnetwork.com/news/2018-11-12/pokemon-detective-pikachu-live-action-film-1st-trailer-streamed/.139383
+
+
+<p>Pikachu cho Deadpool lồng tiếng</p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-11-13',
+            'imgDetailPost'      => 'tham-tu-pikachu-tung-trailer-dau-tien-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
     }
 }

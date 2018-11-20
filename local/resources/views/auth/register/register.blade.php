@@ -41,10 +41,8 @@
     </header>
 
     <div class="login-form row">
-
         <img src="auth/images/chara_l_48.png" width="960" height="962"  alt="" id="lefting"/>
         <img src="auth/images/chara_r_54.png" width="960" height="962"  alt="" id="righting"/>
-
         <div id="content" class="container">
             <div class="box-top-blue col-md-offset-3 col-md-6 login-present">
                 <div class="login-register-form col-md-offset-3 col-md-6">
@@ -83,7 +81,6 @@
             </div>
         </div>
     </div>
-
 </div>
 
 <!-- ===================== JAVASCRIPT ===================== -->
@@ -96,11 +93,11 @@
 
 <style>
     #callnowbutton {
-        display:block; 
-        position:fixed; 
-        width:80px; 
+        display:block;
+        position:fixed;
+        width:80px;
         height:200px;
-        right:0; bottom:50%; 
+        right:0; bottom:50%;
         text-decoration:none;
 
         }

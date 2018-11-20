@@ -24,7 +24,7 @@ class ListMostViewPost extends ServiceProvider
     public function run($num,$idCat)
     {
         // MOST VIEW POST
-        $view = detailpost::where('enable', '=', HIDDEN_POST);
+        $view = detailpost::where('enable', ENABLE);
 
         if ($idCat != null)
         {

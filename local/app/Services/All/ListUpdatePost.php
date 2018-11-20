@@ -24,7 +24,7 @@ class ListUpdatePost extends ServiceProvider
     public function run($num,$idCat)
     {
         // UPDATE POST
-        $new = detailpost::where('enable', '=', HIDDEN_POST);
+        $new = detailpost::where('enable', ENABLE);
 
         if ($idCat != null)
         {

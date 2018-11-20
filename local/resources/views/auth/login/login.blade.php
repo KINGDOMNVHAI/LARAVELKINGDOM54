@@ -41,23 +41,21 @@
     </header>
 
     <div class="login-form row">
-
         <img src="auth/images/chara_r_19.png" width="960" height="962"  alt="" id="lefting"/>
-		<img src="auth/images/chara_r_33.png" width="960" height="962"  alt="" id="righting"/>
-
+        <img src="auth/images/chara_r_33.png" width="960" height="962"  alt="" id="righting"/>
         <div id="content" class="container">
             <div class="box-top-blue col-md-offset-3 col-md-6 login-present">
                 <div class="login-register-form col-md-offset-3 col-md-6">
 					<p class="header-msg">{{ __('auth.login') }}</p>
                     <form action="{{ route('check-login') }}" method="post">
                         {{ csrf_field() }}
-{{--  
+{{--
                     @if($errors->has('errorlogin'))
-						<div class="alert alert-danger">
-							<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-							{{$errors->first('errorlogin')}}
-						</div>
-					@endif  --}}
+                        <div class="alert alert-danger">
+                            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                            {{$errors->first('errorlogin')}}
+                        </div>
+                    @endif  --}}
 
                         <input type="hidden" name="_token" value="{{csrf_token()}}">
 
@@ -96,11 +94,11 @@
 
 <style>
     #callnowbutton {
-        display:block; 
-        position:fixed; 
-        width:80px; 
+        display:block;
+        position:fixed;
+        width:80px;
         height:200px;
-        right:0; bottom:50%; 
+        right:0; bottom:50%;
         text-decoration:none;
     }
 
