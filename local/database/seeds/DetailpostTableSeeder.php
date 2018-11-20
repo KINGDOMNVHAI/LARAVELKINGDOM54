@@ -1779,8 +1779,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'presentDetailPost'  => 'Trailer của Netoge no Yome wa Onnanoko Ja Nai To Omotta? phiên bản anime đã được ra mắt vào ngày 4/16/2015',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, học đường, thế giới ảo, lãng mạn.</p>
 
-<p>Kadokawa tiết lộ light novel “Netoge no Yome wa Onnanoko Ja Nai To Omotta?” sẽ được chuyển thể thành anime. Diễn viên lồng tiếng đã ra mắt vào ngày hôm sau. Sự kiện này sẽ được ra mắt trong sự kiện “Dengeki Bunko Autumn Festival 2015” được tổ chức tại Akihabara vào ngày 4/10/2015.
-</p>
+<p>Kadokawa tiết lộ light novel “Netoge no Yome wa Onnanoko Ja Nai To Omotta?” sẽ được chuyển thể thành anime. Diễn viên lồng tiếng đã ra mắt vào ngày hôm sau. Sự kiện này sẽ được ra mắt trong sự kiện “Dengeki Bunko Autumn Festival 2015” được tổ chức tại Akihabara vào ngày 4/10/2015.</p>
 
 <center><img src="../local/public/upload/images/anime/Dengeki-Bunko-Autumn-Festival.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Sự kiện Dengeki Bunko Autumn Festival 2014.</p></center>
 
@@ -7710,17 +7709,12 @@ https://pixel.facebook.com/VnSharingPage/photos/a.336505173202126/90808370937760
 
 <p>Và tất nhiên, khi tin vui này đến tai Kizuna, cô rất phấn khởi và kéo dài niềm vui này bằng một bức thư tiếng Anh và Nhật để cảm ơn PewDiePie. Nội dung bức thư như sau:</p>
 
-<blockquote>
-<p>PewDiePie-san thân mến</p>
-
-<p>Rất vui được gặp anh. Youtuber Ảo Kizuna AI đây.</p>
-
-<p>Cảm ơn anh rất nhiều vì đã xem video.</p>
-</blockquote>
+<blockquote>Xin chào PewDiePie</blockquote>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FjefKAmee00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>Thư cảm ơn của Kizuna gửi đến PewDiePie</p></center>
+
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/vGQvabazuP0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -7781,68 +7775,27 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
             'update'             => 0,
         ]);
 
+
+
+
+
+
+
         $post->create([
             'nameDetailPost'     => 'Các Virtual Youtuber nổi tiếng hiện nay',
             'urlDetailPost'      => 'cac-virtual-youtuber-noi-tieng-hien-nay',
             'presentDetailPost'  => 'Tất nhiên, cái tên nổi tiếng nhất vẫn là Kizuna A.I',
             'contentDetailPost'  => '<p>Virtual Youtuber là các nhân vật ảo làm Youtuber. Một studio nào đó tạo ra một nhân vật ảo, tìm diễn viên lồng tiếng, viết kịch bản và đăng kênh Youtube. Các Virtual Youtuber tự nhận mình là A.I (Artificial Intelligence - Trí thông minh nhân tạo). </p>
 
-
-
 <blockquote>Link bài viết Virtual Youtuber</blockquote>
-
-<h3>Kizuna AI</h3>
-
-
-
-<h3>Mirai Akari</h3>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I8ZBYReOEsg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>Trailer Mirai Akari</p></center>
-
-
-
-
-<h3>Yomemi</h3>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sPQKzJwzXb4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>Trailer Yomemi - bạn gái ảo của bạn</p></center>
-
-
-
-
-
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qGxQtx3Jdoo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>Yomemi và Akari cùng chơi PUBG</p></center>
-
-<h3>Kaguya Luna</h3>
-
-
-<h3>Shiro</h3>
-
-
-<h3></h3>
-<h3></h3>
 
 <p></p>
 
-<p>Ngoài ra còn một số Virtual Youtuber tiềm năng khác như YUA</p>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/z-dkbyFTu-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>YUA và Shiro</p></center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZVAthoGoWQI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>Giọng trong video là "Fuck You" của Kizuna AI</p></center>
 ',
 
             'dateDetailPost'     => '2018-10-01',
-            'imgDetailPost'      => 'cac-virtual-youtuber-noi-tieng-hien-nay-thumbnail.jpg',
+            'imgDetailPost'      => 'virtual-youtuber-phong-cach-doc-dao-cua-rieng-Nhat-Ban-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -7853,5 +7806,101 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
             'update'             => 0,
         ]);
 
+        $post->create([
+            'nameDetailPost'     => 'Diễn viên Dropkick on my Devil: Anime cần được bán 500 hộp nữa để có season 2',
+            'urlDetailPost'      => 'dien-vien-dropkick-on-my-devil-anime-can-duoc-ban-500-hop-nua-de-co-season-2',
+            'presentDetailPost'  => 'Bạn có muốn Dropkick on my Devil có season 2 không?',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/daily-briefs/2018-11-13/dropkick-on-my-devil-staff-anime-needs-to-sell-500-more-boxes-for-2nd-season/.139400
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-11-13',
+            'imgDetailPost'      => 'dien-vien-dropkick-on-my-devil-anime-can-duoc-ban-500-hop-nua-de-co-season-2-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Konosuba Dungeon RPG hoạt động trên hệ PS4, PS Vita',
+            'urlDetailPost'      => 'konosuba-dungeon-rpg-hoat-dong-tren-he-ps4-ps-vita',
+            'presentDetailPost'  => 'Ngày chính thức là vào 28/3/2018, game Konosuba Dungeon RPG sẽ được ra mắt trên hệ PS4 và PS Vita.',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/news/2018-11-15/konosuba-dungeon-rpg-launches-for-ps4-ps-vita-on-march-28/.139528
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-11-16',
+            'imgDetailPost'      => 'konosuba-dungeon-rpg-hoat-dong-tren-he-ps4-ps-vita-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Thám Tử Pikachu tung trailer đầu tiên',
+            'urlDetailPost'      => 'tham-tu-pikachu-tung-trailer-dau-tien',
+            'presentDetailPost'  => 'Deadpool là người lồng tiếng cho Pikachu.',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1roy4o4tqQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Bối cảnh diễn ra ở thành phố Ryme.</p>
+
+https://www.animenewsnetwork.com/news/2018-11-12/pokemon-detective-pikachu-live-action-film-1st-trailer-streamed/.139383
+
+
+<p>Pikachu cho Deadpool lồng tiếng</p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-11-13',
+            'imgDetailPost'      => 'tham-tu-pikachu-tung-trailer-dau-tien-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
     }
 }
