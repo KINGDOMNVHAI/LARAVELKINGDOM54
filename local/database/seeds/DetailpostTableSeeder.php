@@ -1336,11 +1336,11 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'presentDetailPost'  => 'Trải qua hơn 10 năm, thế giới bài ma thuật Yugioh vẫn phát triển không ngừng. Yugioh! Zexal Power of Chaos Yuma the Challenge là một trong số đó.',
             'contentDetailPost'  => '<p>Yugioh! Zexal Power of Chaos Yuma the Challenge là tựa game đánh bài dựa trên series manga, anime, game nổi tiếng Yugioh! Trò chơi này là phiên bản thứ 6 của series. Một số game có chút đặc biệt đó là được các fan bổ sung bản MOD, tức là có thêm những lá bài hay hình ảnh mới.</p>
 
-            <p><b>Link download</b></p>
+<p><b>Link download</b></p>
 
-            <ul>
-            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZb0dJWVRGNFFEWlE/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
-            </ul>
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZb0dJWVRGNFFEWlE/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
+</ul>
 
 <center><img src="../local/public/upload/images/game/Yugioh-Zexal.jpg" width="70%" alt="Yugioh! Zexal Power of Chaos Yuma the Challenge - Lời thách thức của Yuma" /></center>
 
@@ -1709,38 +1709,36 @@ He went and hariged himself and then there were none...”</p></center>
 <center><p>Tạm dịch:</p>
 
 <p>Mười người lính nhỏ đi ăn<br>
-Một người mắc nghẹn và còn chín</p>
+Một mắc nghẹn và còn chín</p>
 
 <p>Chín người lính nhỏ thức rất khuya<br>
-Một người ngủ quá giấc và còn tám</p>
+Một ngủ quá giấc và còn tám</p>
 
 <p>Tám người lính nhỏ du hành tới Devon<br>
-Một người ở lại đó và còn bảy</p>
+Một ở lại đó và còn bảy</p>
 
 <p>Bảy người lính nhỏ chặt củi<br>
-Một người tự chặt đôi mình và còn sáu</p>
+Một tự chặt đôi mình và còn sáu</p>
 
 <p>Sáu người lính nhỏ chơi với tổ ong<br>
-Một người bị ong nghệ đốt và còn năm</p>
+Một bị ong nghệ đốt và còn năm</p>
 
 <p>Năm người lính nhỏ chơi trò xử án<br>
-Một người làm quan tòa và còn bốn</p>
+Một làm quan tòa và còn bốn</p>
 
 <p>Bốn người lính nhỏ ra biển<br>
-Một người bị cá nuốt và còn ba</p>
+Một bị cá nuốt và còn ba</p>
 
 <p>Ba người lính nhỏ tới vườn thú<br>
-Một người bị gấu vồ và còn hai</p>
+Một bị gấu vồ và còn hai</p>
 
 <p>Hai người lính nhỏ ngồi dưới nắng<br>
-Một người bị thiêu đốt và còn một</p>
+Một bị thiêu đốt và còn một</p>
 
 <p>Chỉ còn lại một người lính nhỏ cô đơn<br>
 Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 
-<center><img src="../local/public/upload/images/game/Agatha-Christie-and-then-there-were-none-2.JPG" width="70%" alt="Agatha Christie: And then there were none Và rồi chẳng còn ai" /><p>Chiếc bánh trong phòng ăn</p>
-
-</center>
+<center><img src="../local/public/upload/images/game/Agatha-Christie-and-then-there-were-none-2.JPG" width="70%" alt="Agatha Christie: And then there were none Và rồi chẳng còn ai" /><p>Chiếc bánh trong phòng ăn</p></center>
 
 <p>Khi vừa mới vào phần menu chính, người chơi ngay lập tức cảm nhận được không khí rùng rợn và bí hiểm khi nhìn thấy một tòa biệt thự trong trời tối dưới mưa, kèm theo hình ảnh một chiếc thòng lọng treo cổ lủng lẳng qua lại. Trong trò chơi, cảm giác bí ẩn được thể hiện qua từng bước đi của nhân vật. Mặc dù game không có những pha hù dọa ghê rợn như game kinh dị nhưng với phong cách trinh thám, game đã tạo một cảm giác bí ẩn khá cuốn hút người chơi.</p>
 
@@ -1759,7 +1757,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 + Cả ba người còn sống - Kết thúc này có hậu nhất.
 </p>
 
-<p>Với hình ảnh ở mức khá, âm thanh tốt, tạo sức hút và cốt truyện hay, Agatha Christie: And then there were none là một tựa game cũ mà hay xứng đáng để các game thủ thích trinh thám có cơ hội thử sức phá án. Nếu có ai cảm thấy game quá khó chơi, hãy xem hướng dẫn tại <a href=" http://diendan.vtcgame.vn/showthread.php?511870-Huong-Dan-Choi-Agatha-Christie-And-Then-There-Were-None">đây.</a></p>',
+<p>Với hình ảnh ở mức khá, âm thanh tốt, tạo sức hút và cốt truyện hay, Agatha Christie: And then there were none là một tựa game cũ mà hay xứng đáng để các game thủ thích trinh thám có cơ hội thử sức phá án.</a></p>',
 
             'dateDetailPost'     => '2015-08-03',
             'imgDetailPost'      => 'Agatha-Christie-and-then-there-were-none-thumbnail.jpg',
@@ -1775,7 +1773,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 
         $post->create([
             'nameDetailPost'     => 'Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime',
-            'urlDetailPost'      => 'Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime',
+            'urlDetailPost'      => 'Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-duoc-chuyen-the-thanh-anime',
             'presentDetailPost'  => 'Trailer của Netoge no Yome wa Onnanoko Ja Nai To Omotta? phiên bản anime đã được ra mắt vào ngày 4/16/2015',
             'contentDetailPost'  => '<p>Thể loại: Harem, Ecchi, học đường, thế giới ảo, lãng mạn.</p>
 
@@ -1787,12 +1785,11 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 
 <center><img src="../local/public/upload/images/anime/Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-Manga-Vol1.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Manga Volume 1</p>
 
-<img src="../local/public/upload/images/anime/Netoge_no_Yome_wa_Onnanoko_Ja_Nai_To_Omotta_LN_vol1.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Light Novel volume 1</p></center>
+<img src="../local/public/upload/images/anime/Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-LN-vol1.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Light Novel volume 1</p></center>
 
 <p>Ở trên các trang truyện, bộ manga này hiện đang được dịch khá lâu. Có vẻ như bộ truyện này đã bị hoãn lại hay phát hành chậm. Vì vậy các fan rất mong đợi phiên bản anime sẽ sớm ra mắt để các fan có thể theo dõi tiếp câu chuyện. Hy vọng rằng phiên bản anime sắp tới sẽ đáp ứng tốt mong đợi của fan hâm mộ.</p>
 
-<center><img src="../local/public/upload/images/anime/Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-Manga.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Manga chap 1</p>
-</center>
+<center><img src="../local/public/upload/images/anime/Netoge-no-Yome-wa-Onnanoko-Ja-Nai-To-Omotta-Manga.jpg" width="70%" alt="Netoge no Yome wa Onnanoko Ja Nai To Omotta? được chuyển thể thành anime" /><p>Manga chap 1</p></center>
 
 <p>Trang chủ: <a href="http://netogenoyome.com/">Netogenoyome</a></p>
 
@@ -1816,22 +1813,22 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
             'presentDetailPost'  => 'Hãy thể hiện đầu óc, tư duy logic của bạn khi đối mặt với những chiếc két sắt chứa đựng những câu đố khó chịu nhất.',
             'contentDetailPost'  => '
 
-            <p><b>Cấu hình</b></p>
+<p><b>Cấu hình</b></p>
 
-            <ul>
-            <li>Tên game: Safecracker
-            <li>Thể loại: giải đố
-            <li>Sản xuất năm: 2006
-            <li>Hãng sản xuất: Adventure Company
-            <li>Cấu hình: CPU: 1 GHz Pentium IV, RAM: 512 MB, CD-ROM/DVD-ROM: 16X , Video: 64 MB Directx 9 compatible video card, Sound: 16-bit Directx, Windows XP, 7,8
-            </ul>
+<ul>
+<li>Tên game: Safecracker
+<li>Thể loại: giải đố
+<li>Sản xuất năm: 2006
+<li>Hãng sản xuất: Adventure Company
+<li>Cấu hình: CPU: 1 GHz Pentium IV, RAM: 512 MB, CD-ROM/DVD-ROM: 16X , Video: 64 MB Directx 9 compatible video card, Sound: 16-bit Directx, Windows XP, 7,8
+</ul>
 
-            <p><b>Link download</b></p>
+<p><b>Link download</b></p>
 
-            <ul>
-            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZZDg0OGNyekJuWWs/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
-            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZUmtYdGs1RGxhZXc/view?usp=sharing">Daemon Tool 4 để đọc đĩa ảo. Nhớ cài đặt phần Free, không cần crack</a>
-            </ul>
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZZDg0OGNyekJuWWs/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZUmtYdGs1RGxhZXc/view?usp=sharing">Daemon Tool 4 để đọc đĩa ảo. Nhớ cài đặt phần Free, không cần crack</a>
+</ul>
 
 <center><img src="../local/public/upload/images/game/safecracker.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" /></center>
 
@@ -1839,7 +1836,7 @@ Tự kết thúc cuộc đời mình và rồi chẳng còn ai.</p></center>
 
 <p>Safecracker là một trò chơi thuộc thể loại giải đố. Nội dung câu chuyện là một ông tỷ phú qua đời, để lại di chúc cho con cháu tài sản thừa kế. Và người nào phá được hệ thống két sắt, câu đố hóc búa của ông thiết kế sẽ được hưởng nó. Bạn là người được thuê để làm việc này. Vậy bạn có được lợi lộc gì từ việc này không? Rất nhiều đấy! </p>
 
-<center><img src="../local/public/upload/images/game/Safecracker-ket-sat-1.jpg" width="70%" />
+<center><img src="../local/public/upload/images/game/Safecracker-ket-sat-1.jpg" width="50%" />
 
 <p>Câu đố đầu tiên: hãy dịch chuyển sao cho<br>
 các viên bi nằm gần các mũi tên cùng màu</p></center>
@@ -1848,7 +1845,7 @@ các viên bi nằm gần các mũi tên cùng màu</p></center>
 
 <center><img src="../local/public/upload/images/game/Safecracker-ket-sat-2.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" /><p>Đáp án câu số 2</p></center>
 
-<p>Mặc dù thể loại game giải đố khá nhàm chán nhưng cộng đồng những người thích chơi những trò chơi trí tuệ vẫn khá đông. Đó là vì họ muốn được tận hưởng cảm giác giải xong một câu đố hóc búa. Và Safecracker đã làm tốt điều đó khi những câu đố của safecracker rất dễ khiến nhiều người nản lòng. Không chỉ phải vắt chất xám ra để suy nghĩ, trò chơi còn bắt người chơi phải thu thập những mảnh ghép như cầu chì, nguồn điện… để lắp vào một chiếc cửa có khóa mã số bị hỏng. Điều này khiến họ không ngừng làm việc trí óc.</p>
+<p>Mặc dù thể loại game giải đố khá nhàm chán nhưng cộng đồng những người thích chơi những trò chơi trí tuệ vẫn khá đông. Đó là vì họ muốn được tận hưởng cảm giác sung sướng, hạnh phúc giải xong một câu đố hóc búa. Và Safecracker đã làm tốt điều đó khi những câu đố của safecracker rất dễ khiến nhiều người nản lòng. Không chỉ phải vắt chất xám ra để suy nghĩ, trò chơi còn bắt người chơi phải thu thập những mảnh ghép như cầu chì, nguồn điện… để lắp vào một chiếc cửa có khóa mã số bị hỏng. Điều này khiến họ không ngừng làm việc trí óc.</p>
 
 <center><img src="../local/public/upload/images/game/Safecracker-1.jpg" width="70%" alt="Safecracker – Chuyên gia phá két" /></center>
 
@@ -1876,20 +1873,20 @@ các viên bi nằm gần các mũi tên cùng màu</p></center>
             'presentDetailPost'  => 'Gã sát thủ đầu trọc mang mật danh 47 đã không thể chạy trốn khỏi quá khứ. Giờ hắn ta một lần nữa phải cầm vũ khí để giết người. Lòng tốt của hắn chỉ có Chúa chứng giám và hiểu được.',
             'contentDetailPost'  => '<p><b>Cấu hình</b></p>
 
-            <ul>
-            <li>Tên game: Hitman 2: Silent Assasin
-            <li>Thể loại: Hành động bí mật
-            <li>Sản xuất năm: 2002
-            <li>Hãng sản xuất: Eidos Interactive
-            <li>Cấu hình: CPU: 1.8 GHz Pentium III, RAM: 256 MB, HDD Space: 1GB, Video: 128 MB Directx 8.1 compatible video card, Windows XP, 7,8
-            </ul>
+<ul>
+<li>Tên game: Hitman 2: Silent Assasin
+<li>Thể loại: Hành động bí mật
+<li>Sản xuất năm: 2002
+<li>Hãng sản xuất: Eidos Interactive
+<li>Cấu hình: CPU: 1.8 GHz Pentium III, RAM: 256 MB, HDD Space: 1GB, Video: 128 MB Directx 8.1 compatible video card, Windows XP, 7,8
+</ul>
 
-            <p><b>Link download</b></p>
+<p><b>Link download</b></p>
 
-            <ul>
-            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZMGpLc3doZXFPWm8/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
-            <li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZUmtYdGs1RGxhZXc/view?usp=sharing">Daemon Tool 4 để đọc đĩa ảo. Nhớ cài đặt phần Free, không cần crack</a>
-            </ul>
+<ul>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZMGpLc3doZXFPWm8/view?usp=sharing">Google Drive KINGDOM NVHAI</a>
+<li><a href="https://drive.google.com/file/d/0B2QqgPEJF0YZUmtYdGs1RGxhZXc/view?usp=sharing">Daemon Tool 4 để đọc đĩa ảo. Nhớ cài đặt phần Free, không cần crack</a>
+</ul>
 
 <center><img src="../local/public/upload/images/game/Hitman-2-Silent-Assassin.jpg" width="70%" alt="Hitman 2: Silent Assasin – Sát thủ thầm lặng" /></center>
 
@@ -2887,10 +2884,10 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             'nameDetailPost'     => 'Mệnh yểu của các anime thi đấu đại hội',
             'urlDetailPost'      => 'Menh-yeu-cua-cac-anime-thi-dau-dai-hoi',
             'presentDetailPost'  => 'Với những thất bại hay bặt âm vô tín của các Anime thi đấu đại hội, có vẻ vận mệnh của những Anime này khá khó dự đoán.',
-            'contentDetailPost'  => 'Menh-yeu-cua-cac-Anime-thi-dau-dai-hoi-thumbnail.jpg',
+            'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2015-09-22',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Menh-yeu-cua-cac-Anime-thi-dau-dai-hoi-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4358,7 +4355,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-01-19',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'kumo-desu-ga-nani-ka-nu-yeu-nhen-nhen-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4513,7 +4510,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'contentDetailPost'  => '',
 
             'dateDetailPost'     => '2016-01-29',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'gate-jieitai-kanochi-nite-kaku-tatakaeri-canh-cong-den-the-gioi-khac-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -4567,7 +4564,7 @@ _  Benny: người thứ 2 nằm trong danh sách những người hiếm hoi kh
             'contentDetailPost'  => 'Tên gọi khác là getsuyoubi-no-tawawa',
 
             'dateDetailPost'     => '2016-02-09',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'tawawa-on-monday-thu-2-nang-ne-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -7915,8 +7912,8 @@ https://www.animenewsnetwork.com/news/2018-11-15/konosuba-dungeon-rpg-launches-f
         ]);
 
         $post->create([
-            'nameDetailPost'     => 'Thám Tử Pikachu tung trailer đầu tiên',
-            'urlDetailPost'      => 'tham-tu-pikachu-tung-trailer-dau-tien',
+            'nameDetailPost'     => 'Thám Tử Lừng Danh Pikachu tung trailer đầu tiên',
+            'urlDetailPost'      => 'tham-tu-lung-danh-pikachu-tung-trailer-dau-tien',
             'presentDetailPost'  => 'Deadpool là người lồng tiếng cho Pikachu.',
             'contentDetailPost'  => '<p></p>
 
@@ -7938,7 +7935,7 @@ https://www.animenewsnetwork.com/news/2018-11-12/pokemon-detective-pikachu-live-
 ',
 
             'dateDetailPost'     => '2018-11-13',
-            'imgDetailPost'      => 'tham-tu-pikachu-tung-trailer-dau-tien-thumbnail.jpg',
+            'imgDetailPost'      => 'tham-tu-lung-danh-pikachu-tung-trailer-dau-tien-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
