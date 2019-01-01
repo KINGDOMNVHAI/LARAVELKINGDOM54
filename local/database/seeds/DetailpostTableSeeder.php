@@ -1236,7 +1236,7 @@ Hãy cẩn thận nếu bạn muốn rời khỏi nơi này...”</p>
             'presentDetailPost'  => 'Làm sao để bạn không cần trả tiền vẫn có thể lấy được logo đẹp của những trang web tạo logo online?',
             'contentDetailPost'  => '<p>Bạn muốn tạo một logo cho riêng mình. Bạn tìm đến các trang web tạo logo miễn phí thông qua từ khóa “tạo logo miễn phí” trên Google. Khi bạn tìm được những trang web đó, họ bắt bạn phải tạo tài khoản và thanh toán phí nếu muốn có logo chất lượng. Còn không thì bạn vẫn sẽ có logo nhưng không đẹp, độ phân giải thấp. Người viết sẽ hướng dẫn cho bạn cách “ăn cắp” logo của họ mà không tốn một đồng, không cần phải tạo bất kỳ tài khoản nào mà bạn vẫn có một logo đẹp rõ nét từ trang web của họ. Bí quyết đó chỉ nằm gọn trong nút Print Screen của bạn.</p>
 
-<center><img src="../local/public/upload/images/thuthuat/Print-Screen.jpg" width="70%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" /></center>
+<center><img src="../local/public/upload/images/thuthuat/Print-Screen.jpg" width="50%" alt="Thủ thuật “ăn cắp” logo từ các trang web tạo logo online" /></center>
 
 <p>Nút Print Screen có tác dụng hóa giải mọi loại code ngăn cản việc bạn download hình từ các trang web. Chỉ cần làm 3 bước là bạn có thể lấy được mọi tấm hình bạn muốn.</p>
 
@@ -7104,28 +7104,7 @@ Website : https://shikioriori.jp/',
             'update'             => 0,
         ]);
 
-		$post->create([
-            'nameDetailPost'     => 'Studio Production IMS phá sản',
-            'urlDetailPost'      => 'studio-production-ims-pha-san',
-            'presentDetailPost'  => 'Anime studio Production IMS tuyên bố phá sản vào tháng 12/2017',
-            'contentDetailPost'  => 'http://goboiano.com/anime-studio-production-ims-has-gone-bankrupt/
-<br>
-https://twitter.com/saikickmouseao/status/1005167610483232769/photo/1 <br>
-https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-debt-considers-filing-for-bankruptcy/.132781',
-
-            'dateDetailPost'     => '2018-06-09',
-            'imgDetailPost'      => 'studio-production-ims-pha-san-thumbnail.jpg',
-            'idCat'              => ANIME_POST,
-            'signature'          => 0,
-            'author'             => 'NVHAI',
-            'views'              => random_int(0,100),
-            'enable'             => UNENABLE,
-            'popular'            => 0,
-            'head_position'      => HEADER_TOP_LEFT,
-            'update'             => 0,
-        ]);
-
-		$post->create([
+        $post->create([
             'nameDetailPost'     => 'Dự luật an ninh mạng Việt Nam chính thức được thông qua',
             'urlDetailPost'      => 'du-luat-an-ninh-mang-chinh-thuc-duoc-thong-qua',
             'presentDetailPost'  => 'Sau rất nhiều tranh luận, cuối cùng dự luật an ninh mạng đã được thông qua. Bắt đầu từ 1/1/2019, sẽ có rất nhiều thay đổi về cách sử dụng mạng xã hội, công cụ tìm kiếm của người dân Việt Nam',
@@ -7140,6 +7119,37 @@ https://www.animenewsnetwork.com/news/2018-06-11/production-ims-consolidates-deb
             'enable'             => UNENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+		$post->create([
+            'nameDetailPost'     => 'Studio Production IMS phá sản',
+            'urlDetailPost'      => 'studio-production-ims-pha-san',
+            'presentDetailPost'  => 'Anime studio Production IMS tuyên bố phá sản vào tháng 12/2017',
+            'contentDetailPost'  => '<p>Studio Production IMS đã tìm lý do cho tất cả sai lầm vào tháng 12/2017, khi các nhà làm phim tố cáo hãng này không trả tiền. Các báo cáo dẫn đến những tin đồn về khủng hoảng tài chính. Nhưng chưa có một thông báo chính thức nào về việc hãng này bị phá sản. Cho đến hiện tại.</p>
+
+            <center><blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">プロダクションアイムズから、破産手続きを念頭においた債権債務整理のお知らせが来てました。<br>多くのアニメ関係者の所に送られて、自分も含め、皆さんがっかりされてるんでしょうね <a href="https://t.co/Eh1SWureZ0">pic.twitter.com/Eh1SWureZ0</a></p>&mdash; サイキック少年団 (@saikickmouseao) <a href="https://twitter.com/saikickmouseao/status/1005167610483232769?ref_src=twsrc%5Etfw">June 8, 2018</a></blockquote>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+
+<p>Công ty nghiên cứu tín dụng Tokyo Shoko Research (TSR) đã báo cáo vào 11/6/2018 rằng xưởng sản xuất anime IMS đã bắt đầu hợp nhất khoản nợ của mình kể từ ngày 7/6. TSR trích dẫn một nguồn tin giấu tên cho biết các nhân viên đang tham gia tố tụng pháp lý với ý định nộp đơn xin phá sản.</p>
+
+<p>Hãng phim chưa đưa ra tuyên bố công khai. Trang web chính thức của Production IMS chỉ có một thông báo rằng bắt đầu từ tháng 11/2017, hãng phim sẽ chuyển từ Hikarigaoka đến Nakamurabashi (cả ở Tokyo) vào ngày 2/12. TSR báo cáo rằng công ty đã tái cấu trúc và thu hẹp quy mô vào tháng 12.</p>
+
+<p>Sau đó vào tháng 12/2017, nhà làm phim anime Teru Miyazaki đã đăng nhưng đã xóa một khiếu nại trên Twitter rằng một xưởng phim anime mà anh ta ngụ ý là Production IMS không trả tiền cho các nhà làm phim anime.</p>
+
+<p>Studio Producion IMS đã sản xuất những phim anime bao gồm: Date A Live II, Hybrid x Heart Magias Academy Ataraxia, High School Fleet, Active Raid và The Testament of Sister New Devil. Chủ yếu là thể loại Ecchi.</p>
+',
+
+            'dateDetailPost'     => '2018-06-12',
+            'imgDetailPost'      => 'studio-production-ims-pha-san-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_TOP_LEFT,
             'update'             => 0,
         ]);
 
@@ -7936,6 +7946,171 @@ https://www.animenewsnetwork.com/news/2018-11-12/pokemon-detective-pikachu-live-
 
             'dateDetailPost'     => '2018-11-13',
             'imgDetailPost'      => 'tham-tu-lung-danh-pikachu-tung-trailer-dau-tien-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Virtual Youtuber đã có anime riêng',
+            'urlDetailPost'      => 'virtual-youtuber-da-co-anime-rieng',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/news/2018-12-18/virtualsan-looking-tv-anime-for-vtubers-premieres-in-january/.140976
+
+https://myanimelist.net/forum/?topicid=1756844
+
+https://virtualsan-looking.jp/
+
+https://twitter.com/dwangoanime?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3Adwangoanime&ref_url=https%3A%2F%2Fvirtualsan-looking.jp%2F
+
+http://jurnalotaku.com/2018/12/19/lebih-dari-30-virtual-youtuber-berkumpul-dalam-anime-virtual-san-wa-miteiru/
+
+https://tin.bigtruyen.co/virtual-san-wa-miteiru-bo-anime-sieu-la-ve-cac-youtuber-ao/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMnFkQg0480" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIoZrftDKhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-12-19',
+            'imgDetailPost'      => 'virtual-youtuber-da-co-anime-rieng-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Kenja no Mago ra mắt PV Anime',
+            'urlDetailPost'      => 'kenja-no-mago-ra-mat-pv-anime',
+            'presentDetailPost'  => 'Chuyển sinh đến thế giới khác, được ông bà phù thủy vĩ đại nhất lịch sử truyển dạy, cộng với tiềm năng phép thuật có sẵn, nam chính bắt đầu cuộc đời tại trường phép thuật có các công chúa theo học',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/news/2018-12-20/kenja-no-mago-anime-teaser-video-reveals-opening-artist-5-more-cast-members/.141082
+
+https://www.facebook.com/NoFaClub/videos/435472403656160/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBp2oDxb4bc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-12-20',
+            'imgDetailPost'      => 'kenja-no-mago-ra-mat-pv-anime-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Hentai Haven đóng cửa',
+            'urlDetailPost'      => 'hentai-haven-dong-cua',
+            'presentDetailPost'  => 'Thêm một huyền thoại nữa ra đi, để lại niềm tiếc thương vô hạn cho cộng động Anime.',
+            'contentDetailPost'  => '<p>Giới Anime Việt Nam đã từng chứng kiến nhiều sự đổ vỡ, chịu nhiều chỉ trí và cả công kích từ chính quyền, trong và ngoài nước. Điển hình là Baka-sub, một trong các nhóm dịch Hentai đầu tiên của Việt Nam đã từng bị lên báo. VnSharing bất ngờ đóng cửa. Và ở quy mô thế giới, các trang xem phim, dịch Light Novel lậu như Baka-tsuki bị xóa bản dịch.</p>
+
+<p>Cuối năm 2018, một tin rất sốc không chỉ với cộng đồng Anime Việt Nam mà cả thế giới tiếc nuối: Hentai Haven bất ngờ đóng cửa.</p>
+
+<p>Hentai Haven là 1 trang web xem Hentai nổi tiếng thế giới với giao diện đẹp, editor chuyên nghiệp, phụ đề tiếng Anh, video HD 720p và cho download miễn phí. Trang web được sánh ngang với Fakku về độ nổi tiếng cũng như lượt truy cập khủng. Các fan hâm mộ đã vẽ tặng Hentai Haven 1 cô gái anime làm biểu tượng cho trang.</p>
+
+<center><img src="../local/public/upload/images/anime/Hentai-Haven-dong-cua-1.jpg" width="70%" alt="Hentai Haven đóng cửa"/></center>
+
+<p>21/12/2018, fanpage của Hentai Haven đã thông báo chính thức về việc đóng cửa Hentai Haven vì lý do không cạnh tranh lại với các web khác đang nổi lên như Fansub, Streaming bên ngoài. Có lẽ vì vậy mà dẫn đến doanh thu quảng cáo của web giảm và web phải đóng cửa.</p>
+
+<p><a href="https://www.facebook.com/HHOfficial/photos/a.1197403443704309/1795637757214205/?type=3&eid=ARCxpgHLU-wBqRYcgJ0LWlR6JR6f3u-N13NGlUbwFdBxVQ-U21eKhbovgbg6LODonzCIjAFAHeZ4sze8&__tn__=EHH-R">Thông báo chính thức của Hentai Haven</a></p>
+
+<blockquote style="text-align:center;">
+<p>Đây là lời từ biệt.</p>
+
+<p>HH sinh ra vào thời điểm fansubs đã hoàn toàn chết hẳn. Các trang mới đã bị nhấn chìm vài tuần sau khi phát hành. Hầu hết các trang web đều có giao diện mờ nhạt và cho ra nội dung thật vớ vẩn.</p>
+
+<p>HH đã thay đổi tất cả.</p>
+
+<p>Nhưng như một người đàn ông thông minh đã nói, mọi hành trình đều có điểm kết thúc - và thật không may, nó không phải là thời điểm vui vẻ. Thời buổi giờ có rất nhiều lựa chọn. Fansubs nhanh hơn nhiều. Streaming tốt hơn nhiều. Thật sự không ai cần HH nữa. Chúng tôi đã hoàn thành phần của mình. Giờ là lúc phụ thuộc vào phần còn lại của các bạn tiếp nối ngọn đuốc.</p>
+
+<p>Cảm ơn đã đến thăm và hỗ trợ chúng tôi suốt những năm qua. Đó là một cuộc hành trình đầy hoang dã. Và tất cả các bạn sẽ mãi nhớ về nó.</p>
+
+<p>Vĩnh biệt.</p>
+</blockquote>
+
+<p>Sau khi thông báo được đưa ra, hàng chục ngàn lượt chia sẻ, cảm xúc từ những người hâm mộ trên khắp thế giới như đưa tiễn một huyền thoại về nơi an nghỉ cuối cùng. Những hình ảnh mà fan hâm mộ gửi tặng Hentai Haven chứng tỏ trang web này có ý nghĩa rất lớn với mọi người.</p>
+
+<center>
+
+<img src="../local/public/upload/images/anime/Hentai-Haven-dong-cua-2.jpg" width="70%" alt="Hentai Haven đóng cửa"/>
+
+<p>Từ nay, mọi người sẽ không được gặp cô gái này nữa.</p>
+
+<img src="../local/public/upload/images/anime/Hentai-Haven-dong-cua-3.jpg" width="70%" alt="Hentai Haven đóng cửa"/>
+
+<p>Hentai Haven dẫn dắt cộng đồng Hentai.</p>
+
+<img src="../local/public/upload/images/anime/Hentai-Haven-dong-cua-4.jpg" width="70%" alt="Hentai Haven đóng cửa"/>
+
+<p>Liệu đây có phải là nguyên nhân chính dẫn đến việc đóng cửa?</p>
+
+<img src="../local/public/upload/images/anime/Hentai-Haven-dong-cua-5.jpg" width="70%" alt="Hentai Haven đóng cửa"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4lBLvSvr5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Hy vọng liệu có thành sự thật?</p>
+</center>
+
+<p>Một số lời giải thích được đưa ra từ fan hâm mộ.</p>
+
+<center><img src="../local/public/upload/images/anime/Hentai-Haven-dong-cua-6.jpg" width="70%" alt="Hentai Haven đóng cửa"/></center>
+
+<blockquote>
+<p>Hãy thực tế đi. Các website khác như MuchoHentai hay HAnime upload ngay sau khi nó được phát hành. Nếu bạn muốn Hentai Haven upload, bạn phải đợi cả ngày hoặc cả tuần.</p>
+
+<p>Bên cạnh đó, HAnime có hỗ trợ 1080p (Mặc dù chỉ cho người dùng trả phí).</p>
+
+<p>HAnime thật sự rất tốt, và ứng dụng di động cũng vậy. Bên cạnh đó, tôi xem Hentai Haven, nhưng cũng xem HAnime và ứng dụng. Tôi để ý chuyện đó.</p>
+</blockquote>
+
+<p>Dù sao đi nữa, Hentai Haven đã ra đi. Đây sẽ mãi là một trong những website huyền thoại mà người dùng Internet nói chung và cộng đồng Anime nói riêng nhớ đến. Niềm hy vọng về Hentai Haven 2 xuất hiện vẫn có thể xảy ra nếu các admin tìm ra hướng đi mới, và đây chỉ là lời tạm biệt.</p>
+
+',
+
+            'dateDetailPost'     => '2018-12-21',
+            'imgDetailPost'      => 'hentai-haven-dong-cua-thumbnail.jpg',
             'idCat'              => ANIME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
