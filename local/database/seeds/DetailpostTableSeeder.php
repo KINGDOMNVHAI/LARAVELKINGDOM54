@@ -41,7 +41,8 @@ class DetailpostTableSeeder extends Seeder
 
 <p>Nói về chiều sâu, bộ phim cũng rất đầu tư nghiên cứu cốt truyện về cuộc chiến giữa Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ. Phần 1 mới chỉ có Ác Quỷ và Thiên Thần Sa Ngã xuất hiện. Bộ phim còn đầu tư thêm cả những sinh vật thần thoại như rồng, Slime… những cấp quỷ, tộc quỷ khác nhau, công việc của quỷ khi đi tìm những giao ước với con người, khiến khán giả cảm thấy thế giới của Highschool DxD rất rộng lớn.</p>
 
-<center><img src="../local/public/upload/images/anime/Highschool-DxD-Angel-vs-Fallen-Angel-vs-Devil.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" /><p>Bức tranh mô tả cuộc chiến giữa<br>Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ</p>
+<center><img src="../local/public/upload/images/anime/Highschool-DxD-Angel-vs-Fallen-Angel-vs-Devil.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" />
+<p>Bức tranh mô tả cuộc chiến giữa<br>Thiên Thần, Thiên Thần Sa Ngã và Ác Quỷ</p>
 
 <img src="../local/public/upload/images/anime/Highschool-DxD-Raynare-Light-Spear.jpg" width="70%" alt="Highschool DxD - Trường học ác quỷ" />
 <p>Thiên Thần Sa Ngã Raynare</p></center>
@@ -1997,6 +1998,24 @@ Cấu hình:  CPU: Core I3-2115C 2.4GHz, RAM: 2 GB, CD-ROM/DVD-ROM: 16X ,Hard Dr
         ]);
 
         $post->create([
+            'nameDetailPost'     => 'Snagit - phần mềm quay chụp màn hình',
+            'urlDetailPost'      => 'snagit-phan-mem-quay-chup-man-hinh',
+            'presentDetailPost'  => 'Snagit giúp bạn ghi lại, chụp lại mọi diễn biến trên desktop, cung cấp các công cụ chỉnh sửa video hay hình ảnh của bạn.',
+            'contentDetailPost'  => '',
+
+            'dateDetailPost'     => '2015-08-08',
+            'imgDetailPost'      => 'snagit-phan-mem-quay-chup-man-hinh-thumbnail.jpg',
+            'idCat'              => THU_THUAT_IT_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
             'nameDetailPost'     => 'Kinh nghiệm chọn tướng ở Elo Hell',
             'urlDetailPost'      => 'Kinh-nghiem-chon-tuong-o-Elo-Hell',
             'presentDetailPost'  => 'Có những trận đấu xếp hạng mà kết quả gần như đã được định đoạt ngay từ phần Cấm và Chọn. Có những người dù rất giỏi một tướng nào đó nhưng mãi không thoát ra khỏi Elo Hell.',
@@ -2985,8 +3004,7 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
 
             <p>Trang Fanpage của Hearthstone đã đăng <a href="https://www.facebook.com/HearthstoneSEA/photos/a.140648252812317.1073741830.138632246347251/416145065262633/?type=3">hình ảnh khen ngợi Neilyo.</a></p>
 
-            <center><img src="../local/public/upload/images/game/Hearthstone_khen_Neilyo.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-            </center>
+            <center><img src="../local/public/upload/images/game/Hearthstone_khen_Neilyo.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" /></center>
 
             <p>Neilyo là game thủ Hearthstone Việt Nam đã chiến thắng xuất sắc trong khu vực Đông Nam Á và Châu Á vừa qua. Vào tháng 9/2015, Neilyo đã chiến thắng trong khu vực Đông Nam Á sau khi thắng Chalk người Philippines, lên ngôi vô địch giải đấu Hearthstone lớn nhất Đông Nam Á.</p>
 
@@ -2995,11 +3013,11 @@ phải đi làm thêm tại cửa hàng đồ điện kiếm sống.</p>
             <p>Trận chung kết giữa Neilyo và Chalk</p>
 
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-
+            <br><br>
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A_3.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-
+            <br><br>
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A_4.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
-
+            <br><br>
             <img src="../local/public/upload/images/game/Neilyo_vo_dich_Dong_Nam_A_2.jpg" width="70%" alt="Blizzard vinh danh game thủ Hearthstone Việt Nam" />
 
             <p>Thành tích thi đấu ấn tượng của Neilyo tại giải Đông Nam Á.</p></center>
@@ -5036,12 +5054,24 @@ Nguồn tin: <a href="http://www.animenewsnetwork.com/news/2016-02-19/live-actio
             'nameDetailPost'     => '[Review] Saenai Heroine no Sodatekata - Nhịp đập trái tim',
             'urlDetailPost'      => 'saenai-heroine-no-sodatekata-nhip-dap-trai-tim',
             'presentDetailPost'  => 'Otaku tình cờ nhìn thấy một cô gái giữa khung cảnh tuyệt vời trong các bộ Visual Novel. Cậu quyết định lập nhóm làm game Visual Novel về cô gái đó.',
-            'contentDetailPost'  => '
-            <p>Câu chuyện nói về Otaku tên là Tomoya Aki. Trên đường đến trường, tình cờ cậu chứng kiến một khung cảnh thần tiên chỉ có trong Visual Novel. Cậu cũng đã tìm ra cô gái trong khung cảnh đó là bạn cùng lớp của cậu. Cậu quyết định tập hợp một nhóm gồm: bạn thuở nhỏ, senpai, ... và cô gái vai chính.</p>
-            <p></p>
-            <p></p>
-            <p></p>
-            <p></p>
+            'contentDetailPost'  => '<p>Câu chuyện nói về Otaku tên là Tomoya Aki. Trên đường đến trường, tình cờ cậu chứng kiến một khung cảnh thần tiên chỉ có trong Visual Novel. Cậu cũng đã tìm ra cô gái trong khung cảnh đó là bạn cùng lớp của cậu. Cậu quyết định tập hợp một nhóm gồm: bạn thuở nhỏ, senpai, ... và cô gái vai chính.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
             ',
 
             'dateDetailPost'     => '2016-03-25',
@@ -6567,78 +6597,79 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'presentDetailPost'  => 'Your Name, Anime đạt doanh thu kỷ lục châu Á và là khởi đầu của trào lưu chiếu Anime Nhật Bản tại rạp Việt Nam.',
             'contentDetailPost'  => '<p>Thể loại: tình cảm, lãng mạn, hài hước, siêu nhiên, học đường.</p>
 
-            <p>Kimi no Na wa? (君の名は。?) Tên tiếng Anh là Your Name, là một bộ phim hoạt hình Nhật Bản thuộc thể loại khoa học giả tưởng, siêu nhiên được đạo diễn bởi Shinkai Makoto. Phim do hãng CoMix Wave Films sản xuất và Touhou phát hành. <a href="http://www.kiminona.com/index.html">Trang chủ Kimi no nawa.</a></p>
+<p>Kimi no Nawa? (君の名は。?) Tên tiếng Anh là Your Name, là một bộ phim hoạt hình Nhật Bản thuộc thể loại khoa học giả tưởng, siêu nhiên được đạo diễn bởi Shinkai Makoto. Phim do hãng CoMix Wave Films sản xuất và Touhou phát hành. <a href="http://www.kiminona.com/index.html">Trang chủ Kimi no nawa.</a></p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/hRfHcp2GjVI" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RubGKcTqDi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-            <p>Tralier Your Name</p></center>
+<p>Tralier Your Name</p></center>
 
-            <p>Bộ phim nói về một cô gái tên Mitsuha mong ước một cuộc sống sôi động và thú vị hơn tại Tokyo. Rồi một ngày, cô nhân ra mình đã hoán đổi thân xác với một thiếu niên tên Taku bằng tuổi mình. Hai người cứ trò chuyện với nhau qua những dòng thư, tin nhắn viết trên vở, điện thoại, cơ thể mình. Cho đến khi họ không còn hoán đổi thân xác với nhau nữa, Taku quyết định đi tìm Mitsuha và phát hiện ra thị trấn của cô đã bị sao băng phá hủy 3 năm trước. Taku tìm cách trở về xác của Mitsuha với hy vọng cứu được cô và người dân trong thị trấn trước khi trí nhớ của cậu dần dần biến mất.</p>
+<p>Bộ phim nói về một cô gái tên Mitsuha mong ước một cuộc sống sôi động và thú vị hơn tại Tokyo. Rồi một ngày, cô nhân ra mình đã hoán đổi thân xác với một thiếu niên tên Taku bằng tuổi mình. Hai người cứ trò chuyện với nhau qua những dòng thư, tin nhắn viết trên vở, điện thoại, cơ thể mình. Cho đến khi họ không còn hoán đổi thân xác với nhau nữa, Taku quyết định đi tìm Mitsuha và phát hiện ra thị trấn của cô đã bị sao băng phá hủy 3 năm trước. Taku tìm cách trở về xác của Mitsuha với hy vọng cứu được cô và người dân trong thị trấn trước khi trí nhớ của cậu dần dần biến mất.</p>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-1.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" />
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-1.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /><br><br>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-2.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
+<img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-2.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
 
-            <p>Được gọi là bom tấn vì đạo diễn Makoto Shinkai không thể tin tác phẩm của ông lại có thể đạt những con số doanh thu kỷ lục trên khắp thế giới. Tại Hàn Quốc, Your Name thu hút gần 1,2 triệu khán giả xứ kim chi trong tuần đầu công chiếu. Tại Việt Nam, cơn sốt Kimi no nawa khiến các trang mạng, Facebook sôi sục bàn tán còn những phim đang chiếu hiện tại gần như chẳng ai biết. Tại Nhật Bản, kể từ ngày công chiếu vào tháng 8/2016, bộ phim đã thu về hơn 19.7 tỉ yên (tương đương 174 triệu đô la Mỹ), trở thành phim ăn khách nhất Nhật Bản năm 2016.</p>
+<p>Được gọi là bom tấn vì đạo diễn Makoto Shinkai không thể tin tác phẩm của ông lại có thể đạt những con số doanh thu kỷ lục trên khắp thế giới. Tại Hàn Quốc, Your Name thu hút gần 1,2 triệu khán giả xứ kim chi trong tuần đầu công chiếu. Tại Việt Nam, cơn sốt Kimi no nawa khiến các trang mạng, Facebook sôi sục bàn tán còn những phim đang chiếu hiện tại gần như chẳng ai biết. Tại Nhật Bản, kể từ ngày công chiếu vào tháng 8/2016, bộ phim đã thu về hơn 19.7 tỉ yên (tương đương 174 triệu đô la Mỹ), trở thành phim ăn khách nhất Nhật Bản năm 2016.</p>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-3.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-3.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
 
-            <p>Thậm chí, nhiều người còn hy vọng Kimi no nawa sẽ trở thành hiện tượng tại giải Oscar, nơi mà hạng mục "Phim hoạt hình xuất sắc nhất" (Best Animated Feature) trong suốt 15 năm qua luôn là nơi thống trị của các phim hoạt hình Hollywood. Lý do có lẽ là vì khi nhắc đến phim hoạt hình, nhiều người luôn nghĩ trẻ em là đối tượng <b>duy nhất</b> được phép xem loại phim này. Nghĩa là phim hoạt hình nào dành cho người lớn thì phim đó ít được quan tâm hơn. </p>
+<p>Thậm chí, nhiều người còn hy vọng Kimi no nawa sẽ trở thành hiện tượng tại giải Oscar, nơi mà hạng mục "Phim hoạt hình xuất sắc nhất" (Best Animated Feature) trong suốt 15 năm qua luôn là nơi thống trị của các phim hoạt hình Hollywood. Lý do có lẽ là vì khi nhắc đến phim hoạt hình, nhiều người luôn nghĩ trẻ em là đối tượng <b>duy nhất</b> được phép xem loại phim này. Nghĩa là phim hoạt hình nào dành cho người lớn thì phim đó ít được quan tâm hơn. </p>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-4.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-4.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
 
-            <p><b>Điều gì dẫn đến thành công của Kimi no nawa?</b></p>
+<p><b>Điều gì dẫn đến thành công của Kimi no nawa?</b></p>
 
-            <p>Đầu tiên có lẽ là bộ phim đã thể hiện quá xuất sắc cả về hình ảnh, âm nhạc, nội dung và cái kết. Những phong cảnh đối lập nhau của nông thôn và thành thị, độ sắc nét của Tokyo dưới trời tuyết, khung cảnh huyền ảo của bầu trời đêm sao băng. Từ bài hát Yumetourou mở đầu cho đến những bản nhạc nền đàn piano thật tuyệt vời. Nội dung phim tình cảm, kịch tính, lãng mạn, hài hước và chút ecchi khiến bộ phim như một món ăn tinh thần đủ mọi hương vị.</p>
+<p>Đầu tiên có lẽ là bộ phim đã thể hiện quá xuất sắc cả về hình ảnh, âm nhạc, nội dung và cái kết. Những phong cảnh đối lập nhau của nông thôn và thành thị, độ sắc nét của Tokyo dưới trời tuyết, khung cảnh huyền ảo của bầu trời đêm sao băng. Từ bài hát Yumetourou mở đầu cho đến những bản nhạc nền đàn piano thật tuyệt vời. Nội dung phim tình cảm, kịch tính, lãng mạn, hài hước và chút ecchi khiến bộ phim như một món ăn tinh thần đủ mọi hương vị.</p>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-5.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" />
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-5.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /><br><br>
 
-            <img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-6.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
+<img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-6.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /><br><br>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8vNDkF8HWoI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8vNDkF8HWoI" frameborder="0" allowfullscreen></iframe>
 
-            <p>Quảng cáo nước Suntory</p></center>
+<p>Quảng cáo nước Suntory</p></center>
 
-            <p>Điều đặc biệt là Anime ở Việt Nam nói chung vẫn còn đang rất non trẻ và mới lạ với nhiều người. Ngoài cộng đồng fan hâm mộ Anime/Manga ra thì hầu như mọi người đều gọi với cái tên chung là phim hoạt hình/truyện tranh phong cách Nhật. Chính vì vậy, ngoài những series hoàn toàn thuần túy dành cho trẻ con như Doraemon thì những tựa phim +13 gần như không có cơ hội chen chân vào rạp Việt Nam. Fan Anime/Manga phải trải qua rất nhiều tiếc nuối khi những tựa phim cực kỳ hấp dẫn như Date a live Mayuri Judgement, Accel World Infinite Burst hay Girl und Panzer không được chiếu tại Việt Nam dù rất nhiều nước trong Đông Nam Á như Thái Lan, Philippines, Indonesia, Singapore thì được chiếu.</p>
+<p>Điều đặc biệt là Anime ở Việt Nam nói chung vẫn còn đang rất non trẻ và mới lạ với nhiều người. Ngoài cộng đồng fan hâm mộ Anime/Manga ra thì hầu như mọi người đều gọi với cái tên chung là phim hoạt hình/truyện tranh phong cách Nhật. Chính vì vậy, ngoài những series hoàn toàn thuần túy dành cho trẻ con như Doraemon thì những tựa phim +13 gần như không có cơ hội chen chân vào rạp Việt Nam. Fan Anime/Manga phải trải qua rất nhiều tiếc nuối khi những tựa phim cực kỳ hấp dẫn như Date a live Mayuri Judgement, Accel World Infinite Burst hay Girl und Panzer không được chiếu tại Việt Nam dù rất nhiều nước trong Đông Nam Á như Thái Lan, Philippines, Indonesia, Singapore thì được chiếu.</p>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/tA5auypuWVE" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/tA5auypuWVE" frameborder="0" allowfullscreen></iframe>
 
-            <p>Trailer Accel World Infinite Burst</p>
+<p>Trailer Accel World Infinite Burst</p>
 
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/dbIywGqvPv8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHxZ9yYU3sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-            <p>Trailer Girl und Panzer</p></center>
+<p>Trailer Girl und Panzer</p></center>
 
-            <p>Tốc độ tăng doanh thu phòng vé của Kimi no nawa kinh khủng đến mức Frozen ( bộ phim từng 2 lần giành được giải Oscar cho hạng mục phim hoạt hình hay nhất ) phải mất đến  37 ngày để đạt đến con số 10 tỷ còn Kimi no nawa chỉ cần 28 ngày. Với thành tích đáng nể này,  Your Name đã vươn lên thứ 7 trong top 10 bộ phim vĩ đại có doanh thu cao nhất Nhật Bản.</p>
+<p>Tốc độ tăng doanh thu phòng vé của Kimi no nawa kinh khủng đến mức Frozen ( bộ phim từng 2 lần giành được giải Oscar cho hạng mục phim hoạt hình hay nhất ) phải mất đến  37 ngày để đạt đến con số 10 tỷ còn Kimi no nawa chỉ cần 28 ngày. Với thành tích đáng nể này,  Your Name đã vươn lên thứ 7 trong top 10 bộ phim vĩ đại có doanh thu cao nhất Nhật Bản.</p>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-7.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-7.jpg" width="70%" alt="Kimi no nawa? – Bom tấn Anime Nhật tại Việt Nam" /></center>
 
-            <p><strong>Top 10 Phim có doanh thu cao nhất Nhật Bản</strong></p>
-            <ul>
-            <li>1. “Spirited Away” (2001/30.1 tỷ yen)
+<p><strong>Top 10 Phim có doanh thu cao nhất Nhật Bản</strong></p>
+<ul>
+<li>1. “Spirited Away” (2001/30.1 tỷ yen)
 
-            <li>2. “Howl’s Moving Castle” (2004/19.6 tỷ yen)
+<li>2. “Howl’s Moving Castle” (2004/19.6 tỷ yen)
 
-            <li>3. “Princess Mononoke” (1997/19.3 tỷ yen)
+<li>3. “Princess Mononoke” (1997/19.3 tỷ yen)
 
-            <li>4. “Bayside Shakedown 2” (2003/17.35 tỷ yen)
+<li>4. “Bayside Shakedown 2” (2003/17.35 tỷ yen)
 
-            <li>5. “Ponyo” (2008/15.5 tỷ yen)
+<li>5. “Ponyo” (2008/15.5 tỷ yen)
 
-            <li>6. “The Wind Rises” (2013/12.02 tỷ yen)
+<li>6. “The Wind Rises” (2013/12.02 tỷ yen)
 
-            <li>7. “your name.” (2016/11.1 tỷ yen)
+<li>7. “your name.” (2016/11.1 tỷ yen)
 
-            <li>8. “Antarctica” (1983/11 tỷ yen)
+<li>8. “Antarctica” (1983/11 tỷ yen)
 
-            <li>9. “Bayside Shakedown 2” (1998/10.1 tỷ yen )
+<li>9. “Bayside Shakedown 2” (1998/10.1 tỷ yen )
 
-            <li>10. “The Adventures of Chatran” (1986/9.8 tỷ yen)
-            </ul>
+<li>10. “The Adventures of Chatran” (1986/9.8 tỷ yen)
+</ul>
 
-            <p>Và điều khiến các fan Anime/Manga Việt Nam hào hứng nhất đó là Kimi no nawa xuất hiện đúng vào sự kiện cuốn Light Novel 18+ Hiệp Sĩ Lưu Ban đang gây tranh cãi và <a href="http://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/viet-nam-cho-phep-chieu-rap-phim-18-tu-2017-3521443.html">Luật Điện Ảnh</a> mới được thực hiện vào 1/1/2017 quy định độ tuổi được Bộ Văn hóa, Thể thao và Du lịch thông qua. Dù không phải tin vui nhưng 3 sự kiện xảy ra liên tiếp này cũng đã khiến các fan Anime/Manga thật sự vui mừng vì đây sẽ là khởi đầu cho những bộ phim Anime kế tiếp được chiếu tại rạp Việt Nam. Fan Anime/Manga sẽ không còn nuối tiếc vì không được xem bản chiếu rạp của series mình yêu thích như Date a live Mayuri Judgement hay Accel World Infinite Burst nữa.</p>
+<p>Và điều khiến các fan Anime/Manga Việt Nam hào hứng nhất đó là Kimi no nawa xuất hiện đúng vào sự kiện cuốn Light Novel 18+ Hiệp Sĩ Lưu Ban đang gây tranh cãi và <a href="http://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/viet-nam-cho-phep-chieu-rap-phim-18-tu-2017-3521443.html" rel="nofollow">Luật Điện Ảnh</a> mới được thực hiện vào 1/1/2017 quy định độ tuổi được Bộ Văn hóa, Thể thao và Du lịch thông qua. Dù không phải tin vui nhưng 3 sự kiện xảy ra liên tiếp này cũng đã khiến các fan Anime/Manga thật sự vui mừng vì đây sẽ là khởi đầu cho những bộ phim Anime kế tiếp được chiếu tại rạp Việt Nam. Fan Anime/Manga sẽ không còn nuối tiếc vì không được xem bản chiếu rạp của series mình yêu thích như Date a live Mayuri Judgement hay Accel World Infinite Burst nữa.</p>
 
-            <center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-8.jpg" width="70%" /></center>',
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-8.jpg" width="70%" /></center>
+',
 
             'dateDetailPost'     => '2017-01-11',
             'imgDetailPost'      => 'Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-thumbnail.jpg',
@@ -6656,20 +6687,74 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'nameDetailPost'     => 'Phỏng vấn Shimazaki Nobunaga về anime Your Name',
             'urlDetailPost'      => 'Phong-van-Shimazaki-Nobunaga-ve-anime-Your-Name',
             'presentDetailPost'  => '',
-            'contentDetailPost'  => '<p>Shimazaki Nobunaga, diễn viên lồng tiếng cho nhân vật phụ Tsukasa Fujii, một trong hai người bạn của Taki trong bom tấn anime Your Name. Anh cũng chính là diễn viên lồng tiếng cho vai nam chính Itsuka Shidou trong series Date a live nổi tiếng, series đã có phim chiếu rạp Date a live Mayuri Judgement. </p>
+            'contentDetailPost'  => '<p>Shimazaki Nobunaga, diễn viên lồng tiếng cho nhân vật phụ Tsukasa Fujii, một trong hai người bạn của Taki trong bom tấn anime Your Name. Anh cũng chính là diễn viên lồng tiếng cho vai nam chính Itsuka Shidou trong series Date a live nổi tiếng, series đã có phim chiếu rạp Date a live Mayuri Judgement.</p>
 
-            <center>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/hRfHcp2GjVI" frameborder="0" allowfullscreen></iframe>
+<p>Trang chủ phim <a href="http://www.kiminona.com/">Your Name</a></p>
 
-            <p>Tralier Your Name</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RubGKcTqDi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/RTShaDDj6Mg" frameborder="0" allowfullscreen></iframe>
+<p>Tralier Your Name</p>
 
-            <p>Trailer Date a live Mayuri Judgement</p>
-            </center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e3Ze62AL9r0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-            <p></p>
-            ',
+<p>Kimi no Na wa.『君の名は。』Official MV - Sparkle</p>
+
+<img src="../local/public/upload/images/anime/phong-van-Shimazaki-Nobunaga-ve-anime-Your-Name-1.jpg" width="70%" alt="Phỏng vấn Shimazaki Nobunaga về anime Your Name" />
+
+<p>Shimazaki Nobunaga lồng tiếng cho<br>
+Tsukasa Fujii (trái) và Itsuka Shidou (phải)</p></center>
+
+<p>Phóng viên phỏng vấn: Kawamata Ayaka. </p>
+
+<p><b>PV: Khi làm bộ phim này, anh làm việc với những người đang hoạt động trong các lĩnh vực khác nhau. Kamiki Ryunosuke (diễn viên lồng tiếng của nam chính Taki) của Kimi no Nawa là một trong số họ. Anh có tìm thấy điểm gì khác nhau trong quá trình lồng tiếng và diễn xuất không?</b></p>
+
+<p>Nobunaga: Về cơ bản, những gì tôi đã làm vẫn như bình thường. Cách tôi chuẩn bị và diễn xuất cho bộ phim này rất tự nhiên bằng cách học thế giới quan của nó như tôi vẫn thường làm. Vì vậy, tôi tập trung vào không khí và thế giới của Kimi no Nawa, sau đó tôi tìm ra nơi để đứng và hành động tự nhiên. Tôi có thể đã chuẩn bị cẩn thận hơn so với những bộ phim tương tự khác.</p>
+
+<center><img src="../local/public/upload/images/anime/phong-van-Shimazaki-Nobunaga-ve-anime-Your-Name-2.jpg" width="70%" alt="Phỏng vấn Shimazaki Nobunaga về anime Your Name" /></center>
+
+<p><b>PV: “So với những bộ phim tương tự khác” nghĩa là sao?</b></p>
+
+<p>Nobunaga: Khi tôi xem một bộ phim của đạo diễn Shinkai Makoto, họ dường như rơi xuống đất… gần giống những gì chúng ta gọi là hiện thực. Điều này làm cho tôi nghĩ bộ phim của ông được tạo ra giống như biến phim hoạt hình thành hiện thực. Nếu tôi bám vào diễn xuất của riêng tôi, đó là chuyện bình thường với tôi, nhưng không phải với những người khác. Tôi sẽ không thể đứng ở vị thế ngang với các nhân vật chính là Taki và Mitsuha. Trong trường hợp xấu, tôi sẽ vô tình tạo ra một người nào đó từ một thế giới tưởng tượng, trong khi việc tôi cần là làm sao để trở thành bạn thân của Taki.</p>
+
+<p><b>PV: Tôi bắt đầu hiểu rồi. Để được sống trong thế giới của Kimi no Nawa, anh phải loại bỏ “phi tự nhiên” và hoàn thiện vai trò của mình...</b></p>
+
+<p>Nobunaga: Vai của tôi là Tsukasa Fujii, một người bạn của Taki và sống cùng cậu ta trong thế giới Kimi no Nawa. Mục tiêu của tôi là cân bằng hoàn hảo giữa Taki và Tsukasa, để khán giả có thể xem mà không cảm thấy mất tự nhiên.</p>
+
+<p><b>PV: Anh đang cẩn thận hơn bình thường để gắn bó với thực tế...</b></p>
+
+<p>Nobunaga: Đúng. Và có những cách khác nhau để thể hiện thực tế. Tùy thuộc vào bộ phim, nhấn mạnh trên thực tế, thay đổi theo cách mà bộ phim mang lại. Bộ phim này kể về câu chuyện với hình ảnh minh họa, vì vậy tiếng nói không cần phải nhấn mạnh thực tế của nó. Mặt khác, nếu một bộ phim hoàn toàn tùy thuộc vào hành vi bằng giọng nói, bạn cần phải đặt trọng tâm về phía đó để truyền đạt ý nghĩa thực sự. (theo dạng Drama CD)</p>
+
+<center><img src="../local/public/upload/images/anime/phong-van-Shimazaki-Nobunaga-ve-anime-Your-Name-3.jpg" width="50%" alt="Phỏng vấn Shimazaki Nobunaga về anime Your Name" /></center>
+
+<p><b>PV: Vậy để nhấn mạnh về sự tồn tại của Tsukasa thì anh phải có...</b></p>
+
+<p>Nobunaga: Kamiki đề nghị để tôi lồng cảnh với nhau. Vì vậy tôi nghĩ mình nên hành động một cách tự nhiên bằng cách đơn giản đáp ứng yêu cầu của Kamiki. Thật tốt khi có cơ hội diễn cùng với Kamiki, cảm giác tuyệt như Tsukasa nghĩ về Taki. Tôi không cần lo lắng về phần còn lại của hiệu suất, vì các hình ảnh minh họa rất chi tiết. Vì vậy, Tôi cảm giác tôi đã có một cuộc trò chuyện giữa Tsukasa và Taki... tôi đoán vậy.</p>
+
+<p><b>PV: Cảm giác thế nào khi anh làm việc với Kamiki?</b></p>
+
+<p>Nobunaga: Thật sự rất vui. Thông thường, khi làm diễn viên lồng tiếng, chúng tôi làm theo quy tắc bất thành văn là hay cảm nhận âm thanh và cảm xúc đối với một số đoạn, và cách đó chắc chắn giúp chúng tôi đánh bóng kỹ năng lồng tiếng của mình sao cho hiệu quả hơn. Tuy nhiên, trong bộ phim này, Kamiki không tuân theo cách đó. Anh ta đã làm tuyệt vời như anh ta thường làm, và tôi tự nhiên phản ứng với hành động của mình rất tốt. </p>
+
+<p>Sau đó, tôi đã làm việc chăm chỉ, diễn xuất bằng giọng nói của tôi. Tôi tin nền tảng của một diễn viên lồng tiếng đã đưa tôi đến vai trò đó. Tôi nghĩ rằng bộ phim này không chỉ là hoạt hình, nó có thể được coi là một bộ phim live-action với sự tự nhiên, gần giống như thế giới thực. Những cuộc trò chuyện với Kamiki giúp diễn xuất tốt hơn, điều đó khiến tôi cảm thấy thoải mái và cho tôi sự hài lòng tuyệt vời.</p>
+
+<p><b>Anh nói rằng anh nghĩ các bộ phim Shinkai là “So với những bộ phim tương tự khác” và “gần giống như thế giới thực”. Anh có thể cho tôi một số ví dụ đó về hình ảnh trong phim không?</b></p>
+
+<p>Tất cả các hành động của các nhân vật, mô tả về cảm xúc của họ, cả gió và mây... tất cả dường như có rất nhiều điểm giống đời thực. Đó là lý do tại sao người ta có thể dễ dàng liên tưởng đến nó cũng như cảm nhận được sự tồn tại trong cái dịu dàng ấm áp của thế giới đó. Tôi nhận ra rằng mọi người đang di chuyển như thực vậy, đầy sức sống sôi động.</p>
+
+<p><b>Kimi no Nawa là lần đầu tiên anh đóng phim Shinkai phải không? Anh nghĩ gì về đạo diễn?</b></p>
+
+<p>Ông ấy rất tốt bụng. Nói thế này có thể không thích hợp với một người đàn ông trưởng thành, nhưng ông ấy khá dễ thương. Tôi thấy sự ấm áp của cả hai trong bộ phim của mình. Tôi rất lo lắng khi gặp ai đó to lớn, người đã tạo ra những bộ phim tuyệt vời. Tuy nhiên, ông ấy thực sự rất nhẹ nhàng và gần gũi, và tôi cảm thấy thoải mái ngay lập tức. </p>
+
+<p>Ông ấy rất tuyệt, và tôi có thể cảm thấy tình yêu và niềm đam mê đi vào bộ phim từ thái độ đến tính cách của ông. Rõ ràng, ông đã xem một số bộ phim mà tôi đã lồng tiếng và nói: “Tôi yêu giọng nói của anh” với tôi. Tôi không thường nghe ý kiến này của một đạo diễn, nên tôi rất vui, vô cùng biết ơn và hoảng hốt (cười). Ông là người có thể nói chuyện bằng cảm xúc của mình mà không làm cho người ta khó chịu.</p>
+
+<p><b>Cuối cùng, anh muốn nói gì với độc giả của chúng tôi không?</b></p>
+
+<p>Tôi muốn nói: “chỉ cần đi xem phim!” thay vì chỉ ra đó là điểm tuyệt vời của bộ phim này. Nếu bạn đi xem nó, bạn chắc chắn sẽ biết lý do tại sao nó thay đổi trái tim của mọi người. Tôi cũng phải đề cập rằng bộ phim này có thể được giải thích theo nhiều cách khác nhau, vậy nên cảm nhận bộ phim này cũng tùy người. Tôi rất thích những người yêu cảm xúc và cách giải thích, họ cảm nhận riêng của họ sau khi xem bộ phim này. Những cảm xúc đó là tất cả của bạn, không phải của người khác. Vì vậy, hãy xem để cảm nhận bộ phim. Sau đó, tôi sẽ hạnh phúc hơn nếu bạn khám phá những cách khác nhau để thưởng thức bộ phim này. Bạn cũng có thể tìm thấy sự thú vị khi nghe cách người khác cảm nhận nó.</p>
+
+<center><img src="../local/public/upload/images/anime/Kimi-no-Nawa-Your-Name-Bom-tan-Anime-tai-Viet-Nam-Nobunaga-Shimazaki.jpg" width="70%" alt="Phỏng vấn Shimazaki Nobunaga về anime Your Name" /></center>
+
+<p>Trang nguồn: <a href="http://manga.tokyo/report/interview-with-nobunaga-shimazaki-as-tsukasa-fujii-on-kimi-no-na-wa/">Manga Tokyo.</a></p>
+
+',
 
             'dateDetailPost'     => '2017-01-24',
             'imgDetailPost'      => 'Phong-van-Shimazaki-Nobunaga-ve-anime-Your-Name-thumbnail.jpg',
@@ -6725,16 +6810,19 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'presentDetailPost'  => 'Anh hùng vất vả chống kẻ xấu và kết liễu bằng bí kỹ, sự đoàn kết, niếm tin. Một mô-típ quá quen thuộc.',
             'contentDetailPost'  => '<p>Khi nhắc đến những trận chiến chính diện và phản diện, ai cũng sẽ nghĩ đến những trận chiến dưới kèo hoặc ngang kèo của vai chính diện khi đối đầu với những tên trùm. Cảnh chính diện ra đòn nhưng trùm vẫn trơ trơ, cảnh con trùm cực mạnh đè bẹp chính diện, cảnh anh hùng tung chiêu bí thuật kết liễu trùm cuối rồi thở dốc vì kiệt sức. Những hình ảnh quá quen thuộc trong mọi bộ phim, truyện tranh cả tây lẫn ta, cả Âu lẫn Á.</p>
 
-            <center><img src="../local/public/upload/images/anime/goku-full-ultra-instinct-vs-jiren.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" /></center>
-            <br><br>
-            <center><img src="../local/public/upload/images/anime/superman-vs-doomsday.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" />
-            <p>Anh hùng thất thế trước kẻ xấu là hình ảnh quá quen thuộc.</p></center>
+<center><img src="../local/public/upload/images/anime/goku-full-ultra-instinct-vs-jiren.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" />
+<br>
+<center><img src="../local/public/upload/images/anime/superman-vs-doomsday.jpg" width="70%" alt="Nỗ lực thoát khỏi lối mòn vai chính diện yếu hơn phản diện" />
 
-            <p>Vậy nên nhiều tác giả đã muốn phá bỏ khuôn khổ, không đi theo lối mòn cũ. Nhất là sau thành công của One Punch Man và sự nổi lên của thể loại Isekai, các tác giả đã hòa trộn hai yếu này làm một. Isekai wa smartphone to tomo ni là cái tên nổi bật. Isekai Maou to Shoukan Shoujo no Dorei Majutsu cũng khá triển vọng với anime sắp ra mắt.</p>
+<p>Anh hùng thất thế trước kẻ xấu là hình ảnh quá quen thuộc.</p></center>
 
-            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NlhUse6IMEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>Vậy nên nhiều tác giả đã muốn phá bỏ khuôn khổ, không đi theo lối mòn cũ. Nhất là sau thành công của One Punch Man và sự nổi lên của thể loại Isekai, các tác giả đã hòa trộn hai yếu này làm một. Isekai wa smartphone to tomo ni là cái tên nổi bật. Isekai Maou to Shoukan Shoujo no Dorei Majutsu cũng khá triển vọng với anime sắp ra mắt.</p>
 
-            <p>PV của Isekai Maou to Shoukan Shoujo no Dorei Majutsu</p></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/NlhUse6IMEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>PV của Isekai Maou to Shoukan Shoujo no Dorei Majutsu</p></center>
+
+
 
 
 
@@ -6751,6 +6839,23 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7100,7 +7205,7 @@ Website : https://shikioriori.jp/',
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
             'popular'            => 0,
-            'head_position'      => HEADER_BOTTOM_LEFT,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -7185,7 +7290,7 @@ Website : https://shikioriori.jp/',
             'views'              => random_int(0,100),
             'enable'             => ENABLE,
             'popular'            => 0,
-            'head_position'      => HEADER_TOP_RIGHT,
+            'head_position'      => HEADER_NONE,
             'update'             => 0,
         ]);
 
@@ -7193,7 +7298,35 @@ Website : https://shikioriori.jp/',
             'nameDetailPost'     => 'Tuổi trung bình của Hikimori tại Nhật gia tăng',
             'urlDetailPost'      => 'tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang',
             'presentDetailPost'  => '',
-            'contentDetailPost'  => 'https://www.animenewsnetwork.com/interest/2018-06-11/average-age-of-hikikomori-on-the-rise-in-japan/.132715',
+            'contentDetailPost'  => '<p>Anime vẽ nên một bức tranh đặc biệt về những người hikikomori tại Nhật Bản. Họ thường là những ngôi sao của thể loại Isekai, bỏ lại một cuộc sống đơn độc, tiêu thụ đồ ăn vặt và chơi trò chơi điện tử để thực hiện một cuộc phiêu lưu lớn. Ngoài ra, đôi khi họ đặc biệt hơn khi ở trong phòng như Eromanga-sensei theo phong cách ẩn sĩ. Trong cả hai trường hợp trên, hikikomori là những học sinh cấp ba hoặc đại học đã bỏ học, những người trẻ tuổi phung phí món quà tuổi trẻ của họ với thái độ không tốt với phần còn lại của xã hội. Viễn cảnh này thường được miêu tả là có thể sửa chữa bằng cách kết nối với xã hội và sự lãng mạn.</p>
+
+<center><img src="../local/public/upload/images/anime/tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang-eromanga-sensei.jpg" width="70%" alt="Tuổi trung bình của Hikimori tại Nhật gia tăng"/>
+
+<p>Eromanga-sensei</p></center>
+
+<p>Giống như hầu hết các tiểu thuyết, đây đơn giản không chỉ là hình ảnh đại diện thực sự của hikikomori và cuộc đấu tranh của họ. Vào năm 2014, Asaichi, một chương trình tin tức của Nhật Bản về NHK, đã thảo luận về dân số hikikomori trung niên ngày càng tăng. Và nhấn mạnh rằng đây không chỉ là giai đoạn thanh niên đang cố thích nghi với môi trường độc lập.</p>
+
+<p>Một cuộc khảo sát mới được thực hiện bởi KHJ Zenkoku Hikikomori Kazokukai Rengōkai (Hiệp hội gia đình Hikikomori quốc gia) cho biết tuổi trung bình của hikikomori là 34,4 tuổi, cao hơn bốn tuổi so với trung bình của 10 năm trước. Có khoảng 80 gia đình tham gia hiệp hội tại chi nhánh quận Kochi. Một gia đình bao gồm một người mẹ có một cậu con trai sống khép kín trong nhiều năm. Cô tự hỏi điều gì sẽ xảy ra với con trai mình nếu cô chết.</p>
+
+<p>Tuổi của hikikomori cao hơn cũng có nghĩa là tuổi các thành viên trong gia đình chăm sóc họ cũng tăng. Vào tháng 3, KHJ đã đưa ra một tuyên bố "vấn đề 8050", trong đó các bậc cha mẹ ở độ tuổi 80 chịu trách nhiệm chăm sóc những đứa trẻ 50 tuổi thất nghiệp bằng cách sử dụng lương hưu. KHJ đang hy vọng sẽ giảm bớt một số trách nhiệm đó.</p>
+
+<p>Một cựu hikikomori đã chia sẻ câu chuyện của mình với Mainichi Shimbun, được gọi là " Anh A." Anh A đang ở tuổi 30 và bắt đầu cuộc sống hikikomori sau khi anh bỏ học để tránh việc bị bắt nạt ở trường trung học cơ sở. Anh tốt nghiệp trung học nhưng sau đó bỏ học khi nỗi ám ảnh về xã hội của anh bắt đầu tăng lên. Thay vào đó, anh cố gắng hoàn thành việc học nghề nhưng thấy mình ngày càng mệt mỏi vì luôn phải làm theo người khác và bắt đầu tự học ở nhà.</p>
+
+<p>Tình trạng bắt nạt tại trường học và không được sẻ chia
+là nguyên nhân phổ biến dẫn đến cuộc sống Hikimori</p>
+
+<p>Cuộc sống của anh A bắt đầu xoay chuyển khi mẹ anh tìm thấy một bài báo khoảng 10 năm trước và họ đã tham dự một cuộc họp hỗ trợ hikikomori. Anh ta bắt đầu đi ra khỏi nhà vài giờ một lần trong 2 tuần. Thói quen đó dần tăng lên, thời gian ở ngoài nhà lâu hơn.</p>
+
+<center><img src="../local/public/upload/images/anime/tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang-1.jpg" width="70%" alt="Tuổi trung bình của Hikimori tại Nhật gia tăng"/>
+
+<p>Tình trạng bắt nạt tại trường học và không được sẻ chia<br>
+là nguyên nhân phổ biến dẫn đến cuộc sống Hikimori</p></center>
+
+<p>Chủ tịch Isao Sakamoto nói: "Các hikikomori bị cô lập trong gia đình họ và gia đình họ bị cô lập trong xã hội. Họ không phải tự trách mình vì các thành viên gia đình hikikomori của họ. Tôi muốn nói với họ hãy sống cùng nhau và đừng đau khổ một mình. "</p>
+
+<p>Chính phủ Nhật Bản ước tính có hơn nửa triệu người trong độ tuổi từ 15-39 sống cô lập xã hội ở Nhật Bản.</p>
+
+',
 
             'dateDetailPost'     => '2018-06-13',
             'imgDetailPost'      => 'tuoi-trung-binh-cua-hikimori-tai-nhat-gia-tang-thumbnail.jpg',
@@ -7213,7 +7346,29 @@ Website : https://shikioriori.jp/',
             'presentDetailPost'  => 'Hình ecchi của Lilith trên trang chủ Trinity Seven thông báo ra The Movie thứ 2',
             'contentDetailPost'  => '<p>Trang chủ <a href="http://movie.trinity-7.com/">Trinity Seven</a> vào ngày 7/3/2018 vừa thông báo sẽ có The Movie thứ 2, kèm theo hình ecchi của Lilith</p>
 
-            <p>Moive đầu tiên của Trinity Seven là The Eternal Library And The Alchemist Girl</p>
+<center><img src="../local/public/upload/images/anime/trinity-seven-se-co-the-movie-thu-2-1.jpg" width="40%" alt="Trinity Seven sẽ có The Movie thứ 2"/><br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hJynSQ_JJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>PV Trinity Seven Movie 2 của Avex Pictures</p></center>
+
+<p>Shinpei Tomooka, nhà thiết kế nhân vật và cũng là giám đốc của 2 phần anime trước sẽ đảm nhận vẽ nhân vật.</p>
+
+<p>Cậu chuyện kể về Kasuga Arata chuyển đến Học viện Hoàng gia Biblia để tìm hiểu về bí ẩn hủy diệt thế giới và em họ Hijiri của cậu. 7 cô gái - Trinity Seven - bậc thầy của 7 lĩnh vực phép thuật riêng luôn hỗ trợ cậu.</p>
+
+<p>Trinity Seven đã có manga vào năm 2011, anime phần 1 được chiếu vào năm 2014 và the movie đầu tiên được chiếu vào năm 2017. </p>
+
+<p></p>
+
+<p>Movie đầu tiên của Trinity Seven là The Eternal Library And The Alchemist Girl. Một cô bé tên là Lilim gọi Arata và Lilith là "Papa" và "Mama". Cô bé là kết tinh từ sức mạnh của Arata và Lilith. Bạch Dạ Quý Vương, một quỷ vương nhân tạo đến tiêu diệt Arata – Người Thừa Kế Quỷ Vương để trở thành quỷ vương thực sự.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/izr7UaEgPhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>PV Trinity Seven Movie đầu tiên</p></center>
+
+<p>Movie sẽ được khởi chiếu tại Nhật Bản vào ngày 29/3/2019.</p>
+
+<center><img src="../local/public/upload/images/anime/trinity-seven-se-co-the-movie-thu-2-2.jpg" width="100%" alt="Trinity Seven sẽ có The Movie thứ 2"/></center>
 
             ',
             'dateDetailPost'     => '2018-03-07',
@@ -7317,6 +7472,42 @@ Website : https://shikioriori.jp/',
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),
             'enable'             => UNENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Kenja no Mago ra mắt PV Anime',
+            'urlDetailPost'      => 'kenja-no-mago-ra-mat-pv-anime',
+            'presentDetailPost'  => 'Tiếp nối câu chuyện của Dragon Ball Super. Broly đến Trái Đất chiến đấu với Son Goku và Vegeta/',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+<p></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHgm89hKpXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Những dạng biến hình mới</h3>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-07-19',
+            'imgDetailPost'      => 'kenja-no-mago-ra-mat-pv-anime-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
             'update'             => 0,
@@ -7859,6 +8050,41 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
             'update'             => 0,
         ]);
 
+
+        $post->create([
+            'nameDetailPost'     => 'Mysteria Friends',
+            'urlDetailPost'      => 'mysteria-friends',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/anime-spotlight/2019/winter/mysteria-friends/.141317
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNnXrQgoqXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2018-10-03',
+            'imgDetailPost'      => 'mysteria-friends-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
         $post->create([
             'nameDetailPost'     => 'Diễn viên Dropkick on my Devil: Anime cần được bán 500 hộp nữa để có season 2',
             'urlDetailPost'      => 'dien-vien-dropkick-on-my-devil-anime-can-duoc-ban-500-hop-nua-de-co-season-2',
@@ -7868,7 +8094,6 @@ https://www.animenewsnetwork.com/news/2018-09-20/seven-seas-licenses-skeleton-kn
 <p></p>
 
 https://www.animenewsnetwork.com/daily-briefs/2018-11-13/dropkick-on-my-devil-staff-anime-needs-to-sell-500-more-boxes-for-2nd-season/.139400
-
 
 <p></p>
 
@@ -8019,7 +8244,6 @@ https://www.facebook.com/NoFaClub/videos/435472403656160/
 
 <p></p>
 
-
 <p></p>
 
 <p></p>
@@ -8112,6 +8336,362 @@ https://www.facebook.com/NoFaClub/videos/435472403656160/
             'dateDetailPost'     => '2018-12-21',
             'imgDetailPost'      => 'hentai-haven-dong-cua-thumbnail.jpg',
             'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_BOTTOM_LEFT,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Team Hàn Quốc vô địch Overwatch "phá hỏng" cúp trong ngày đăng quang',
+            'urlDetailPost'      => 'team-han-quoc-vo-dich-Overwatch-pha-hong-cup-trong-ngay-dang-quang',
+            'presentDetailPost'  => 'Sự kiện khá hy hữu xảy ra trước sự chứng kiến của đông đảo khán giả',
+            'contentDetailPost'  => '<p></p>
+
+http://gamesao.vietnamnet.vn/esport/overwatch-team-han-quoc-pha-hong-cup-vo-dich-ngay-trong-khoanh-34402.html?fbclid=IwAR3PxQDA7-7fwBlB_mYEuO2lR-t2bb7StRhMKiPrOs2_RTXcUI-qUla_QmE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7i3D85mLco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2019-01-21',
+            'imgDetailPost'      => 'team-han-quoc-vo-dich-Overwatch-pha-hong-cup-trong-ngay-dang-quang-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Dropkick on my Devil thông báo có season 2!',
+            'urlDetailPost'      => 'dropkick-on-my-Devil-thong-bao-co-season-2',
+            'presentDetailPost'  => 'Một tin cực kỳ vui sau thành công bất nhờ của bộ Anime Yuri hài hước này',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/news/2019-01-20/dropkick-on-my-devil-comedy-tv-anime-gets-2nd-season/.142328
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2019-01-20',
+            'imgDetailPost'      => 'dropkick-on-my-Devil-thong-bao-co-season-2-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+
+        $post->create([
+            'nameDetailPost'     => 'Organizers Say Comiket is No Place for Hate Speech After Anti-Korean, Chinese Stickers Were Discovered at Doujin Booth',
+            'urlDetailPost'      => 'Ban-toc-chuc-xac-nhan-khong-co-gian-hang-nao-chong-Han-Quoc-Trung-Quoc',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/interest/2019-01-19/organizers-say-comiket-is-no-place-for-hate-speech-after-anti-korean-chinese-stickers-were-discovered-at-doujin-booth/.142077
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2019-01-21',
+            'imgDetailPost'      => 'Ban-toc-chuc-xac-nhan-khong-co-gian-hang-nao-chong-Han-Quoc-Trung-Quoc-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Phim kinh dị The Ring',
+            'urlDetailPost'      => 'phim-kinh-di-the-ring',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.animenewsnetwork.com/daily-briefs/2019-01-21/ring-horror-franchise-teases-developments-with-video-website/.142357
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2019-01-22',
+            'imgDetailPost'      => 'phim-kinh-di-the-ring-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => '7 Eleven Nhật Bản ngưng bán hentai từ tháng 8/2019',
+            'urlDetailPost'      => '7-eleven-nhat-ban-ngung-ban-hentai-tu-thang-8-2019',
+            'presentDetailPost'  => 'Quyết định dành cho phụ nữ, trẻ em và người nước ngoài',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+https://www.oneangrygamer.net/2019/01/7-eleven-other-stores-to-stop-selling-hentai-in-japan-by-august-2019-due-to-foreigners-kids/75600/?fbclid=IwAR2BzoLxxN1RwKs8t1F7bWuPYX0sy8RRFhLNNiB3jDEkV5tMcEXonCYHFW0
+
+https://twitter.com/roninworks/status/1087387900843515904
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+',
+
+            'dateDetailPost'     => '2019-01-23',
+            'imgDetailPost'      => '7-eleven-nhat-ban-ngung-ban-hentai-tu-thang-8-2019-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Ultra Instict Shaggy xuất hiện trong Mortal Kombat',
+            'urlDetailPost'      => 'ultra-instict-shaggy-xuat-hien-trong-mortal-kombat',
+            'presentDetailPost'  => 'Một tin gây chấn động làng game và cartoon khi Shaggy được tung ảnh phát ra hào quang màu xanh.',
+            'contentDetailPost'  => '<p>Có phải chúng ta đang sống trong thời đại mà người hâm mộ quyết định số phận của một tác phẩm? Ít nhất đó là những gì đang diễn ra trong ngành công nghiệp trò chơi điện tử. Trong vài giờ qua, một trong những chiến dịch điên rồ nhất những năm gần đây đã bắt đầu.</p>
+
+<p>Một sự kiện chưa từng có khi 90.000 người đã ký đơn online mong muốn Shaggy, nhân vật chính trong phim cartoon “Scooby-Doo”, tham gia "Mortal Kombat 11" mới.</p>
+
+<p>Thông thường, những yêu cầu như thế này sẽ dẫn đến áp lực cho nhà phát triển. Họ sẽ phải làm sao để pha trộn mà vẫn hài hòa, không để xảy ra tình trạng “nồi thập cẩm”. Ed Boon, nhà sáng tạo ra "Mortal Kombat" đã đăng trên Twitter rằng: “Tôi sẽ trộn shit của các bạn vào game chiến đấu”, kèm theo một bức vẽ Shaggy trông như đang trong trạng thái Ultra Instict của Son Goku trong Dragon Ball</p>
+
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hi? Lo? Mid? Grab? I will mix your shit up in fighting games! <a href="https://t.co/nzCq4iskj7">pic.twitter.com/nzCq4iskj7</a></p>&mdash; Ed Boon (@noobde) <a href="https://twitter.com/noobde/status/1089991951166906369?ref_src=twsrc%5Etfw">January 28, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img src="../local/public/upload/images/game/ultra-instict-shaggy-xuat-hien-trong-mortal-kombat-goku.jpg" width="70%" alt="Ultra Instict Shaggy xuất hiện trong Mortal Kombat" />
+
+<p>Từ màu sắc đến thần thái, <br>
+từ khung cảnh xung quanh đến dáng đứng không khác gì Ultra Instict Son Goku</p></center>
+
+<p>Sáng kiến này được nảy ra khi anh xem một đoạn video fan made. Nội dung lấy từ cartoon khi Shaggy đánh bại một nhóm người đi xe motor được lồng nhạc nền Ultra Instinct. Phải chăng meme này đã đi quá xa, xa đến mức người làm ra nó cũng không ngờ được ý tưởng của mình lại vĩ diệu đến thế?</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7h9V0nDT9XU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<p>Mặt khác, lấy các nhân vật từ nhiều nguồn khác nhau không phải chuyện mới đối với "Mortal Kombat." Game đã lấy nhân vật Kratos từ "God of War" và một loạt các nhân vật phản diện trong nhiều phim kinh điển khác.</p>
+
+<p>Chúng ta có được thấy Shaggy đánh bại những chiến binh hung dữ như Sub-Zero hay Raiden không? Hãy đợi đến ngày 23/4/2020 khi “Mortal Kombat 11” được ra mắt.</p>
+
+<p>Nguồn: <a href="https://www.dreamteamfc.com/c/gaming/438968/people-petitioning-get-shaggy-into-mortal-kombat-11-ed-boon-release-rumour/"> Dreamteamfc</a>   <a href="http://www.cooperativa.cl/noticias/tecnologia/industria/videojuegos/creador-de-mortal-kombat-da-luz-verde-a-la-llegada-de-shaggy-de/2019-01-28/202551.html"> Cooperativa</a></p>
+
+',
+
+            'dateDetailPost'     => '2019-01-29',
+            'imgDetailPost'      => 'ultra-instict-shaggy-xuat-hien-trong-mortal-kombat-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Vai thiện báo thù - trào lưu mới của thể loại Isekai',
+            'urlDetailPost'      => 'vai-thien-bao-thu-trao-luu-moi-cua-the-loai-Isekai',
+            'presentDetailPost'  => 'Cùng nhìn lại sự phát triển của thể loại Isekai trước khi đến với trào lưu mới: vai thiện báo thù',
+            'contentDetailPost'  => '<p></p>
+
+<p>Nhưng dần dần, khán giả và độc giả cảm thấy "bội thực" với số lượng tác phẩm Isekai quá nhiều nhưng nội dung trùng lặp. Hãy cùng nhìn lại những nội dung Isekai phổ biến một thời:</p>
+
+<h3>Vai chính yếu đuối, hài hước</h3>
+
+<p>Tiêu biểu: Konosuba, Re:Zero</p>
+
+<p>Chắc chắn chúng ta phải nhắc đến 2 tác phẩm tiêu biểu, khởi nguồn cho cơn sốt Isekai này là Konosuba và Re:Zero. Nam chính Kazuma (Konosuba) là một tên NEET yếu đuối, chỉ có ưu điểm duy nhất là cái rành về game nên cậu chỉ huy 3 nữ đồng đội "tay to não nhỏ". Nam chính Subaru (Re:Zero) chỉ là người bình thường, vừa vào thế giới mới đã bị giết và reset về thời điểm bắt đầu. Từ đó, những chuyện hài hước, bi kịch xảy ra xung quanh cậu.</p>
+
+<p>Dần dần, cụm từ "main phế" trở thành câu nói quen thuộc mỗi khi xem thể loại Isekai. Rất nhiều truyện vai chính gần như không có sức mạnh hay khả năng đặc biệt được chuyển sinh khiến khán giả cảm thấy "bội thực" và nhàm chán. Đã đến lúc cần phải thay đổi.</p>
+
+<h3>Vai chính bá đạo từ lúc mới sinh</h3>
+
+<p>Tiêu biểu: </p>
+
+<p>Ngược với "main phế" là gì? Tất nhiên là "main bá". Giải quyết trào lưu "main phế" rất đơn giản: tạo ra những truyện "main bá" từ khi mới chuyển sinh và kèm theo một vài lý do để hợp lý hóa việc vai chính trở nên bá đạo từ lúc mới bắt đầu. Nam chính được ông trời ban cho điện thoại vừa có sức mạnh phép thuật, vừa có sức mạnh công nghệ. Nam chính đầu thai làm cháu nuôi của 2 ông bà pháp sư mạnh nhất thời đại. Nam chính chuyển sinh thành Undead.</p>
+
+<p>Tuy nhiên, trào lưu này lại trở nên nhàm chán khi vai chính gần như không có đối thủ, đánh đâu thắng đó. Chưa kể, thể loại chính diện thắng phản diện, anh hùng thắng kẻ xấu cũng đã quá quen thuộc. Lại một câu hỏi lớn được đặt ra cho các tác giả. Và chìa khóa lại nằm ở phim hành động từ comic Mỹ.</p>
+
+<p></p>
+<p></p>
+<p></p>
+
+<h3>Thể loại mới: Vai thiện báo thù</h3>
+
+<p>Có lẽ do sự ảnh hưởng của loạt phim Marvel với những vai phản diện nổi tiếng như Magneto, Loki, Freeze, các tác giả Isekai đã đưa thể loại "phản diện nhưng không đáng ghét" này vào tác phẩm của mình. Magneto, Loki và Freeze có đặc điểm chung là vai phản diện tàn ác nhưng có một quá khứ đau thương. Mẹ của Magneto bị giết. Loki bị người cha phân biệt đối xử. Freeze trở thành kẻ xấu để cứu vợ mình. Họ bị đẩy vào đường tà. Và đây cũng là khởi nguồn của phong cách Isekai mới: Vai thiện báo thù, bị đẩy vào con đường làm vai ác. Khán giả và độc giả sẽ theo chân nhân vật để xem cách họ trả thù tàn độc như thế nào.</p>
+
+http://www.nettruyen.com/truyen-tranh/maou-no-hajimekata/chap-1/187076
+
+http://animevsub.tv/phim/tate-no-yuusha-no-nariagari-3315/
+
+https://comicvn.net/truyen-tranh-online/kaifuku-jutsushi-no-yarinaoshi-healer-bao-thu/chapter-14-446409
+
+http://www.nettruyen.com/truyen-tranh/nidome-no-yuusha/chap-7/421316
+
+',
+
+            'dateDetailPost'     => '2019-02-04',
+            'imgDetailPost'      => 'vai-thien-bao-thu-trao-luu-moi-cua-the-loai-Isekai-thumbnail.jpg',
+            'idCat'              => ANIME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Activision-Blizzard đi xuống cùng Diablo, StarCraft và nhiều tựa game nổi tiếng một thời',
+            'urlDetailPost'      => 'activision-blizzard-di-xuong0-cung-diablo-starcraft-va-nhieu-tua-game-noi-tieng-mot-thoi',
+            'presentDetailPost'  => 'Tình hình bất ổn của các tựa game thuộc Activision-Blizzard như StarCraft, Diablo... đang cho thấy chiều hướng đi xuống của liên minh ngành game một thời.',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+<h3></h3>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+
+<p></p>
+<p></p>
+<p></p>
+
+https://news.zing.vn/nha-chung-cua-starcraft-diablo-candy-crush-overwatch-dang-lun-bai-post910197.html?fbclid=IwAR0mBx_MOKwMuWEX6HSY9Quu8mpeGwNPHsrAf0I4B91AUYaxZdrGvfmQIJI
+
+',
+
+            'dateDetailPost'     => '2019-02-08',
+            'imgDetailPost'      => 'activision-blizzard-di-xuong0-cung-diablo-starcraft-va-nhieu-tua-game-noi-tieng-mot-thoi-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme',
+            'urlDetailPost'      => 'ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme',
+            'presentDetailPost'  => 'Superman, Saitama, Thanos không phải đối thủ của Ultra Instict Shaggy',
+            'contentDetailPost'  => '<p></p>
+
+<p></p>
+
+<p></p>
+
+<center></center>
+
+<p></p>
+
+<p></p>
+
+<center></center>
+
+<p></p>
+
+<p></p>
+
+<center><img src="../local/public/upload/images/game/ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-shaggy-vs-thanos.jpg" width="70%" alt="Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme" />
+
+<p>Shaggy đánh bại Thanos</p>
+
+<img src="../local/public/upload/images/game/ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-shaggy-vs-superman.jpg" width="50%" alt="Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme" />
+
+<p>Shaggy đánh bại Superman</p>
+
+<img src="../local/public/upload/images/game/ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-shaggy-vs-scooby-doo.jpg" width="50%" alt="Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme" />
+
+<p>Ultra Instict Shaggy và God of Destruction Scooby Doo</p>
+
+<img src="../local/public/upload/images/game/ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-shaggy-vs-saitama-1.jpg" width="70%" alt="Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme" />
+
+<p>Shaggy đánh ngang sức với Saitama - tác phẩm của Merryweather</p>
+
+<img src="../local/public/upload/images/game/ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-shaggy-vs-saitama-10.jpg" width="70%" alt="Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme" />
+
+<p>Một tác phẩm khác. Shaggy dùng 10% sức mạnh với Saitama</p>
+
+<img src="../local/public/upload/images/game/ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-shaggy-vs-grand-priest.jpg" width="70%" alt="Ultra Instict Shaggy đánh bại tất cả vũ trụ siêu anh hùng trong các meme" />
+
+<p>Liệu Shaggy có đánh bại cả Grand Priest không?</p></center>
+
+
+
+',
+
+            'dateDetailPost'     => '2019-02-09',
+            'imgDetailPost'      => 'ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-thumbnail.jpg',
+            'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
             'views'              => random_int(0,100),

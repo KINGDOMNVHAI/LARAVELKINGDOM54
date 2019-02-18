@@ -12,7 +12,6 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
 
 </head>
 <body>
-
 <div class="wrapper">
     <!-- kế thừa template bằng include -->
     @include('admin/sidebar')
@@ -43,7 +42,7 @@ Author URL: https://www.creative-tim.com/product/light-bootstrap-dashboard
                                             <img class="avatar border-gray" src="admin/imgs/faces/face-1.jpg" />
                                         @endif
 
-                                        <h4 class="title">{{ __('admin.welcome_user') }} {{Auth::user()->username}}! 
+                                        <h4 class="title">{{ __('admin.welcome_user') }} {{Auth::user()->username}}!
                                             <small>({{Auth::user()->type}})</small><br />
                                         </h4>
                                     </a>
