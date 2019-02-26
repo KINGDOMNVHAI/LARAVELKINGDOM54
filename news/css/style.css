@@ -96,6 +96,7 @@ img:hover{opacity:0.75}
 .content_middle_middle:before{content:""; height:122px; right:-10px; position:absolute; top:0; width:10px}
 .single_featured_slide{float:left; display:inline; width:100%; text-align:center}
 .single_featured_slide img{width:100%}
+.single_featured_slide > h1 a{color:#383838; font-size:26px; font-weight:bold; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; -moz-transition:all 0.5s; transition:all 0.5s; line-height:1px}
 .single_featured_slide > h2 a{color:#383838; font-size:22px; font-weight:bold; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; -moz-transition:all 0.5s; transition:all 0.5s}
 .single_featured_slide > p{font-size:12px; padding:0px 16px}
 .content_middle_middle .slick-prev{left:15px; top:25px}
