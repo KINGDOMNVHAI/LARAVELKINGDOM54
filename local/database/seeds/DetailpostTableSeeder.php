@@ -6355,6 +6355,20 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'presentDetailPost'  => 'Uzi vô địch giải solo 1vs1',
             'contentDetailPost'  => '<p>Đội Băng giành chiến thắng Chung Kết All Star Thế Giới 2016</p>
 
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
             <p></p>',
 
             'dateDetailPost'     => '2016-12-13',
