@@ -6357,21 +6357,10 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
 
             <img>
 
-            <p>Resolve Conflict</p>
+            <center><img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-1.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
 
-            <p></p>
-
-            <p></p>
-
-            <p></p>
-
-            <p></p>
-
-            <p></p>
-
-            <p></p>
-
-            <p></p>',
+            <img src="../local/public/upload/images/game/Gatebox-buoc-tien-cong-nghe-dan-ong-vung-len-va-tham-hoa-dan-so-2.jpg" width="70%" alt="Gatebox – bước tiến công nghệ, đàn ông vùng lên và thảm họa dân số" />
+            </center>',
 
             'dateDetailPost'     => '2016-12-13',
             'imgDetailPost'      => 'doi-bang-gianh-chien-thang-chung-ket-All-Star-The-Gioi-2016-thumbnail.jpg',
