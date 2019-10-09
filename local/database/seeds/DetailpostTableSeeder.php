@@ -5390,9 +5390,9 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
 <p></p>
 
 
-<h3></h3>
+<h3>Ore ga Suki nano wa Imouto dakedo Imouto ja Nai</h3>
 
-<p></p>
+<p>Cô em gái tài sắc vẹn toàn Suzuka Nagami thầm yêu anh trai mình Yuu Nagami. Đột nhiên em gái đọc được mẩu tin dự thi Light Novel. Cô đánh liều gửi bản thảo đầu tiên của mình và đoạt giải nhất. Với mong muốn được mọi người đọc tác phẩm của mình, cô nhờ anh trai nhận làm tác giả bản thảo với bút danh Towano Chikai.</p>
 
 <p></p>
 
@@ -5408,7 +5408,7 @@ Pamela Princess Ng (giải ba) trong vai Hotarumaru trong Token Ranbu.</p>
             'enable'        	 => ENABLE,
             'popular'            => 0,
             'head_position'      => HEADER_NONE,
-            'update'             => 0,
+            'update'             => 1,
         ]);
 
 
@@ -6338,7 +6338,7 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'contentDetailPost'  => 'Viết lại',
 
             'dateDetailPost'     => '2016-12-04',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'Viet-Nam-doi-lai-day-du-no-nan-tai-Wildcard-tien-toi-chung-ket-All-Star-The-Gioi-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -6353,10 +6353,28 @@ center><img src="../local/public/upload/images/game/Pokemon-GO-da-lam-hong-hinh-
             'nameDetailPost'     => 'Đội Băng giành chiến thắng Chung Kết All Star Thế Giới 2016',
             'urlDetailPost'      => 'doi-bang-gianh-chien-thang-chung-ket-All-Star-The-Gioi-2016',
             'presentDetailPost'  => 'Uzi vô địch giải solo 1vs1',
-            'contentDetailPost'  => '',
+            'contentDetailPost'  => '<p>Đội Băng giành chiến thắng Chung Kết All Star Thế Giới 2016</p>
+
+            <img>
+
+            <p>Resolve Conflict</p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>
+
+            <p></p>',
 
             'dateDetailPost'     => '2016-12-13',
-            'imgDetailPost'      => '',
+            'imgDetailPost'      => 'doi-bang-gianh-chien-thang-chung-ket-All-Star-The-Gioi-2016-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -7908,7 +7926,7 @@ https://pixel.facebook.com/VnSharingPage/photos/a.336505173202126/90808370937760
 <p>Và tất nhiên, khi tin vui này đến tai Kizuna, cô rất phấn khởi và kéo dài niềm vui này bằng một bức thư tiếng Anh và Nhật để cảm ơn PewDiePie. Nội dung bức thư như sau:</p>
 
 <blockquote>
-<p>PewDiePie-san thân mến</p>
+<p>Xin chào, PewDiePie-san thân mến</p>
 
 <p>Rất vui được gặp anh. Youtuber Ảo Kizuna AI đây.</p>
 
@@ -7925,12 +7943,12 @@ https://pixel.facebook.com/VnSharingPage/photos/a.336505173202126/90808370937760
 
 <p>Rất nhiều bình luận khi xem song ca với nhau rằng</p>
 
-<ul>
-<li>Now I can die happy (Giờ tôi đã có thể an nghỉ trong hạnh phúc).
-<li>Who needs PornHub when you have this (Cần gì PornHub khi bạn đã có video này).
-<li>This...this is what world peace looks like. (Đây... đây là điều mà một thế giới yên bình đang tìm kiếm).
-<li>This is heaven (Đây là thiên đường).
-</ul>
+<blockquote>
+Now I can die happy (Giờ tôi đã có thể an nghỉ trong hạnh phúc).<br>
+Who needs PornHub when you have this (Cần gì PornHub khi bạn đã có video này).<br>
+This...this is what world peace looks like. (Đây... đây là điều mà một thế giới yên bình đang tìm kiếm).<br>
+This is heaven (Đây là thiên đường).<br>
+</blockquote>
 
 <p>Một ngày đáng để ăn mừng của fan hâm mộ Virtual Youtuber Kizuna. Chúc cô và studio của mình sẽ tiếp tục gặt hái nhiều thành công hơn nữa để trở thành Virtual Youtuber nổi tiếng nhất thế giới.</p>
 ',
@@ -8346,6 +8364,80 @@ https://www.facebook.com/NoFaClub/videos/435472403656160/
         ]);
 
         $post->create([
+            'nameDetailPost'     => 'Drama Optimus tố cáo Zeros - kịch bản của Garena?',
+            'urlDetailPost'      => 'Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena',
+            'presentDetailPost'  => 'Thuyết âm mưu không phải là không có lý từ cộng đồng mạng',
+            'contentDetailPost'  => '<p>Đầu năm 2019, ngay sau kỳ nghỉ Tết Nguyên Đán, cộng đồng game Liên Minh Huyền Thoại đã nhận một drama cực kỳ chất lượng: Optimus tố cáo Zeros cày thuê.</p>
+
+            <h3>Sự việc</h3>
+
+            <p>Zeros là em trai Minas, đang thi đấu cho Phong Vũ Buffalo ở vị trí Đường Trên. Vào một buổi livestream của Minas, Minas đã cho Zeros mượn tài khoản đánh xếp hạng. Sự việc này vi phạm luật của Riot là game thủ chuyên nghiệp không được phép cày thuê. Và Optimus đã tố cáo Zeros cày thuê cho Minas.</p>
+
+<p>Bài tố cáo trên Facebook của Optimus</p>
+
+<center><img src="../local/public/upload/images/game/Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena-1.jpg" width="70%" alt="Drama Optimus tố cáo Zeros - kịch bản của Garena"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7kokEWEJTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Game 1</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wz-ktc7X4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Game 2</p></center>
+
+<p>VCS đã nhận được thông tin và quyết định ra án phạt cho Zeros như sau:</p>
+
+<center><img src="../local/public/upload/images/game/Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena-2.jpg" width="70%" alt="Drama Optimus tố cáo Zeros - kịch bản của Garena"/></center>
+
+<h3>Dư luận</h3>
+
+<p>Vụ việc trên đã khiến dư luận chia làm 2 phe: phe bên vực Zeros và Minas và phe ủng hộ Optimus làm đúng luật.</p>
+
+<p>Về lý, Optimus đã làm đúng luật. Zeros phạm luật rõ ràng, có bằng chứng không thể chối cãi. Ai cũng phải công nhận Zeros làm sai dù có ủng hộ anh em họ đến đâu.<br>
+Về tình cảm, Optimus làm vậy đã khiến họ trở thành kẻ thù của nhau. Từng là đồng đội với Minas, từng chinh chiến cùng nhau tại các giải trong và ngoài nước. Vậy mà giờ đây, Optimus lại có hành động phũ phàng đến vậy.</p>
+
+<p>Nhưng một số thuyết âm mưu nói rằng: phải chăng đây là kịch bản của Garena để trận đấu giữa họ kịch tính hơn? Phải chăng có bên thứ 3 sắp đặt? Thuyết âm mưu này khá hay, hợp lý và giúp 2 phe nguội bớt những lời chỉ trích. Ai là người được lợi nhất trong drama này? Chắc chắn là Garena.</p>
+
+<h3>Garena được lợi gì từ drama?</h3>
+
+<p><b>Tiền vé:</b> vé thi đấu trận lượt đi giữa PVB và SGD đã hết. Lượt theo dõi lên đến 216.000 người khi nhà chính của SGD nổ lần thứ 2. Và chắc chắn lượt về cũng sẽ bán hết vé.</p>
+
+<center><img src="../local/public/upload/images/game/Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena-3.jpg" width="70%" alt="Drama Optimus tố cáo Zeros - kịch bản của Garena"/></center>
+
+<p><b>Giải đấu hấp dẫn hơn:</b> Một nghệ thuật câu view mà các chương trình truyền hình hay làm là tạo ra vai phản diện. Nếu ai đã từng xem các chương trình truyền hình thực tế như Masterchef phiên bản Mỹ, Next top model đều sẽ thấy tất cả có đặc điểm chung: đều có vai phản diện, cãi nhau nhằm tạo kịch tính.</p>
+
+<center><img src="../local/public/upload/images/game/Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena-4.jpg" width="70%" alt="Drama Optimus tố cáo Zeros - kịch bản của Garena"/></center>
+
+<p>MasterChef mùa 4 có vai phản diện Krissi vào đến vòng 4 người.</p></center>
+
+<p>Điều đó là hợp lý vì nếu một cuộc thi cứ diễn ra bình thường, thi đấu xong giành chức vô địch thì những trận đấu vòng loại chẳng có gì đáng xem. Khán giả chỉ chờ đến trận tứ kết, bán kết và chung kết mà xem. Vậy thì ban tổ chức lấy tiền đâu mà chi trả cho các khoản phí các trận vòng loại?</p>
+
+<p>Đặc điểm của bóng đá, E-sport, những môn thể thao nhận được nhiều sự quan tâm luôn có drama. Nào là Messi vs Ronaldo, nào là Việt Nam vs Thái Lan, giờ đến Optimus vs Zeros. Những cặp đối đầu kẻ thù của nhau như vậy sẽ khiến giải đấu hay trận đấu giữa họ trở nên hấp dẫn hơn rất nhiều. Và nguồn thu từ vé, quảng cáo sẽ tăng chóng mặt.</p>
+
+<p><b>Lấy lại tiền từ LCK:</b> một tin không vui là VETV sẽ không bình luận giải LMHT của Hàn Quốc là LCK nữa vì lượt xem quá ít nên không mua được bản quyền. Lý do là vì LCK đánh quá nhàm chán, chỉ farm và kiểm soát bản đồ. Cuối trận giao tranh 1 – 2 pha là xong.</p>
+
+<p>Đặc biệt là khi các ngôi sao như Faker, Khan đều đã dần hết thời, thua các đội tân binh khiến khán giả giảm sút. Ngay cả trang báo của Garena là lienminh360 cũng không còn đăng nhiều tin tức về SKT hay LCK như trước nữa.</p>
+
+<center><img src="../local/public/upload/images/game/Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena-5.jpg" width="70%" alt="Drama Optimus tố cáo Zeros - kịch bản của Garena"/></center>
+
+<p><b>Tương lai của VCS:</b> những drama này sẽ còn ảnh hưởng qua nhiều mùa giải nữa. Mỗi trận đấu có Optimus và Zeros, Noway với đội tuyển cũ là GAM, Optimus với đội tuyển cũ là GAM đều sẽ là tâm điểm của VCS.</p>
+
+<p>Nhìn chung, thuyết âm mưu Garena là chủ mưu của drama Optimus tố cáo Zeros không phải là không có lý. Hãy để mọi chuyện ở mức có thể kiểm soát được, tránh những chuyện chỉ trích nhau ngoài đời. Chỉ cần drama trở thành câu chuyện thú vị trên sàn đấu để khán giả và VCS đều có lợi là đủ.</p>
+',
+
+            'dateDetailPost'     => '2019-01-17',
+            'imgDetailPost'      => 'Drama-Optimus-to-cao-Zeros-kich-ban-cua-Garena-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
             'nameDetailPost'     => 'Team Hàn Quốc vô địch Overwatch "phá hỏng" cúp trong ngày đăng quang',
             'urlDetailPost'      => 'team-han-quoc-vo-dich-Overwatch-pha-hong-cup-trong-ngay-dang-quang',
             'presentDetailPost'  => 'Sự kiện khá hy hữu xảy ra trước sự chứng kiến của đông đảo khán giả',
@@ -8628,7 +8720,7 @@ https://news.zing.vn/nha-chung-cua-starcraft-diablo-candy-crush-overwatch-dang-l
 ',
 
             'dateDetailPost'     => '2019-02-08',
-            'imgDetailPost'      => 'activision-blizzard-di-xuong0-cung-diablo-starcraft-va-nhieu-tua-game-noi-tieng-mot-thoi-thumbnail.jpg',
+            'imgDetailPost'      => 'activision-blizzard-di-xuong-cung-diablo-starcraft-va-nhieu-tua-game-noi-tieng-mot-thoi-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
@@ -8686,11 +8778,165 @@ https://news.zing.vn/nha-chung-cua-starcraft-diablo-candy-crush-overwatch-dang-l
 <p>Liệu Shaggy có đánh bại cả Grand Priest không?</p></center>
 
 
-
 ',
 
             'dateDetailPost'     => '2019-02-09',
             'imgDetailPost'      => 'ultra-instict-shaggy-danh-bai-tat-ca-vu-tru-sieu-anh-hung-trong-cac-meme-thumbnail.jpg',
+            'idCat'              => GAME_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Mạng Đa Kênh không bền vững vì quá phụ thuộc vào Youtube',
+            'urlDetailPost'      => 'mang-da-kenh-khong-ben-vung-vi-qua-phu-thuoc-vao-youtube',
+            'presentDetailPost'  => 'Sự phụ thuộc hoàn toàn vào một Youtube đang dần siết chặt quản lý là dấu hiệu không ổn định, dẫn đến sự sụp đổ của cả một Mạng Đa Kênh (MCN) và các Youtuber trong đó.',
+            'contentDetailPost'  => '<p>Multi Channel Network (MCN) - mô hình Mạng Đa Kênh được hình thành dựa trên nhu cầu muốn được quảng bá kênh Youtube của các nhà sáng tạo Youtube. Ở Việt Nam, Mạng Đa Kênh nổi tiếng nhất là Yeah1 đã lọt vào top 10 Mạng Đa Kênh nổi tiếng nhất thế giới. Công việc chính của Mạng Đa Kênh là hỗ trợ cho các Youtuber các vấn đề liên quan đến bản quyền, kiếm tiền từ YouTube và tăng lượt xem, đăng ký.</p>
+
+            https://news.zing.vn/network-kieu-yeah1-song-dua-youtube-mo-hinh-khong-ben-vung-post922538.html
+
+            https://news.zing.vn/vi-sao-youtube-trung-phat-network-kieu-yeah1-post923363.html
+
+            https://news.zing.vn/yeah1-dung-tung-kenh-youtube-ban-kiem-tien-post922297.html
+
+<p>Để được tham gia vào một Mạng Đa Kênh, Youtuber phải có các yêu cầu đầu vào tối thiểu như số tài khoản đăng ký tối thiểu, số lượt xem, thời gian xem... Tuy nhiên, sự cố Yeah1 với Youtube khi YouTube cho rằng SpringMe Pte. Ltd. (công ty có trụ sở tại Thái Lan, Yeah1 sở hữu gián tiếp 16,93%) đã có hoạt động quản lý tuyển chọn kênh chưa phù hợp với chính sách của YouTube.</p>
+
+<h3>Sân chơi của Youtube, luật của Youtube</h3>
+
+<p>Youtube hiện đang chịu rất nhiều sức ép từ các quốc gia về những vụ việc đăng video nhạy cảm, kích động bạo lực. Gần đây nhất là vụ việc "Thử Thách Momo" chèn vào bên trong video dành cho trẻ em. Đầu năm 2017, Youtube cũng đã hứng chịu chỉ trích từ Việt Nam khi nhiều video nhạy cảm xuất hiện, đặc biệt là video nhạy cảm khi các nhân vật hóa trang thành Spiderman, Elsa...</p>
+
+<center></center>
+
+<p>Và khi bị sức ép như vậy, Youtube đã phải tăng cường quản lý, xóa video, xóa kênh Youtube vi phạm. Rất nhiều kênh Youtube có hơn 1 triệu lượt đăng ký đã bị xóa bỏ. Nhiều Youtuber đã phải bỏ cuộc chơi, chuyển sang các nền tảng khác như Twitch. Splitplaythru, một kênh Youtube đã từng có hơn 1 triệu subscribes đã bị Youtube xóa kênh nên đã chuyển sang Twitch.</p>
+
+<p></p>
+
+<center></center>
+
+<p></p>
+
+<p></p>
+
+<center></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/y79xN82470I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Mập Vlog đăng video vào nghĩa trang ăn đồ cúng.</p></center>
+
+',
+
+            'dateDetailPost'     => '2019-03-06',
+            'imgDetailPost'      => 'mang-da-kenh-khong-ben-vung-vi-qua-phu-thuoc-vao-youtube-thumbnail.jpg',
+            'idCat'              => WEBSITE_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'Yeah1 chứa chấp các kênh Youtube bẩn kiếm tiền',
+            'urlDetailPost'      => 'yeah1-chua-chap-cac-kenh-video-ban-kiem-tien',
+            'presentDetailPost'  => 'Sau vụ việc video tình dục giả danh Elsa, Spiderman, Yeah1 còn có những sự việc nào?',
+            'contentDetailPost'  => '<p></p>
+
+            https://news.zing.vn/network-kieu-yeah1-song-dua-youtube-mo-hinh-khong-ben-vung-post922538.html
+
+            https://news.zing.vn/vi-sao-youtube-trung-phat-network-kieu-yeah1-post923363.html
+
+            https://news.zing.vn/yeah1-dung-tung-kenh-youtube-ban-kiem-tien-post922297.html
+
+<p></p>
+
+<h3>Video bẩn ngụy trang video dành cho trẻ em</h3>
+
+<p></p>
+
+<center></center>
+
+<p></p>
+
+<p></p>
+
+<center></center>
+
+<p></p>
+
+<p></p>
+
+<center></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/y79xN82470I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Mập Vlog đăng video vào nghĩa trang ăn đồ cúng.</p></center>
+
+',
+
+            'dateDetailPost'     => '2019-03-08',
+            'imgDetailPost'      => 'yeah1-chua-chap-cac-kenh-video-ban-kiem-tien-thumbnail.jpg',
+            'idCat'              => WEBSITE_POST,
+            'signature'          => 0,
+            'author'             => 'NVHAI',
+            'views'              => random_int(0,100),
+            'enable'             => ENABLE,
+            'popular'            => 0,
+            'head_position'      => HEADER_NONE,
+            'update'             => 0,
+        ]);
+
+        $post->create([
+            'nameDetailPost'     => 'MSI 2019 tổ chức tại Việt Nam khẳng định uy tín của Việt Nam',
+            'urlDetailPost'      => 'msi-2019-to-chuc-tai-viet-nam-khang-dinh-uy-tin-cua-viet-nam',
+            'presentDetailPost'  => '',
+            'contentDetailPost'  => '<p>MSI 2019 – Giải đấu Liên Minh Huyền Thoại giữa mùa được tổ chức vào tháng 5. Vòng khởi động sẽ được tổ chức tại Việt Nam. Vòng chung kết sẽ được tổ chức tại Đài Bắc. Đây là một tin rất vui đối với nền E-sport, Liên Minh Huyền Thoại nói riêng và cả nước Việt Nam nói chung.</p>
+
+<center><img src="../local/public/upload/images/game/MSI-2019-to-chuc-tai-viet-nam-khang-dinh-uy-tin-cua-viet-nam-1.jpg" width="70%" alt="MSI 2019 tổ chức tại Việt Nam khẳng định uy tín của Việt Nam" />
+
+<p>Bài đăng của <a href="https://www.facebook.com/GGstadiumvn/posts/1245841008903157?__tn__=K-R">GG Stadium</a></p></center>
+
+<p>Trong những năm gần đây, những sự kiện lớn của thế giới thường được tổ chức tại Việt Nam.</p>
+
+<p>Tháng 5/2016: Obama sang thăm Việt Nam.
+Năm 2017: bộ phim KONG được quay tại Quảng Bình, Việt Nam. APEC Việt Nam 2017.
+Tháng 3/2019: tổng thống Donald Trump và chủ tịch Kim Jong un sang Việt Nam.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mtZUdPtZorU?start=340" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>5:40 BLV Mạnh An nhận xét về tình hình an ninh tại Việt Nam so với các nước khác</p>
+
+<img src="../local/public/upload/images/game/MSI-2019-to-chuc-tai-viet-nam-khang-dinh-uy-tin-cua-viet-nam-2.jpg" width="70%" alt="MSI 2019 tổ chức tại Việt Nam khẳng định uy tín của Việt Nam" />
+
+<p>Gần đây nhất là hội nghị thượng đỉnh Mỹ - Triều được tổ chức tại Việt Nam</p></center>
+
+<p>Liên tiếp các sự kiện lớn được tổ chức tại Việt Nam cho thấy tầm quan trọng, uy tín và an ninh của Việt Nam trên trường quốc tế. Đặc biệt là khi thế giới chia rẽ, càng lúc càng bất ổn. 15/3/2019 vừa qua, 1 vụ <a href="https://lostbird.vn/kham-pha-cung-lac/tin-tuc/vua-livestream-vua-thet-hay-subscribe-cho-pewdiepie-khi-xa-sung-giet-40-nguoi-602347.html" rel="nofollow">xả súng tại New Zealand</a> cướp đi sinh mạng của 40 người. Châu Âu thì lục đục với Anh vì Brexit. Trung Quốc thì chiến tranh thương mại với Mỹ.</p>
+
+<center><img src="../local/public/upload/images/game/MSI-2019-to-chuc-tai-viet-nam-khang-dinh-uy-tin-cua-viet-nam-3.jpg" width="70%" alt="MSI 2019 tổ chức tại Việt Nam khẳng định uy tín của Việt Nam" /></center>
+
+<p>Như lời BLV Mạnh An chia sẻ, Mỹ cần một nơi an ninh tốt, an toàn. Vậy nên Riot chọn Trung Tâm Hội Nghị Quốc Gia Hà Nội sẽ là nơi diễn ra các trận vòng bảng của 6 đội là điều hợp lý. Nhưng vì Việt Nam chưa đủ điều kiện về cơ sở vật chất cũng như đảm bảo máy móc để tổ chức các trận của 4 đội mạnh nhất trở đi nên Đài Bắc sẽ thay thế. Điều này cũng hợp lý khi trong trận lượt về của PVB và SGD, lỗi âm thanh đã khiến trận đấu bị hoãn hơn 1 tiếng đồng hồ.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/-FcA6VAIdI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Trong lúc chờ xử lý lỗi âm thanh, 2 BLV chém gió với nhau</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vaDfYj71SSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Sau khi cấm chọn xong, khan giả vẫn tiếp tục phải chờ.</p></center>
+
+<p>Dù vẫn còn nhiều thiếu sót nhưng Việt Nam đang dần trở thành nơi đáng quan tâm của thế giới nếu họ cần một điểm đến an toàn. Cộng đồng Liên Minh Huyền Thoại cùng hy vọng một ngày nào đó, Chung Kết Thế Giới sẽ được tổ chức tại Việt Nam. Và các thần tượng như Faker, Doublelift sẽ biết mùi rank Việt khắc nghiệt như những gì Cowsep đã trải qua.</p>
+
+<img src="../local/public/upload/images/game/MSI-2019-to-chuc-tai-viet-nam-khang-dinh-uy-tin-cua-viet-nam-4.jpg" width="100%" alt="MSI 2019 tổ chức tại Việt Nam khẳng định uy tín của Việt Nam" />
+',
+
+            'dateDetailPost'     => '2019-03-25',
+            'imgDetailPost'      => 'msi-2019-to-chuc-tai-viet-nam-khang-dinh-uy-tin-cua-viet-nam-thumbnail.jpg',
             'idCat'              => GAME_POST,
             'signature'          => 0,
             'author'             => 'NVHAI',
